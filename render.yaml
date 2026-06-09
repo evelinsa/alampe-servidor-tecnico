@@ -1,0 +1,18 @@
+services:
+  - type: web
+    name: alampe-servidor-tecnico
+    env: node
+    plan: free
+    buildCommand: npm install
+    startCommand: npm start
+    envVars:
+      - key: NODE_VERSION
+        value: 20
+      - key: GOOGLE_API_KEY
+        sync: false
+      - key: GOOGLE_CSE_ID
+        sync: false
+      - key: SERPAPI_KEY
+        sync: false
+      - key: TRUSTED_DOMAINS
+        value: nakata.com.br,cofap.com.br,marelli.com.br,schaeffler.com.br,boschaftermarket.com,dana.com,mmcofap.com.br,catalogo.mmcofap.com.br,authomix.com.br,mercadolivre.com.br
