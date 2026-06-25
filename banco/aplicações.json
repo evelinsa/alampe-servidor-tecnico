@@ -1,0 +1,62 @@
+[
+  {
+    "id": "farol-gol-g5",
+    "pecas": ["FAROL"],
+    "marcas": ["VOLKSWAGEN", "VW"],
+    "modelos": ["GOL G5", "GOL"],
+    "anos": [2009, 2010, 2011, 2012],
+    "lados": ["DIREITO", "ESQUERDO"],
+    "posicoes": ["DIANTEIRO"],
+    "fabricantes": ["ARTEB", "VALEO", "ORIGINAL VW"],
+    "observacoes": ["Confirmar versão e modelo do farol antes da venda."],
+    "confiancaBase": 85
+  },
+  {
+    "id": "paralama-fiesta-2003-2007",
+    "pecas": ["PARALAMA", "PÁRA-LAMA"],
+    "marcas": ["FORD"],
+    "modelos": ["FIESTA"],
+    "anos": [2003, 2004, 2005, 2006, 2007],
+    "lados": ["DIREITO", "ESQUERDO"],
+    "posicoes": ["DIANTEIRO"],
+    "fabricantes": ["IMPORTADO", "NACIONAL"],
+    "observacoes": ["Confirmar se é dianteiro e o lado da peça."],
+    "confiancaBase": 88
+  },
+  {
+    "id": "farol-classic-2003-2010",
+    "pecas": ["FAROL"],
+    "marcas": ["CHEVROLET", "GM"],
+    "modelos": ["CLASSIC", "CORSA CLASSIC"],
+    "anos": [2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010],
+    "lados": ["DIREITO", "ESQUERDO"],
+    "posicoes": ["DIANTEIRO"],
+    "fabricantes": ["ARTEB", "VALEO", "ORGUS", "ORIGINAL GM"],
+    "observacoes": ["Classic possui variações por ano e versão. Confirmar encaixe antes da venda."],
+    "confiancaBase": 90
+  },
+  {
+    "id": "capo-hb20-2012-2019",
+    "pecas": ["CAPO", "CAPÔ"],
+    "marcas": ["HYUNDAI"],
+    "modelos": ["HB20"],
+    "anos": [2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019],
+    "lados": ["N/D"],
+    "posicoes": ["DIANTEIRO"],
+    "fabricantes": ["ORIGINAL HYUNDAI", "IMPORTADO"],
+    "observacoes": ["Confirmar geração/modelo hatch ou sedan quando aplicável."],
+    "confiancaBase": 86
+  },
+  {
+    "id": "farol-onix-2020",
+    "pecas": ["FAROL"],
+    "marcas": ["CHEVROLET", "GM"],
+    "modelos": ["ONIX", "ONIX PLUS"],
+    "anos": [2020, 2021, 2022, 2023],
+    "lados": ["DIREITO", "ESQUERDO"],
+    "posicoes": ["DIANTEIRO"],
+    "fabricantes": ["ARTEB", "VALEO", "ORIGINAL GM"],
+    "observacoes": ["Confirmar se o veículo usa farol halógeno ou projetor conforme versão."],
+    "confiancaBase": 84
+  }
+]
