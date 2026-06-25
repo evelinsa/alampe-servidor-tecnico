@@ -1,16 +1,9 @@
 {
   "name": "alampe-servidor-tecnico-v4",
-  "version": "4.0.0",
-  "description": "Servidor tecnico Alampe V4 com base propria de aplicacoes e cache local",
+  "version": "4.1.0",
+  "description": "Servidor tecnico Alampe V4.1 com base propria de aplicacoes, cache e cadastro tecnico",
   "main": "server.js",
-  "scripts": {
-    "start": "node server.js"
-  },
-  "dependencies": {
-    "cors": "^2.8.5",
-    "express": "^4.18.3"
-  },
-  "engines": {
-    "node": ">=18.0.0"
-  }
+  "scripts": { "start": "node server.js" },
+  "dependencies": { "cors": "^2.8.5", "express": "^4.18.3" },
+  "engines": { "node": ">=18.0.0" }
 }
