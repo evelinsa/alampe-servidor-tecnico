@@ -1,16 +1,18 @@
 {
-  "name": "alampe-servidor-tecnico-v3",
-  "version": "3.0.0",
-  "description": "Servidor técnico Alampe ERP V3 - busca integrada com cache e fallback sem chave obrigatória",
+  "name": "alampe-servidor-tecnico",
+  "version": "3.5.0",
+  "description": "Servidor Tecnico Alampe ERP - Busca tecnica de autopecas V3.5",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
   },
   "dependencies": {
+    "cheerio": "^1.0.0-rc.12",
+    "cors": "^2.8.5",
     "express": "^4.18.2",
-    "cors": "^2.8.5"
+    "node-fetch": "^2.7.0"
   },
   "engines": {
-    "node": ">=18.0.0"
+    "node": ">=18"
   }
 }
