@@ -1,18 +1,16 @@
 {
-  "name": "alampe-servidor-tecnico",
-  "version": "3.5.0",
-  "description": "Servidor Tecnico Alampe ERP - Busca tecnica de autopecas V3.5",
+  "name": "alampe-servidor-tecnico-v4",
+  "version": "4.0.0",
+  "description": "Servidor tecnico Alampe V4 com base propria de aplicacoes e cache local",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
   },
   "dependencies": {
-    "cheerio": "^1.0.0-rc.12",
     "cors": "^2.8.5",
-    "express": "^4.18.2",
-    "node-fetch": "^2.7.0"
+    "express": "^4.18.3"
   },
   "engines": {
-    "node": ">=18"
+    "node": ">=18.0.0"
   }
 }
