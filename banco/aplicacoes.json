@@ -1,15 +1,29 @@
 [
   {
-    "id": "farol-gol-g5",
+    "id": "farol-classic-2003-2010",
+    "pecas": ["FAROL"],
+    "marcas": ["CHEVROLET", "GM"],
+    "modelos": ["CLASSIC", "CORSA CLASSIC"],
+    "anos": [2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010],
+    "lados": ["DIREITO", "ESQUERDO"],
+    "posicoes": ["DIANTEIRO"],
+    "fabricantes": ["ARTEB", "VALEO", "ORGUS", "ORIGINAL GM"],
+    "relacionadas": ["LAMPADA H4", "PISCA", "GRADE", "PARACHOQUE DIANTEIRO"],
+    "observacoes": ["Confirmar se o cliente precisa lado direito ou esquerdo.", "Classic possui variações por ano e versão."],
+    "confiancaBase": 92
+  },
+  {
+    "id": "farol-gol-g5-2009-2012",
     "pecas": ["FAROL"],
     "marcas": ["VOLKSWAGEN", "VW"],
-    "modelos": ["GOL G5", "GOL"],
+    "modelos": ["GOL G5", "GOL", "VOYAGE G5", "VOYAGE"],
     "anos": [2009, 2010, 2011, 2012],
     "lados": ["DIREITO", "ESQUERDO"],
     "posicoes": ["DIANTEIRO"],
-    "fabricantes": ["ARTEB", "VALEO", "ORIGINAL VW"],
-    "observacoes": ["Confirmar versão e modelo do farol antes da venda."],
-    "confiancaBase": 85
+    "fabricantes": ["ARTEB", "VALEO", "ORIGINAL VW", "IMPORTADO"],
+    "relacionadas": ["LAMPADA H4", "PISCA", "MOLDURA", "PARACHOQUE DIANTEIRO"],
+    "observacoes": ["Aplicação comum para Gol/Voyage G5. Confirmar modelo e lado."],
+    "confiancaBase": 91
   },
   {
     "id": "paralama-fiesta-2003-2007",
@@ -20,35 +34,25 @@
     "lados": ["DIREITO", "ESQUERDO"],
     "posicoes": ["DIANTEIRO"],
     "fabricantes": ["IMPORTADO", "NACIONAL"],
-    "observacoes": ["Confirmar se é dianteiro e o lado da peça."],
+    "relacionadas": ["PARABARRO", "FAROL", "PARACHOQUE DIANTEIRO"],
+    "observacoes": ["Confirmar lado e geração do Fiesta antes da venda."],
     "confiancaBase": 88
-  },
-  {
-    "id": "farol-classic-2003-2010",
-    "pecas": ["FAROL"],
-    "marcas": ["CHEVROLET", "GM"],
-    "modelos": ["CLASSIC", "CORSA CLASSIC"],
-    "anos": [2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010],
-    "lados": ["DIREITO", "ESQUERDO"],
-    "posicoes": ["DIANTEIRO"],
-    "fabricantes": ["ARTEB", "VALEO", "ORGUS", "ORIGINAL GM"],
-    "observacoes": ["Classic possui variações por ano e versão. Confirmar encaixe antes da venda."],
-    "confiancaBase": 90
   },
   {
     "id": "capo-hb20-2012-2019",
     "pecas": ["CAPO", "CAPÔ"],
     "marcas": ["HYUNDAI"],
-    "modelos": ["HB20"],
+    "modelos": ["HB20", "HB20S"],
     "anos": [2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019],
     "lados": ["N/D"],
     "posicoes": ["DIANTEIRO"],
     "fabricantes": ["ORIGINAL HYUNDAI", "IMPORTADO"],
-    "observacoes": ["Confirmar geração/modelo hatch ou sedan quando aplicável."],
-    "confiancaBase": 86
+    "relacionadas": ["DOBRADIÇA DO CAPO", "FECHADURA DO CAPO", "PARACHOQUE DIANTEIRO", "FAROL"],
+    "observacoes": ["Confirmar geração e se é hatch ou sedan quando aplicável."],
+    "confiancaBase": 88
   },
   {
-    "id": "farol-onix-2020",
+    "id": "farol-onix-2020-2023",
     "pecas": ["FAROL"],
     "marcas": ["CHEVROLET", "GM"],
     "modelos": ["ONIX", "ONIX PLUS"],
@@ -56,7 +60,47 @@
     "lados": ["DIREITO", "ESQUERDO"],
     "posicoes": ["DIANTEIRO"],
     "fabricantes": ["ARTEB", "VALEO", "ORIGINAL GM"],
-    "observacoes": ["Confirmar se o veículo usa farol halógeno ou projetor conforme versão."],
+    "relacionadas": ["LAMPADA", "SUPORTE", "PARACHOQUE DIANTEIRO"],
+    "observacoes": ["Confirmar se usa farol halógeno ou projetor conforme versão."],
+    "confiancaBase": 86
+  },
+  {
+    "id": "parachoque-onix-2020-2023",
+    "pecas": ["PARACHOQUE"],
+    "marcas": ["CHEVROLET", "GM"],
+    "modelos": ["ONIX", "ONIX PLUS"],
+    "anos": [2020, 2021, 2022, 2023],
+    "lados": ["N/D"],
+    "posicoes": ["DIANTEIRO", "TRASEIRO"],
+    "fabricantes": ["ORIGINAL GM", "IMPORTADO"],
+    "relacionadas": ["GRADE", "MILHA", "SUPORTE", "ALMA DO PARACHOQUE"],
+    "observacoes": ["Confirmar posição dianteira ou traseira e versão do veículo."],
     "confiancaBase": 84
+  },
+  {
+    "id": "retrovisor-gol-g5-2009-2012",
+    "pecas": ["RETROVISOR"],
+    "marcas": ["VOLKSWAGEN", "VW"],
+    "modelos": ["GOL G5", "GOL", "VOYAGE G5", "VOYAGE"],
+    "anos": [2009, 2010, 2011, 2012],
+    "lados": ["DIREITO", "ESQUERDO"],
+    "posicoes": ["EXTERNO"],
+    "fabricantes": ["ORIGINAL VW", "IMPORTADO"],
+    "relacionadas": ["CAPA DO RETROVISOR", "VIDRO DO RETROVISOR"],
+    "observacoes": ["Confirmar se é manual ou elétrico."],
+    "confiancaBase": 82
+  },
+  {
+    "id": "lanterna-classic-2003-2010",
+    "pecas": ["LANTERNA"],
+    "marcas": ["CHEVROLET", "GM"],
+    "modelos": ["CLASSIC", "CORSA CLASSIC"],
+    "anos": [2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010],
+    "lados": ["DIREITO", "ESQUERDO"],
+    "posicoes": ["TRASEIRO"],
+    "fabricantes": ["ARTEB", "VALEO", "ORGUS", "ORIGINAL GM"],
+    "relacionadas": ["SOQUETE", "LAMPADA", "PARACHOQUE TRASEIRO"],
+    "observacoes": ["Confirmar lado e ano."],
+    "confiancaBase": 87
   }
 ]
