@@ -885,5 +885,117 @@
       "Confirmar geração do Gol/Voyage."
     ],
     "confiancaBase": 84
+  },
+  {
+    "id": "farol-punto-elx-2008-2012",
+    "pecas": [
+      "FAROL"
+    ],
+    "marcas": [
+      "FIAT"
+    ],
+    "modelos": [
+      "PUNTO ELX (2008-2012)",
+      "PUNTO (2008-2012)"
+    ],
+    "anos": [
+      2008,
+      2009,
+      2010,
+      2011,
+      2012
+    ],
+    "lados": [
+      "DIREITO",
+      "ESQUERDO"
+    ],
+    "posicoes": [
+      "DIANTEIRO"
+    ],
+    "fabricantes": [
+      "ARTEB",
+      "MAGNETI MARELLI",
+      "IMPORTADO"
+    ],
+    "relacionadas": [
+      "PARACHOQUE DIANTEIRO",
+      "GRADE",
+      "LAMPADA H7"
+    ],
+    "observacoes": [
+      "Confirmar lado."
+    ],
+    "confiancaBase": 95
+  },
+  {
+    "id": "farol-palio-g4-2008-2012",
+    "pecas": [
+      "FAROL"
+    ],
+    "marcas": [
+      "FIAT"
+    ],
+    "modelos": [
+      "PALIO G4 (2008-2012)"
+    ],
+    "anos": [
+      2008,
+      2009,
+      2010,
+      2011,
+      2012
+    ],
+    "lados": [
+      "DIREITO",
+      "ESQUERDO"
+    ],
+    "posicoes": [
+      "DIANTEIRO"
+    ],
+    "fabricantes": [
+      "ARTEB",
+      "IMPORTADO"
+    ],
+    "relacionadas": [
+      "GRADE",
+      "PARACHOQUE"
+    ],
+    "observacoes": [],
+    "confiancaBase": 92
+  },
+  {
+    "id": "farol-gol-g5-2009-2012-v2",
+    "pecas": [
+      "FAROL"
+    ],
+    "marcas": [
+      "VOLKSWAGEN"
+    ],
+    "modelos": [
+      "GOL G5 (2009-2012)",
+      "VOYAGE G5 (2009-2012)"
+    ],
+    "anos": [
+      2009,
+      2010,
+      2011,
+      2012
+    ],
+    "lados": [
+      "DIREITO",
+      "ESQUERDO"
+    ],
+    "posicoes": [
+      "DIANTEIRO"
+    ],
+    "fabricantes": [
+      "ARTEB",
+      "VALEO"
+    ],
+    "relacionadas": [
+      "GRADE"
+    ],
+    "observacoes": [],
+    "confiancaBase": 94
   }
 ]
