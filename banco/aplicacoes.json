@@ -1,106 +1,889 @@
 [
   {
     "id": "farol-classic-2003-2010",
-    "pecas": ["FAROL"],
-    "marcas": ["CHEVROLET", "GM"],
-    "modelos": ["CLASSIC", "CORSA CLASSIC"],
-    "anos": [2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010],
-    "lados": ["DIREITO", "ESQUERDO"],
-    "posicoes": ["DIANTEIRO"],
-    "fabricantes": ["ARTEB", "VALEO", "ORGUS", "ORIGINAL GM"],
-    "relacionadas": ["LAMPADA H4", "PISCA", "GRADE", "PARACHOQUE DIANTEIRO"],
-    "observacoes": ["Confirmar se o cliente precisa lado direito ou esquerdo.", "Classic possui variações por ano e versão."],
+    "pecas": [
+      "FAROL"
+    ],
+    "marcas": [
+      "CHEVROLET",
+      "GM"
+    ],
+    "modelos": [
+      "CLASSIC",
+      "CORSA CLASSIC"
+    ],
+    "anos": [
+      2003,
+      2004,
+      2005,
+      2006,
+      2007,
+      2008,
+      2009,
+      2010
+    ],
+    "lados": [
+      "DIREITO",
+      "ESQUERDO"
+    ],
+    "posicoes": [
+      "DIANTEIRO"
+    ],
+    "fabricantes": [
+      "ARTEB",
+      "VALEO",
+      "ORGUS",
+      "ORIGINAL GM"
+    ],
+    "relacionadas": [
+      "LAMPADA H4",
+      "PISCA",
+      "GRADE",
+      "PARACHOQUE DIANTEIRO"
+    ],
+    "observacoes": [
+      "Confirmar se o cliente precisa lado direito ou esquerdo.",
+      "Classic possui variações por ano e versão."
+    ],
     "confiancaBase": 92
   },
   {
     "id": "farol-gol-g5-2009-2012",
-    "pecas": ["FAROL"],
-    "marcas": ["VOLKSWAGEN", "VW"],
-    "modelos": ["GOL G5", "GOL", "VOYAGE G5", "VOYAGE"],
-    "anos": [2009, 2010, 2011, 2012],
-    "lados": ["DIREITO", "ESQUERDO"],
-    "posicoes": ["DIANTEIRO"],
-    "fabricantes": ["ARTEB", "VALEO", "ORIGINAL VW", "IMPORTADO"],
-    "relacionadas": ["LAMPADA H4", "PISCA", "MOLDURA", "PARACHOQUE DIANTEIRO"],
-    "observacoes": ["Aplicação comum para Gol/Voyage G5. Confirmar modelo e lado."],
+    "pecas": [
+      "FAROL"
+    ],
+    "marcas": [
+      "VOLKSWAGEN",
+      "VW"
+    ],
+    "modelos": [
+      "GOL G5",
+      "GOL",
+      "VOYAGE G5",
+      "VOYAGE"
+    ],
+    "anos": [
+      2009,
+      2010,
+      2011,
+      2012
+    ],
+    "lados": [
+      "DIREITO",
+      "ESQUERDO"
+    ],
+    "posicoes": [
+      "DIANTEIRO"
+    ],
+    "fabricantes": [
+      "ARTEB",
+      "VALEO",
+      "ORIGINAL VW",
+      "IMPORTADO"
+    ],
+    "relacionadas": [
+      "LAMPADA H4",
+      "PISCA",
+      "MOLDURA",
+      "PARACHOQUE DIANTEIRO"
+    ],
+    "observacoes": [
+      "Aplicação comum para Gol/Voyage G5. Confirmar modelo e lado."
+    ],
     "confiancaBase": 91
   },
   {
     "id": "paralama-fiesta-2003-2007",
-    "pecas": ["PARALAMA", "PÁRA-LAMA"],
-    "marcas": ["FORD"],
-    "modelos": ["FIESTA"],
-    "anos": [2003, 2004, 2005, 2006, 2007],
-    "lados": ["DIREITO", "ESQUERDO"],
-    "posicoes": ["DIANTEIRO"],
-    "fabricantes": ["IMPORTADO", "NACIONAL"],
-    "relacionadas": ["PARABARRO", "FAROL", "PARACHOQUE DIANTEIRO"],
-    "observacoes": ["Confirmar lado e geração do Fiesta antes da venda."],
+    "pecas": [
+      "PARALAMA",
+      "PÁRA-LAMA"
+    ],
+    "marcas": [
+      "FORD"
+    ],
+    "modelos": [
+      "FIESTA"
+    ],
+    "anos": [
+      2003,
+      2004,
+      2005,
+      2006,
+      2007
+    ],
+    "lados": [
+      "DIREITO",
+      "ESQUERDO"
+    ],
+    "posicoes": [
+      "DIANTEIRO"
+    ],
+    "fabricantes": [
+      "IMPORTADO",
+      "NACIONAL"
+    ],
+    "relacionadas": [
+      "PARABARRO",
+      "FAROL",
+      "PARACHOQUE DIANTEIRO"
+    ],
+    "observacoes": [
+      "Confirmar lado e geração do Fiesta antes da venda."
+    ],
     "confiancaBase": 88
   },
   {
     "id": "capo-hb20-2012-2019",
-    "pecas": ["CAPO", "CAPÔ"],
-    "marcas": ["HYUNDAI"],
-    "modelos": ["HB20", "HB20S"],
-    "anos": [2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019],
-    "lados": ["N/D"],
-    "posicoes": ["DIANTEIRO"],
-    "fabricantes": ["ORIGINAL HYUNDAI", "IMPORTADO"],
-    "relacionadas": ["DOBRADIÇA DO CAPO", "FECHADURA DO CAPO", "PARACHOQUE DIANTEIRO", "FAROL"],
-    "observacoes": ["Confirmar geração e se é hatch ou sedan quando aplicável."],
+    "pecas": [
+      "CAPO",
+      "CAPÔ"
+    ],
+    "marcas": [
+      "HYUNDAI"
+    ],
+    "modelos": [
+      "HB20",
+      "HB20S"
+    ],
+    "anos": [
+      2012,
+      2013,
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2019
+    ],
+    "lados": [
+      "N/D"
+    ],
+    "posicoes": [
+      "DIANTEIRO"
+    ],
+    "fabricantes": [
+      "ORIGINAL HYUNDAI",
+      "IMPORTADO"
+    ],
+    "relacionadas": [
+      "DOBRADIÇA DO CAPO",
+      "FECHADURA DO CAPO",
+      "PARACHOQUE DIANTEIRO",
+      "FAROL"
+    ],
+    "observacoes": [
+      "Confirmar geração e se é hatch ou sedan quando aplicável."
+    ],
     "confiancaBase": 88
   },
   {
     "id": "farol-onix-2020-2023",
-    "pecas": ["FAROL"],
-    "marcas": ["CHEVROLET", "GM"],
-    "modelos": ["ONIX", "ONIX PLUS"],
-    "anos": [2020, 2021, 2022, 2023],
-    "lados": ["DIREITO", "ESQUERDO"],
-    "posicoes": ["DIANTEIRO"],
-    "fabricantes": ["ARTEB", "VALEO", "ORIGINAL GM"],
-    "relacionadas": ["LAMPADA", "SUPORTE", "PARACHOQUE DIANTEIRO"],
-    "observacoes": ["Confirmar se usa farol halógeno ou projetor conforme versão."],
+    "pecas": [
+      "FAROL"
+    ],
+    "marcas": [
+      "CHEVROLET",
+      "GM"
+    ],
+    "modelos": [
+      "ONIX",
+      "ONIX PLUS"
+    ],
+    "anos": [
+      2020,
+      2021,
+      2022,
+      2023
+    ],
+    "lados": [
+      "DIREITO",
+      "ESQUERDO"
+    ],
+    "posicoes": [
+      "DIANTEIRO"
+    ],
+    "fabricantes": [
+      "ARTEB",
+      "VALEO",
+      "ORIGINAL GM"
+    ],
+    "relacionadas": [
+      "LAMPADA",
+      "SUPORTE",
+      "PARACHOQUE DIANTEIRO"
+    ],
+    "observacoes": [
+      "Confirmar se usa farol halógeno ou projetor conforme versão."
+    ],
     "confiancaBase": 86
   },
   {
     "id": "parachoque-onix-2020-2023",
-    "pecas": ["PARACHOQUE"],
-    "marcas": ["CHEVROLET", "GM"],
-    "modelos": ["ONIX", "ONIX PLUS"],
-    "anos": [2020, 2021, 2022, 2023],
-    "lados": ["N/D"],
-    "posicoes": ["DIANTEIRO", "TRASEIRO"],
-    "fabricantes": ["ORIGINAL GM", "IMPORTADO"],
-    "relacionadas": ["GRADE", "MILHA", "SUPORTE", "ALMA DO PARACHOQUE"],
-    "observacoes": ["Confirmar posição dianteira ou traseira e versão do veículo."],
+    "pecas": [
+      "PARACHOQUE"
+    ],
+    "marcas": [
+      "CHEVROLET",
+      "GM"
+    ],
+    "modelos": [
+      "ONIX",
+      "ONIX PLUS"
+    ],
+    "anos": [
+      2020,
+      2021,
+      2022,
+      2023
+    ],
+    "lados": [
+      "N/D"
+    ],
+    "posicoes": [
+      "DIANTEIRO",
+      "TRASEIRO"
+    ],
+    "fabricantes": [
+      "ORIGINAL GM",
+      "IMPORTADO"
+    ],
+    "relacionadas": [
+      "GRADE",
+      "MILHA",
+      "SUPORTE",
+      "ALMA DO PARACHOQUE"
+    ],
+    "observacoes": [
+      "Confirmar posição dianteira ou traseira e versão do veículo."
+    ],
     "confiancaBase": 84
   },
   {
     "id": "retrovisor-gol-g5-2009-2012",
-    "pecas": ["RETROVISOR"],
-    "marcas": ["VOLKSWAGEN", "VW"],
-    "modelos": ["GOL G5", "GOL", "VOYAGE G5", "VOYAGE"],
-    "anos": [2009, 2010, 2011, 2012],
-    "lados": ["DIREITO", "ESQUERDO"],
-    "posicoes": ["EXTERNO"],
-    "fabricantes": ["ORIGINAL VW", "IMPORTADO"],
-    "relacionadas": ["CAPA DO RETROVISOR", "VIDRO DO RETROVISOR"],
-    "observacoes": ["Confirmar se é manual ou elétrico."],
+    "pecas": [
+      "RETROVISOR"
+    ],
+    "marcas": [
+      "VOLKSWAGEN",
+      "VW"
+    ],
+    "modelos": [
+      "GOL G5",
+      "GOL",
+      "VOYAGE G5",
+      "VOYAGE"
+    ],
+    "anos": [
+      2009,
+      2010,
+      2011,
+      2012
+    ],
+    "lados": [
+      "DIREITO",
+      "ESQUERDO"
+    ],
+    "posicoes": [
+      "EXTERNO"
+    ],
+    "fabricantes": [
+      "ORIGINAL VW",
+      "IMPORTADO"
+    ],
+    "relacionadas": [
+      "CAPA DO RETROVISOR",
+      "VIDRO DO RETROVISOR"
+    ],
+    "observacoes": [
+      "Confirmar se é manual ou elétrico."
+    ],
     "confiancaBase": 82
   },
   {
     "id": "lanterna-classic-2003-2010",
-    "pecas": ["LANTERNA"],
-    "marcas": ["CHEVROLET", "GM"],
-    "modelos": ["CLASSIC", "CORSA CLASSIC"],
-    "anos": [2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010],
-    "lados": ["DIREITO", "ESQUERDO"],
-    "posicoes": ["TRASEIRO"],
-    "fabricantes": ["ARTEB", "VALEO", "ORGUS", "ORIGINAL GM"],
-    "relacionadas": ["SOQUETE", "LAMPADA", "PARACHOQUE TRASEIRO"],
-    "observacoes": ["Confirmar lado e ano."],
+    "pecas": [
+      "LANTERNA"
+    ],
+    "marcas": [
+      "CHEVROLET",
+      "GM"
+    ],
+    "modelos": [
+      "CLASSIC",
+      "CORSA CLASSIC"
+    ],
+    "anos": [
+      2003,
+      2004,
+      2005,
+      2006,
+      2007,
+      2008,
+      2009,
+      2010
+    ],
+    "lados": [
+      "DIREITO",
+      "ESQUERDO"
+    ],
+    "posicoes": [
+      "TRASEIRO"
+    ],
+    "fabricantes": [
+      "ARTEB",
+      "VALEO",
+      "ORGUS",
+      "ORIGINAL GM"
+    ],
+    "relacionadas": [
+      "SOQUETE",
+      "LAMPADA",
+      "PARACHOQUE TRASEIRO"
+    ],
+    "observacoes": [
+      "Confirmar lado e ano."
+    ],
     "confiancaBase": 87
+  },
+  {
+    "id": "farol-corsa-1994-2002",
+    "pecas": [
+      "FAROL"
+    ],
+    "marcas": [
+      "CHEVROLET",
+      "GM"
+    ],
+    "modelos": [
+      "CORSA",
+      "CORSA WIND",
+      "CORSA SEDAN",
+      "CORSA PICKUP"
+    ],
+    "anos": [
+      1994,
+      1995,
+      1996,
+      1997,
+      1998,
+      1999,
+      2000,
+      2001,
+      2002
+    ],
+    "lados": [
+      "DIREITO",
+      "ESQUERDO"
+    ],
+    "posicoes": [
+      "DIANTEIRO"
+    ],
+    "fabricantes": [
+      "ARTEB",
+      "VALEO",
+      "ORGUS",
+      "ORIGINAL GM"
+    ],
+    "relacionadas": [
+      "PISCA",
+      "LAMPADA H4",
+      "GRADE"
+    ],
+    "observacoes": [
+      "Confirmar modelo antigo/novo e lado."
+    ],
+    "confiancaBase": 86
+  },
+  {
+    "id": "parachoque-classic-2003-2010",
+    "pecas": [
+      "PARACHOQUE",
+      "PARA-CHOQUE"
+    ],
+    "marcas": [
+      "CHEVROLET",
+      "GM"
+    ],
+    "modelos": [
+      "CLASSIC",
+      "CORSA CLASSIC"
+    ],
+    "anos": [
+      2003,
+      2004,
+      2005,
+      2006,
+      2007,
+      2008,
+      2009,
+      2010
+    ],
+    "lados": [
+      "N/D"
+    ],
+    "posicoes": [
+      "DIANTEIRO",
+      "TRASEIRO"
+    ],
+    "fabricantes": [
+      "ORIGINAL GM",
+      "IMPORTADO",
+      "NACIONAL"
+    ],
+    "relacionadas": [
+      "ALMA DO PARACHOQUE",
+      "GRADE",
+      "FAROL",
+      "LANTERNA"
+    ],
+    "observacoes": [
+      "Confirmar se é dianteiro ou traseiro."
+    ],
+    "confiancaBase": 84
+  },
+  {
+    "id": "capo-classic-2003-2010",
+    "pecas": [
+      "CAPO",
+      "CAPÔ"
+    ],
+    "marcas": [
+      "CHEVROLET",
+      "GM"
+    ],
+    "modelos": [
+      "CLASSIC",
+      "CORSA CLASSIC"
+    ],
+    "anos": [
+      2003,
+      2004,
+      2005,
+      2006,
+      2007,
+      2008,
+      2009,
+      2010
+    ],
+    "lados": [
+      "N/D"
+    ],
+    "posicoes": [
+      "DIANTEIRO"
+    ],
+    "fabricantes": [
+      "ORIGINAL GM",
+      "IMPORTADO"
+    ],
+    "relacionadas": [
+      "DOBRADICA DO CAPO",
+      "FECHADURA DO CAPO",
+      "FAROL",
+      "PARACHOQUE DIANTEIRO"
+    ],
+    "observacoes": [
+      "Confirmar ano e frente do veículo."
+    ],
+    "confiancaBase": 86
+  },
+  {
+    "id": "farol-hb20-2012-2019",
+    "pecas": [
+      "FAROL"
+    ],
+    "marcas": [
+      "HYUNDAI"
+    ],
+    "modelos": [
+      "HB20",
+      "HB20S"
+    ],
+    "anos": [
+      2012,
+      2013,
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2019
+    ],
+    "lados": [
+      "DIREITO",
+      "ESQUERDO"
+    ],
+    "posicoes": [
+      "DIANTEIRO"
+    ],
+    "fabricantes": [
+      "ARTEB",
+      "VALEO",
+      "ORIGINAL HYUNDAI",
+      "IMPORTADO"
+    ],
+    "relacionadas": [
+      "LAMPADA",
+      "PARACHOQUE DIANTEIRO",
+      "CAPO"
+    ],
+    "observacoes": [
+      "Confirmar se é hatch ou sedan e versão."
+    ],
+    "confiancaBase": 86
+  },
+  {
+    "id": "lanterna-hb20-2012-2019",
+    "pecas": [
+      "LANTERNA"
+    ],
+    "marcas": [
+      "HYUNDAI"
+    ],
+    "modelos": [
+      "HB20",
+      "HB20S"
+    ],
+    "anos": [
+      2012,
+      2013,
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2019
+    ],
+    "lados": [
+      "DIREITO",
+      "ESQUERDO"
+    ],
+    "posicoes": [
+      "TRASEIRO"
+    ],
+    "fabricantes": [
+      "ORIGINAL HYUNDAI",
+      "IMPORTADO"
+    ],
+    "relacionadas": [
+      "SOQUETE",
+      "LAMPADA",
+      "PARACHOQUE TRASEIRO"
+    ],
+    "observacoes": [
+      "Confirmar hatch/sedan porque a lanterna muda."
+    ],
+    "confiancaBase": 85
+  },
+  {
+    "id": "parachoque-hb20-2012-2019",
+    "pecas": [
+      "PARACHOQUE",
+      "PARA-CHOQUE"
+    ],
+    "marcas": [
+      "HYUNDAI"
+    ],
+    "modelos": [
+      "HB20",
+      "HB20S"
+    ],
+    "anos": [
+      2012,
+      2013,
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2019
+    ],
+    "lados": [
+      "N/D"
+    ],
+    "posicoes": [
+      "DIANTEIRO",
+      "TRASEIRO"
+    ],
+    "fabricantes": [
+      "ORIGINAL HYUNDAI",
+      "IMPORTADO"
+    ],
+    "relacionadas": [
+      "GRADE",
+      "MILHA",
+      "ALMA DO PARACHOQUE",
+      "FAROL"
+    ],
+    "observacoes": [
+      "Confirmar dianteiro/traseiro e versão."
+    ],
+    "confiancaBase": 84
+  },
+  {
+    "id": "paralama-hb20-2012-2019",
+    "pecas": [
+      "PARALAMA",
+      "PÁRA-LAMA"
+    ],
+    "marcas": [
+      "HYUNDAI"
+    ],
+    "modelos": [
+      "HB20",
+      "HB20S"
+    ],
+    "anos": [
+      2012,
+      2013,
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2019
+    ],
+    "lados": [
+      "DIREITO",
+      "ESQUERDO"
+    ],
+    "posicoes": [
+      "DIANTEIRO"
+    ],
+    "fabricantes": [
+      "ORIGINAL HYUNDAI",
+      "IMPORTADO"
+    ],
+    "relacionadas": [
+      "PARABARRO",
+      "FAROL",
+      "PARACHOQUE DIANTEIRO"
+    ],
+    "observacoes": [
+      "Confirmar lado."
+    ],
+    "confiancaBase": 84
+  },
+  {
+    "id": "capo-onix-2020-2023",
+    "pecas": [
+      "CAPO",
+      "CAPÔ"
+    ],
+    "marcas": [
+      "CHEVROLET",
+      "GM"
+    ],
+    "modelos": [
+      "ONIX",
+      "ONIX PLUS"
+    ],
+    "anos": [
+      2020,
+      2021,
+      2022,
+      2023
+    ],
+    "lados": [
+      "N/D"
+    ],
+    "posicoes": [
+      "DIANTEIRO"
+    ],
+    "fabricantes": [
+      "ORIGINAL GM",
+      "IMPORTADO"
+    ],
+    "relacionadas": [
+      "DOBRADICA DO CAPO",
+      "FECHADURA DO CAPO",
+      "FAROL",
+      "PARACHOQUE DIANTEIRO"
+    ],
+    "observacoes": [
+      "Confirmar se é Onix hatch ou Onix Plus."
+    ],
+    "confiancaBase": 85
+  },
+  {
+    "id": "lanterna-onix-2020-2023",
+    "pecas": [
+      "LANTERNA"
+    ],
+    "marcas": [
+      "CHEVROLET",
+      "GM"
+    ],
+    "modelos": [
+      "ONIX",
+      "ONIX PLUS"
+    ],
+    "anos": [
+      2020,
+      2021,
+      2022,
+      2023
+    ],
+    "lados": [
+      "DIREITO",
+      "ESQUERDO"
+    ],
+    "posicoes": [
+      "TRASEIRO"
+    ],
+    "fabricantes": [
+      "ARTEB",
+      "VALEO",
+      "ORIGINAL GM"
+    ],
+    "relacionadas": [
+      "SOQUETE",
+      "LAMPADA",
+      "PARACHOQUE TRASEIRO"
+    ],
+    "observacoes": [
+      "Confirmar hatch/sedan e lado."
+    ],
+    "confiancaBase": 85
+  },
+  {
+    "id": "farol-palio-2004-2017",
+    "pecas": [
+      "FAROL"
+    ],
+    "marcas": [
+      "FIAT"
+    ],
+    "modelos": [
+      "PALIO",
+      "SIENA",
+      "STRADA",
+      "WEEKEND"
+    ],
+    "anos": [
+      2004,
+      2005,
+      2006,
+      2007,
+      2008,
+      2009,
+      2010,
+      2011,
+      2012,
+      2013,
+      2014,
+      2015,
+      2016,
+      2017
+    ],
+    "lados": [
+      "DIREITO",
+      "ESQUERDO"
+    ],
+    "posicoes": [
+      "DIANTEIRO"
+    ],
+    "fabricantes": [
+      "ARTEB",
+      "VALEO",
+      "ORIGINAL FIAT",
+      "IMPORTADO"
+    ],
+    "relacionadas": [
+      "LAMPADA",
+      "PISCA",
+      "PARACHOQUE DIANTEIRO"
+    ],
+    "observacoes": [
+      "Confirmar geração/ano e lado."
+    ],
+    "confiancaBase": 82
+  },
+  {
+    "id": "parachoque-gol-g5-2009-2012",
+    "pecas": [
+      "PARACHOQUE",
+      "PARA-CHOQUE"
+    ],
+    "marcas": [
+      "VOLKSWAGEN",
+      "VW"
+    ],
+    "modelos": [
+      "GOL G5",
+      "GOL",
+      "VOYAGE G5",
+      "VOYAGE"
+    ],
+    "anos": [
+      2009,
+      2010,
+      2011,
+      2012
+    ],
+    "lados": [
+      "N/D"
+    ],
+    "posicoes": [
+      "DIANTEIRO",
+      "TRASEIRO"
+    ],
+    "fabricantes": [
+      "ORIGINAL VW",
+      "IMPORTADO",
+      "NACIONAL"
+    ],
+    "relacionadas": [
+      "GRADE",
+      "MILHA",
+      "ALMA DO PARACHOQUE",
+      "FAROL"
+    ],
+    "observacoes": [
+      "Confirmar se é dianteiro ou traseiro."
+    ],
+    "confiancaBase": 84
+  },
+  {
+    "id": "capo-gol-g5-2009-2012",
+    "pecas": [
+      "CAPO",
+      "CAPÔ"
+    ],
+    "marcas": [
+      "VOLKSWAGEN",
+      "VW"
+    ],
+    "modelos": [
+      "GOL G5",
+      "GOL",
+      "VOYAGE G5",
+      "VOYAGE"
+    ],
+    "anos": [
+      2009,
+      2010,
+      2011,
+      2012
+    ],
+    "lados": [
+      "N/D"
+    ],
+    "posicoes": [
+      "DIANTEIRO"
+    ],
+    "fabricantes": [
+      "ORIGINAL VW",
+      "IMPORTADO"
+    ],
+    "relacionadas": [
+      "DOBRADICA DO CAPO",
+      "FECHADURA DO CAPO",
+      "FAROL",
+      "PARACHOQUE DIANTEIRO"
+    ],
+    "observacoes": [
+      "Confirmar geração do Gol/Voyage."
+    ],
+    "confiancaBase": 84
   }
 ]
