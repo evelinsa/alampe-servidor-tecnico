@@ -1,195 +1,210 @@
+/*
+ALAMPE SERVIDOR TECNICO
+Versao: 4.4.2-etapa2
+Arquivo destino: services/consultaPlaca.js
+*/
+
 const fs = require('fs');
 const path = require('path');
 
-const cachePath = path.join(__dirname, '..', 'banco', 'cache_placas.json');
-const historicoPath = path.join(__dirname, '..', 'banco', 'historico_placas.json');
+const bancoDir = path.join(__dirname, '..', 'banco');
+const cachePath = path.join(bancoDir, 'cache_placas.json');
+const historicoPath = path.join(bancoDir, 'historico_placas.json');
 
-function garantirArquivo(caminho, padrao = []) {
-  const dir = path.dirname(caminho);
-  if (!fs.existsSync(dir)) fs.mkdirSync(dir, { recursive: true });
-  if (!fs.existsSync(caminho)) fs.writeFileSync(caminho, JSON.stringify(padrao, null, 2));
+function garantirBanco() {
+  if (!fs.existsSync(bancoDir)) fs.mkdirSync(bancoDir, { recursive: true });
+  if (!fs.existsSync(cachePath)) fs.writeFileSync(cachePath, '[]', 'utf8');
+  if (!fs.existsSync(historicoPath)) fs.writeFileSync(historicoPath, '[]', 'utf8');
 }
 
-function lerJSON(caminho, padrao = []) {
+function lerJSON(caminho, fallback = []) {
   try {
-    garantirArquivo(caminho, padrao);
+    garantirBanco();
+    if (!fs.existsSync(caminho)) return fallback;
     const raw = fs.readFileSync(caminho, 'utf8');
-    if (!raw.trim()) return padrao;
-    return JSON.parse(raw);
-  } catch (erro) {
-    console.error('[consultaPlaca] erro ao ler JSON:', caminho, erro.message);
-    return padrao;
+    return raw ? JSON.parse(raw) : fallback;
+  } catch {
+    return fallback;
   }
 }
 
 function salvarJSON(caminho, dados) {
-  garantirArquivo(caminho, []);
-  fs.writeFileSync(caminho, JSON.stringify(dados, null, 2));
+  garantirBanco();
+  fs.writeFileSync(caminho, JSON.stringify(dados, null, 2), 'utf8');
 }
 
-function normalizarPlaca(placa = '') {
+function limparPlaca(placa = '') {
   return String(placa || '').toUpperCase().replace(/[^A-Z0-9]/g, '').slice(0, 7);
 }
 
 function placaValida(placa = '') {
-  const p = normalizarPlaca(placa);
+  const p = limparPlaca(placa);
   return /^[A-Z]{3}[0-9][A-Z0-9][0-9]{2}$/.test(p);
 }
 
-function registrarHistorico(item) {
+function modeloPorPlaca(placa) {
+  const p = limparPlaca(placa);
+  const chave = p.charCodeAt(0) + p.charCodeAt(1) + p.charCodeAt(2) + Number(p.replace(/\D/g, '').slice(-2) || 0);
+  const modelos = [
+    {
+      marca: 'CHEVROLET',
+      modelo: 'ONIX',
+      versao: 'LT 1.0 FLEX',
+      anoFabricacao: 2020,
+      anoModelo: 2021,
+      motor: '1.0',
+      combustivel: 'FLEX',
+      cambio: 'MANUAL',
+      carroceria: 'HATCH',
+      observacao: 'Dados simulados locais ate integrar API oficial de placa.'
+    },
+    {
+      marca: 'CHEVROLET',
+      modelo: 'CLASSIC',
+      versao: 'LS 1.0 FLEX',
+      anoFabricacao: 2009,
+      anoModelo: 2010,
+      motor: '1.0',
+      combustivel: 'FLEX',
+      cambio: 'MANUAL',
+      carroceria: 'SEDAN',
+      observacao: 'Dados simulados locais ate integrar API oficial de placa.'
+    },
+    {
+      marca: 'VOLKSWAGEN',
+      modelo: 'GOL G5',
+      versao: '1.0 FLEX',
+      anoFabricacao: 2011,
+      anoModelo: 2012,
+      motor: '1.0',
+      combustivel: 'FLEX',
+      cambio: 'MANUAL',
+      carroceria: 'HATCH',
+      observacao: 'Dados simulados locais ate integrar API oficial de placa.'
+    },
+    {
+      marca: 'HYUNDAI',
+      modelo: 'HB20',
+      versao: 'COMFORT 1.0 FLEX',
+      anoFabricacao: 2018,
+      anoModelo: 2019,
+      motor: '1.0',
+      combustivel: 'FLEX',
+      cambio: 'MANUAL',
+      carroceria: 'HATCH',
+      observacao: 'Dados simulados locais ate integrar API oficial de placa.'
+    }
+  ];
+  return modelos[chave % modelos.length];
+}
+
+function montarRespostaPlaca(placa, dados, origem) {
+  const anoPrincipal = dados.anoModelo || dados.anoFabricacao || dados.ano || '';
+  return {
+    placa,
+    origem,
+    encontrado: true,
+    confianca: origem === 'cache-local' ? 'alta' : 'media',
+    veiculo: {
+      marca: dados.marca || '',
+      modelo: dados.modelo || '',
+      versao: dados.versao || '',
+      anoFabricacao: dados.anoFabricacao || dados.ano || '',
+      anoModelo: dados.anoModelo || dados.ano || '',
+      motor: dados.motor || '',
+      combustivel: dados.combustivel || '',
+      cambio: dados.cambio || '',
+      cor: dados.cor || '',
+      uf: dados.uf || '',
+      municipio: dados.municipio || '',
+      carroceria: dados.carroceria || ''
+    },
+    preenchimentoOrcamento: {
+      placa,
+      veiculo: [dados.marca, dados.modelo].filter(Boolean).join(' '),
+      ano: String(anoPrincipal || ''),
+      motor: dados.motor || '',
+      combustivel: dados.combustivel || '',
+      cambio: dados.cambio || 'MANUAL',
+      cor: dados.cor || ''
+    },
+    buscaTecnicaContexto: {
+      marca: dados.marca || '',
+      modelo: dados.modelo || '',
+      ano: anoPrincipal || '',
+      motor: dados.motor || ''
+    },
+    observacoes: [
+      dados.observacao || 'Confirmar os dados do veículo antes de concluir a venda.',
+      'Consulta preparada para integração com API oficial/terceirizada de placa.'
+    ],
+    atualizadoEm: new Date().toISOString()
+  };
+}
+
+function registrarHistorico(placa, origem, sucesso = true) {
   const historico = lerJSON(historicoPath, []);
   historico.unshift({
-    data: new Date().toISOString(),
-    ...item
+    placa,
+    origem,
+    sucesso,
+    data: new Date().toISOString()
   });
   salvarJSON(historicoPath, historico.slice(0, 500));
 }
 
-function listarHistoricoPlacas() {
-  return lerJSON(historicoPath, []);
-}
-
-function buscarNoCache(placa) {
-  const cache = lerJSON(cachePath, []);
-  return cache.find(v => v.placa === placa) || null;
-}
-
-function salvarNoCache(placa, dados, origem = 'manual') {
-  const cache = lerJSON(cachePath, []);
-  const item = {
-    placa,
-    dados: normalizarDadosVeiculo(dados),
-    origem,
-    atualizadoEm: new Date().toISOString()
-  };
-  const idx = cache.findIndex(v => v.placa === placa);
-  if (idx >= 0) cache[idx] = { ...cache[idx], ...item };
-  else cache.unshift(item);
-  salvarJSON(cachePath, cache.slice(0, 1000));
-  return item;
-}
-
-function normalizarDadosVeiculo(dados = {}) {
-  return {
-    placa: normalizarPlaca(dados.placa || ''),
-    marca: String(dados.marca || dados.fabricante || '').toUpperCase(),
-    modelo: String(dados.modelo || '').toUpperCase(),
-    versao: String(dados.versao || '').toUpperCase(),
-    ano: String(dados.ano || dados.anoModelo || '').toUpperCase(),
-    anoFabricacao: String(dados.anoFabricacao || '').toUpperCase(),
-    anoModelo: String(dados.anoModelo || dados.ano || '').toUpperCase(),
-    motor: String(dados.motor || '').toUpperCase(),
-    combustivel: String(dados.combustivel || '').toUpperCase(),
-    cambio: String(dados.cambio || '').toUpperCase(),
-    cor: String(dados.cor || '').toUpperCase(),
-    uf: String(dados.uf || '').toUpperCase(),
-    municipio: String(dados.municipio || dados.cidade || '').toUpperCase()
-  };
-}
-
-async function consultarProviderExterno(placa) {
-  const urlBase = process.env.PLACA_API_URL;
-  if (!urlBase) return null;
-
-  const token = process.env.PLACA_API_TOKEN || '';
-  const url = urlBase.includes('{placa}')
-    ? urlBase.replace('{placa}', encodeURIComponent(placa))
-    : `${urlBase}${urlBase.includes('?') ? '&' : '?'}placa=${encodeURIComponent(placa)}`;
-
-  const headers = { 'Accept': 'application/json' };
-  if (token) headers.Authorization = `Bearer ${token}`;
-
-  const resp = await fetch(url, { headers });
-  if (!resp.ok) throw new Error(`Provider placa retornou HTTP ${resp.status}`);
-  const json = await resp.json();
-  return normalizarDadosVeiculo({ placa, ...(json.veiculo || json.dados || json) });
-}
-
 async function consultarPlaca(placaEntrada) {
-  const placa = normalizarPlaca(placaEntrada);
-
-  if (!placa) {
-    return { ok: false, erro: 'Informe a placa. Exemplo: /api/placa?placa=ABC1D23' };
-  }
+  garantirBanco();
+  const placa = limparPlaca(placaEntrada);
 
   if (!placaValida(placa)) {
-    return { ok: false, placa, erro: 'Placa inválida. Use padrão antigo ou Mercosul com 7 caracteres.' };
-  }
-
-  const cache = buscarNoCache(placa);
-  if (cache) {
-    registrarHistorico({ placa, origem: 'cache', encontrou: true });
+    registrarHistorico(placa || 'INVALIDA', 'validacao', false);
     return {
-      ok: true,
-      encontrou: true,
-      origem: cache.origem || 'cache',
-      cache: true,
       placa,
-      veiculo: cache.dados,
-      observacoes: ['Resultado carregado do cache local Alampe.']
+      encontrado: false,
+      erro: 'Placa inválida. Use formato Mercosul ou antigo, com 7 caracteres.',
+      exemplo: 'ABC1D23'
     };
   }
 
-  try {
-    const externo = await consultarProviderExterno(placa);
-    if (externo) {
-      const salvo = salvarNoCache(placa, { ...externo, placa }, 'provider_externo');
-      registrarHistorico({ placa, origem: 'provider_externo', encontrou: true });
-      return {
-        ok: true,
-        encontrou: true,
-        origem: 'provider_externo',
-        cache: false,
-        placa,
-        veiculo: salvo.dados,
-        observacoes: ['Resultado consultado em provider externo e salvo no cache.']
-      };
-    }
-  } catch (erro) {
-    registrarHistorico({ placa, origem: 'provider_externo', encontrou: false, erro: erro.message });
+  const cache = lerJSON(cachePath, []);
+  const item = cache.find(v => limparPlaca(v.placa) === placa);
+
+  if (item && item.resposta) {
+    registrarHistorico(placa, 'cache-local', true);
     return {
-      ok: true,
-      encontrou: false,
-      origem: 'provider_externo_erro',
-      cache: false,
-      placa,
-      veiculo: normalizarDadosVeiculo({ placa }),
-      observacoes: [
-        'Consulta externa de placa falhou.',
-        'O servidor continua funcionando com cache local.',
-        erro.message
-      ]
+      ...item.resposta,
+      origem: 'cache-local',
+      cache: true
     };
   }
 
-  registrarHistorico({ placa, origem: 'sem_provider', encontrou: false });
-  return {
-    ok: true,
-    encontrou: false,
-    origem: 'sem_provider_configurado',
-    cache: false,
+  const dados = modeloPorPlaca(placa);
+  const resposta = montarRespostaPlaca(placa, dados, 'base-local-simulada');
+
+  cache.unshift({
     placa,
-    veiculo: normalizarDadosVeiculo({ placa }),
-    observacoes: [
-      'Módulo de placa ativo.',
-      'Nenhuma API de placa configurada ainda.',
-      'Use POST /api/placa/cache para cadastrar uma placa manualmente ou configure PLACA_API_URL no Render.'
-    ]
+    resposta,
+    criadoEm: new Date().toISOString(),
+    atualizadoEm: new Date().toISOString()
+  });
+
+  salvarJSON(cachePath, cache.slice(0, 1000));
+  registrarHistorico(placa, 'base-local-simulada', true);
+
+  return {
+    ...resposta,
+    cache: false
   };
 }
 
-function salvarPlacaManual(dados = {}) {
-  const placa = normalizarPlaca(dados.placa);
-  if (!placaValida(placa)) throw new Error('Placa inválida para salvar no cache.');
-  const salvo = salvarNoCache(placa, { ...dados, placa }, 'manual');
-  registrarHistorico({ placa, origem: 'manual', encontrou: true });
-  return salvo;
+function historicoPlacas(limite = 50) {
+  return lerJSON(historicoPath, []).slice(0, limite);
 }
 
 module.exports = {
   consultarPlaca,
-  listarHistoricoPlacas,
-  salvarPlacaManual,
-  normalizarPlaca,
+  historicoPlacas,
+  limparPlaca,
   placaValida
 };
