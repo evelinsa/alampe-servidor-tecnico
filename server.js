@@ -1,146 +1,96 @@
-const express = require('express');
-const cors = require('cors');
 const fs = require('fs');
 const path = require('path');
-const { lerAplicacoes, buscarBaseTecnica, montarResposta, adicionarAplicacao, importarAplicacoes, sugestoesCadastro } = require('./services/baseTecnica');
-const { normalizarTexto } = require('./utils/normalizar');
 
-const app = express();
-const PORT = process.env.PORT || 10000;
-const VERSION = '4.2.0-alampe-tecnico';
-const cachePath = path.join(__dirname, 'banco', 'cache.json');
+// Caminhos para os novos arquivos de banco local
+const cachePlacasPath = path.join(__dirname, 'banco', 'cache_placas.json');
+const historicoPlacasPath = path.join(__dirname, 'banco', 'historico_placas.json');
 
-app.use(cors());
-app.use(express.json({ limit: '10mb' }));
-
-function lerCache() {
-  try { return JSON.parse(fs.readFileSync(cachePath, 'utf8') || '{}'); } catch { return {}; }
-}
-function salvarCache(cache) {
-  try { fs.writeFileSync(cachePath, JSON.stringify(cache, null, 2)); } catch {}
-}
-function limparCacheConsulta(chave) {
-  const cache = lerCache();
-  if (chave) delete cache[chave];
-  else Object.keys(cache).forEach(k => delete cache[k]);
-  salvarCache(cache);
-}
-
-app.get('/', (req, res) => {
-  res.json({ ok: true, nome: 'Alampe Servidor Técnico', version: VERSION, modo: 'base-tecnica-propria' });
-});
-
-app.get('/api/health', (req, res) => {
-  const cache = lerCache();
-  const aplicacoes = lerAplicacoes();
-  res.json({
-    ok: true,
-    version: VERSION,
-    modo: 'base-tecnica-propria',
-    internetComoApoio: false,
-    aplicacoes: aplicacoes.length,
-    cacheItens: Object.keys(cache).length,
-    recursos: ['base-tecnica', 'cache', 'importacao', 'sugestao-cadastro', 'score-compatibilidade'],
-    atualizadoEm: new Date().toISOString()
-  });
-});
-
-app.get('/api/aplicacao', (req, res) => {
-  const q = String(req.query.q || '').trim();
-  const nocache = String(req.query.nocache || '') === '1';
-  if (!q) return res.status(400).json({ ok: false, error: 'Informe q na consulta.' });
-
-  const chave = normalizarTexto(q);
-  const cache = lerCache();
-  if (!nocache && cache[chave]) {
-    return res.json({ ...cache[chave], version: VERSION, cache: true, consultadoEm: new Date().toISOString() });
-  }
-
-  const resultados = buscarBaseTecnica(q);
-  const resposta = montarResposta(q, resultados, VERSION);
-  resposta.cache = false;
-  resposta.consultadoEm = new Date().toISOString();
-
-  cache[chave] = resposta;
-  salvarCache(cache);
-  res.json(resposta);
-});
-
-app.post('/api/aplicacao', (req, res) => {
-  const q = String(req.body?.q || req.body?.query || '').trim();
-  if (!q) return res.status(400).json({ ok: false, error: 'Informe q ou query no body.' });
-  const resultados = buscarBaseTecnica(q);
-  const resposta = montarResposta(q, resultados, VERSION);
-  resposta.consultadoEm = new Date().toISOString();
-  res.json(resposta);
-});
-
-app.get('/api/base/aplicacoes', (req, res) => {
-  res.json({ ok: true, version: VERSION, total: lerAplicacoes().length, aplicacoes: lerAplicacoes() });
-});
-
-app.post('/api/base/aplicacao', (req, res) => {
-  try {
-    const dados = req.body || {};
-    if (!Array.isArray(dados.pecas) || !Array.isArray(dados.modelos) || !Array.isArray(dados.anos)) {
-      return res.status(400).json({ ok: false, error: 'Envie pecas, modelos e anos como listas.' });
+// Função auxiliar para ler arquivos JSON com segurança
+const lerJSON = (caminho) => {
+    try {
+        if (!fs.existsSync(caminho)) return [];
+        const dados = fs.readFileSync(caminho, 'utf-8');
+        return dados ? JSON.parse(dados) : [];
+    } catch (erro) {
+        console.error(`Erro ao ler arquivo ${caminho}:`, erro);
+        return [];
     }
-    const novo = adicionarAplicacao(dados);
-    limparCacheConsulta();
-    res.json({ ok: true, version: VERSION, salvo: novo });
-  } catch (e) {
-    res.status(500).json({ ok: false, error: e.message });
-  }
-});
+};
 
-app.post('/api/base/importar', (req, res) => {
-  try {
-    const lista = Array.isArray(req.body) ? req.body : req.body?.aplicacoes;
-    const salvos = importarAplicacoes(lista || []);
-    limparCacheConsulta();
-    res.json({ ok: true, version: VERSION, total: salvos.length, salvos });
-  } catch (e) {
-    res.status(500).json({ ok: false, error: e.message });
-  }
-});
+// Função auxiliar para salvar arquivos JSON
+const salvarJSON = (caminho, dados) => {
+    try {
+        fs.writeFileSync(caminho, JSON.stringify(dados, null, 2), 'utf-8');
+    } catch (erro) {
+        console.error(`Erro ao salvar arquivo ${caminho}:`, erro);
+    }
+};
 
-app.post('/api/aprender', (req, res) => {
-  try {
-    const dados = req.body || {};
-    const novo = adicionarAplicacao(dados);
-    limparCacheConsulta();
-    res.json({ ok: true, version: VERSION, aprendido: true, salvo: novo });
-  } catch (e) {
-    res.status(500).json({ ok: false, error: e.message });
-  }
-});
+// ROTA V4.4 - Consulta por Placa
+app.get('/api/placa', (req, res) => {
+    try {
+        const { placa } = req.query;
 
-app.get('/api/sugestoes', (req, res) => {
-  const q = String(req.query.q || '').trim();
-  const resultados = q ? buscarBaseTecnica(q, 8) : lerAplicacoes().slice(0, 12);
-  res.json({
-    ok: true,
-    version: VERSION,
-    sugestaoCadastro: q ? sugestoesCadastro(q) : null,
-    sugestoes: resultados.map(r => ({
-      titulo: `${(r.pecas || [])[0] || ''} ${r.melhorModelo || (r.modelos || [])[0] || ''}`.trim(),
-      score: r.score || r.confiancaBase || 0,
-      anos: r.anos || [],
-      lados: r.lados || [],
-      id: r.id
-    }))
-  });
-});
+        if (!placa) {
+            return res.status(400).json({ erro: 'A placa é obrigatória. Exemplo: ?placa=ABC1D23' });
+        }
 
-app.delete('/api/cache', (req, res) => {
-  limparCacheConsulta();
-  res.json({ ok: true, version: VERSION, message: 'Cache limpo.' });
-});
+        // Normaliza a placa (letras maiúsculas e sem espaços/hifens)
+        const placaFormatada = placa.trim().toUpperCase().replace(/[^A-Z0-9]/g, '');
 
-app.get('/api/mercadolivre', (req, res) => {
-  res.json({ ok: true, version: VERSION, message: 'Endpoint reservado. Comparador segue pelo módulo atual do ERP.' });
-});
+        if (placaFormatada.length !== 7) {
+            return res.status(400).json({ erro: 'Placa inválida. Certifique-se de que possui 7 caracteres.' });
+        }
 
-app.listen(PORT, () => {
-  console.log(`Alampe Servidor Técnico ${VERSION} rodando na porta ${PORT}`);
+        // 1. Verificar se já existe no cache local
+        const cachePlacas = lerJSON(cachePlacasPath);
+        const veiculoNoCache = cachePlacas.find(v => v.placa === placaFormatada);
+
+        if (veiculoNoCache) {
+            console.log(`[Placa] ${placaFormatada} encontrada no cache local.`);
+            
+            // Registra no histórico de buscas mesmo se vier do cache
+            const historico = lerJSON(historicoPlacasPath);
+            historico.push({ placa: placaFormatada, data: new Date().toISOString(), origem: 'cache' });
+            salvarJSON(historicoPlacasPath, historico);
+
+            return res.json(veiculoNoCache.dados);
+        }
+
+        // 2. Mock/Simulação (Enquanto não integramos a API real no próximo passo)
+        // Isso garante que você consiga testar o fluxo no ERP imediatamente sem custos.
+        const dadosSimuladosVeiculo = {
+            marca: "VOLKSWAGEN",
+            modelo: "GOL",
+            versao: "1.6 MSI TOTAL FLEX 4P",
+            ano: "2020",
+            combustivel: "FLEX",
+            motor: "1.6",
+            cambio: "MANUAL"
+        };
+
+        // 3. Salvar no Cache Local
+        cachePlacas.push({
+            placa: placaFormatada,
+            dados: dadosSimuladosVeiculo,
+            atualizadoEm: new Date().toISOString()
+        });
+        salvarJSON(cachePlacasPath, cachePlacas);
+
+        // 4. Salvar no Histórico Geral
+        const historico = lerJSON(historicoPlacasPath);
+        historico.push({
+            placa: placaFormatada,
+            data: new Date().toISOString(),
+            origem: 'api_externa_mock'
+        });
+        salvarJSON(historicoPlacasPath, historico);
+
+        console.log(`[Placa] ${placaFormatada} processada e salva com sucesso.`);
+        return res.json(dadosSimuladosVeiculo);
+
+    } catch (erro) {
+        console.error('Erro na rota de placa:', erro);
+        return res.status(500).json({ erro: 'Erro interno no servidor ao processar a placa.' });
+    }
 });
