@@ -1,7 +1,7 @@
 /*
-ALAMPE SERVIDOR TECNICO
-Versao: 4.4.2-etapa2
-Arquivo: server.js
+ALAMPE CORE
+Versão: 4.4.3-etapa3
+Arquivo destino: server.js
 */
 
 const express = require('express');
@@ -10,11 +10,17 @@ const path = require('path');
 const fs = require('fs');
 
 const { buscarBaseTecnica, montarResposta } = require('./services/baseTecnica');
-const { consultarPlaca, historicoPlacas, limparPlaca } = require('./services/consultaPlaca');
+const {
+  consultarPlaca,
+  historicoPlacas,
+  limparPlaca,
+  diagnosticoProvidersPlaca,
+  salvarPlacaManual
+} = require('./services/consultaPlaca');
 
 const app = express();
 const PORT = process.env.PORT || 3000;
-const VERSION = '4.4.2-etapa2-consulta-veicular';
+const VERSION = '4.4.3-etapa3-providers-placa';
 
 app.use(cors());
 app.use(express.json({ limit: '2mb' }));
@@ -33,9 +39,16 @@ function safeJson(filePath, fallback) {
 app.get('/', (req, res) => {
   res.json({
     ok: true,
-    nome: 'Alampe Servidor Tecnico',
+    nome: 'Alampe Core',
     version: VERSION,
-    rotas: ['/api/health', '/api/aplicacao?q=', '/api/placa?placa=', '/api/placa/historico']
+    rotas: [
+      '/api/health',
+      '/api/aplicacao?q=',
+      '/api/placa?placa=',
+      '/api/placa/historico',
+      '/api/placa/providers',
+      '/api/catalogo/status'
+    ]
   });
 });
 
@@ -44,14 +57,16 @@ app.get('/api/health', (req, res) => {
   res.json({
     ok: true,
     version: VERSION,
-    modo: 'base-tecnica-local',
-    consultaVeicular: true,
+    status: 'online',
+    moduloConsultaVeicular: true,
+    providersPlaca: diagnosticoProvidersPlaca(),
     banco: {
       existe: fs.existsSync(bancoDir),
       aplicacoes: fs.existsSync(path.join(bancoDir, 'aplicacoes.json')),
       cachePlacas: fs.existsSync(path.join(bancoDir, 'cache_placas.json')),
       historicoPlacas: fs.existsSync(path.join(bancoDir, 'historico_placas.json'))
-    }
+    },
+    data: new Date().toISOString()
   });
 });
 
@@ -85,6 +100,8 @@ app.get('/api/aplicacao', (req, res) => {
 app.get('/api/placa', async (req, res) => {
   try {
     const placa = limparPlaca(req.query.placa || req.query.p || '');
+    const forcar = String(req.query.forcar || req.query.refresh || '').toLowerCase() === 'true';
+
     if (!placa) {
       return res.status(400).json({
         ok: false,
@@ -92,7 +109,7 @@ app.get('/api/placa', async (req, res) => {
       });
     }
 
-    const resultado = await consultarPlaca(placa);
+    const resultado = await consultarPlaca(placa, { forcar });
 
     return res.json({
       ok: true,
@@ -105,6 +122,23 @@ app.get('/api/placa', async (req, res) => {
       ok: false,
       erro: 'Erro ao consultar placa.',
       detalhe: err.message
+    });
+  }
+});
+
+app.post('/api/placa/cache', (req, res) => {
+  try {
+    const resultado = salvarPlacaManual(req.body || {});
+    return res.json({
+      ok: true,
+      version: VERSION,
+      ...resultado
+    });
+  } catch (err) {
+    console.error('[PLACA CACHE]', err);
+    return res.status(400).json({
+      ok: false,
+      erro: err.message || 'Erro ao salvar placa manualmente.'
     });
   }
 });
@@ -123,6 +157,14 @@ app.get('/api/placa/historico', (req, res) => {
   }
 });
 
+app.get('/api/placa/providers', (req, res) => {
+  res.json({
+    ok: true,
+    version: VERSION,
+    providers: diagnosticoProvidersPlaca()
+  });
+});
+
 app.get('/api/catalogo/status', (req, res) => {
   const bancoDir = path.join(__dirname, 'banco');
   const aplicacoes = safeJson(path.join(bancoDir, 'aplicacoes.json'), []);
@@ -138,5 +180,5 @@ app.get('/api/catalogo/status', (req, res) => {
 });
 
 app.listen(PORT, () => {
-  console.log(`Alampe Servidor Tecnico ${VERSION} rodando na porta ${PORT}`);
+  console.log(`Alampe Core ${VERSION} online na porta ${PORT}`);
 });
