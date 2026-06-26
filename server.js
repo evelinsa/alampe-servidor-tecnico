@@ -2,16 +2,16 @@ const express = require('express');
 const cors = require('cors');
 const fs = require('fs');
 const path = require('path');
-const { lerAplicacoes, buscarBaseTecnica, montarResposta, adicionarAplicacao } = require('./services/baseTecnica');
+const { lerAplicacoes, buscarBaseTecnica, montarResposta, adicionarAplicacao, importarAplicacoes, sugestoesCadastro } = require('./services/baseTecnica');
 const { normalizarTexto } = require('./utils/normalizar');
 
 const app = express();
 const PORT = process.env.PORT || 10000;
-const VERSION = '4.1.0-alampe-tecnico';
+const VERSION = '4.2.0-alampe-tecnico';
 const cachePath = path.join(__dirname, 'banco', 'cache.json');
 
 app.use(cors());
-app.use(express.json({ limit: '5mb' }));
+app.use(express.json({ limit: '10mb' }));
 
 function lerCache() {
   try { return JSON.parse(fs.readFileSync(cachePath, 'utf8') || '{}'); } catch { return {}; }
@@ -22,6 +22,7 @@ function salvarCache(cache) {
 function limparCacheConsulta(chave) {
   const cache = lerCache();
   if (chave) delete cache[chave];
+  else Object.keys(cache).forEach(k => delete cache[k]);
   salvarCache(cache);
 }
 
@@ -39,17 +40,19 @@ app.get('/api/health', (req, res) => {
     internetComoApoio: false,
     aplicacoes: aplicacoes.length,
     cacheItens: Object.keys(cache).length,
+    recursos: ['base-tecnica', 'cache', 'importacao', 'sugestao-cadastro', 'score-compatibilidade'],
     atualizadoEm: new Date().toISOString()
   });
 });
 
 app.get('/api/aplicacao', (req, res) => {
   const q = String(req.query.q || '').trim();
+  const nocache = String(req.query.nocache || '') === '1';
   if (!q) return res.status(400).json({ ok: false, error: 'Informe q na consulta.' });
 
   const chave = normalizarTexto(q);
   const cache = lerCache();
-  if (cache[chave]) {
+  if (!nocache && cache[chave]) {
     return res.json({ ...cache[chave], version: VERSION, cache: true, consultadoEm: new Date().toISOString() });
   }
 
@@ -90,18 +93,48 @@ app.post('/api/base/aplicacao', (req, res) => {
   }
 });
 
+app.post('/api/base/importar', (req, res) => {
+  try {
+    const lista = Array.isArray(req.body) ? req.body : req.body?.aplicacoes;
+    const salvos = importarAplicacoes(lista || []);
+    limparCacheConsulta();
+    res.json({ ok: true, version: VERSION, total: salvos.length, salvos });
+  } catch (e) {
+    res.status(500).json({ ok: false, error: e.message });
+  }
+});
+
+app.post('/api/aprender', (req, res) => {
+  try {
+    const dados = req.body || {};
+    const novo = adicionarAplicacao(dados);
+    limparCacheConsulta();
+    res.json({ ok: true, version: VERSION, aprendido: true, salvo: novo });
+  } catch (e) {
+    res.status(500).json({ ok: false, error: e.message });
+  }
+});
+
 app.get('/api/sugestoes', (req, res) => {
   const q = String(req.query.q || '').trim();
-  const resultados = q ? buscarBaseTecnica(q, 5) : lerAplicacoes().slice(0, 8);
+  const resultados = q ? buscarBaseTecnica(q, 8) : lerAplicacoes().slice(0, 12);
   res.json({
     ok: true,
     version: VERSION,
+    sugestaoCadastro: q ? sugestoesCadastro(q) : null,
     sugestoes: resultados.map(r => ({
-      titulo: `${(r.pecas || [])[0] || ''} ${(r.modelos || [])[0] || ''}`.trim(),
+      titulo: `${(r.pecas || [])[0] || ''} ${r.melhorModelo || (r.modelos || [])[0] || ''}`.trim(),
       score: r.score || r.confiancaBase || 0,
+      anos: r.anos || [],
+      lados: r.lados || [],
       id: r.id
     }))
   });
+});
+
+app.delete('/api/cache', (req, res) => {
+  limparCacheConsulta();
+  res.json({ ok: true, version: VERSION, message: 'Cache limpo.' });
 });
 
 app.get('/api/mercadolivre', (req, res) => {
