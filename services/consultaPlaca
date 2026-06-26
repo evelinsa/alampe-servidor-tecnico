@@ -1,6 +1,6 @@
 /*
-ALAMPE SERVIDOR TECNICO
-Versao: 4.4.2-etapa2
+ALAMPE CORE
+Versão: 4.4.3-etapa3
 Arquivo destino: services/consultaPlaca.js
 */
 
@@ -42,101 +42,109 @@ function placaValida(placa = '') {
   return /^[A-Z]{3}[0-9][A-Z0-9][0-9]{2}$/.test(p);
 }
 
-function modeloPorPlaca(placa) {
-  const p = limparPlaca(placa);
-  const chave = p.charCodeAt(0) + p.charCodeAt(1) + p.charCodeAt(2) + Number(p.replace(/\D/g, '').slice(-2) || 0);
-  const modelos = [
-    {
-      marca: 'CHEVROLET',
-      modelo: 'ONIX',
-      versao: 'LT 1.0 FLEX',
-      anoFabricacao: 2020,
-      anoModelo: 2021,
-      motor: '1.0',
-      combustivel: 'FLEX',
-      cambio: 'MANUAL',
-      carroceria: 'HATCH',
-      observacao: 'Dados simulados locais ate integrar API oficial de placa.'
-    },
-    {
-      marca: 'CHEVROLET',
-      modelo: 'CLASSIC',
-      versao: 'LS 1.0 FLEX',
-      anoFabricacao: 2009,
-      anoModelo: 2010,
-      motor: '1.0',
-      combustivel: 'FLEX',
-      cambio: 'MANUAL',
-      carroceria: 'SEDAN',
-      observacao: 'Dados simulados locais ate integrar API oficial de placa.'
-    },
-    {
-      marca: 'VOLKSWAGEN',
-      modelo: 'GOL G5',
-      versao: '1.0 FLEX',
-      anoFabricacao: 2011,
-      anoModelo: 2012,
-      motor: '1.0',
-      combustivel: 'FLEX',
-      cambio: 'MANUAL',
-      carroceria: 'HATCH',
-      observacao: 'Dados simulados locais ate integrar API oficial de placa.'
-    },
-    {
-      marca: 'HYUNDAI',
-      modelo: 'HB20',
-      versao: 'COMFORT 1.0 FLEX',
-      anoFabricacao: 2018,
-      anoModelo: 2019,
-      motor: '1.0',
-      combustivel: 'FLEX',
-      cambio: 'MANUAL',
-      carroceria: 'HATCH',
-      observacao: 'Dados simulados locais ate integrar API oficial de placa.'
-    }
-  ];
-  return modelos[chave % modelos.length];
+function normalizarTexto(valor = '') {
+  return String(valor || '').trim().toUpperCase();
 }
 
-function montarRespostaPlaca(placa, dados, origem) {
-  const anoPrincipal = dados.anoModelo || dados.anoFabricacao || dados.ano || '';
+function respostaVazia(placa, origem, observacoes = []) {
   return {
     placa,
     origem,
-    encontrado: true,
-    confianca: origem === 'cache-local' ? 'alta' : 'media',
+    encontrado: false,
+    cache: false,
+    confianca: 'baixa',
     veiculo: {
-      marca: dados.marca || '',
-      modelo: dados.modelo || '',
-      versao: dados.versao || '',
-      anoFabricacao: dados.anoFabricacao || dados.ano || '',
-      anoModelo: dados.anoModelo || dados.ano || '',
-      motor: dados.motor || '',
-      combustivel: dados.combustivel || '',
-      cambio: dados.cambio || '',
-      cor: dados.cor || '',
-      uf: dados.uf || '',
-      municipio: dados.municipio || '',
-      carroceria: dados.carroceria || ''
+      placa,
+      marca: '',
+      modelo: '',
+      versao: '',
+      anoFabricacao: '',
+      anoModelo: '',
+      motor: '',
+      combustivel: '',
+      cambio: '',
+      cor: '',
+      uf: '',
+      municipio: '',
+      carroceria: ''
     },
     preenchimentoOrcamento: {
       placa,
-      veiculo: [dados.marca, dados.modelo].filter(Boolean).join(' '),
-      ano: String(anoPrincipal || ''),
-      motor: dados.motor || '',
-      combustivel: dados.combustivel || '',
-      cambio: dados.cambio || 'MANUAL',
-      cor: dados.cor || ''
+      veiculo: '',
+      ano: '',
+      motor: '',
+      combustivel: '',
+      cambio: '',
+      cor: ''
     },
     buscaTecnicaContexto: {
-      marca: dados.marca || '',
-      modelo: dados.modelo || '',
-      ano: anoPrincipal || '',
-      motor: dados.motor || ''
+      marca: '',
+      modelo: '',
+      ano: '',
+      motor: ''
+    },
+    observacoes,
+    atualizadoEm: new Date().toISOString()
+  };
+}
+
+function montarRespostaPlaca(placa, dados, origem, extra = {}) {
+  const d = dados || {};
+  const marca = normalizarTexto(d.marca);
+  const modelo = normalizarTexto(d.modelo);
+  const versao = normalizarTexto(d.versao);
+  const anoFabricacao = d.anoFabricacao || d.ano_fabricacao || d.ano || '';
+  const anoModelo = d.anoModelo || d.ano_modelo || d.ano || anoFabricacao || '';
+  const motor = normalizarTexto(d.motor);
+  const combustivel = normalizarTexto(d.combustivel);
+  const cambio = normalizarTexto(d.cambio);
+  const cor = normalizarTexto(d.cor);
+  const uf = normalizarTexto(d.uf);
+  const municipio = normalizarTexto(d.municipio || d.cidade);
+  const carroceria = normalizarTexto(d.carroceria);
+
+  const encontrado = Boolean(marca || modelo || anoModelo || anoFabricacao);
+
+  return {
+    placa,
+    origem,
+    provider: extra.provider || origem,
+    encontrado,
+    cache: Boolean(extra.cache),
+    confianca: extra.confianca || (encontrado ? 'media' : 'baixa'),
+    veiculo: {
+      placa,
+      marca,
+      modelo,
+      versao,
+      anoFabricacao,
+      anoModelo,
+      motor,
+      combustivel,
+      cambio,
+      cor,
+      uf,
+      municipio,
+      carroceria
+    },
+    preenchimentoOrcamento: {
+      placa,
+      veiculo: [marca, modelo].filter(Boolean).join(' '),
+      ano: String(anoModelo || anoFabricacao || ''),
+      motor,
+      combustivel,
+      cambio: cambio || 'MANUAL',
+      cor
+    },
+    buscaTecnicaContexto: {
+      marca,
+      modelo,
+      ano: anoModelo || anoFabricacao || '',
+      motor
     },
     observacoes: [
-      dados.observacao || 'Confirmar os dados do veículo antes de concluir a venda.',
-      'Consulta preparada para integração com API oficial/terceirizada de placa.'
+      ...(extra.observacoes || []),
+      'Confirmar os dados do veículo antes de concluir a venda.'
     ],
     atualizadoEm: new Date().toISOString()
   };
@@ -153,7 +161,188 @@ function registrarHistorico(placa, origem, sucesso = true) {
   salvarJSON(historicoPath, historico.slice(0, 500));
 }
 
-async function consultarPlaca(placaEntrada) {
+function buscarNoCache(placa) {
+  const cache = lerJSON(cachePath, []);
+  const item = cache.find(v => limparPlaca(v.placa) === placa);
+  if (!item) return null;
+
+  if (item.resposta) {
+    return {
+      ...item.resposta,
+      origem: 'cache-local',
+      provider: item.resposta.provider || 'cache-local',
+      cache: true
+    };
+  }
+
+  return montarRespostaPlaca(placa, item, 'cache-local', {
+    provider: 'cache-local',
+    cache: true,
+    confianca: 'alta'
+  });
+}
+
+function salvarNoCache(placa, resposta) {
+  const cache = lerJSON(cachePath, []);
+  const semDuplicar = cache.filter(v => limparPlaca(v.placa) !== placa);
+  semDuplicar.unshift({
+    placa,
+    resposta,
+    criadoEm: new Date().toISOString(),
+    atualizadoEm: new Date().toISOString()
+  });
+  salvarJSON(cachePath, semDuplicar.slice(0, 1000));
+}
+
+function salvarPlacaManual(body = {}) {
+  const placa = limparPlaca(body.placa);
+  if (!placaValida(placa)) throw new Error('Placa inválida.');
+
+  const dados = {
+    marca: body.marca,
+    modelo: body.modelo,
+    versao: body.versao,
+    anoFabricacao: body.anoFabricacao || body.ano_fabricacao || body.ano,
+    anoModelo: body.anoModelo || body.ano_modelo || body.ano,
+    motor: body.motor,
+    combustivel: body.combustivel,
+    cambio: body.cambio,
+    cor: body.cor,
+    uf: body.uf,
+    municipio: body.municipio || body.cidade,
+    carroceria: body.carroceria
+  };
+
+  const resposta = montarRespostaPlaca(placa, dados, 'cache-manual', {
+    provider: 'cache-manual',
+    cache: true,
+    confianca: 'alta',
+    observacoes: ['Registro manual salvo no cache do Alampe Core.']
+  });
+
+  salvarNoCache(placa, resposta);
+  registrarHistorico(placa, 'cache-manual', true);
+
+  return resposta;
+}
+
+function providerLocalDemo(placa) {
+  const exemplos = {
+    ABC1D23: {
+      marca: 'CHEVROLET',
+      modelo: 'CLASSIC',
+      versao: 'LS 1.0 FLEX',
+      anoFabricacao: 2009,
+      anoModelo: 2010,
+      motor: '1.0',
+      combustivel: 'FLEX',
+      cambio: 'MANUAL',
+      carroceria: 'SEDAN'
+    },
+    QWE1A23: {
+      marca: 'CHEVROLET',
+      modelo: 'ONIX',
+      versao: 'LTZ 1.0 TURBO',
+      anoFabricacao: 2020,
+      anoModelo: 2021,
+      motor: '1.0 TURBO',
+      combustivel: 'FLEX',
+      cambio: 'AUTOMATICO',
+      carroceria: 'HATCH'
+    },
+    BRA2E19: {
+      marca: 'HYUNDAI',
+      modelo: 'HB20',
+      versao: 'COMFORT 1.0 FLEX',
+      anoFabricacao: 2018,
+      anoModelo: 2019,
+      motor: '1.0',
+      combustivel: 'FLEX',
+      cambio: 'MANUAL',
+      carroceria: 'HATCH'
+    }
+  };
+
+  const dados = exemplos[placa];
+  if (!dados) return null;
+
+  return montarRespostaPlaca(placa, dados, 'provider-local-demo', {
+    provider: 'provider-local-demo',
+    confianca: 'media',
+    observacoes: ['Provider local de demonstração ativo. Trocar por API oficial quando disponível.']
+  });
+}
+
+async function providerHttpGenerico(placa) {
+  const urlBase = process.env.PLACA_API_URL;
+  if (!urlBase) return null;
+
+  const token = process.env.PLACA_API_TOKEN || process.env.PLACA_API_KEY || '';
+  const sep = urlBase.includes('?') ? '&' : '?';
+  const url = `${urlBase}${sep}placa=${encodeURIComponent(placa)}`;
+
+  const headers = {};
+  if (token) {
+    headers.Authorization = `Bearer ${token}`;
+    headers['x-api-key'] = token;
+  }
+
+  const controller = new AbortController();
+  const timeout = setTimeout(() => controller.abort(), 8000);
+
+  try {
+    const resp = await fetch(url, { headers, signal: controller.signal });
+    clearTimeout(timeout);
+
+    if (!resp.ok) {
+      return respostaVazia(placa, 'provider-http', [
+        `Provider HTTP retornou status ${resp.status}.`
+      ]);
+    }
+
+    const json = await resp.json();
+
+    const dados = json.veiculo || json.data || json.resultado || json;
+    if (!dados) return null;
+
+    return montarRespostaPlaca(placa, dados, 'provider-http', {
+      provider: 'provider-http',
+      confianca: 'alta',
+      observacoes: ['Consulta realizada em provider HTTP configurado no Render.']
+    });
+  } catch (err) {
+    clearTimeout(timeout);
+    return respostaVazia(placa, 'provider-http', [
+      `Provider HTTP falhou: ${err.message}`
+    ]);
+  }
+}
+
+async function consultarProviders(placa) {
+  const tentativas = [];
+
+  const http = await providerHttpGenerico(placa);
+  if (http) {
+    tentativas.push(http);
+    if (http.encontrado) return { resposta: http, tentativas };
+  }
+
+  const local = providerLocalDemo(placa);
+  if (local) {
+    tentativas.push(local);
+    if (local.encontrado) return { resposta: local, tentativas };
+  }
+
+  return {
+    resposta: respostaVazia(placa, 'sem-provider-com-dados', [
+      'Nenhum provider encontrou dados para esta placa.',
+      'Configure PLACA_API_URL no Render ou salve a placa manualmente em /api/placa/cache.'
+    ]),
+    tentativas
+  };
+}
+
+async function consultarPlaca(placaEntrada, opcoes = {}) {
   garantirBanco();
   const placa = limparPlaca(placaEntrada);
 
@@ -167,44 +356,62 @@ async function consultarPlaca(placaEntrada) {
     };
   }
 
-  const cache = lerJSON(cachePath, []);
-  const item = cache.find(v => limparPlaca(v.placa) === placa);
-
-  if (item && item.resposta) {
-    registrarHistorico(placa, 'cache-local', true);
-    return {
-      ...item.resposta,
-      origem: 'cache-local',
-      cache: true
-    };
+  if (!opcoes.forcar) {
+    const cache = buscarNoCache(placa);
+    if (cache) {
+      registrarHistorico(placa, 'cache-local', true);
+      return cache;
+    }
   }
 
-  const dados = modeloPorPlaca(placa);
-  const resposta = montarRespostaPlaca(placa, dados, 'base-local-simulada');
+  const { resposta, tentativas } = await consultarProviders(placa);
 
-  cache.unshift({
-    placa,
-    resposta,
-    criadoEm: new Date().toISOString(),
-    atualizadoEm: new Date().toISOString()
-  });
-
-  salvarJSON(cachePath, cache.slice(0, 1000));
-  registrarHistorico(placa, 'base-local-simulada', true);
-
-  return {
+  const final = {
     ...resposta,
-    cache: false
+    debug: {
+      tentativas: tentativas.map(t => ({
+        provider: t.provider || t.origem,
+        encontrado: t.encontrado,
+        confianca: t.confianca
+      }))
+    }
   };
+
+  if (final.encontrado) salvarNoCache(placa, final);
+  registrarHistorico(placa, final.provider || final.origem, final.encontrado);
+
+  return final;
 }
 
 function historicoPlacas(limite = 50) {
   return lerJSON(historicoPath, []).slice(0, limite);
 }
 
+function diagnosticoProvidersPlaca() {
+  return {
+    cacheLocal: true,
+    providerHttp: Boolean(process.env.PLACA_API_URL),
+    providerHttpUrlConfigurada: Boolean(process.env.PLACA_API_URL),
+    providerHttpTokenConfigurado: Boolean(process.env.PLACA_API_TOKEN || process.env.PLACA_API_KEY),
+    providerLocalDemo: true,
+    ordem: [
+      'cache-local',
+      'provider-http (se PLACA_API_URL estiver configurada)',
+      'provider-local-demo',
+      'sem-provider-com-dados'
+    ],
+    variaveisRender: [
+      'PLACA_API_URL',
+      'PLACA_API_TOKEN ou PLACA_API_KEY'
+    ]
+  };
+}
+
 module.exports = {
   consultarPlaca,
   historicoPlacas,
   limparPlaca,
-  placaValida
+  placaValida,
+  diagnosticoProvidersPlaca,
+  salvarPlacaManual
 };
