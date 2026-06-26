@@ -22,6 +22,42 @@ function intersecao(a = [], b = []) {
   return b.filter(x => set.has(x));
 }
 
+function termosTecnicosIgnorar() {
+  return new Set([
+    'DE','DA','DO','DAS','DOS','PARA','COM','SEM','E','A','O','AS','OS',
+    'NOVO','NOVA','USADO','USADA','RECUPERADO','RECUPERADA',
+    'DIREITO','DIREITA','ESQUERDO','ESQUERDA','PAR','DIANTEIRO','DIANTEIRA','TRASEIRO','TRASEIRA',
+    'FAROL','LANTERNA','PARACHOQUE','PÁRA-CHOQUE','PARALAMA','PÁRA-LAMA','CAPO','CAPÔ','RADIADOR',
+    'RETROVISOR','GRADE','PAINEL','ALMA','CONDENSADOR','VENTOINHA','CARTER','CÁRTER','PORTA',
+    'MOTOR','CAMBIO','CÂMBIO','MANUAL','AUTOMATICO','AUTOMÁTICO','FLEX','GASOLINA','DIESEL'
+  ]);
+}
+
+function extrairTermosVeiculo(query) {
+  const q = normalizarTexto(query);
+  const anos = extrairAnos(q).map(String);
+  const ignorar = termosTecnicosIgnorar();
+  return tokens(q)
+    .filter(t => t.length >= 2)
+    .filter(t => !anos.includes(t))
+    .filter(t => !ignorar.has(t));
+}
+
+function coletarTermosModelos(app) {
+  const out = new Set();
+  for (const modelo of app.modelos || []) {
+    for (const t of tokens(normalizarTexto(modelo))) {
+      if (t.length >= 2) out.add(t);
+    }
+  }
+  for (const marca of app.marcas || []) {
+    for (const t of tokens(normalizarTexto(marca))) {
+      if (t.length >= 2) out.add(t);
+    }
+  }
+  return [...out];
+}
+
 function pontuarAplicacao(query, app) {
   const q = normalizarTexto(query);
   const qt = tokens(q);
@@ -29,57 +65,126 @@ function pontuarAplicacao(query, app) {
   const ladoQuery = detectarLado(q);
   const posQuery = detectarPosicao(q);
   const pecaQuery = detectarPeca(q);
+  const termosVeiculo = extrairTermosVeiculo(q);
+  const termosApp = coletarTermosModelos(app);
+
   let score = 0;
   const motivos = [];
 
   let acertouPeca = false;
   for (const peca of app.pecas || []) {
     const np = normalizarTexto(peca);
-    if (np && q.includes(np)) { score += 40; motivos.push(`Peça identificada: ${peca}`); acertouPeca = true; break; }
+    if (np && q.includes(np)) {
+      score += 28;
+      motivos.push(`Peça identificada: ${peca}`);
+      acertouPeca = true;
+      break;
+    }
   }
-  if (pecaQuery && !acertouPeca) score -= 18;
+
+  if (pecaQuery && !acertouPeca) {
+    score -= 45;
+    motivos.push('Peça pesquisada não bate com esta aplicação');
+  }
 
   let melhorModelo = '';
-  let modeloHitsTotal = 0;
+  let melhorHits = 0;
+  let modeloExato = false;
+
   for (const modelo of app.modelos || []) {
     const nm = normalizarTexto(modelo);
     const partes = tokens(nm);
-    if (contemFrase(q, modelo)) { score += 40; melhorModelo = modelo; motivos.push(`Modelo identificado: ${modelo}`); break; }
+    if (!partes.length) continue;
+
+    if (contemFrase(q, modelo)) {
+      score += 48;
+      melhorModelo = modelo;
+      melhorHits = partes.length;
+      modeloExato = true;
+      motivos.push(`Modelo identificado: ${modelo}`);
+      break;
+    }
+
     const hits = intersecao(partes, qt).length;
-    modeloHitsTotal = Math.max(modeloHitsTotal, hits);
-    if (hits && hits === partes.length) { score += 32; melhorModelo = modelo; motivos.push(`Modelo aproximado: ${modelo}`); break; }
-    if (hits) score += Math.min(20, hits * 8);
+    if (hits > melhorHits) {
+      melhorHits = hits;
+      melhorModelo = modelo;
+    }
   }
-  if (!melhorModelo && modeloHitsTotal === 0 && qt.length >= 2) score -= 8;
+
+  if (!modeloExato && melhorHits > 0) {
+    const modeloTokens = tokens(normalizarTexto(melhorModelo));
+    const proporcao = modeloTokens.length ? melhorHits / modeloTokens.length : 0;
+    if (proporcao >= 0.8) {
+      score += 34;
+      motivos.push(`Modelo aproximado: ${melhorModelo}`);
+    } else {
+      score += Math.min(18, melhorHits * 7);
+      motivos.push(`Termos compatíveis com modelo: ${melhorHits}`);
+    }
+  }
+
+  const termosVeiculoReconhecidos = intersecao(termosVeiculo, termosApp);
+  const termosVeiculoDesconhecidos = termosVeiculo.filter(t => !termosApp.includes(t));
+
+  if (termosVeiculo.length) {
+    if (termosVeiculoReconhecidos.length) {
+      score += Math.min(18, termosVeiculoReconhecidos.length * 8);
+      motivos.push(`Termos do veículo reconhecidos: ${termosVeiculoReconhecidos.join(', ')}`);
+    }
+
+    if (termosVeiculoDesconhecidos.length) {
+      const penalidade = termosVeiculoDesconhecidos.length * 22;
+      score -= penalidade;
+      motivos.push(`Termos do veículo não batem: ${termosVeiculoDesconhecidos.join(', ')}`);
+    }
+  }
 
   for (const marca of app.marcas || []) {
-    if (contemFrase(q, marca)) { score += 8; motivos.push(`Marca: ${marca}`); break; }
+    if (contemFrase(q, marca)) {
+      score += 14;
+      motivos.push(`Marca: ${marca}`);
+      break;
+    }
   }
 
   if (anosQuery.length) {
     const matchAno = anosQuery.some(a => (app.anos || []).includes(a));
-    if (matchAno) { score += 20; motivos.push(`Ano compatível: ${anosQuery.join(', ')}`); }
-    else { score -= 35; motivos.push(`Ano fora da faixa conhecida (${faixaAnos(app.anos)})`); }
+    if (matchAno) {
+      score += 12;
+      motivos.push(`Ano compatível: ${anosQuery.join(', ')}`);
+    } else {
+      score -= 30;
+      motivos.push(`Ano fora da faixa conhecida (${faixaAnos(app.anos)})`);
+    }
   }
 
   if (ladoQuery) {
     const lados = app.lados || [];
     if (lados.includes(ladoQuery) || (ladoQuery === 'PAR' && lados.filter(l => l !== 'N/D').length >= 2)) {
-      score += 7;
+      score += 5;
       motivos.push(`Lado compatível: ${ladoQuery}`);
-    } else score -= 6;
+    } else score -= 8;
   }
 
   if (posQuery) {
-    if ((app.posicoes || []).includes(posQuery)) { score += 5; motivos.push(`Posição compatível: ${posQuery}`); }
-    else score -= 4;
+    if ((app.posicoes || []).includes(posQuery)) {
+      score += 4;
+      motivos.push(`Posição compatível: ${posQuery}`);
+    } else score -= 6;
   }
 
-  if (score >= 72 && melhorModelo) score += Math.round((app.confiancaBase || 75) * 0.06);
-  else score += Math.round((app.confiancaBase || 75) * 0.03);
+  if (termosVeiculo.length && !termosVeiculoReconhecidos.length) {
+    score -= 28;
+    motivos.push('Nenhum termo do veículo pesquisado bateu com esta aplicação');
+  }
+
+  if (acertouPeca && (modeloExato || termosVeiculoReconhecidos.length >= 1)) {
+    score += Math.round((app.confiancaBase || 75) * 0.05);
+  }
 
   score = Math.max(0, Math.min(100, Math.round(score)));
-  return { score, motivos, melhorModelo };
+  return { score, motivos, melhorModelo: modeloExato || melhorHits ? melhorModelo : '' };
 }
 
 function buscarBaseTecnica(query, limite = 8) {
@@ -89,7 +194,7 @@ function buscarBaseTecnica(query, limite = 8) {
       const p = pontuarAplicacao(query, app);
       return { ...app, score: p.score, motivos: p.motivos, melhorModelo: p.melhorModelo };
     })
-    .filter(r => r.score >= 35)
+    .filter(r => r.score >= 55)
     .sort((a, b) => b.score - a.score)
     .slice(0, limite);
   return resultados;
@@ -105,7 +210,7 @@ function sugestoesCadastro(query) {
   return { peca, anos, lado, posicao, termosRestantes: t };
 }
 
-function montarResposta(query, resultados, version = '4.2.0-alampe-tecnico') {
+function montarResposta(query, resultados, version = '4.4.4-score-veiculo') {
   const melhor = resultados[0] || null;
   if (!melhor) {
     const sugestao = sugestoesCadastro(query);
@@ -121,13 +226,13 @@ function montarResposta(query, resultados, version = '4.2.0-alampe-tecnico') {
       lados: sugestao.lado ? [sugestao.lado] : [],
       fabricantes: [],
       relacionadas: [],
-      observacoes: ['Nenhuma aplicação encontrada na base técnica Alampe.', 'Sugestão: cadastre esta aplicação na base para ela ficar disponível para todos.'],
+      observacoes: ['Nenhuma aplicação encontrada com confiança suficiente na base técnica Alampe.', 'Sugestão: cadastre esta aplicação na base para ela ficar disponível para todos.'],
       sugestaoCadastro: sugestao,
       resultados: []
     };
   }
 
-  const confianca = melhor.score >= 82 ? 'alta' : melhor.score >= 58 ? 'media' : 'baixa';
+  const confianca = melhor.score >= 82 ? 'alta' : melhor.score >= 65 ? 'media' : 'baixa';
   return {
     ok: true,
     version,
