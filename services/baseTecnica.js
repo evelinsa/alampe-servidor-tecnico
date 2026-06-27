@@ -210,7 +210,59 @@ function sugestoesCadastro(query) {
   return { peca, anos, lado, posicao, termosRestantes: t };
 }
 
-function montarResposta(query, resultados, version = '4.4.4-score-veiculo') {
+function temFaixaAnoNoTexto(valor = '') {
+  return /\(?\b(19|20)\d{2}\s*[-/]\s*(19|20)\d{2}\b\)?/.test(String(valor || ''));
+}
+
+function primeiroValor(lista = []) {
+  return Array.isArray(lista) && lista.length ? lista[0] : '';
+}
+
+function limparModeloParaExibir(modelo = '') {
+  return String(modelo || '')
+    .replace(/\s+/g, ' ')
+    .trim()
+    .toUpperCase();
+}
+
+function modeloPrincipal(app) {
+  return limparModeloParaExibir(app.melhorModelo || primeiroValor(app.modelos) || '');
+}
+
+function marcaPrincipal(app) {
+  return limparModeloParaExibir(primeiroValor(app.marcas) || '');
+}
+
+function faixaAnosExibicao(app) {
+  const f = faixaAnos(app.anos || []);
+  return f ? `(${f})` : '';
+}
+
+function modeloComMarcaEAno(app) {
+  const marca = marcaPrincipal(app);
+  const modelo = modeloPrincipal(app);
+  const faixa = faixaAnosExibicao(app);
+
+  let base = [marca, modelo].filter(Boolean).join(' ').trim();
+
+  if (!base) base = modelo || marca || '';
+
+  const modeloJaTemMarca = marca && modelo && modelo.startsWith(marca + ' ');
+  if (modeloJaTemMarca) base = modelo;
+
+  if (base && faixa && !temFaixaAnoNoTexto(base)) base = `${base} ${faixa}`;
+
+  return base.replace(/\s+/g, ' ').trim();
+}
+
+function tituloComPeca(app) {
+  const peca = limparModeloParaExibir(primeiroValor(app.pecas) || 'PEÇA');
+  const aplicacao = modeloComMarcaEAno(app);
+  return [peca, aplicacao].filter(Boolean).join(' ').trim();
+}
+
+
+function montarResposta(query, resultados, version = '4.4.5-visual-aplicacao') {
   const melhor = resultados[0] || null;
   if (!melhor) {
     const sugestao = sugestoesCadastro(query);
@@ -250,14 +302,14 @@ function montarResposta(query, resultados, version = '4.4.4-score-veiculo') {
       confianca,
       score: melhor.score
     },
-    aplicacoes: resultados.map(r => `${(r.pecas || [])[0] || 'PEÇA'} ${r.melhorModelo || (r.modelos || [])[0] || ''} ${faixaAnos(r.anos)}`.trim()),
+    aplicacoes: resultados.map(r => modeloComMarcaEAno(r)),
     lados: melhor.lados || [],
     fabricantes: melhor.fabricantes || [],
     relacionadas: melhor.relacionadas || [],
     observacoes: melhor.observacoes || [],
     resultados: resultados.map(r => ({
-      titulo: `${(r.pecas || [])[0] || 'PEÇA'} ${r.melhorModelo || (r.modelos || [])[0] || ''}`.trim(),
-      aplicacao: `${(r.modelos || []).join(' / ')} ${faixaAnos(r.anos)}`.trim(),
+      titulo: tituloComPeca(r),
+      aplicacao: modeloComMarcaEAno(r),
       anos: r.anos || [],
       lados: r.lados || [],
       posicoes: r.posicoes || [],
