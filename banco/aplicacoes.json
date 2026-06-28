@@ -43,9 +43,17 @@
     ],
     "observacoes": [
       "Confirmar se o cliente precisa lado direito ou esquerdo.",
-      "Classic possui variações por ano e versão."
+      "Classic possui variações por ano e versão.",
+      "Lâmpadas cadastradas como referência. Confirmar versão e presença de farol de milha antes da venda."
     ],
-    "confiancaBase": 92
+    "confiancaBase": 92,
+    "lampadas": {
+      "baixa": "H4",
+      "alta": "H4",
+      "milha": "H3",
+      "lanterna": "W5W",
+      "pisca": "PY21W"
+    }
   },
   {
     "id": "farol-gol-g5-2009-2012",
@@ -88,9 +96,17 @@
       "PARACHOQUE DIANTEIRO"
     ],
     "observacoes": [
-      "Aplicação comum para Gol/Voyage G5. Confirmar modelo e lado."
+      "Aplicação comum para Gol/Voyage G5. Confirmar modelo e lado.",
+      "Gol/Voyage G5 pode variar entre farol foco simples e foco duplo. Confirmar pelo farol do veículo."
     ],
-    "confiancaBase": 91
+    "confiancaBase": 91,
+    "lampadas": {
+      "baixa": "H4",
+      "alta": "H4",
+      "milha": "HB4",
+      "lanterna": "W5W",
+      "pisca": "PY21W"
+    }
   },
   {
     "id": "paralama-fiesta-2003-2007",
@@ -128,9 +144,17 @@
       "PARACHOQUE DIANTEIRO"
     ],
     "observacoes": [
-      "Confirmar lado e geração do Fiesta antes da venda."
+      "Confirmar lado e geração do Fiesta antes da venda.",
+      "Fiesta pode variar por geração e versão. Confirmar pelo farol do veículo."
     ],
-    "confiancaBase": 88
+    "confiancaBase": 88,
+    "lampadas": {
+      "baixa": "H4",
+      "alta": "H4",
+      "milha": "H3",
+      "lanterna": "W5W",
+      "pisca": "PY21W"
+    }
   },
   {
     "id": "capo-hb20-2012-2019",
@@ -172,9 +196,17 @@
       "FAROL"
     ],
     "observacoes": [
-      "Confirmar geração e se é hatch ou sedan quando aplicável."
+      "Confirmar geração e se é hatch ou sedan quando aplicável.",
+      "HB20/HB20S pode variar entre hatch/sedan e versão. Confirmar pelo farol instalado."
     ],
-    "confiancaBase": 88
+    "confiancaBase": 88,
+    "lampadas": {
+      "baixa": "H4",
+      "alta": "H4",
+      "milha": "H8 / H11",
+      "lanterna": "W5W",
+      "pisca": "PY21W"
+    }
   },
   {
     "id": "farol-onix-2020-2023",
@@ -213,9 +245,17 @@
       "PARACHOQUE DIANTEIRO"
     ],
     "observacoes": [
-      "Confirmar se usa farol halógeno ou projetor conforme versão."
+      "Confirmar se usa farol halógeno ou projetor conforme versão.",
+      "Onix/Onix Plus pode variar por versão do farol. Confirmar se é halógeno/projetor."
     ],
-    "confiancaBase": 86
+    "confiancaBase": 86,
+    "lampadas": {
+      "baixa": "H7",
+      "alta": "H1",
+      "milha": "H11",
+      "lanterna": "W5W",
+      "pisca": "PY21W"
+    }
   },
   {
     "id": "parachoque-onix-2020-2023",
@@ -254,9 +294,17 @@
       "ALMA DO PARACHOQUE"
     ],
     "observacoes": [
-      "Confirmar posição dianteira ou traseira e versão do veículo."
+      "Confirmar posição dianteira ou traseira e versão do veículo.",
+      "Onix/Onix Plus pode variar por versão do farol. Confirmar se é halógeno/projetor."
     ],
-    "confiancaBase": 84
+    "confiancaBase": 84,
+    "lampadas": {
+      "baixa": "H7",
+      "alta": "H1",
+      "milha": "H11",
+      "lanterna": "W5W",
+      "pisca": "PY21W"
+    }
   },
   {
     "id": "retrovisor-gol-g5-2009-2012",
@@ -295,9 +343,17 @@
       "VIDRO DO RETROVISOR"
     ],
     "observacoes": [
-      "Confirmar se é manual ou elétrico."
+      "Confirmar se é manual ou elétrico.",
+      "Gol/Voyage G5 pode variar entre farol foco simples e foco duplo. Confirmar pelo farol do veículo."
     ],
-    "confiancaBase": 82
+    "confiancaBase": 82,
+    "lampadas": {
+      "baixa": "H4 / H7",
+      "alta": "H4 / H1",
+      "milha": "HB4",
+      "lanterna": "W5W",
+      "pisca": "PY21W"
+    }
   },
   {
     "id": "lanterna-classic-2003-2010",
@@ -341,9 +397,17 @@
       "PARACHOQUE TRASEIRO"
     ],
     "observacoes": [
-      "Confirmar lado e ano."
+      "Confirmar lado e ano.",
+      "Lâmpadas cadastradas como referência. Confirmar versão e presença de farol de milha antes da venda."
     ],
-    "confiancaBase": 87
+    "confiancaBase": 87,
+    "lampadas": {
+      "baixa": "H4",
+      "alta": "H4",
+      "milha": "H3",
+      "lanterna": "W5W",
+      "pisca": "PY21W"
+    }
   },
   {
     "id": "farol-corsa-1994-2002",
@@ -390,9 +454,17 @@
       "GRADE"
     ],
     "observacoes": [
-      "Confirmar modelo antigo/novo e lado."
+      "Confirmar modelo antigo/novo e lado.",
+      "Lâmpadas cadastradas como referência. Confirmar versão e presença de farol de milha antes da venda."
     ],
-    "confiancaBase": 86
+    "confiancaBase": 86,
+    "lampadas": {
+      "baixa": "H4",
+      "alta": "H4",
+      "milha": "H3",
+      "lanterna": "W5W",
+      "pisca": "PY21W"
+    }
   },
   {
     "id": "parachoque-classic-2003-2010",
@@ -437,9 +509,17 @@
       "LANTERNA"
     ],
     "observacoes": [
-      "Confirmar se é dianteiro ou traseiro."
+      "Confirmar se é dianteiro ou traseiro.",
+      "Lâmpadas cadastradas como referência. Confirmar versão e presença de farol de milha antes da venda."
     ],
-    "confiancaBase": 84
+    "confiancaBase": 84,
+    "lampadas": {
+      "baixa": "H4",
+      "alta": "H4",
+      "milha": "H3",
+      "lanterna": "W5W",
+      "pisca": "PY21W"
+    }
   },
   {
     "id": "capo-classic-2003-2010",
@@ -482,9 +562,17 @@
       "PARACHOQUE DIANTEIRO"
     ],
     "observacoes": [
-      "Confirmar ano e frente do veículo."
+      "Confirmar ano e frente do veículo.",
+      "Lâmpadas cadastradas como referência. Confirmar versão e presença de farol de milha antes da venda."
     ],
-    "confiancaBase": 86
+    "confiancaBase": 86,
+    "lampadas": {
+      "baixa": "H4",
+      "alta": "H4",
+      "milha": "H3",
+      "lanterna": "W5W",
+      "pisca": "PY21W"
+    }
   },
   {
     "id": "farol-hb20-2012-2019",
@@ -527,9 +615,17 @@
       "CAPO"
     ],
     "observacoes": [
-      "Confirmar se é hatch ou sedan e versão."
+      "Confirmar se é hatch ou sedan e versão.",
+      "HB20/HB20S pode variar entre hatch/sedan e versão. Confirmar pelo farol instalado."
     ],
-    "confiancaBase": 86
+    "confiancaBase": 86,
+    "lampadas": {
+      "baixa": "H4",
+      "alta": "H4",
+      "milha": "H8 / H11",
+      "lanterna": "W5W",
+      "pisca": "PY21W"
+    }
   },
   {
     "id": "lanterna-hb20-2012-2019",
@@ -570,9 +666,17 @@
       "PARACHOQUE TRASEIRO"
     ],
     "observacoes": [
-      "Confirmar hatch/sedan porque a lanterna muda."
+      "Confirmar hatch/sedan porque a lanterna muda.",
+      "HB20/HB20S pode variar entre hatch/sedan e versão. Confirmar pelo farol instalado."
     ],
-    "confiancaBase": 85
+    "confiancaBase": 85,
+    "lampadas": {
+      "baixa": "H4",
+      "alta": "H4",
+      "milha": "H8 / H11",
+      "lanterna": "W5W",
+      "pisca": "PY21W"
+    }
   },
   {
     "id": "parachoque-hb20-2012-2019",
@@ -615,9 +719,17 @@
       "FAROL"
     ],
     "observacoes": [
-      "Confirmar dianteiro/traseiro e versão."
+      "Confirmar dianteiro/traseiro e versão.",
+      "HB20/HB20S pode variar entre hatch/sedan e versão. Confirmar pelo farol instalado."
     ],
-    "confiancaBase": 84
+    "confiancaBase": 84,
+    "lampadas": {
+      "baixa": "H4",
+      "alta": "H4",
+      "milha": "H8 / H11",
+      "lanterna": "W5W",
+      "pisca": "PY21W"
+    }
   },
   {
     "id": "paralama-hb20-2012-2019",
@@ -659,9 +771,17 @@
       "PARACHOQUE DIANTEIRO"
     ],
     "observacoes": [
-      "Confirmar lado."
+      "Confirmar lado.",
+      "HB20/HB20S pode variar entre hatch/sedan e versão. Confirmar pelo farol instalado."
     ],
-    "confiancaBase": 84
+    "confiancaBase": 84,
+    "lampadas": {
+      "baixa": "H4",
+      "alta": "H4",
+      "milha": "H8 / H11",
+      "lanterna": "W5W",
+      "pisca": "PY21W"
+    }
   },
   {
     "id": "capo-onix-2020-2023",
@@ -700,9 +820,17 @@
       "PARACHOQUE DIANTEIRO"
     ],
     "observacoes": [
-      "Confirmar se é Onix hatch ou Onix Plus."
+      "Confirmar se é Onix hatch ou Onix Plus.",
+      "Onix/Onix Plus pode variar por versão do farol. Confirmar se é halógeno/projetor."
     ],
-    "confiancaBase": 85
+    "confiancaBase": 85,
+    "lampadas": {
+      "baixa": "H7",
+      "alta": "H1",
+      "milha": "H11",
+      "lanterna": "W5W",
+      "pisca": "PY21W"
+    }
   },
   {
     "id": "lanterna-onix-2020-2023",
@@ -741,9 +869,17 @@
       "PARACHOQUE TRASEIRO"
     ],
     "observacoes": [
-      "Confirmar hatch/sedan e lado."
+      "Confirmar hatch/sedan e lado.",
+      "Onix/Onix Plus pode variar por versão do farol. Confirmar se é halógeno/projetor."
     ],
-    "confiancaBase": 85
+    "confiancaBase": 85,
+    "lampadas": {
+      "baixa": "H7",
+      "alta": "H1",
+      "milha": "H11",
+      "lanterna": "W5W",
+      "pisca": "PY21W"
+    }
   },
   {
     "id": "farol-palio-2004-2017",
@@ -794,9 +930,17 @@
       "PARACHOQUE DIANTEIRO"
     ],
     "observacoes": [
-      "Confirmar geração/ano e lado."
+      "Confirmar geração/ano e lado.",
+      "Palio/Siena/Strada/Weekend pode variar por frente/geração. Confirmar ano e farol."
     ],
-    "confiancaBase": 82
+    "confiancaBase": 82,
+    "lampadas": {
+      "baixa": "H4",
+      "alta": "H4",
+      "milha": "H1",
+      "lanterna": "W5W",
+      "pisca": "PY21W"
+    }
   },
   {
     "id": "parachoque-gol-g5-2009-2012",
@@ -839,9 +983,17 @@
       "FAROL"
     ],
     "observacoes": [
-      "Confirmar se é dianteiro ou traseiro."
+      "Confirmar se é dianteiro ou traseiro.",
+      "Gol/Voyage G5 pode variar entre farol foco simples e foco duplo. Confirmar pelo farol do veículo."
     ],
-    "confiancaBase": 84
+    "confiancaBase": 84,
+    "lampadas": {
+      "baixa": "H4 / H7",
+      "alta": "H4 / H1",
+      "milha": "HB4",
+      "lanterna": "W5W",
+      "pisca": "PY21W"
+    }
   },
   {
     "id": "capo-gol-g5-2009-2012",
@@ -882,9 +1034,17 @@
       "PARACHOQUE DIANTEIRO"
     ],
     "observacoes": [
-      "Confirmar geração do Gol/Voyage."
+      "Confirmar geração do Gol/Voyage.",
+      "Gol/Voyage G5 pode variar entre farol foco simples e foco duplo. Confirmar pelo farol do veículo."
     ],
-    "confiancaBase": 84
+    "confiancaBase": 84,
+    "lampadas": {
+      "baixa": "H4 / H7",
+      "alta": "H4 / H1",
+      "milha": "HB4",
+      "lanterna": "W5W",
+      "pisca": "PY21W"
+    }
   },
   {
     "id": "farol-punto-elx-2008-2012",
@@ -923,9 +1083,17 @@
       "LAMPADA H7"
     ],
     "observacoes": [
-      "Confirmar lado."
+      "Confirmar lado.",
+      "Confirmar versão do Punto e se possui farol de milha."
     ],
-    "confiancaBase": 95
+    "confiancaBase": 95,
+    "lampadas": {
+      "baixa": "H7",
+      "alta": "H1",
+      "milha": "H11",
+      "lanterna": "W5W",
+      "pisca": "PY21W"
+    }
   },
   {
     "id": "farol-palio-g4-2008-2012",
@@ -960,8 +1128,17 @@
       "GRADE",
       "PARACHOQUE"
     ],
-    "observacoes": [],
-    "confiancaBase": 92
+    "observacoes": [
+      "Palio/Siena/Strada/Weekend pode variar por frente/geração. Confirmar ano e farol."
+    ],
+    "confiancaBase": 92,
+    "lampadas": {
+      "baixa": "H4",
+      "alta": "H4",
+      "milha": "H1",
+      "lanterna": "W5W",
+      "pisca": "PY21W"
+    }
   },
   {
     "id": "farol-gol-g5-2009-2012-v2",
@@ -995,7 +1172,16 @@
     "relacionadas": [
       "GRADE"
     ],
-    "observacoes": [],
-    "confiancaBase": 94
+    "observacoes": [
+      "Gol/Voyage G5 pode variar entre farol foco simples e foco duplo. Confirmar pelo farol do veículo."
+    ],
+    "confiancaBase": 94,
+    "lampadas": {
+      "baixa": "H4 / H7",
+      "alta": "H4 / H1",
+      "milha": "HB4",
+      "lanterna": "W5W",
+      "pisca": "PY21W"
+    }
   }
 ]
