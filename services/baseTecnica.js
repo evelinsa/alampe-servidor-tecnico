@@ -27,9 +27,9 @@ function termosTecnicosIgnorar() {
     'DE','DA','DO','DAS','DOS','PARA','COM','SEM','E','A','O','AS','OS',
     'NOVO','NOVA','USADO','USADA','RECUPERADO','RECUPERADA',
     'DIREITO','DIREITA','ESQUERDO','ESQUERDA','PAR','DIANTEIRO','DIANTEIRA','TRASEIRO','TRASEIRA',
-    'FAROL','LANTERNA','PARACHOQUE','PÁRA-CHOQUE','PARALAMA','PÁRA-LAMA','CAPO','CAPÔ','RADIADOR',
-    'RETROVISOR','GRADE','PAINEL','ALMA','CONDENSADOR','VENTOINHA','CARTER','CÁRTER','PORTA',
-    'MOTOR','CAMBIO','CÂMBIO','MANUAL','AUTOMATICO','AUTOMÁTICO','FLEX','GASOLINA','DIESEL'
+    'FAROL','LANTERNA','PARACHOQUE','PÃRA-CHOQUE','PARALAMA','PÃRA-LAMA','CAPO','CAPÃ”','RADIADOR',
+    'RETROVISOR','GRADE','PAINEL','ALMA','CONDENSADOR','VENTOINHA','CARTER','CÃRTER','PORTA',
+    'MOTOR','CAMBIO','CÃ‚MBIO','MANUAL','AUTOMATICO','AUTOMÃTICO','FLEX','GASOLINA','DIESEL'
   ]);
 }
 
@@ -76,7 +76,7 @@ function pontuarAplicacao(query, app) {
     const np = normalizarTexto(peca);
     if (np && q.includes(np)) {
       score += 28;
-      motivos.push(`Peça identificada: ${peca}`);
+      motivos.push(`PeÃ§a identificada: ${peca}`);
       acertouPeca = true;
       break;
     }
@@ -84,7 +84,7 @@ function pontuarAplicacao(query, app) {
 
   if (pecaQuery && !acertouPeca) {
     score -= 45;
-    motivos.push('Peça pesquisada não bate com esta aplicação');
+    motivos.push('PeÃ§a pesquisada nÃ£o bate com esta aplicaÃ§Ã£o');
   }
 
   let melhorModelo = '';
@@ -120,7 +120,7 @@ function pontuarAplicacao(query, app) {
       motivos.push(`Modelo aproximado: ${melhorModelo}`);
     } else {
       score += Math.min(18, melhorHits * 7);
-      motivos.push(`Termos compatíveis com modelo: ${melhorHits}`);
+      motivos.push(`Termos compatÃ­veis com modelo: ${melhorHits}`);
     }
   }
 
@@ -130,13 +130,13 @@ function pontuarAplicacao(query, app) {
   if (termosVeiculo.length) {
     if (termosVeiculoReconhecidos.length) {
       score += Math.min(18, termosVeiculoReconhecidos.length * 8);
-      motivos.push(`Termos do veículo reconhecidos: ${termosVeiculoReconhecidos.join(', ')}`);
+      motivos.push(`Termos do veÃ­culo reconhecidos: ${termosVeiculoReconhecidos.join(', ')}`);
     }
 
     if (termosVeiculoDesconhecidos.length) {
       const penalidade = termosVeiculoDesconhecidos.length * 22;
       score -= penalidade;
-      motivos.push(`Termos do veículo não batem: ${termosVeiculoDesconhecidos.join(', ')}`);
+      motivos.push(`Termos do veÃ­culo nÃ£o batem: ${termosVeiculoDesconhecidos.join(', ')}`);
     }
   }
 
@@ -152,7 +152,7 @@ function pontuarAplicacao(query, app) {
     const matchAno = anosQuery.some(a => (app.anos || []).includes(a));
     if (matchAno) {
       score += 12;
-      motivos.push(`Ano compatível: ${anosQuery.join(', ')}`);
+      motivos.push(`Ano compatÃ­vel: ${anosQuery.join(', ')}`);
     } else {
       score -= 30;
       motivos.push(`Ano fora da faixa conhecida (${faixaAnos(app.anos)})`);
@@ -163,20 +163,20 @@ function pontuarAplicacao(query, app) {
     const lados = app.lados || [];
     if (lados.includes(ladoQuery) || (ladoQuery === 'PAR' && lados.filter(l => l !== 'N/D').length >= 2)) {
       score += 5;
-      motivos.push(`Lado compatível: ${ladoQuery}`);
+      motivos.push(`Lado compatÃ­vel: ${ladoQuery}`);
     } else score -= 8;
   }
 
   if (posQuery) {
     if ((app.posicoes || []).includes(posQuery)) {
       score += 4;
-      motivos.push(`Posição compatível: ${posQuery}`);
+      motivos.push(`PosiÃ§Ã£o compatÃ­vel: ${posQuery}`);
     } else score -= 6;
   }
 
   if (termosVeiculo.length && !termosVeiculoReconhecidos.length) {
     score -= 28;
-    motivos.push('Nenhum termo do veículo pesquisado bateu com esta aplicação');
+    motivos.push('Nenhum termo do veÃ­culo pesquisado bateu com esta aplicaÃ§Ã£o');
   }
 
   if (acertouPeca && (modeloExato || termosVeiculoReconhecidos.length >= 1)) {
@@ -256,7 +256,7 @@ function modeloComMarcaEAno(app) {
 }
 
 function tituloComPeca(app) {
-  const peca = limparModeloParaExibir(primeiroValor(app.pecas) || 'PEÇA');
+  const peca = limparModeloParaExibir(primeiroValor(app.pecas) || 'PEÃ‡A');
   const aplicacao = modeloComMarcaEAno(app);
   return [peca, aplicacao].filter(Boolean).join(' ').trim();
 }
@@ -278,7 +278,7 @@ function montarResposta(query, resultados, version = '4.4.5-visual-aplicacao') {
       lados: sugestao.lado ? [sugestao.lado] : [],
       fabricantes: [],
       relacionadas: [],
-      observacoes: ['Nenhuma aplicação encontrada com confiança suficiente na base técnica Alampe.', 'Sugestão: cadastre esta aplicação na base para ela ficar disponível para todos.'],
+      observacoes: ['Nenhuma aplicaÃ§Ã£o encontrada com confianÃ§a suficiente na base tÃ©cnica Alampe.', 'SugestÃ£o: cadastre esta aplicaÃ§Ã£o na base para ela ficar disponÃ­vel para todos.'],
       sugestaoCadastro: sugestao,
       resultados: []
     };
@@ -319,7 +319,7 @@ function montarResposta(query, resultados, version = '4.4.5-visual-aplicacao') {
       relacionadas: r.relacionadas || [],
       score: r.score,
       motivos: r.motivos || [],
-      fonte: 'Base Técnica Alampe'
+      fonte: 'Base TÃ©cnica Alampe'
     }))
   };
 }
@@ -352,7 +352,7 @@ function adicionarAplicacao(dados) {
 }
 
 function importarAplicacoes(lista = []) {
-  if (!Array.isArray(lista)) throw new Error('Envie uma lista de aplicações.');
+  if (!Array.isArray(lista)) throw new Error('Envie uma lista de aplicaÃ§Ãµes.');
   const salvos = [];
   for (const item of lista) salvos.push(adicionarAplicacao(item));
   return salvos;
