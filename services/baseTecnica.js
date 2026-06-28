@@ -299,6 +299,7 @@ function montarResposta(query, resultados, version = '4.4.5-visual-aplicacao') {
       anos: melhor.anos || [],
       lados: melhor.lados || [],
       posicoes: melhor.posicoes || [],
+      lampadas: melhor.lampadas || {},
       confianca,
       score: melhor.score
     },
@@ -313,6 +314,7 @@ function montarResposta(query, resultados, version = '4.4.5-visual-aplicacao') {
       anos: r.anos || [],
       lados: r.lados || [],
       posicoes: r.posicoes || [],
+      lampadas: r.lampadas || {},
       fabricantes: r.fabricantes || [],
       relacionadas: r.relacionadas || [],
       score: r.score,
@@ -335,6 +337,7 @@ function adicionarAplicacao(dados) {
     anos: (dados.anos || []).map(Number).filter(Boolean),
     lados: dados.lados || ['N/D'],
     posicoes: dados.posicoes || ['N/D'],
+    lampadas: dados.lampadas || {},
     fabricantes: dados.fabricantes || [],
     relacionadas: dados.relacionadas || [],
     observacoes: dados.observacoes || [],
