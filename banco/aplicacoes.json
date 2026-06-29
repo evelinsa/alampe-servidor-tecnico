@@ -17596,6 +17596,10 @@
       {
         "campo": "Atenção",
         "valor": "código do motor, aspiração/turbo e versão"
+      },
+      {
+        "campo": "Conferência obrigatória",
+        "valor": "ano, motor 1.0/1.6, 8V/12V/16V quando aplicável, combustível, câmbio e código do motor"
       }
     ]
   },
@@ -17695,6 +17699,10 @@
       {
         "campo": "Atenção",
         "valor": "código do motor, aspiração/turbo e versão"
+      },
+      {
+        "campo": "Conferência obrigatória",
+        "valor": "ano, motor 1.0/1.6, 8V/12V/16V quando aplicável, combustível, câmbio e código do motor"
       }
     ]
   },
@@ -17792,6 +17800,10 @@
       {
         "campo": "Atenção",
         "valor": "código do motor, aspiração/turbo e versão"
+      },
+      {
+        "campo": "Conferência obrigatória",
+        "valor": "ano, motor 1.0/1.6, 8V/12V/16V quando aplicável, combustível, câmbio e código do motor"
       }
     ]
   },
@@ -17889,6 +17901,10 @@
       {
         "campo": "Atenção",
         "valor": "código do motor, aspiração/turbo e versão"
+      },
+      {
+        "campo": "Conferência obrigatória",
+        "valor": "ano, motor 1.0/1.6, 8V/12V/16V quando aplicável, combustível, câmbio e código do motor"
       }
     ]
   },
@@ -17986,6 +18002,10 @@
       {
         "campo": "Atenção",
         "valor": "código do motor, aspiração/turbo e versão"
+      },
+      {
+        "campo": "Conferência obrigatória",
+        "valor": "ano, motor 1.0/1.6, 8V/12V/16V quando aplicável, combustível, câmbio e código do motor"
       }
     ]
   },
@@ -18087,6 +18107,10 @@
       {
         "campo": "Atenção",
         "valor": "motor, vazão/pressão e modelo da bomba"
+      },
+      {
+        "campo": "Conferência obrigatória",
+        "valor": "ano, motor 1.0/1.6, 8V/12V/16V quando aplicável, combustível, câmbio e código do motor"
       }
     ]
   },
@@ -18188,6 +18212,10 @@
       {
         "campo": "Atenção",
         "valor": "posição do coxim, câmbio manual/automático e lado"
+      },
+      {
+        "campo": "Conferência obrigatória",
+        "valor": "ano, motor 1.0/1.6, 8V/12V/16V quando aplicável, combustível, câmbio e código do motor"
       }
     ]
   },
@@ -19346,6 +19374,10 @@
       {
         "campo": "Atenção",
         "valor": "código do motor, aspiração/turbo e versão"
+      },
+      {
+        "campo": "Conferência obrigatória",
+        "valor": "ano, motor 1.0/1.6, 8V/12V/16V quando aplicável, combustível, câmbio e código do motor"
       }
     ]
   },
@@ -19440,6 +19472,10 @@
       {
         "campo": "Atenção",
         "valor": "código do motor, aspiração/turbo e versão"
+      },
+      {
+        "campo": "Conferência obrigatória",
+        "valor": "ano, motor 1.0/1.6, 8V/12V/16V quando aplicável, combustível, câmbio e código do motor"
       }
     ]
   },
@@ -19532,6 +19568,10 @@
       {
         "campo": "Atenção",
         "valor": "código do motor, aspiração/turbo e versão"
+      },
+      {
+        "campo": "Conferência obrigatória",
+        "valor": "ano, motor 1.0/1.6, 8V/12V/16V quando aplicável, combustível, câmbio e código do motor"
       }
     ]
   },
@@ -19624,6 +19664,10 @@
       {
         "campo": "Atenção",
         "valor": "código do motor, aspiração/turbo e versão"
+      },
+      {
+        "campo": "Conferência obrigatória",
+        "valor": "ano, motor 1.0/1.6, 8V/12V/16V quando aplicável, combustível, câmbio e código do motor"
       }
     ]
   },
@@ -19716,6 +19760,10 @@
       {
         "campo": "Atenção",
         "valor": "código do motor, aspiração/turbo e versão"
+      },
+      {
+        "campo": "Conferência obrigatória",
+        "valor": "ano, motor 1.0/1.6, 8V/12V/16V quando aplicável, combustível, câmbio e código do motor"
       }
     ]
   },
@@ -19812,6 +19860,10 @@
       {
         "campo": "Atenção",
         "valor": "motor, vazão/pressão e modelo da bomba"
+      },
+      {
+        "campo": "Conferência obrigatória",
+        "valor": "ano, motor 1.0/1.6, 8V/12V/16V quando aplicável, combustível, câmbio e código do motor"
       }
     ]
   },
@@ -19908,6 +19960,10 @@
       {
         "campo": "Atenção",
         "valor": "posição do coxim, câmbio manual/automático e lado"
+      },
+      {
+        "campo": "Conferência obrigatória",
+        "valor": "ano, motor 1.0/1.6, 8V/12V/16V quando aplicável, combustível, câmbio e código do motor"
       }
     ]
   },
@@ -21018,6 +21074,10 @@
       {
         "campo": "Atenção",
         "valor": "código do motor, aspiração/turbo e versão"
+      },
+      {
+        "campo": "Conferência obrigatória",
+        "valor": "ano, motor 1.0/1.6, 8V/12V/16V quando aplicável, combustível, câmbio e código do motor"
       }
     ]
   },
@@ -21119,6 +21179,10 @@
       {
         "campo": "Atenção",
         "valor": "código do motor, aspiração/turbo e versão"
+      },
+      {
+        "campo": "Conferência obrigatória",
+        "valor": "ano, motor 1.0/1.6, 8V/12V/16V quando aplicável, combustível, câmbio e código do motor"
       }
     ]
   },
@@ -21218,6 +21282,10 @@
       {
         "campo": "Atenção",
         "valor": "código do motor, aspiração/turbo e versão"
+      },
+      {
+        "campo": "Conferência obrigatória",
+        "valor": "ano, motor 1.0/1.6, 8V/12V/16V quando aplicável, combustível, câmbio e código do motor"
       }
     ]
   },
@@ -21317,6 +21385,10 @@
       {
         "campo": "Atenção",
         "valor": "código do motor, aspiração/turbo e versão"
+      },
+      {
+        "campo": "Conferência obrigatória",
+        "valor": "ano, motor 1.0/1.6, 8V/12V/16V quando aplicável, combustível, câmbio e código do motor"
       }
     ]
   },
@@ -21416,6 +21488,10 @@
       {
         "campo": "Atenção",
         "valor": "código do motor, aspiração/turbo e versão"
+      },
+      {
+        "campo": "Conferência obrigatória",
+        "valor": "ano, motor 1.0/1.6, 8V/12V/16V quando aplicável, combustível, câmbio e código do motor"
       }
     ]
   },
@@ -21519,6 +21595,10 @@
       {
         "campo": "Atenção",
         "valor": "motor, vazão/pressão e modelo da bomba"
+      },
+      {
+        "campo": "Conferência obrigatória",
+        "valor": "ano, motor 1.0/1.6, 8V/12V/16V quando aplicável, combustível, câmbio e código do motor"
       }
     ]
   },
@@ -21622,6 +21702,10 @@
       {
         "campo": "Atenção",
         "valor": "posição do coxim, câmbio manual/automático e lado"
+      },
+      {
+        "campo": "Conferência obrigatória",
+        "valor": "ano, motor 1.0/1.6, 8V/12V/16V quando aplicável, combustível, câmbio e código do motor"
       }
     ]
   },
@@ -22766,7 +22850,9 @@
         "potencia": "75 cv gasolina / 80 cv etanol",
         "cv": "75/80 cv",
         "combustivel": "Flex",
-        "observacao": "Confirmar versão e ano; HB20 também pode usar motor 1.6 conforme versão."
+        "observacao": "Confirmar versão e ano; HB20 também pode usar motor 1.6 conforme versão.",
+        "valvulas": "12V",
+        "codigoMotor": "Kappa (confirmar código pelo documento/chassi)"
       },
       {
         "anos": "2012-2019",
@@ -22775,7 +22861,9 @@
         "potencia": "122 cv gasolina / 128 cv etanol",
         "cv": "122/128 cv",
         "combustivel": "Flex",
-        "observacao": "Confirmar se o veículo é 1.0 ou 1.6 antes de vender peças de motor."
+        "observacao": "Confirmar se o veículo é 1.0 ou 1.6 antes de vender peças de motor.",
+        "valvulas": "16V",
+        "codigoMotor": "Gamma (confirmar código pelo documento/chassi)"
       }
     ],
     "compatibilidadeEssencial": [
@@ -22810,6 +22898,14 @@
       {
         "campo": "Atenção",
         "valor": "código do motor, aspiração/turbo e versão"
+      },
+      {
+        "campo": "Válvulas",
+        "valor": "12V / 16V"
+      },
+      {
+        "campo": "Conferência obrigatória",
+        "valor": "ano, motor 1.0/1.6, 8V/12V/16V quando aplicável, combustível, câmbio e código do motor"
       }
     ]
   },
@@ -22868,7 +22964,9 @@
         "potencia": "75 cv gasolina / 80 cv etanol",
         "cv": "75/80 cv",
         "combustivel": "Flex",
-        "observacao": "Confirmar versão e ano; HB20 também pode usar motor 1.6 conforme versão."
+        "observacao": "Confirmar versão e ano; HB20 também pode usar motor 1.6 conforme versão.",
+        "valvulas": "12V",
+        "codigoMotor": "Kappa (confirmar código pelo documento/chassi)"
       },
       {
         "anos": "2012-2019",
@@ -22877,7 +22975,9 @@
         "potencia": "122 cv gasolina / 128 cv etanol",
         "cv": "122/128 cv",
         "combustivel": "Flex",
-        "observacao": "Confirmar se o veículo é 1.0 ou 1.6 antes de vender peças de motor."
+        "observacao": "Confirmar se o veículo é 1.0 ou 1.6 antes de vender peças de motor.",
+        "valvulas": "16V",
+        "codigoMotor": "Gamma (confirmar código pelo documento/chassi)"
       }
     ],
     "compatibilidadeEssencial": [
@@ -22912,6 +23012,14 @@
       {
         "campo": "Atenção",
         "valor": "código do motor, aspiração/turbo e versão"
+      },
+      {
+        "campo": "Válvulas",
+        "valor": "12V / 16V"
+      },
+      {
+        "campo": "Conferência obrigatória",
+        "valor": "ano, motor 1.0/1.6, 8V/12V/16V quando aplicável, combustível, câmbio e código do motor"
       }
     ]
   },
@@ -22968,7 +23076,9 @@
         "potencia": "75 cv gasolina / 80 cv etanol",
         "cv": "75/80 cv",
         "combustivel": "Flex",
-        "observacao": "Confirmar versão e ano; HB20 também pode usar motor 1.6 conforme versão."
+        "observacao": "Confirmar versão e ano; HB20 também pode usar motor 1.6 conforme versão.",
+        "valvulas": "12V",
+        "codigoMotor": "Kappa (confirmar código pelo documento/chassi)"
       },
       {
         "anos": "2012-2019",
@@ -22977,7 +23087,9 @@
         "potencia": "122 cv gasolina / 128 cv etanol",
         "cv": "122/128 cv",
         "combustivel": "Flex",
-        "observacao": "Confirmar se o veículo é 1.0 ou 1.6 antes de vender peças de motor."
+        "observacao": "Confirmar se o veículo é 1.0 ou 1.6 antes de vender peças de motor.",
+        "valvulas": "16V",
+        "codigoMotor": "Gamma (confirmar código pelo documento/chassi)"
       }
     ],
     "compatibilidadeEssencial": [
@@ -23012,6 +23124,14 @@
       {
         "campo": "Atenção",
         "valor": "código do motor, aspiração/turbo e versão"
+      },
+      {
+        "campo": "Válvulas",
+        "valor": "12V / 16V"
+      },
+      {
+        "campo": "Conferência obrigatória",
+        "valor": "ano, motor 1.0/1.6, 8V/12V/16V quando aplicável, combustível, câmbio e código do motor"
       }
     ]
   },
@@ -23068,7 +23188,9 @@
         "potencia": "75 cv gasolina / 80 cv etanol",
         "cv": "75/80 cv",
         "combustivel": "Flex",
-        "observacao": "Confirmar versão e ano; HB20 também pode usar motor 1.6 conforme versão."
+        "observacao": "Confirmar versão e ano; HB20 também pode usar motor 1.6 conforme versão.",
+        "valvulas": "12V",
+        "codigoMotor": "Kappa (confirmar código pelo documento/chassi)"
       },
       {
         "anos": "2012-2019",
@@ -23077,7 +23199,9 @@
         "potencia": "122 cv gasolina / 128 cv etanol",
         "cv": "122/128 cv",
         "combustivel": "Flex",
-        "observacao": "Confirmar se o veículo é 1.0 ou 1.6 antes de vender peças de motor."
+        "observacao": "Confirmar se o veículo é 1.0 ou 1.6 antes de vender peças de motor.",
+        "valvulas": "16V",
+        "codigoMotor": "Gamma (confirmar código pelo documento/chassi)"
       }
     ],
     "compatibilidadeEssencial": [
@@ -23112,6 +23236,14 @@
       {
         "campo": "Atenção",
         "valor": "código do motor, aspiração/turbo e versão"
+      },
+      {
+        "campo": "Válvulas",
+        "valor": "12V / 16V"
+      },
+      {
+        "campo": "Conferência obrigatória",
+        "valor": "ano, motor 1.0/1.6, 8V/12V/16V quando aplicável, combustível, câmbio e código do motor"
       }
     ]
   },
@@ -23168,7 +23300,9 @@
         "potencia": "75 cv gasolina / 80 cv etanol",
         "cv": "75/80 cv",
         "combustivel": "Flex",
-        "observacao": "Confirmar versão e ano; HB20 também pode usar motor 1.6 conforme versão."
+        "observacao": "Confirmar versão e ano; HB20 também pode usar motor 1.6 conforme versão.",
+        "valvulas": "12V",
+        "codigoMotor": "Kappa (confirmar código pelo documento/chassi)"
       },
       {
         "anos": "2012-2019",
@@ -23177,7 +23311,9 @@
         "potencia": "122 cv gasolina / 128 cv etanol",
         "cv": "122/128 cv",
         "combustivel": "Flex",
-        "observacao": "Confirmar se o veículo é 1.0 ou 1.6 antes de vender peças de motor."
+        "observacao": "Confirmar se o veículo é 1.0 ou 1.6 antes de vender peças de motor.",
+        "valvulas": "16V",
+        "codigoMotor": "Gamma (confirmar código pelo documento/chassi)"
       }
     ],
     "compatibilidadeEssencial": [
@@ -23212,6 +23348,14 @@
       {
         "campo": "Atenção",
         "valor": "código do motor, aspiração/turbo e versão"
+      },
+      {
+        "campo": "Válvulas",
+        "valor": "12V / 16V"
+      },
+      {
+        "campo": "Conferência obrigatória",
+        "valor": "ano, motor 1.0/1.6, 8V/12V/16V quando aplicável, combustível, câmbio e código do motor"
       }
     ]
   },
@@ -23268,7 +23412,9 @@
         "potencia": "75 cv gasolina / 80 cv etanol",
         "cv": "75/80 cv",
         "combustivel": "Flex",
-        "observacao": "Confirmar versão e ano; HB20 também pode usar motor 1.6 conforme versão."
+        "observacao": "Confirmar versão e ano; HB20 também pode usar motor 1.6 conforme versão.",
+        "valvulas": "12V",
+        "codigoMotor": "Kappa (confirmar código pelo documento/chassi)"
       },
       {
         "anos": "2012-2019",
@@ -23277,7 +23423,9 @@
         "potencia": "122 cv gasolina / 128 cv etanol",
         "cv": "122/128 cv",
         "combustivel": "Flex",
-        "observacao": "Confirmar se o veículo é 1.0 ou 1.6 antes de vender peças de motor."
+        "observacao": "Confirmar se o veículo é 1.0 ou 1.6 antes de vender peças de motor.",
+        "valvulas": "16V",
+        "codigoMotor": "Gamma (confirmar código pelo documento/chassi)"
       }
     ],
     "compatibilidadeEssencial": [
@@ -23316,6 +23464,14 @@
       {
         "campo": "Atenção",
         "valor": "motor, vazão/pressão e modelo da bomba"
+      },
+      {
+        "campo": "Válvulas",
+        "valor": "12V / 16V"
+      },
+      {
+        "campo": "Conferência obrigatória",
+        "valor": "ano, motor 1.0/1.6, 8V/12V/16V quando aplicável, combustível, câmbio e código do motor"
       }
     ]
   },
@@ -23372,7 +23528,9 @@
         "potencia": "75 cv gasolina / 80 cv etanol",
         "cv": "75/80 cv",
         "combustivel": "Flex",
-        "observacao": "Confirmar versão e ano; HB20 também pode usar motor 1.6 conforme versão."
+        "observacao": "Confirmar versão e ano; HB20 também pode usar motor 1.6 conforme versão.",
+        "valvulas": "12V",
+        "codigoMotor": "Kappa (confirmar código pelo documento/chassi)"
       },
       {
         "anos": "2012-2019",
@@ -23381,7 +23539,9 @@
         "potencia": "122 cv gasolina / 128 cv etanol",
         "cv": "122/128 cv",
         "combustivel": "Flex",
-        "observacao": "Confirmar se o veículo é 1.0 ou 1.6 antes de vender peças de motor."
+        "observacao": "Confirmar se o veículo é 1.0 ou 1.6 antes de vender peças de motor.",
+        "valvulas": "16V",
+        "codigoMotor": "Gamma (confirmar código pelo documento/chassi)"
       }
     ],
     "compatibilidadeEssencial": [
@@ -23420,6 +23580,14 @@
       {
         "campo": "Atenção",
         "valor": "posição do coxim, câmbio manual/automático e lado"
+      },
+      {
+        "campo": "Válvulas",
+        "valor": "12V / 16V"
+      },
+      {
+        "campo": "Conferência obrigatória",
+        "valor": "ano, motor 1.0/1.6, 8V/12V/16V quando aplicável, combustível, câmbio e código do motor"
       }
     ]
   },
@@ -23477,7 +23645,9 @@
         "potencia": "75 cv gasolina / 80 cv etanol",
         "cv": "75/80 cv",
         "combustivel": "Flex",
-        "observacao": "Confirmar versão e ano; HB20 também pode usar motor 1.6 conforme versão."
+        "observacao": "Confirmar versão e ano; HB20 também pode usar motor 1.6 conforme versão.",
+        "valvulas": "12V",
+        "codigoMotor": "Kappa (confirmar código pelo documento/chassi)"
       },
       {
         "anos": "2012-2019",
@@ -23486,7 +23656,9 @@
         "potencia": "122 cv gasolina / 128 cv etanol",
         "cv": "122/128 cv",
         "combustivel": "Flex",
-        "observacao": "Confirmar se o veículo é 1.0 ou 1.6 antes de vender peças de motor."
+        "observacao": "Confirmar se o veículo é 1.0 ou 1.6 antes de vender peças de motor.",
+        "valvulas": "16V",
+        "codigoMotor": "Gamma (confirmar código pelo documento/chassi)"
       }
     ],
     "compatibilidadeEssencial": [
@@ -23576,7 +23748,9 @@
         "potencia": "75 cv gasolina / 80 cv etanol",
         "cv": "75/80 cv",
         "combustivel": "Flex",
-        "observacao": "Confirmar versão e ano; HB20 também pode usar motor 1.6 conforme versão."
+        "observacao": "Confirmar versão e ano; HB20 também pode usar motor 1.6 conforme versão.",
+        "valvulas": "12V",
+        "codigoMotor": "Kappa (confirmar código pelo documento/chassi)"
       },
       {
         "anos": "2012-2019",
@@ -23585,7 +23759,9 @@
         "potencia": "122 cv gasolina / 128 cv etanol",
         "cv": "122/128 cv",
         "combustivel": "Flex",
-        "observacao": "Confirmar se o veículo é 1.0 ou 1.6 antes de vender peças de motor."
+        "observacao": "Confirmar se o veículo é 1.0 ou 1.6 antes de vender peças de motor.",
+        "valvulas": "16V",
+        "codigoMotor": "Gamma (confirmar código pelo documento/chassi)"
       }
     ],
     "compatibilidadeEssencial": [
@@ -23675,7 +23851,9 @@
         "potencia": "75 cv gasolina / 80 cv etanol",
         "cv": "75/80 cv",
         "combustivel": "Flex",
-        "observacao": "Confirmar versão e ano; HB20 também pode usar motor 1.6 conforme versão."
+        "observacao": "Confirmar versão e ano; HB20 também pode usar motor 1.6 conforme versão.",
+        "valvulas": "12V",
+        "codigoMotor": "Kappa (confirmar código pelo documento/chassi)"
       },
       {
         "anos": "2012-2019",
@@ -23684,7 +23862,9 @@
         "potencia": "122 cv gasolina / 128 cv etanol",
         "cv": "122/128 cv",
         "combustivel": "Flex",
-        "observacao": "Confirmar se o veículo é 1.0 ou 1.6 antes de vender peças de motor."
+        "observacao": "Confirmar se o veículo é 1.0 ou 1.6 antes de vender peças de motor.",
+        "valvulas": "16V",
+        "codigoMotor": "Gamma (confirmar código pelo documento/chassi)"
       }
     ],
     "compatibilidadeEssencial": [
@@ -23778,7 +23958,9 @@
         "potencia": "75 cv gasolina / 80 cv etanol",
         "cv": "75/80 cv",
         "combustivel": "Flex",
-        "observacao": "Confirmar versão e ano; HB20 também pode usar motor 1.6 conforme versão."
+        "observacao": "Confirmar versão e ano; HB20 também pode usar motor 1.6 conforme versão.",
+        "valvulas": "12V",
+        "codigoMotor": "Kappa (confirmar código pelo documento/chassi)"
       },
       {
         "anos": "2012-2019",
@@ -23787,7 +23969,9 @@
         "potencia": "122 cv gasolina / 128 cv etanol",
         "cv": "122/128 cv",
         "combustivel": "Flex",
-        "observacao": "Confirmar se o veículo é 1.0 ou 1.6 antes de vender peças de motor."
+        "observacao": "Confirmar se o veículo é 1.0 ou 1.6 antes de vender peças de motor.",
+        "valvulas": "16V",
+        "codigoMotor": "Gamma (confirmar código pelo documento/chassi)"
       }
     ],
     "compatibilidadeEssencial": [
@@ -23878,7 +24062,9 @@
         "potencia": "75 cv gasolina / 80 cv etanol",
         "cv": "75/80 cv",
         "combustivel": "Flex",
-        "observacao": "Confirmar versão e ano; HB20 também pode usar motor 1.6 conforme versão."
+        "observacao": "Confirmar versão e ano; HB20 também pode usar motor 1.6 conforme versão.",
+        "valvulas": "12V",
+        "codigoMotor": "Kappa (confirmar código pelo documento/chassi)"
       },
       {
         "anos": "2012-2019",
@@ -23887,7 +24073,9 @@
         "potencia": "122 cv gasolina / 128 cv etanol",
         "cv": "122/128 cv",
         "combustivel": "Flex",
-        "observacao": "Confirmar se o veículo é 1.0 ou 1.6 antes de vender peças de motor."
+        "observacao": "Confirmar se o veículo é 1.0 ou 1.6 antes de vender peças de motor.",
+        "valvulas": "16V",
+        "codigoMotor": "Gamma (confirmar código pelo documento/chassi)"
       }
     ],
     "compatibilidadeEssencial": [
@@ -23978,7 +24166,9 @@
         "potencia": "75 cv gasolina / 80 cv etanol",
         "cv": "75/80 cv",
         "combustivel": "Flex",
-        "observacao": "Confirmar versão e ano; HB20 também pode usar motor 1.6 conforme versão."
+        "observacao": "Confirmar versão e ano; HB20 também pode usar motor 1.6 conforme versão.",
+        "valvulas": "12V",
+        "codigoMotor": "Kappa (confirmar código pelo documento/chassi)"
       },
       {
         "anos": "2012-2019",
@@ -23987,7 +24177,9 @@
         "potencia": "122 cv gasolina / 128 cv etanol",
         "cv": "122/128 cv",
         "combustivel": "Flex",
-        "observacao": "Confirmar se o veículo é 1.0 ou 1.6 antes de vender peças de motor."
+        "observacao": "Confirmar se o veículo é 1.0 ou 1.6 antes de vender peças de motor.",
+        "valvulas": "16V",
+        "codigoMotor": "Gamma (confirmar código pelo documento/chassi)"
       }
     ],
     "compatibilidadeEssencial": [
@@ -24077,7 +24269,9 @@
         "potencia": "75 cv gasolina / 80 cv etanol",
         "cv": "75/80 cv",
         "combustivel": "Flex",
-        "observacao": "Confirmar versão e ano; HB20 também pode usar motor 1.6 conforme versão."
+        "observacao": "Confirmar versão e ano; HB20 também pode usar motor 1.6 conforme versão.",
+        "valvulas": "12V",
+        "codigoMotor": "Kappa (confirmar código pelo documento/chassi)"
       },
       {
         "anos": "2012-2019",
@@ -24086,7 +24280,9 @@
         "potencia": "122 cv gasolina / 128 cv etanol",
         "cv": "122/128 cv",
         "combustivel": "Flex",
-        "observacao": "Confirmar se o veículo é 1.0 ou 1.6 antes de vender peças de motor."
+        "observacao": "Confirmar se o veículo é 1.0 ou 1.6 antes de vender peças de motor.",
+        "valvulas": "16V",
+        "codigoMotor": "Gamma (confirmar código pelo documento/chassi)"
       }
     ],
     "compatibilidadeEssencial": [
@@ -24176,7 +24372,9 @@
         "potencia": "75 cv gasolina / 80 cv etanol",
         "cv": "75/80 cv",
         "combustivel": "Flex",
-        "observacao": "Confirmar versão e ano; HB20 também pode usar motor 1.6 conforme versão."
+        "observacao": "Confirmar versão e ano; HB20 também pode usar motor 1.6 conforme versão.",
+        "valvulas": "12V",
+        "codigoMotor": "Kappa (confirmar código pelo documento/chassi)"
       },
       {
         "anos": "2012-2019",
@@ -24185,7 +24383,9 @@
         "potencia": "122 cv gasolina / 128 cv etanol",
         "cv": "122/128 cv",
         "combustivel": "Flex",
-        "observacao": "Confirmar se o veículo é 1.0 ou 1.6 antes de vender peças de motor."
+        "observacao": "Confirmar se o veículo é 1.0 ou 1.6 antes de vender peças de motor.",
+        "valvulas": "16V",
+        "codigoMotor": "Gamma (confirmar código pelo documento/chassi)"
       }
     ],
     "compatibilidadeEssencial": [
@@ -24275,7 +24475,9 @@
         "potencia": "75 cv gasolina / 80 cv etanol",
         "cv": "75/80 cv",
         "combustivel": "Flex",
-        "observacao": "Confirmar versão e ano; HB20 também pode usar motor 1.6 conforme versão."
+        "observacao": "Confirmar versão e ano; HB20 também pode usar motor 1.6 conforme versão.",
+        "valvulas": "12V",
+        "codigoMotor": "Kappa (confirmar código pelo documento/chassi)"
       },
       {
         "anos": "2012-2019",
@@ -24284,7 +24486,9 @@
         "potencia": "122 cv gasolina / 128 cv etanol",
         "cv": "122/128 cv",
         "combustivel": "Flex",
-        "observacao": "Confirmar se o veículo é 1.0 ou 1.6 antes de vender peças de motor."
+        "observacao": "Confirmar se o veículo é 1.0 ou 1.6 antes de vender peças de motor.",
+        "valvulas": "16V",
+        "codigoMotor": "Gamma (confirmar código pelo documento/chassi)"
       }
     ],
     "compatibilidadeEssencial": [
@@ -24373,7 +24577,9 @@
         "potencia": "75 cv gasolina / 80 cv etanol",
         "cv": "75/80 cv",
         "combustivel": "Flex",
-        "observacao": "Confirmar versão e ano; HB20 também pode usar motor 1.6 conforme versão."
+        "observacao": "Confirmar versão e ano; HB20 também pode usar motor 1.6 conforme versão.",
+        "valvulas": "12V",
+        "codigoMotor": "Kappa (confirmar código pelo documento/chassi)"
       },
       {
         "anos": "2012-2019",
@@ -24382,7 +24588,9 @@
         "potencia": "122 cv gasolina / 128 cv etanol",
         "cv": "122/128 cv",
         "combustivel": "Flex",
-        "observacao": "Confirmar se o veículo é 1.0 ou 1.6 antes de vender peças de motor."
+        "observacao": "Confirmar se o veículo é 1.0 ou 1.6 antes de vender peças de motor.",
+        "valvulas": "16V",
+        "codigoMotor": "Gamma (confirmar código pelo documento/chassi)"
       }
     ],
     "compatibilidadeEssencial": [
@@ -24472,7 +24680,9 @@
         "potencia": "75 cv gasolina / 80 cv etanol",
         "cv": "75/80 cv",
         "combustivel": "Flex",
-        "observacao": "Confirmar versão e ano; HB20 também pode usar motor 1.6 conforme versão."
+        "observacao": "Confirmar versão e ano; HB20 também pode usar motor 1.6 conforme versão.",
+        "valvulas": "12V",
+        "codigoMotor": "Kappa (confirmar código pelo documento/chassi)"
       },
       {
         "anos": "2012-2019",
@@ -24481,7 +24691,9 @@
         "potencia": "122 cv gasolina / 128 cv etanol",
         "cv": "122/128 cv",
         "combustivel": "Flex",
-        "observacao": "Confirmar se o veículo é 1.0 ou 1.6 antes de vender peças de motor."
+        "observacao": "Confirmar se o veículo é 1.0 ou 1.6 antes de vender peças de motor.",
+        "valvulas": "16V",
+        "codigoMotor": "Gamma (confirmar código pelo documento/chassi)"
       }
     ],
     "compatibilidadeEssencial": [
@@ -24621,6 +24833,10 @@
       {
         "campo": "Atenção",
         "valor": "código do motor, aspiração/turbo e versão"
+      },
+      {
+        "campo": "Conferência obrigatória",
+        "valor": "ano, motor 1.0/1.6, 8V/12V/16V quando aplicável, combustível, câmbio e código do motor"
       }
     ]
   },
@@ -24725,6 +24941,10 @@
       {
         "campo": "Atenção",
         "valor": "código do motor, aspiração/turbo e versão"
+      },
+      {
+        "campo": "Conferência obrigatória",
+        "valor": "ano, motor 1.0/1.6, 8V/12V/16V quando aplicável, combustível, câmbio e código do motor"
       }
     ]
   },
@@ -24827,6 +25047,10 @@
       {
         "campo": "Atenção",
         "valor": "código do motor, aspiração/turbo e versão"
+      },
+      {
+        "campo": "Conferência obrigatória",
+        "valor": "ano, motor 1.0/1.6, 8V/12V/16V quando aplicável, combustível, câmbio e código do motor"
       }
     ]
   },
@@ -24929,6 +25153,10 @@
       {
         "campo": "Atenção",
         "valor": "código do motor, aspiração/turbo e versão"
+      },
+      {
+        "campo": "Conferência obrigatória",
+        "valor": "ano, motor 1.0/1.6, 8V/12V/16V quando aplicável, combustível, câmbio e código do motor"
       }
     ]
   },
@@ -25031,6 +25259,10 @@
       {
         "campo": "Atenção",
         "valor": "código do motor, aspiração/turbo e versão"
+      },
+      {
+        "campo": "Conferência obrigatória",
+        "valor": "ano, motor 1.0/1.6, 8V/12V/16V quando aplicável, combustível, câmbio e código do motor"
       }
     ]
   },
@@ -25137,6 +25369,10 @@
       {
         "campo": "Atenção",
         "valor": "motor, vazão/pressão e modelo da bomba"
+      },
+      {
+        "campo": "Conferência obrigatória",
+        "valor": "ano, motor 1.0/1.6, 8V/12V/16V quando aplicável, combustível, câmbio e código do motor"
       }
     ]
   },
@@ -25243,6 +25479,10 @@
       {
         "campo": "Atenção",
         "valor": "posição do coxim, câmbio manual/automático e lado"
+      },
+      {
+        "campo": "Conferência obrigatória",
+        "valor": "ano, motor 1.0/1.6, 8V/12V/16V quando aplicável, combustível, câmbio e código do motor"
       }
     ]
   },
@@ -26462,6 +26702,10 @@
       {
         "campo": "Atenção",
         "valor": "código do motor, aspiração/turbo e versão"
+      },
+      {
+        "campo": "Conferência obrigatória",
+        "valor": "ano, motor 1.0/1.6, 8V/12V/16V quando aplicável, combustível, câmbio e código do motor"
       }
     ]
   },
@@ -26562,6 +26806,10 @@
       {
         "campo": "Atenção",
         "valor": "código do motor, aspiração/turbo e versão"
+      },
+      {
+        "campo": "Conferência obrigatória",
+        "valor": "ano, motor 1.0/1.6, 8V/12V/16V quando aplicável, combustível, câmbio e código do motor"
       }
     ]
   },
@@ -26660,6 +26908,10 @@
       {
         "campo": "Atenção",
         "valor": "código do motor, aspiração/turbo e versão"
+      },
+      {
+        "campo": "Conferência obrigatória",
+        "valor": "ano, motor 1.0/1.6, 8V/12V/16V quando aplicável, combustível, câmbio e código do motor"
       }
     ]
   },
@@ -26758,6 +27010,10 @@
       {
         "campo": "Atenção",
         "valor": "código do motor, aspiração/turbo e versão"
+      },
+      {
+        "campo": "Conferência obrigatória",
+        "valor": "ano, motor 1.0/1.6, 8V/12V/16V quando aplicável, combustível, câmbio e código do motor"
       }
     ]
   },
@@ -26856,6 +27112,10 @@
       {
         "campo": "Atenção",
         "valor": "código do motor, aspiração/turbo e versão"
+      },
+      {
+        "campo": "Conferência obrigatória",
+        "valor": "ano, motor 1.0/1.6, 8V/12V/16V quando aplicável, combustível, câmbio e código do motor"
       }
     ]
   },
@@ -26958,6 +27218,10 @@
       {
         "campo": "Atenção",
         "valor": "motor, vazão/pressão e modelo da bomba"
+      },
+      {
+        "campo": "Conferência obrigatória",
+        "valor": "ano, motor 1.0/1.6, 8V/12V/16V quando aplicável, combustível, câmbio e código do motor"
       }
     ]
   },
@@ -27060,6 +27324,10 @@
       {
         "campo": "Atenção",
         "valor": "posição do coxim, câmbio manual/automático e lado"
+      },
+      {
+        "campo": "Conferência obrigatória",
+        "valor": "ano, motor 1.0/1.6, 8V/12V/16V quando aplicável, combustível, câmbio e código do motor"
       }
     ]
   },
@@ -28235,6 +28503,10 @@
       {
         "campo": "Atenção",
         "valor": "código do motor, aspiração/turbo e versão"
+      },
+      {
+        "campo": "Conferência obrigatória",
+        "valor": "ano, motor 1.0/1.6, 8V/12V/16V quando aplicável, combustível, câmbio e código do motor"
       }
     ]
   },
@@ -28335,6 +28607,10 @@
       {
         "campo": "Atenção",
         "valor": "código do motor, aspiração/turbo e versão"
+      },
+      {
+        "campo": "Conferência obrigatória",
+        "valor": "ano, motor 1.0/1.6, 8V/12V/16V quando aplicável, combustível, câmbio e código do motor"
       }
     ]
   },
@@ -28433,6 +28709,10 @@
       {
         "campo": "Atenção",
         "valor": "código do motor, aspiração/turbo e versão"
+      },
+      {
+        "campo": "Conferência obrigatória",
+        "valor": "ano, motor 1.0/1.6, 8V/12V/16V quando aplicável, combustível, câmbio e código do motor"
       }
     ]
   },
@@ -28531,6 +28811,10 @@
       {
         "campo": "Atenção",
         "valor": "código do motor, aspiração/turbo e versão"
+      },
+      {
+        "campo": "Conferência obrigatória",
+        "valor": "ano, motor 1.0/1.6, 8V/12V/16V quando aplicável, combustível, câmbio e código do motor"
       }
     ]
   },
@@ -28629,6 +28913,10 @@
       {
         "campo": "Atenção",
         "valor": "código do motor, aspiração/turbo e versão"
+      },
+      {
+        "campo": "Conferência obrigatória",
+        "valor": "ano, motor 1.0/1.6, 8V/12V/16V quando aplicável, combustível, câmbio e código do motor"
       }
     ]
   },
@@ -28731,6 +29019,10 @@
       {
         "campo": "Atenção",
         "valor": "motor, vazão/pressão e modelo da bomba"
+      },
+      {
+        "campo": "Conferência obrigatória",
+        "valor": "ano, motor 1.0/1.6, 8V/12V/16V quando aplicável, combustível, câmbio e código do motor"
       }
     ]
   },
@@ -28833,6 +29125,10 @@
       {
         "campo": "Atenção",
         "valor": "posição do coxim, câmbio manual/automático e lado"
+      },
+      {
+        "campo": "Conferência obrigatória",
+        "valor": "ano, motor 1.0/1.6, 8V/12V/16V quando aplicável, combustível, câmbio e código do motor"
       }
     ]
   },
@@ -30010,6 +30306,10 @@
       {
         "campo": "Atenção",
         "valor": "código do motor, aspiração/turbo e versão"
+      },
+      {
+        "campo": "Conferência obrigatória",
+        "valor": "ano, motor 1.0/1.6, 8V/12V/16V quando aplicável, combustível, câmbio e código do motor"
       }
     ]
   },
@@ -30112,6 +30412,10 @@
       {
         "campo": "Atenção",
         "valor": "código do motor, aspiração/turbo e versão"
+      },
+      {
+        "campo": "Conferência obrigatória",
+        "valor": "ano, motor 1.0/1.6, 8V/12V/16V quando aplicável, combustível, câmbio e código do motor"
       }
     ]
   },
@@ -30212,6 +30516,10 @@
       {
         "campo": "Atenção",
         "valor": "código do motor, aspiração/turbo e versão"
+      },
+      {
+        "campo": "Conferência obrigatória",
+        "valor": "ano, motor 1.0/1.6, 8V/12V/16V quando aplicável, combustível, câmbio e código do motor"
       }
     ]
   },
@@ -30312,6 +30620,10 @@
       {
         "campo": "Atenção",
         "valor": "código do motor, aspiração/turbo e versão"
+      },
+      {
+        "campo": "Conferência obrigatória",
+        "valor": "ano, motor 1.0/1.6, 8V/12V/16V quando aplicável, combustível, câmbio e código do motor"
       }
     ]
   },
@@ -30412,6 +30724,10 @@
       {
         "campo": "Atenção",
         "valor": "código do motor, aspiração/turbo e versão"
+      },
+      {
+        "campo": "Conferência obrigatória",
+        "valor": "ano, motor 1.0/1.6, 8V/12V/16V quando aplicável, combustível, câmbio e código do motor"
       }
     ]
   },
@@ -30516,6 +30832,10 @@
       {
         "campo": "Atenção",
         "valor": "motor, vazão/pressão e modelo da bomba"
+      },
+      {
+        "campo": "Conferência obrigatória",
+        "valor": "ano, motor 1.0/1.6, 8V/12V/16V quando aplicável, combustível, câmbio e código do motor"
       }
     ]
   },
@@ -30620,6 +30940,10 @@
       {
         "campo": "Atenção",
         "valor": "posição do coxim, câmbio manual/automático e lado"
+      },
+      {
+        "campo": "Conferência obrigatória",
+        "valor": "ano, motor 1.0/1.6, 8V/12V/16V quando aplicável, combustível, câmbio e código do motor"
       }
     ]
   },
