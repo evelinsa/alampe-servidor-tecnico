@@ -39,10 +39,31 @@
     "observacoes": [
       "Confirmar motorização, ano, combustível e código do motor antes da venda.",
       "Peça pode variar por versão flex/gasolina e câmbio manual/automático.",
-      "Aplicação base cadastrada para ONIX / ONIX PLUS. Confirmar variações por chassi/versão antes da venda."
+      "Aplicação base cadastrada para ONIX / ONIX PLUS. Confirmar variações por chassi/versão antes da venda.",
+      "Busca de motor deve confirmar ano, cilindrada, combustível, potência/CV e código do motor antes da venda."
     ],
     "confiancaBase": 82,
-    "faseTecnica": "FASE 8 - MOTOR, TRANSMISSÃO E ALIMENTAÇÃO"
+    "faseTecnica": "FASE 8 - MOTOR, TRANSMISSÃO E ALIMENTAÇÃO",
+    "dadosMotor": [
+      {
+        "anos": "2020-2023",
+        "motor": "1.0 SPE/aspirado Flex",
+        "cilindrada": "999 cm³",
+        "potencia": "78 cv gasolina / 82 cv etanol",
+        "cv": "78/82 cv",
+        "combustivel": "Flex",
+        "observacao": "Confirmar se é aspirado ou turbo pela versão/chassi."
+      },
+      {
+        "anos": "2020-2023",
+        "motor": "1.0 Turbo Flex",
+        "cilindrada": "999 cm³",
+        "potencia": "116 cv gasolina / 116 cv etanol",
+        "cv": "116 cv",
+        "combustivel": "Flex",
+        "observacao": "Peças de motor podem mudar entre aspirado e turbo."
+      }
+    ]
   },
   {
     "id": "cabeote-onix-2020-2023",
@@ -83,10 +104,31 @@
     "observacoes": [
       "Confirmar motor e quantidade de válvulas.",
       "Verificar se o cliente precisa peça completa ou somente carcaça.",
-      "Aplicação base cadastrada para ONIX / ONIX PLUS. Confirmar variações por chassi/versão antes da venda."
+      "Aplicação base cadastrada para ONIX / ONIX PLUS. Confirmar variações por chassi/versão antes da venda.",
+      "Busca de motor deve confirmar ano, cilindrada, combustível, potência/CV e código do motor antes da venda."
     ],
     "confiancaBase": 82,
-    "faseTecnica": "FASE 8 - MOTOR, TRANSMISSÃO E ALIMENTAÇÃO"
+    "faseTecnica": "FASE 8 - MOTOR, TRANSMISSÃO E ALIMENTAÇÃO",
+    "dadosMotor": [
+      {
+        "anos": "2020-2023",
+        "motor": "1.0 SPE/aspirado Flex",
+        "cilindrada": "999 cm³",
+        "potencia": "78 cv gasolina / 82 cv etanol",
+        "cv": "78/82 cv",
+        "combustivel": "Flex",
+        "observacao": "Confirmar se é aspirado ou turbo pela versão/chassi."
+      },
+      {
+        "anos": "2020-2023",
+        "motor": "1.0 Turbo Flex",
+        "cilindrada": "999 cm³",
+        "potencia": "116 cv gasolina / 116 cv etanol",
+        "cv": "116 cv",
+        "combustivel": "Flex",
+        "observacao": "Peças de motor podem mudar entre aspirado e turbo."
+      }
+    ]
   },
   {
     "id": "tampa-de-vlvulas-onix-2020-2023",
@@ -125,10 +167,31 @@
     ],
     "observacoes": [
       "Confirmar motorização e modelo da tampa.",
-      "Aplicação base cadastrada para ONIX / ONIX PLUS. Confirmar variações por chassi/versão antes da venda."
+      "Aplicação base cadastrada para ONIX / ONIX PLUS. Confirmar variações por chassi/versão antes da venda.",
+      "Busca de motor deve confirmar ano, cilindrada, combustível, potência/CV e código do motor antes da venda."
     ],
     "confiancaBase": 82,
-    "faseTecnica": "FASE 8 - MOTOR, TRANSMISSÃO E ALIMENTAÇÃO"
+    "faseTecnica": "FASE 8 - MOTOR, TRANSMISSÃO E ALIMENTAÇÃO",
+    "dadosMotor": [
+      {
+        "anos": "2020-2023",
+        "motor": "1.0 SPE/aspirado Flex",
+        "cilindrada": "999 cm³",
+        "potencia": "78 cv gasolina / 82 cv etanol",
+        "cv": "78/82 cv",
+        "combustivel": "Flex",
+        "observacao": "Confirmar se é aspirado ou turbo pela versão/chassi."
+      },
+      {
+        "anos": "2020-2023",
+        "motor": "1.0 Turbo Flex",
+        "cilindrada": "999 cm³",
+        "potencia": "116 cv gasolina / 116 cv etanol",
+        "cv": "116 cv",
+        "combustivel": "Flex",
+        "observacao": "Peças de motor podem mudar entre aspirado e turbo."
+      }
+    ]
   },
   {
     "id": "coletor-admisso-onix-2020-2023",
@@ -167,10 +230,31 @@
     ],
     "observacoes": [
       "Confirmar motor e encaixes dos sensores/mangueiras.",
-      "Aplicação base cadastrada para ONIX / ONIX PLUS. Confirmar variações por chassi/versão antes da venda."
+      "Aplicação base cadastrada para ONIX / ONIX PLUS. Confirmar variações por chassi/versão antes da venda.",
+      "Busca de motor deve confirmar ano, cilindrada, combustível, potência/CV e código do motor antes da venda."
     ],
     "confiancaBase": 82,
-    "faseTecnica": "FASE 8 - MOTOR, TRANSMISSÃO E ALIMENTAÇÃO"
+    "faseTecnica": "FASE 8 - MOTOR, TRANSMISSÃO E ALIMENTAÇÃO",
+    "dadosMotor": [
+      {
+        "anos": "2020-2023",
+        "motor": "1.0 SPE/aspirado Flex",
+        "cilindrada": "999 cm³",
+        "potencia": "78 cv gasolina / 82 cv etanol",
+        "cv": "78/82 cv",
+        "combustivel": "Flex",
+        "observacao": "Confirmar se é aspirado ou turbo pela versão/chassi."
+      },
+      {
+        "anos": "2020-2023",
+        "motor": "1.0 Turbo Flex",
+        "cilindrada": "999 cm³",
+        "potencia": "116 cv gasolina / 116 cv etanol",
+        "cv": "116 cv",
+        "combustivel": "Flex",
+        "observacao": "Peças de motor podem mudar entre aspirado e turbo."
+      }
+    ]
   },
   {
     "id": "coletor-escape-onix-2020-2023",
@@ -209,10 +293,31 @@
     ],
     "observacoes": [
       "Confirmar motor e presença de catalisador integrado quando aplicável.",
-      "Aplicação base cadastrada para ONIX / ONIX PLUS. Confirmar variações por chassi/versão antes da venda."
+      "Aplicação base cadastrada para ONIX / ONIX PLUS. Confirmar variações por chassi/versão antes da venda.",
+      "Busca de motor deve confirmar ano, cilindrada, combustível, potência/CV e código do motor antes da venda."
     ],
     "confiancaBase": 82,
-    "faseTecnica": "FASE 8 - MOTOR, TRANSMISSÃO E ALIMENTAÇÃO"
+    "faseTecnica": "FASE 8 - MOTOR, TRANSMISSÃO E ALIMENTAÇÃO",
+    "dadosMotor": [
+      {
+        "anos": "2020-2023",
+        "motor": "1.0 SPE/aspirado Flex",
+        "cilindrada": "999 cm³",
+        "potencia": "78 cv gasolina / 82 cv etanol",
+        "cv": "78/82 cv",
+        "combustivel": "Flex",
+        "observacao": "Confirmar se é aspirado ou turbo pela versão/chassi."
+      },
+      {
+        "anos": "2020-2023",
+        "motor": "1.0 Turbo Flex",
+        "cilindrada": "999 cm³",
+        "potencia": "116 cv gasolina / 116 cv etanol",
+        "cv": "116 cv",
+        "combustivel": "Flex",
+        "observacao": "Peças de motor podem mudar entre aspirado e turbo."
+      }
+    ]
   },
   {
     "id": "bomba-de-leo-onix-2020-2023",
@@ -251,10 +356,31 @@
     ],
     "observacoes": [
       "Confirmar código do motor e aplicação por ano.",
-      "Aplicação base cadastrada para ONIX / ONIX PLUS. Confirmar variações por chassi/versão antes da venda."
+      "Aplicação base cadastrada para ONIX / ONIX PLUS. Confirmar variações por chassi/versão antes da venda.",
+      "Busca de motor deve confirmar ano, cilindrada, combustível, potência/CV e código do motor antes da venda."
     ],
     "confiancaBase": 82,
-    "faseTecnica": "FASE 8 - MOTOR, TRANSMISSÃO E ALIMENTAÇÃO"
+    "faseTecnica": "FASE 8 - MOTOR, TRANSMISSÃO E ALIMENTAÇÃO",
+    "dadosMotor": [
+      {
+        "anos": "2020-2023",
+        "motor": "1.0 SPE/aspirado Flex",
+        "cilindrada": "999 cm³",
+        "potencia": "78 cv gasolina / 82 cv etanol",
+        "cv": "78/82 cv",
+        "combustivel": "Flex",
+        "observacao": "Confirmar se é aspirado ou turbo pela versão/chassi."
+      },
+      {
+        "anos": "2020-2023",
+        "motor": "1.0 Turbo Flex",
+        "cilindrada": "999 cm³",
+        "potencia": "116 cv gasolina / 116 cv etanol",
+        "cv": "116 cv",
+        "combustivel": "Flex",
+        "observacao": "Peças de motor podem mudar entre aspirado e turbo."
+      }
+    ]
   },
   {
     "id": "coxim-do-motor-onix-2020-2023",
@@ -293,10 +419,31 @@
     ],
     "observacoes": [
       "Confirmar lado/posição do coxim antes da venda.",
-      "Aplicação base cadastrada para ONIX / ONIX PLUS. Confirmar variações por chassi/versão antes da venda."
+      "Aplicação base cadastrada para ONIX / ONIX PLUS. Confirmar variações por chassi/versão antes da venda.",
+      "Busca de motor deve confirmar ano, cilindrada, combustível, potência/CV e código do motor antes da venda."
     ],
     "confiancaBase": 82,
-    "faseTecnica": "FASE 8 - MOTOR, TRANSMISSÃO E ALIMENTAÇÃO"
+    "faseTecnica": "FASE 8 - MOTOR, TRANSMISSÃO E ALIMENTAÇÃO",
+    "dadosMotor": [
+      {
+        "anos": "2020-2023",
+        "motor": "1.0 SPE/aspirado Flex",
+        "cilindrada": "999 cm³",
+        "potencia": "78 cv gasolina / 82 cv etanol",
+        "cv": "78/82 cv",
+        "combustivel": "Flex",
+        "observacao": "Confirmar se é aspirado ou turbo pela versão/chassi."
+      },
+      {
+        "anos": "2020-2023",
+        "motor": "1.0 Turbo Flex",
+        "cilindrada": "999 cm³",
+        "potencia": "116 cv gasolina / 116 cv etanol",
+        "cv": "116 cv",
+        "combustivel": "Flex",
+        "observacao": "Peças de motor podem mudar entre aspirado e turbo."
+      }
+    ]
   },
   {
     "id": "cmbio-onix-2020-2023",
@@ -340,7 +487,27 @@
       "Aplicação base cadastrada para ONIX / ONIX PLUS. Confirmar variações por chassi/versão antes da venda."
     ],
     "confiancaBase": 82,
-    "faseTecnica": "FASE 8 - MOTOR, TRANSMISSÃO E ALIMENTAÇÃO"
+    "faseTecnica": "FASE 8 - MOTOR, TRANSMISSÃO E ALIMENTAÇÃO",
+    "dadosMotor": [
+      {
+        "anos": "2020-2023",
+        "motor": "1.0 SPE/aspirado Flex",
+        "cilindrada": "999 cm³",
+        "potencia": "78 cv gasolina / 82 cv etanol",
+        "cv": "78/82 cv",
+        "combustivel": "Flex",
+        "observacao": "Confirmar se é aspirado ou turbo pela versão/chassi."
+      },
+      {
+        "anos": "2020-2023",
+        "motor": "1.0 Turbo Flex",
+        "cilindrada": "999 cm³",
+        "potencia": "116 cv gasolina / 116 cv etanol",
+        "cv": "116 cv",
+        "combustivel": "Flex",
+        "observacao": "Peças de motor podem mudar entre aspirado e turbo."
+      }
+    ]
   },
   {
     "id": "embreagem-onix-2020-2023",
@@ -382,7 +549,27 @@
       "Aplicação base cadastrada para ONIX / ONIX PLUS. Confirmar variações por chassi/versão antes da venda."
     ],
     "confiancaBase": 82,
-    "faseTecnica": "FASE 8 - MOTOR, TRANSMISSÃO E ALIMENTAÇÃO"
+    "faseTecnica": "FASE 8 - MOTOR, TRANSMISSÃO E ALIMENTAÇÃO",
+    "dadosMotor": [
+      {
+        "anos": "2020-2023",
+        "motor": "1.0 SPE/aspirado Flex",
+        "cilindrada": "999 cm³",
+        "potencia": "78 cv gasolina / 82 cv etanol",
+        "cv": "78/82 cv",
+        "combustivel": "Flex",
+        "observacao": "Confirmar se é aspirado ou turbo pela versão/chassi."
+      },
+      {
+        "anos": "2020-2023",
+        "motor": "1.0 Turbo Flex",
+        "cilindrada": "999 cm³",
+        "potencia": "116 cv gasolina / 116 cv etanol",
+        "cv": "116 cv",
+        "combustivel": "Flex",
+        "observacao": "Peças de motor podem mudar entre aspirado e turbo."
+      }
+    ]
   },
   {
     "id": "atuador-de-embreagem-onix-2020-2023",
@@ -424,7 +611,27 @@
       "Aplicação base cadastrada para ONIX / ONIX PLUS. Confirmar variações por chassi/versão antes da venda."
     ],
     "confiancaBase": 82,
-    "faseTecnica": "FASE 8 - MOTOR, TRANSMISSÃO E ALIMENTAÇÃO"
+    "faseTecnica": "FASE 8 - MOTOR, TRANSMISSÃO E ALIMENTAÇÃO",
+    "dadosMotor": [
+      {
+        "anos": "2020-2023",
+        "motor": "1.0 SPE/aspirado Flex",
+        "cilindrada": "999 cm³",
+        "potencia": "78 cv gasolina / 82 cv etanol",
+        "cv": "78/82 cv",
+        "combustivel": "Flex",
+        "observacao": "Confirmar se é aspirado ou turbo pela versão/chassi."
+      },
+      {
+        "anos": "2020-2023",
+        "motor": "1.0 Turbo Flex",
+        "cilindrada": "999 cm³",
+        "potencia": "116 cv gasolina / 116 cv etanol",
+        "cv": "116 cv",
+        "combustivel": "Flex",
+        "observacao": "Peças de motor podem mudar entre aspirado e turbo."
+      }
+    ]
   },
   {
     "id": "trambulador-onix-2020-2023",
@@ -466,7 +673,27 @@
       "Aplicação base cadastrada para ONIX / ONIX PLUS. Confirmar variações por chassi/versão antes da venda."
     ],
     "confiancaBase": 82,
-    "faseTecnica": "FASE 8 - MOTOR, TRANSMISSÃO E ALIMENTAÇÃO"
+    "faseTecnica": "FASE 8 - MOTOR, TRANSMISSÃO E ALIMENTAÇÃO",
+    "dadosMotor": [
+      {
+        "anos": "2020-2023",
+        "motor": "1.0 SPE/aspirado Flex",
+        "cilindrada": "999 cm³",
+        "potencia": "78 cv gasolina / 82 cv etanol",
+        "cv": "78/82 cv",
+        "combustivel": "Flex",
+        "observacao": "Confirmar se é aspirado ou turbo pela versão/chassi."
+      },
+      {
+        "anos": "2020-2023",
+        "motor": "1.0 Turbo Flex",
+        "cilindrada": "999 cm³",
+        "potencia": "116 cv gasolina / 116 cv etanol",
+        "cv": "116 cv",
+        "combustivel": "Flex",
+        "observacao": "Peças de motor podem mudar entre aspirado e turbo."
+      }
+    ]
   },
   {
     "id": "semi-eixo-onix-2020-2023",
@@ -509,7 +736,27 @@
       "Aplicação base cadastrada para ONIX / ONIX PLUS. Confirmar variações por chassi/versão antes da venda."
     ],
     "confiancaBase": 82,
-    "faseTecnica": "FASE 8 - MOTOR, TRANSMISSÃO E ALIMENTAÇÃO"
+    "faseTecnica": "FASE 8 - MOTOR, TRANSMISSÃO E ALIMENTAÇÃO",
+    "dadosMotor": [
+      {
+        "anos": "2020-2023",
+        "motor": "1.0 SPE/aspirado Flex",
+        "cilindrada": "999 cm³",
+        "potencia": "78 cv gasolina / 82 cv etanol",
+        "cv": "78/82 cv",
+        "combustivel": "Flex",
+        "observacao": "Confirmar se é aspirado ou turbo pela versão/chassi."
+      },
+      {
+        "anos": "2020-2023",
+        "motor": "1.0 Turbo Flex",
+        "cilindrada": "999 cm³",
+        "potencia": "116 cv gasolina / 116 cv etanol",
+        "cv": "116 cv",
+        "combustivel": "Flex",
+        "observacao": "Peças de motor podem mudar entre aspirado e turbo."
+      }
+    ]
   },
   {
     "id": "homocintica-onix-2020-2023",
@@ -552,7 +799,27 @@
       "Aplicação base cadastrada para ONIX / ONIX PLUS. Confirmar variações por chassi/versão antes da venda."
     ],
     "confiancaBase": 82,
-    "faseTecnica": "FASE 8 - MOTOR, TRANSMISSÃO E ALIMENTAÇÃO"
+    "faseTecnica": "FASE 8 - MOTOR, TRANSMISSÃO E ALIMENTAÇÃO",
+    "dadosMotor": [
+      {
+        "anos": "2020-2023",
+        "motor": "1.0 SPE/aspirado Flex",
+        "cilindrada": "999 cm³",
+        "potencia": "78 cv gasolina / 82 cv etanol",
+        "cv": "78/82 cv",
+        "combustivel": "Flex",
+        "observacao": "Confirmar se é aspirado ou turbo pela versão/chassi."
+      },
+      {
+        "anos": "2020-2023",
+        "motor": "1.0 Turbo Flex",
+        "cilindrada": "999 cm³",
+        "potencia": "116 cv gasolina / 116 cv etanol",
+        "cv": "116 cv",
+        "combustivel": "Flex",
+        "observacao": "Peças de motor podem mudar entre aspirado e turbo."
+      }
+    ]
   },
   {
     "id": "bomba-de-combustvel-onix-2020-2023",
@@ -594,7 +861,27 @@
       "Aplicação base cadastrada para ONIX / ONIX PLUS. Confirmar variações por chassi/versão antes da venda."
     ],
     "confiancaBase": 82,
-    "faseTecnica": "FASE 8 - MOTOR, TRANSMISSÃO E ALIMENTAÇÃO"
+    "faseTecnica": "FASE 8 - MOTOR, TRANSMISSÃO E ALIMENTAÇÃO",
+    "dadosMotor": [
+      {
+        "anos": "2020-2023",
+        "motor": "1.0 SPE/aspirado Flex",
+        "cilindrada": "999 cm³",
+        "potencia": "78 cv gasolina / 82 cv etanol",
+        "cv": "78/82 cv",
+        "combustivel": "Flex",
+        "observacao": "Confirmar se é aspirado ou turbo pela versão/chassi."
+      },
+      {
+        "anos": "2020-2023",
+        "motor": "1.0 Turbo Flex",
+        "cilindrada": "999 cm³",
+        "potencia": "116 cv gasolina / 116 cv etanol",
+        "cv": "116 cv",
+        "combustivel": "Flex",
+        "observacao": "Peças de motor podem mudar entre aspirado e turbo."
+      }
+    ]
   },
   {
     "id": "bico-injetor-onix-2020-2023",
@@ -636,7 +923,27 @@
       "Aplicação base cadastrada para ONIX / ONIX PLUS. Confirmar variações por chassi/versão antes da venda."
     ],
     "confiancaBase": 82,
-    "faseTecnica": "FASE 8 - MOTOR, TRANSMISSÃO E ALIMENTAÇÃO"
+    "faseTecnica": "FASE 8 - MOTOR, TRANSMISSÃO E ALIMENTAÇÃO",
+    "dadosMotor": [
+      {
+        "anos": "2020-2023",
+        "motor": "1.0 SPE/aspirado Flex",
+        "cilindrada": "999 cm³",
+        "potencia": "78 cv gasolina / 82 cv etanol",
+        "cv": "78/82 cv",
+        "combustivel": "Flex",
+        "observacao": "Confirmar se é aspirado ou turbo pela versão/chassi."
+      },
+      {
+        "anos": "2020-2023",
+        "motor": "1.0 Turbo Flex",
+        "cilindrada": "999 cm³",
+        "potencia": "116 cv gasolina / 116 cv etanol",
+        "cv": "116 cv",
+        "combustivel": "Flex",
+        "observacao": "Peças de motor podem mudar entre aspirado e turbo."
+      }
+    ]
   },
   {
     "id": "corpo-de-borboleta-onix-2020-2023",
@@ -678,7 +985,27 @@
       "Aplicação base cadastrada para ONIX / ONIX PLUS. Confirmar variações por chassi/versão antes da venda."
     ],
     "confiancaBase": 82,
-    "faseTecnica": "FASE 8 - MOTOR, TRANSMISSÃO E ALIMENTAÇÃO"
+    "faseTecnica": "FASE 8 - MOTOR, TRANSMISSÃO E ALIMENTAÇÃO",
+    "dadosMotor": [
+      {
+        "anos": "2020-2023",
+        "motor": "1.0 SPE/aspirado Flex",
+        "cilindrada": "999 cm³",
+        "potencia": "78 cv gasolina / 82 cv etanol",
+        "cv": "78/82 cv",
+        "combustivel": "Flex",
+        "observacao": "Confirmar se é aspirado ou turbo pela versão/chassi."
+      },
+      {
+        "anos": "2020-2023",
+        "motor": "1.0 Turbo Flex",
+        "cilindrada": "999 cm³",
+        "potencia": "116 cv gasolina / 116 cv etanol",
+        "cv": "116 cv",
+        "combustivel": "Flex",
+        "observacao": "Peças de motor podem mudar entre aspirado e turbo."
+      }
+    ]
   },
   {
     "id": "filtro-de-combustvel-onix-2020-2023",
@@ -719,7 +1046,27 @@
       "Aplicação base cadastrada para ONIX / ONIX PLUS. Confirmar variações por chassi/versão antes da venda."
     ],
     "confiancaBase": 82,
-    "faseTecnica": "FASE 8 - MOTOR, TRANSMISSÃO E ALIMENTAÇÃO"
+    "faseTecnica": "FASE 8 - MOTOR, TRANSMISSÃO E ALIMENTAÇÃO",
+    "dadosMotor": [
+      {
+        "anos": "2020-2023",
+        "motor": "1.0 SPE/aspirado Flex",
+        "cilindrada": "999 cm³",
+        "potencia": "78 cv gasolina / 82 cv etanol",
+        "cv": "78/82 cv",
+        "combustivel": "Flex",
+        "observacao": "Confirmar se é aspirado ou turbo pela versão/chassi."
+      },
+      {
+        "anos": "2020-2023",
+        "motor": "1.0 Turbo Flex",
+        "cilindrada": "999 cm³",
+        "potencia": "116 cv gasolina / 116 cv etanol",
+        "cv": "116 cv",
+        "combustivel": "Flex",
+        "observacao": "Peças de motor podem mudar entre aspirado e turbo."
+      }
+    ]
   },
   {
     "id": "tanque-de-combustvel-onix-2020-2023",
@@ -761,7 +1108,27 @@
       "Aplicação base cadastrada para ONIX / ONIX PLUS. Confirmar variações por chassi/versão antes da venda."
     ],
     "confiancaBase": 82,
-    "faseTecnica": "FASE 8 - MOTOR, TRANSMISSÃO E ALIMENTAÇÃO"
+    "faseTecnica": "FASE 8 - MOTOR, TRANSMISSÃO E ALIMENTAÇÃO",
+    "dadosMotor": [
+      {
+        "anos": "2020-2023",
+        "motor": "1.0 SPE/aspirado Flex",
+        "cilindrada": "999 cm³",
+        "potencia": "78 cv gasolina / 82 cv etanol",
+        "cv": "78/82 cv",
+        "combustivel": "Flex",
+        "observacao": "Confirmar se é aspirado ou turbo pela versão/chassi."
+      },
+      {
+        "anos": "2020-2023",
+        "motor": "1.0 Turbo Flex",
+        "cilindrada": "999 cm³",
+        "potencia": "116 cv gasolina / 116 cv etanol",
+        "cv": "116 cv",
+        "combustivel": "Flex",
+        "observacao": "Peças de motor podem mudar entre aspirado e turbo."
+      }
+    ]
   },
   {
     "id": "motor-completo-classic-2003-2010",
@@ -807,10 +1174,22 @@
     "observacoes": [
       "Confirmar motorização, ano, combustível e código do motor antes da venda.",
       "Peça pode variar por versão flex/gasolina e câmbio manual/automático.",
-      "Aplicação base cadastrada para CLASSIC / CORSA CLASSIC. Confirmar variações por chassi/versão antes da venda."
+      "Aplicação base cadastrada para CLASSIC / CORSA CLASSIC. Confirmar variações por chassi/versão antes da venda.",
+      "Busca de motor deve confirmar ano, cilindrada, combustível, potência/CV e código do motor antes da venda."
     ],
     "confiancaBase": 82,
-    "faseTecnica": "FASE 8 - MOTOR, TRANSMISSÃO E ALIMENTAÇÃO"
+    "faseTecnica": "FASE 8 - MOTOR, TRANSMISSÃO E ALIMENTAÇÃO",
+    "dadosMotor": [
+      {
+        "anos": "2003-2010",
+        "motor": "1.0 VHC/VHCE Flex conforme ano",
+        "cilindrada": "999 cm³",
+        "potencia": "70 a 78 cv aprox. conforme ano/combustível",
+        "cv": "70-78 cv",
+        "combustivel": "Gasolina/Flex conforme versão",
+        "observacao": "Confirmar ano, código do motor e se é VHC/VHCE."
+      }
+    ]
   },
   {
     "id": "cabeote-classic-2003-2010",
@@ -855,10 +1234,22 @@
     "observacoes": [
       "Confirmar motor e quantidade de válvulas.",
       "Verificar se o cliente precisa peça completa ou somente carcaça.",
-      "Aplicação base cadastrada para CLASSIC / CORSA CLASSIC. Confirmar variações por chassi/versão antes da venda."
+      "Aplicação base cadastrada para CLASSIC / CORSA CLASSIC. Confirmar variações por chassi/versão antes da venda.",
+      "Busca de motor deve confirmar ano, cilindrada, combustível, potência/CV e código do motor antes da venda."
     ],
     "confiancaBase": 82,
-    "faseTecnica": "FASE 8 - MOTOR, TRANSMISSÃO E ALIMENTAÇÃO"
+    "faseTecnica": "FASE 8 - MOTOR, TRANSMISSÃO E ALIMENTAÇÃO",
+    "dadosMotor": [
+      {
+        "anos": "2003-2010",
+        "motor": "1.0 VHC/VHCE Flex conforme ano",
+        "cilindrada": "999 cm³",
+        "potencia": "70 a 78 cv aprox. conforme ano/combustível",
+        "cv": "70-78 cv",
+        "combustivel": "Gasolina/Flex conforme versão",
+        "observacao": "Confirmar ano, código do motor e se é VHC/VHCE."
+      }
+    ]
   },
   {
     "id": "tampa-de-vlvulas-classic-2003-2010",
@@ -901,10 +1292,22 @@
     ],
     "observacoes": [
       "Confirmar motorização e modelo da tampa.",
-      "Aplicação base cadastrada para CLASSIC / CORSA CLASSIC. Confirmar variações por chassi/versão antes da venda."
+      "Aplicação base cadastrada para CLASSIC / CORSA CLASSIC. Confirmar variações por chassi/versão antes da venda.",
+      "Busca de motor deve confirmar ano, cilindrada, combustível, potência/CV e código do motor antes da venda."
     ],
     "confiancaBase": 82,
-    "faseTecnica": "FASE 8 - MOTOR, TRANSMISSÃO E ALIMENTAÇÃO"
+    "faseTecnica": "FASE 8 - MOTOR, TRANSMISSÃO E ALIMENTAÇÃO",
+    "dadosMotor": [
+      {
+        "anos": "2003-2010",
+        "motor": "1.0 VHC/VHCE Flex conforme ano",
+        "cilindrada": "999 cm³",
+        "potencia": "70 a 78 cv aprox. conforme ano/combustível",
+        "cv": "70-78 cv",
+        "combustivel": "Gasolina/Flex conforme versão",
+        "observacao": "Confirmar ano, código do motor e se é VHC/VHCE."
+      }
+    ]
   },
   {
     "id": "coletor-admisso-classic-2003-2010",
@@ -947,10 +1350,22 @@
     ],
     "observacoes": [
       "Confirmar motor e encaixes dos sensores/mangueiras.",
-      "Aplicação base cadastrada para CLASSIC / CORSA CLASSIC. Confirmar variações por chassi/versão antes da venda."
+      "Aplicação base cadastrada para CLASSIC / CORSA CLASSIC. Confirmar variações por chassi/versão antes da venda.",
+      "Busca de motor deve confirmar ano, cilindrada, combustível, potência/CV e código do motor antes da venda."
     ],
     "confiancaBase": 82,
-    "faseTecnica": "FASE 8 - MOTOR, TRANSMISSÃO E ALIMENTAÇÃO"
+    "faseTecnica": "FASE 8 - MOTOR, TRANSMISSÃO E ALIMENTAÇÃO",
+    "dadosMotor": [
+      {
+        "anos": "2003-2010",
+        "motor": "1.0 VHC/VHCE Flex conforme ano",
+        "cilindrada": "999 cm³",
+        "potencia": "70 a 78 cv aprox. conforme ano/combustível",
+        "cv": "70-78 cv",
+        "combustivel": "Gasolina/Flex conforme versão",
+        "observacao": "Confirmar ano, código do motor e se é VHC/VHCE."
+      }
+    ]
   },
   {
     "id": "coletor-escape-classic-2003-2010",
@@ -993,10 +1408,22 @@
     ],
     "observacoes": [
       "Confirmar motor e presença de catalisador integrado quando aplicável.",
-      "Aplicação base cadastrada para CLASSIC / CORSA CLASSIC. Confirmar variações por chassi/versão antes da venda."
+      "Aplicação base cadastrada para CLASSIC / CORSA CLASSIC. Confirmar variações por chassi/versão antes da venda.",
+      "Busca de motor deve confirmar ano, cilindrada, combustível, potência/CV e código do motor antes da venda."
     ],
     "confiancaBase": 82,
-    "faseTecnica": "FASE 8 - MOTOR, TRANSMISSÃO E ALIMENTAÇÃO"
+    "faseTecnica": "FASE 8 - MOTOR, TRANSMISSÃO E ALIMENTAÇÃO",
+    "dadosMotor": [
+      {
+        "anos": "2003-2010",
+        "motor": "1.0 VHC/VHCE Flex conforme ano",
+        "cilindrada": "999 cm³",
+        "potencia": "70 a 78 cv aprox. conforme ano/combustível",
+        "cv": "70-78 cv",
+        "combustivel": "Gasolina/Flex conforme versão",
+        "observacao": "Confirmar ano, código do motor e se é VHC/VHCE."
+      }
+    ]
   },
   {
     "id": "bomba-de-leo-classic-2003-2010",
@@ -1039,10 +1466,22 @@
     ],
     "observacoes": [
       "Confirmar código do motor e aplicação por ano.",
-      "Aplicação base cadastrada para CLASSIC / CORSA CLASSIC. Confirmar variações por chassi/versão antes da venda."
+      "Aplicação base cadastrada para CLASSIC / CORSA CLASSIC. Confirmar variações por chassi/versão antes da venda.",
+      "Busca de motor deve confirmar ano, cilindrada, combustível, potência/CV e código do motor antes da venda."
     ],
     "confiancaBase": 82,
-    "faseTecnica": "FASE 8 - MOTOR, TRANSMISSÃO E ALIMENTAÇÃO"
+    "faseTecnica": "FASE 8 - MOTOR, TRANSMISSÃO E ALIMENTAÇÃO",
+    "dadosMotor": [
+      {
+        "anos": "2003-2010",
+        "motor": "1.0 VHC/VHCE Flex conforme ano",
+        "cilindrada": "999 cm³",
+        "potencia": "70 a 78 cv aprox. conforme ano/combustível",
+        "cv": "70-78 cv",
+        "combustivel": "Gasolina/Flex conforme versão",
+        "observacao": "Confirmar ano, código do motor e se é VHC/VHCE."
+      }
+    ]
   },
   {
     "id": "coxim-do-motor-classic-2003-2010",
@@ -1085,10 +1524,22 @@
     ],
     "observacoes": [
       "Confirmar lado/posição do coxim antes da venda.",
-      "Aplicação base cadastrada para CLASSIC / CORSA CLASSIC. Confirmar variações por chassi/versão antes da venda."
+      "Aplicação base cadastrada para CLASSIC / CORSA CLASSIC. Confirmar variações por chassi/versão antes da venda.",
+      "Busca de motor deve confirmar ano, cilindrada, combustível, potência/CV e código do motor antes da venda."
     ],
     "confiancaBase": 82,
-    "faseTecnica": "FASE 8 - MOTOR, TRANSMISSÃO E ALIMENTAÇÃO"
+    "faseTecnica": "FASE 8 - MOTOR, TRANSMISSÃO E ALIMENTAÇÃO",
+    "dadosMotor": [
+      {
+        "anos": "2003-2010",
+        "motor": "1.0 VHC/VHCE Flex conforme ano",
+        "cilindrada": "999 cm³",
+        "potencia": "70 a 78 cv aprox. conforme ano/combustível",
+        "cv": "70-78 cv",
+        "combustivel": "Gasolina/Flex conforme versão",
+        "observacao": "Confirmar ano, código do motor e se é VHC/VHCE."
+      }
+    ]
   },
   {
     "id": "cmbio-classic-2003-2010",
@@ -1136,7 +1587,18 @@
       "Aplicação base cadastrada para CLASSIC / CORSA CLASSIC. Confirmar variações por chassi/versão antes da venda."
     ],
     "confiancaBase": 82,
-    "faseTecnica": "FASE 8 - MOTOR, TRANSMISSÃO E ALIMENTAÇÃO"
+    "faseTecnica": "FASE 8 - MOTOR, TRANSMISSÃO E ALIMENTAÇÃO",
+    "dadosMotor": [
+      {
+        "anos": "2003-2010",
+        "motor": "1.0 VHC/VHCE Flex conforme ano",
+        "cilindrada": "999 cm³",
+        "potencia": "70 a 78 cv aprox. conforme ano/combustível",
+        "cv": "70-78 cv",
+        "combustivel": "Gasolina/Flex conforme versão",
+        "observacao": "Confirmar ano, código do motor e se é VHC/VHCE."
+      }
+    ]
   },
   {
     "id": "embreagem-classic-2003-2010",
@@ -1182,7 +1644,18 @@
       "Aplicação base cadastrada para CLASSIC / CORSA CLASSIC. Confirmar variações por chassi/versão antes da venda."
     ],
     "confiancaBase": 82,
-    "faseTecnica": "FASE 8 - MOTOR, TRANSMISSÃO E ALIMENTAÇÃO"
+    "faseTecnica": "FASE 8 - MOTOR, TRANSMISSÃO E ALIMENTAÇÃO",
+    "dadosMotor": [
+      {
+        "anos": "2003-2010",
+        "motor": "1.0 VHC/VHCE Flex conforme ano",
+        "cilindrada": "999 cm³",
+        "potencia": "70 a 78 cv aprox. conforme ano/combustível",
+        "cv": "70-78 cv",
+        "combustivel": "Gasolina/Flex conforme versão",
+        "observacao": "Confirmar ano, código do motor e se é VHC/VHCE."
+      }
+    ]
   },
   {
     "id": "atuador-de-embreagem-classic-2003-2010",
@@ -1228,7 +1701,18 @@
       "Aplicação base cadastrada para CLASSIC / CORSA CLASSIC. Confirmar variações por chassi/versão antes da venda."
     ],
     "confiancaBase": 82,
-    "faseTecnica": "FASE 8 - MOTOR, TRANSMISSÃO E ALIMENTAÇÃO"
+    "faseTecnica": "FASE 8 - MOTOR, TRANSMISSÃO E ALIMENTAÇÃO",
+    "dadosMotor": [
+      {
+        "anos": "2003-2010",
+        "motor": "1.0 VHC/VHCE Flex conforme ano",
+        "cilindrada": "999 cm³",
+        "potencia": "70 a 78 cv aprox. conforme ano/combustível",
+        "cv": "70-78 cv",
+        "combustivel": "Gasolina/Flex conforme versão",
+        "observacao": "Confirmar ano, código do motor e se é VHC/VHCE."
+      }
+    ]
   },
   {
     "id": "trambulador-classic-2003-2010",
@@ -1274,7 +1758,18 @@
       "Aplicação base cadastrada para CLASSIC / CORSA CLASSIC. Confirmar variações por chassi/versão antes da venda."
     ],
     "confiancaBase": 82,
-    "faseTecnica": "FASE 8 - MOTOR, TRANSMISSÃO E ALIMENTAÇÃO"
+    "faseTecnica": "FASE 8 - MOTOR, TRANSMISSÃO E ALIMENTAÇÃO",
+    "dadosMotor": [
+      {
+        "anos": "2003-2010",
+        "motor": "1.0 VHC/VHCE Flex conforme ano",
+        "cilindrada": "999 cm³",
+        "potencia": "70 a 78 cv aprox. conforme ano/combustível",
+        "cv": "70-78 cv",
+        "combustivel": "Gasolina/Flex conforme versão",
+        "observacao": "Confirmar ano, código do motor e se é VHC/VHCE."
+      }
+    ]
   },
   {
     "id": "semi-eixo-classic-2003-2010",
@@ -1321,7 +1816,18 @@
       "Aplicação base cadastrada para CLASSIC / CORSA CLASSIC. Confirmar variações por chassi/versão antes da venda."
     ],
     "confiancaBase": 82,
-    "faseTecnica": "FASE 8 - MOTOR, TRANSMISSÃO E ALIMENTAÇÃO"
+    "faseTecnica": "FASE 8 - MOTOR, TRANSMISSÃO E ALIMENTAÇÃO",
+    "dadosMotor": [
+      {
+        "anos": "2003-2010",
+        "motor": "1.0 VHC/VHCE Flex conforme ano",
+        "cilindrada": "999 cm³",
+        "potencia": "70 a 78 cv aprox. conforme ano/combustível",
+        "cv": "70-78 cv",
+        "combustivel": "Gasolina/Flex conforme versão",
+        "observacao": "Confirmar ano, código do motor e se é VHC/VHCE."
+      }
+    ]
   },
   {
     "id": "homocintica-classic-2003-2010",
@@ -1368,7 +1874,18 @@
       "Aplicação base cadastrada para CLASSIC / CORSA CLASSIC. Confirmar variações por chassi/versão antes da venda."
     ],
     "confiancaBase": 82,
-    "faseTecnica": "FASE 8 - MOTOR, TRANSMISSÃO E ALIMENTAÇÃO"
+    "faseTecnica": "FASE 8 - MOTOR, TRANSMISSÃO E ALIMENTAÇÃO",
+    "dadosMotor": [
+      {
+        "anos": "2003-2010",
+        "motor": "1.0 VHC/VHCE Flex conforme ano",
+        "cilindrada": "999 cm³",
+        "potencia": "70 a 78 cv aprox. conforme ano/combustível",
+        "cv": "70-78 cv",
+        "combustivel": "Gasolina/Flex conforme versão",
+        "observacao": "Confirmar ano, código do motor e se é VHC/VHCE."
+      }
+    ]
   },
   {
     "id": "bomba-de-combustvel-classic-2003-2010",
@@ -1414,7 +1931,18 @@
       "Aplicação base cadastrada para CLASSIC / CORSA CLASSIC. Confirmar variações por chassi/versão antes da venda."
     ],
     "confiancaBase": 82,
-    "faseTecnica": "FASE 8 - MOTOR, TRANSMISSÃO E ALIMENTAÇÃO"
+    "faseTecnica": "FASE 8 - MOTOR, TRANSMISSÃO E ALIMENTAÇÃO",
+    "dadosMotor": [
+      {
+        "anos": "2003-2010",
+        "motor": "1.0 VHC/VHCE Flex conforme ano",
+        "cilindrada": "999 cm³",
+        "potencia": "70 a 78 cv aprox. conforme ano/combustível",
+        "cv": "70-78 cv",
+        "combustivel": "Gasolina/Flex conforme versão",
+        "observacao": "Confirmar ano, código do motor e se é VHC/VHCE."
+      }
+    ]
   },
   {
     "id": "bico-injetor-classic-2003-2010",
@@ -1460,7 +1988,18 @@
       "Aplicação base cadastrada para CLASSIC / CORSA CLASSIC. Confirmar variações por chassi/versão antes da venda."
     ],
     "confiancaBase": 82,
-    "faseTecnica": "FASE 8 - MOTOR, TRANSMISSÃO E ALIMENTAÇÃO"
+    "faseTecnica": "FASE 8 - MOTOR, TRANSMISSÃO E ALIMENTAÇÃO",
+    "dadosMotor": [
+      {
+        "anos": "2003-2010",
+        "motor": "1.0 VHC/VHCE Flex conforme ano",
+        "cilindrada": "999 cm³",
+        "potencia": "70 a 78 cv aprox. conforme ano/combustível",
+        "cv": "70-78 cv",
+        "combustivel": "Gasolina/Flex conforme versão",
+        "observacao": "Confirmar ano, código do motor e se é VHC/VHCE."
+      }
+    ]
   },
   {
     "id": "corpo-de-borboleta-classic-2003-2010",
@@ -1506,7 +2045,18 @@
       "Aplicação base cadastrada para CLASSIC / CORSA CLASSIC. Confirmar variações por chassi/versão antes da venda."
     ],
     "confiancaBase": 82,
-    "faseTecnica": "FASE 8 - MOTOR, TRANSMISSÃO E ALIMENTAÇÃO"
+    "faseTecnica": "FASE 8 - MOTOR, TRANSMISSÃO E ALIMENTAÇÃO",
+    "dadosMotor": [
+      {
+        "anos": "2003-2010",
+        "motor": "1.0 VHC/VHCE Flex conforme ano",
+        "cilindrada": "999 cm³",
+        "potencia": "70 a 78 cv aprox. conforme ano/combustível",
+        "cv": "70-78 cv",
+        "combustivel": "Gasolina/Flex conforme versão",
+        "observacao": "Confirmar ano, código do motor e se é VHC/VHCE."
+      }
+    ]
   },
   {
     "id": "filtro-de-combustvel-classic-2003-2010",
@@ -1551,7 +2101,18 @@
       "Aplicação base cadastrada para CLASSIC / CORSA CLASSIC. Confirmar variações por chassi/versão antes da venda."
     ],
     "confiancaBase": 82,
-    "faseTecnica": "FASE 8 - MOTOR, TRANSMISSÃO E ALIMENTAÇÃO"
+    "faseTecnica": "FASE 8 - MOTOR, TRANSMISSÃO E ALIMENTAÇÃO",
+    "dadosMotor": [
+      {
+        "anos": "2003-2010",
+        "motor": "1.0 VHC/VHCE Flex conforme ano",
+        "cilindrada": "999 cm³",
+        "potencia": "70 a 78 cv aprox. conforme ano/combustível",
+        "cv": "70-78 cv",
+        "combustivel": "Gasolina/Flex conforme versão",
+        "observacao": "Confirmar ano, código do motor e se é VHC/VHCE."
+      }
+    ]
   },
   {
     "id": "tanque-de-combustvel-classic-2003-2010",
@@ -1597,7 +2158,18 @@
       "Aplicação base cadastrada para CLASSIC / CORSA CLASSIC. Confirmar variações por chassi/versão antes da venda."
     ],
     "confiancaBase": 82,
-    "faseTecnica": "FASE 8 - MOTOR, TRANSMISSÃO E ALIMENTAÇÃO"
+    "faseTecnica": "FASE 8 - MOTOR, TRANSMISSÃO E ALIMENTAÇÃO",
+    "dadosMotor": [
+      {
+        "anos": "2003-2010",
+        "motor": "1.0 VHC/VHCE Flex conforme ano",
+        "cilindrada": "999 cm³",
+        "potencia": "70 a 78 cv aprox. conforme ano/combustível",
+        "cv": "70-78 cv",
+        "combustivel": "Gasolina/Flex conforme versão",
+        "observacao": "Confirmar ano, código do motor e se é VHC/VHCE."
+      }
+    ]
   },
   {
     "id": "motor-completo-gol-g5-2009-2012",
@@ -1641,10 +2213,31 @@
     "observacoes": [
       "Confirmar motorização, ano, combustível e código do motor antes da venda.",
       "Peça pode variar por versão flex/gasolina e câmbio manual/automático.",
-      "Aplicação base cadastrada para GOL / VOYAGE G5. Confirmar variações por chassi/versão antes da venda."
+      "Aplicação base cadastrada para GOL / VOYAGE G5. Confirmar variações por chassi/versão antes da venda.",
+      "Busca de motor deve confirmar ano, cilindrada, combustível, potência/CV e código do motor antes da venda."
     ],
     "confiancaBase": 82,
-    "faseTecnica": "FASE 8 - MOTOR, TRANSMISSÃO E ALIMENTAÇÃO"
+    "faseTecnica": "FASE 8 - MOTOR, TRANSMISSÃO E ALIMENTAÇÃO",
+    "dadosMotor": [
+      {
+        "anos": "2009-2012",
+        "motor": "1.0 VHT Total Flex",
+        "cilindrada": "999 cm³",
+        "potencia": "72 cv gasolina / 76 cv etanol",
+        "cv": "72/76 cv",
+        "combustivel": "Flex",
+        "observacao": "Confirmar se é Gol/Voyage e motorização 1.0 ou 1.6."
+      },
+      {
+        "anos": "2009-2012",
+        "motor": "1.6 VHT Total Flex",
+        "cilindrada": "1.598 cm³",
+        "potencia": "101 cv gasolina / 104 cv etanol",
+        "cv": "101/104 cv",
+        "combustivel": "Flex",
+        "observacao": "Peças podem variar entre 1.0 e 1.6."
+      }
+    ]
   },
   {
     "id": "cabeote-gol-g5-2009-2012",
@@ -1687,10 +2280,31 @@
     "observacoes": [
       "Confirmar motor e quantidade de válvulas.",
       "Verificar se o cliente precisa peça completa ou somente carcaça.",
-      "Aplicação base cadastrada para GOL / VOYAGE G5. Confirmar variações por chassi/versão antes da venda."
+      "Aplicação base cadastrada para GOL / VOYAGE G5. Confirmar variações por chassi/versão antes da venda.",
+      "Busca de motor deve confirmar ano, cilindrada, combustível, potência/CV e código do motor antes da venda."
     ],
     "confiancaBase": 82,
-    "faseTecnica": "FASE 8 - MOTOR, TRANSMISSÃO E ALIMENTAÇÃO"
+    "faseTecnica": "FASE 8 - MOTOR, TRANSMISSÃO E ALIMENTAÇÃO",
+    "dadosMotor": [
+      {
+        "anos": "2009-2012",
+        "motor": "1.0 VHT Total Flex",
+        "cilindrada": "999 cm³",
+        "potencia": "72 cv gasolina / 76 cv etanol",
+        "cv": "72/76 cv",
+        "combustivel": "Flex",
+        "observacao": "Confirmar se é Gol/Voyage e motorização 1.0 ou 1.6."
+      },
+      {
+        "anos": "2009-2012",
+        "motor": "1.6 VHT Total Flex",
+        "cilindrada": "1.598 cm³",
+        "potencia": "101 cv gasolina / 104 cv etanol",
+        "cv": "101/104 cv",
+        "combustivel": "Flex",
+        "observacao": "Peças podem variar entre 1.0 e 1.6."
+      }
+    ]
   },
   {
     "id": "tampa-de-vlvulas-gol-g5-2009-2012",
@@ -1731,10 +2345,31 @@
     ],
     "observacoes": [
       "Confirmar motorização e modelo da tampa.",
-      "Aplicação base cadastrada para GOL / VOYAGE G5. Confirmar variações por chassi/versão antes da venda."
+      "Aplicação base cadastrada para GOL / VOYAGE G5. Confirmar variações por chassi/versão antes da venda.",
+      "Busca de motor deve confirmar ano, cilindrada, combustível, potência/CV e código do motor antes da venda."
     ],
     "confiancaBase": 82,
-    "faseTecnica": "FASE 8 - MOTOR, TRANSMISSÃO E ALIMENTAÇÃO"
+    "faseTecnica": "FASE 8 - MOTOR, TRANSMISSÃO E ALIMENTAÇÃO",
+    "dadosMotor": [
+      {
+        "anos": "2009-2012",
+        "motor": "1.0 VHT Total Flex",
+        "cilindrada": "999 cm³",
+        "potencia": "72 cv gasolina / 76 cv etanol",
+        "cv": "72/76 cv",
+        "combustivel": "Flex",
+        "observacao": "Confirmar se é Gol/Voyage e motorização 1.0 ou 1.6."
+      },
+      {
+        "anos": "2009-2012",
+        "motor": "1.6 VHT Total Flex",
+        "cilindrada": "1.598 cm³",
+        "potencia": "101 cv gasolina / 104 cv etanol",
+        "cv": "101/104 cv",
+        "combustivel": "Flex",
+        "observacao": "Peças podem variar entre 1.0 e 1.6."
+      }
+    ]
   },
   {
     "id": "coletor-admisso-gol-g5-2009-2012",
@@ -1775,10 +2410,31 @@
     ],
     "observacoes": [
       "Confirmar motor e encaixes dos sensores/mangueiras.",
-      "Aplicação base cadastrada para GOL / VOYAGE G5. Confirmar variações por chassi/versão antes da venda."
+      "Aplicação base cadastrada para GOL / VOYAGE G5. Confirmar variações por chassi/versão antes da venda.",
+      "Busca de motor deve confirmar ano, cilindrada, combustível, potência/CV e código do motor antes da venda."
     ],
     "confiancaBase": 82,
-    "faseTecnica": "FASE 8 - MOTOR, TRANSMISSÃO E ALIMENTAÇÃO"
+    "faseTecnica": "FASE 8 - MOTOR, TRANSMISSÃO E ALIMENTAÇÃO",
+    "dadosMotor": [
+      {
+        "anos": "2009-2012",
+        "motor": "1.0 VHT Total Flex",
+        "cilindrada": "999 cm³",
+        "potencia": "72 cv gasolina / 76 cv etanol",
+        "cv": "72/76 cv",
+        "combustivel": "Flex",
+        "observacao": "Confirmar se é Gol/Voyage e motorização 1.0 ou 1.6."
+      },
+      {
+        "anos": "2009-2012",
+        "motor": "1.6 VHT Total Flex",
+        "cilindrada": "1.598 cm³",
+        "potencia": "101 cv gasolina / 104 cv etanol",
+        "cv": "101/104 cv",
+        "combustivel": "Flex",
+        "observacao": "Peças podem variar entre 1.0 e 1.6."
+      }
+    ]
   },
   {
     "id": "coletor-escape-gol-g5-2009-2012",
@@ -1819,10 +2475,31 @@
     ],
     "observacoes": [
       "Confirmar motor e presença de catalisador integrado quando aplicável.",
-      "Aplicação base cadastrada para GOL / VOYAGE G5. Confirmar variações por chassi/versão antes da venda."
+      "Aplicação base cadastrada para GOL / VOYAGE G5. Confirmar variações por chassi/versão antes da venda.",
+      "Busca de motor deve confirmar ano, cilindrada, combustível, potência/CV e código do motor antes da venda."
     ],
     "confiancaBase": 82,
-    "faseTecnica": "FASE 8 - MOTOR, TRANSMISSÃO E ALIMENTAÇÃO"
+    "faseTecnica": "FASE 8 - MOTOR, TRANSMISSÃO E ALIMENTAÇÃO",
+    "dadosMotor": [
+      {
+        "anos": "2009-2012",
+        "motor": "1.0 VHT Total Flex",
+        "cilindrada": "999 cm³",
+        "potencia": "72 cv gasolina / 76 cv etanol",
+        "cv": "72/76 cv",
+        "combustivel": "Flex",
+        "observacao": "Confirmar se é Gol/Voyage e motorização 1.0 ou 1.6."
+      },
+      {
+        "anos": "2009-2012",
+        "motor": "1.6 VHT Total Flex",
+        "cilindrada": "1.598 cm³",
+        "potencia": "101 cv gasolina / 104 cv etanol",
+        "cv": "101/104 cv",
+        "combustivel": "Flex",
+        "observacao": "Peças podem variar entre 1.0 e 1.6."
+      }
+    ]
   },
   {
     "id": "bomba-de-leo-gol-g5-2009-2012",
@@ -1863,10 +2540,31 @@
     ],
     "observacoes": [
       "Confirmar código do motor e aplicação por ano.",
-      "Aplicação base cadastrada para GOL / VOYAGE G5. Confirmar variações por chassi/versão antes da venda."
+      "Aplicação base cadastrada para GOL / VOYAGE G5. Confirmar variações por chassi/versão antes da venda.",
+      "Busca de motor deve confirmar ano, cilindrada, combustível, potência/CV e código do motor antes da venda."
     ],
     "confiancaBase": 82,
-    "faseTecnica": "FASE 8 - MOTOR, TRANSMISSÃO E ALIMENTAÇÃO"
+    "faseTecnica": "FASE 8 - MOTOR, TRANSMISSÃO E ALIMENTAÇÃO",
+    "dadosMotor": [
+      {
+        "anos": "2009-2012",
+        "motor": "1.0 VHT Total Flex",
+        "cilindrada": "999 cm³",
+        "potencia": "72 cv gasolina / 76 cv etanol",
+        "cv": "72/76 cv",
+        "combustivel": "Flex",
+        "observacao": "Confirmar se é Gol/Voyage e motorização 1.0 ou 1.6."
+      },
+      {
+        "anos": "2009-2012",
+        "motor": "1.6 VHT Total Flex",
+        "cilindrada": "1.598 cm³",
+        "potencia": "101 cv gasolina / 104 cv etanol",
+        "cv": "101/104 cv",
+        "combustivel": "Flex",
+        "observacao": "Peças podem variar entre 1.0 e 1.6."
+      }
+    ]
   },
   {
     "id": "coxim-do-motor-gol-g5-2009-2012",
@@ -1907,10 +2605,31 @@
     ],
     "observacoes": [
       "Confirmar lado/posição do coxim antes da venda.",
-      "Aplicação base cadastrada para GOL / VOYAGE G5. Confirmar variações por chassi/versão antes da venda."
+      "Aplicação base cadastrada para GOL / VOYAGE G5. Confirmar variações por chassi/versão antes da venda.",
+      "Busca de motor deve confirmar ano, cilindrada, combustível, potência/CV e código do motor antes da venda."
     ],
     "confiancaBase": 82,
-    "faseTecnica": "FASE 8 - MOTOR, TRANSMISSÃO E ALIMENTAÇÃO"
+    "faseTecnica": "FASE 8 - MOTOR, TRANSMISSÃO E ALIMENTAÇÃO",
+    "dadosMotor": [
+      {
+        "anos": "2009-2012",
+        "motor": "1.0 VHT Total Flex",
+        "cilindrada": "999 cm³",
+        "potencia": "72 cv gasolina / 76 cv etanol",
+        "cv": "72/76 cv",
+        "combustivel": "Flex",
+        "observacao": "Confirmar se é Gol/Voyage e motorização 1.0 ou 1.6."
+      },
+      {
+        "anos": "2009-2012",
+        "motor": "1.6 VHT Total Flex",
+        "cilindrada": "1.598 cm³",
+        "potencia": "101 cv gasolina / 104 cv etanol",
+        "cv": "101/104 cv",
+        "combustivel": "Flex",
+        "observacao": "Peças podem variar entre 1.0 e 1.6."
+      }
+    ]
   },
   {
     "id": "cmbio-gol-g5-2009-2012",
@@ -1956,7 +2675,27 @@
       "Aplicação base cadastrada para GOL / VOYAGE G5. Confirmar variações por chassi/versão antes da venda."
     ],
     "confiancaBase": 82,
-    "faseTecnica": "FASE 8 - MOTOR, TRANSMISSÃO E ALIMENTAÇÃO"
+    "faseTecnica": "FASE 8 - MOTOR, TRANSMISSÃO E ALIMENTAÇÃO",
+    "dadosMotor": [
+      {
+        "anos": "2009-2012",
+        "motor": "1.0 VHT Total Flex",
+        "cilindrada": "999 cm³",
+        "potencia": "72 cv gasolina / 76 cv etanol",
+        "cv": "72/76 cv",
+        "combustivel": "Flex",
+        "observacao": "Confirmar se é Gol/Voyage e motorização 1.0 ou 1.6."
+      },
+      {
+        "anos": "2009-2012",
+        "motor": "1.6 VHT Total Flex",
+        "cilindrada": "1.598 cm³",
+        "potencia": "101 cv gasolina / 104 cv etanol",
+        "cv": "101/104 cv",
+        "combustivel": "Flex",
+        "observacao": "Peças podem variar entre 1.0 e 1.6."
+      }
+    ]
   },
   {
     "id": "embreagem-gol-g5-2009-2012",
@@ -2000,7 +2739,27 @@
       "Aplicação base cadastrada para GOL / VOYAGE G5. Confirmar variações por chassi/versão antes da venda."
     ],
     "confiancaBase": 82,
-    "faseTecnica": "FASE 8 - MOTOR, TRANSMISSÃO E ALIMENTAÇÃO"
+    "faseTecnica": "FASE 8 - MOTOR, TRANSMISSÃO E ALIMENTAÇÃO",
+    "dadosMotor": [
+      {
+        "anos": "2009-2012",
+        "motor": "1.0 VHT Total Flex",
+        "cilindrada": "999 cm³",
+        "potencia": "72 cv gasolina / 76 cv etanol",
+        "cv": "72/76 cv",
+        "combustivel": "Flex",
+        "observacao": "Confirmar se é Gol/Voyage e motorização 1.0 ou 1.6."
+      },
+      {
+        "anos": "2009-2012",
+        "motor": "1.6 VHT Total Flex",
+        "cilindrada": "1.598 cm³",
+        "potencia": "101 cv gasolina / 104 cv etanol",
+        "cv": "101/104 cv",
+        "combustivel": "Flex",
+        "observacao": "Peças podem variar entre 1.0 e 1.6."
+      }
+    ]
   },
   {
     "id": "atuador-de-embreagem-gol-g5-2009-2012",
@@ -2044,7 +2803,27 @@
       "Aplicação base cadastrada para GOL / VOYAGE G5. Confirmar variações por chassi/versão antes da venda."
     ],
     "confiancaBase": 82,
-    "faseTecnica": "FASE 8 - MOTOR, TRANSMISSÃO E ALIMENTAÇÃO"
+    "faseTecnica": "FASE 8 - MOTOR, TRANSMISSÃO E ALIMENTAÇÃO",
+    "dadosMotor": [
+      {
+        "anos": "2009-2012",
+        "motor": "1.0 VHT Total Flex",
+        "cilindrada": "999 cm³",
+        "potencia": "72 cv gasolina / 76 cv etanol",
+        "cv": "72/76 cv",
+        "combustivel": "Flex",
+        "observacao": "Confirmar se é Gol/Voyage e motorização 1.0 ou 1.6."
+      },
+      {
+        "anos": "2009-2012",
+        "motor": "1.6 VHT Total Flex",
+        "cilindrada": "1.598 cm³",
+        "potencia": "101 cv gasolina / 104 cv etanol",
+        "cv": "101/104 cv",
+        "combustivel": "Flex",
+        "observacao": "Peças podem variar entre 1.0 e 1.6."
+      }
+    ]
   },
   {
     "id": "trambulador-gol-g5-2009-2012",
@@ -2088,7 +2867,27 @@
       "Aplicação base cadastrada para GOL / VOYAGE G5. Confirmar variações por chassi/versão antes da venda."
     ],
     "confiancaBase": 82,
-    "faseTecnica": "FASE 8 - MOTOR, TRANSMISSÃO E ALIMENTAÇÃO"
+    "faseTecnica": "FASE 8 - MOTOR, TRANSMISSÃO E ALIMENTAÇÃO",
+    "dadosMotor": [
+      {
+        "anos": "2009-2012",
+        "motor": "1.0 VHT Total Flex",
+        "cilindrada": "999 cm³",
+        "potencia": "72 cv gasolina / 76 cv etanol",
+        "cv": "72/76 cv",
+        "combustivel": "Flex",
+        "observacao": "Confirmar se é Gol/Voyage e motorização 1.0 ou 1.6."
+      },
+      {
+        "anos": "2009-2012",
+        "motor": "1.6 VHT Total Flex",
+        "cilindrada": "1.598 cm³",
+        "potencia": "101 cv gasolina / 104 cv etanol",
+        "cv": "101/104 cv",
+        "combustivel": "Flex",
+        "observacao": "Peças podem variar entre 1.0 e 1.6."
+      }
+    ]
   },
   {
     "id": "semi-eixo-gol-g5-2009-2012",
@@ -2133,7 +2932,27 @@
       "Aplicação base cadastrada para GOL / VOYAGE G5. Confirmar variações por chassi/versão antes da venda."
     ],
     "confiancaBase": 82,
-    "faseTecnica": "FASE 8 - MOTOR, TRANSMISSÃO E ALIMENTAÇÃO"
+    "faseTecnica": "FASE 8 - MOTOR, TRANSMISSÃO E ALIMENTAÇÃO",
+    "dadosMotor": [
+      {
+        "anos": "2009-2012",
+        "motor": "1.0 VHT Total Flex",
+        "cilindrada": "999 cm³",
+        "potencia": "72 cv gasolina / 76 cv etanol",
+        "cv": "72/76 cv",
+        "combustivel": "Flex",
+        "observacao": "Confirmar se é Gol/Voyage e motorização 1.0 ou 1.6."
+      },
+      {
+        "anos": "2009-2012",
+        "motor": "1.6 VHT Total Flex",
+        "cilindrada": "1.598 cm³",
+        "potencia": "101 cv gasolina / 104 cv etanol",
+        "cv": "101/104 cv",
+        "combustivel": "Flex",
+        "observacao": "Peças podem variar entre 1.0 e 1.6."
+      }
+    ]
   },
   {
     "id": "homocintica-gol-g5-2009-2012",
@@ -2178,7 +2997,27 @@
       "Aplicação base cadastrada para GOL / VOYAGE G5. Confirmar variações por chassi/versão antes da venda."
     ],
     "confiancaBase": 82,
-    "faseTecnica": "FASE 8 - MOTOR, TRANSMISSÃO E ALIMENTAÇÃO"
+    "faseTecnica": "FASE 8 - MOTOR, TRANSMISSÃO E ALIMENTAÇÃO",
+    "dadosMotor": [
+      {
+        "anos": "2009-2012",
+        "motor": "1.0 VHT Total Flex",
+        "cilindrada": "999 cm³",
+        "potencia": "72 cv gasolina / 76 cv etanol",
+        "cv": "72/76 cv",
+        "combustivel": "Flex",
+        "observacao": "Confirmar se é Gol/Voyage e motorização 1.0 ou 1.6."
+      },
+      {
+        "anos": "2009-2012",
+        "motor": "1.6 VHT Total Flex",
+        "cilindrada": "1.598 cm³",
+        "potencia": "101 cv gasolina / 104 cv etanol",
+        "cv": "101/104 cv",
+        "combustivel": "Flex",
+        "observacao": "Peças podem variar entre 1.0 e 1.6."
+      }
+    ]
   },
   {
     "id": "bomba-de-combustvel-gol-g5-2009-2012",
@@ -2222,7 +3061,27 @@
       "Aplicação base cadastrada para GOL / VOYAGE G5. Confirmar variações por chassi/versão antes da venda."
     ],
     "confiancaBase": 82,
-    "faseTecnica": "FASE 8 - MOTOR, TRANSMISSÃO E ALIMENTAÇÃO"
+    "faseTecnica": "FASE 8 - MOTOR, TRANSMISSÃO E ALIMENTAÇÃO",
+    "dadosMotor": [
+      {
+        "anos": "2009-2012",
+        "motor": "1.0 VHT Total Flex",
+        "cilindrada": "999 cm³",
+        "potencia": "72 cv gasolina / 76 cv etanol",
+        "cv": "72/76 cv",
+        "combustivel": "Flex",
+        "observacao": "Confirmar se é Gol/Voyage e motorização 1.0 ou 1.6."
+      },
+      {
+        "anos": "2009-2012",
+        "motor": "1.6 VHT Total Flex",
+        "cilindrada": "1.598 cm³",
+        "potencia": "101 cv gasolina / 104 cv etanol",
+        "cv": "101/104 cv",
+        "combustivel": "Flex",
+        "observacao": "Peças podem variar entre 1.0 e 1.6."
+      }
+    ]
   },
   {
     "id": "bico-injetor-gol-g5-2009-2012",
@@ -2266,7 +3125,27 @@
       "Aplicação base cadastrada para GOL / VOYAGE G5. Confirmar variações por chassi/versão antes da venda."
     ],
     "confiancaBase": 82,
-    "faseTecnica": "FASE 8 - MOTOR, TRANSMISSÃO E ALIMENTAÇÃO"
+    "faseTecnica": "FASE 8 - MOTOR, TRANSMISSÃO E ALIMENTAÇÃO",
+    "dadosMotor": [
+      {
+        "anos": "2009-2012",
+        "motor": "1.0 VHT Total Flex",
+        "cilindrada": "999 cm³",
+        "potencia": "72 cv gasolina / 76 cv etanol",
+        "cv": "72/76 cv",
+        "combustivel": "Flex",
+        "observacao": "Confirmar se é Gol/Voyage e motorização 1.0 ou 1.6."
+      },
+      {
+        "anos": "2009-2012",
+        "motor": "1.6 VHT Total Flex",
+        "cilindrada": "1.598 cm³",
+        "potencia": "101 cv gasolina / 104 cv etanol",
+        "cv": "101/104 cv",
+        "combustivel": "Flex",
+        "observacao": "Peças podem variar entre 1.0 e 1.6."
+      }
+    ]
   },
   {
     "id": "corpo-de-borboleta-gol-g5-2009-2012",
@@ -2310,7 +3189,27 @@
       "Aplicação base cadastrada para GOL / VOYAGE G5. Confirmar variações por chassi/versão antes da venda."
     ],
     "confiancaBase": 82,
-    "faseTecnica": "FASE 8 - MOTOR, TRANSMISSÃO E ALIMENTAÇÃO"
+    "faseTecnica": "FASE 8 - MOTOR, TRANSMISSÃO E ALIMENTAÇÃO",
+    "dadosMotor": [
+      {
+        "anos": "2009-2012",
+        "motor": "1.0 VHT Total Flex",
+        "cilindrada": "999 cm³",
+        "potencia": "72 cv gasolina / 76 cv etanol",
+        "cv": "72/76 cv",
+        "combustivel": "Flex",
+        "observacao": "Confirmar se é Gol/Voyage e motorização 1.0 ou 1.6."
+      },
+      {
+        "anos": "2009-2012",
+        "motor": "1.6 VHT Total Flex",
+        "cilindrada": "1.598 cm³",
+        "potencia": "101 cv gasolina / 104 cv etanol",
+        "cv": "101/104 cv",
+        "combustivel": "Flex",
+        "observacao": "Peças podem variar entre 1.0 e 1.6."
+      }
+    ]
   },
   {
     "id": "filtro-de-combustvel-gol-g5-2009-2012",
@@ -2353,7 +3252,27 @@
       "Aplicação base cadastrada para GOL / VOYAGE G5. Confirmar variações por chassi/versão antes da venda."
     ],
     "confiancaBase": 82,
-    "faseTecnica": "FASE 8 - MOTOR, TRANSMISSÃO E ALIMENTAÇÃO"
+    "faseTecnica": "FASE 8 - MOTOR, TRANSMISSÃO E ALIMENTAÇÃO",
+    "dadosMotor": [
+      {
+        "anos": "2009-2012",
+        "motor": "1.0 VHT Total Flex",
+        "cilindrada": "999 cm³",
+        "potencia": "72 cv gasolina / 76 cv etanol",
+        "cv": "72/76 cv",
+        "combustivel": "Flex",
+        "observacao": "Confirmar se é Gol/Voyage e motorização 1.0 ou 1.6."
+      },
+      {
+        "anos": "2009-2012",
+        "motor": "1.6 VHT Total Flex",
+        "cilindrada": "1.598 cm³",
+        "potencia": "101 cv gasolina / 104 cv etanol",
+        "cv": "101/104 cv",
+        "combustivel": "Flex",
+        "observacao": "Peças podem variar entre 1.0 e 1.6."
+      }
+    ]
   },
   {
     "id": "tanque-de-combustvel-gol-g5-2009-2012",
@@ -2397,7 +3316,27 @@
       "Aplicação base cadastrada para GOL / VOYAGE G5. Confirmar variações por chassi/versão antes da venda."
     ],
     "confiancaBase": 82,
-    "faseTecnica": "FASE 8 - MOTOR, TRANSMISSÃO E ALIMENTAÇÃO"
+    "faseTecnica": "FASE 8 - MOTOR, TRANSMISSÃO E ALIMENTAÇÃO",
+    "dadosMotor": [
+      {
+        "anos": "2009-2012",
+        "motor": "1.0 VHT Total Flex",
+        "cilindrada": "999 cm³",
+        "potencia": "72 cv gasolina / 76 cv etanol",
+        "cv": "72/76 cv",
+        "combustivel": "Flex",
+        "observacao": "Confirmar se é Gol/Voyage e motorização 1.0 ou 1.6."
+      },
+      {
+        "anos": "2009-2012",
+        "motor": "1.6 VHT Total Flex",
+        "cilindrada": "1.598 cm³",
+        "potencia": "101 cv gasolina / 104 cv etanol",
+        "cv": "101/104 cv",
+        "combustivel": "Flex",
+        "observacao": "Peças podem variar entre 1.0 e 1.6."
+      }
+    ]
   },
   {
     "id": "motor-completo-hb20-2012-2019",
@@ -2442,10 +3381,31 @@
     "observacoes": [
       "Confirmar motorização, ano, combustível e código do motor antes da venda.",
       "Peça pode variar por versão flex/gasolina e câmbio manual/automático.",
-      "Aplicação base cadastrada para HB20 / HB20S. Confirmar variações por chassi/versão antes da venda."
+      "Aplicação base cadastrada para HB20 / HB20S. Confirmar variações por chassi/versão antes da venda.",
+      "Busca de motor deve confirmar ano, cilindrada, combustível, potência/CV e código do motor antes da venda."
     ],
     "confiancaBase": 82,
-    "faseTecnica": "FASE 8 - MOTOR, TRANSMISSÃO E ALIMENTAÇÃO"
+    "faseTecnica": "FASE 8 - MOTOR, TRANSMISSÃO E ALIMENTAÇÃO",
+    "dadosMotor": [
+      {
+        "anos": "2012-2019",
+        "motor": "1.0 Kappa Flex 12V, 3 cilindros",
+        "cilindrada": "998 cm³",
+        "potencia": "75 cv gasolina / 80 cv etanol",
+        "cv": "75/80 cv",
+        "combustivel": "Flex",
+        "observacao": "Confirmar versão e ano; HB20 também pode usar motor 1.6 conforme versão."
+      },
+      {
+        "anos": "2012-2019",
+        "motor": "1.6 Gamma Flex 16V, 4 cilindros",
+        "cilindrada": "1.591 cm³",
+        "potencia": "122 cv gasolina / 128 cv etanol",
+        "cv": "122/128 cv",
+        "combustivel": "Flex",
+        "observacao": "Confirmar se o veículo é 1.0 ou 1.6 antes de vender peças de motor."
+      }
+    ]
   },
   {
     "id": "cabeote-hb20-2012-2019",
@@ -2489,10 +3449,31 @@
     "observacoes": [
       "Confirmar motor e quantidade de válvulas.",
       "Verificar se o cliente precisa peça completa ou somente carcaça.",
-      "Aplicação base cadastrada para HB20 / HB20S. Confirmar variações por chassi/versão antes da venda."
+      "Aplicação base cadastrada para HB20 / HB20S. Confirmar variações por chassi/versão antes da venda.",
+      "Busca de motor deve confirmar ano, cilindrada, combustível, potência/CV e código do motor antes da venda."
     ],
     "confiancaBase": 82,
-    "faseTecnica": "FASE 8 - MOTOR, TRANSMISSÃO E ALIMENTAÇÃO"
+    "faseTecnica": "FASE 8 - MOTOR, TRANSMISSÃO E ALIMENTAÇÃO",
+    "dadosMotor": [
+      {
+        "anos": "2012-2019",
+        "motor": "1.0 Kappa Flex 12V, 3 cilindros",
+        "cilindrada": "998 cm³",
+        "potencia": "75 cv gasolina / 80 cv etanol",
+        "cv": "75/80 cv",
+        "combustivel": "Flex",
+        "observacao": "Confirmar versão e ano; HB20 também pode usar motor 1.6 conforme versão."
+      },
+      {
+        "anos": "2012-2019",
+        "motor": "1.6 Gamma Flex 16V, 4 cilindros",
+        "cilindrada": "1.591 cm³",
+        "potencia": "122 cv gasolina / 128 cv etanol",
+        "cv": "122/128 cv",
+        "combustivel": "Flex",
+        "observacao": "Confirmar se o veículo é 1.0 ou 1.6 antes de vender peças de motor."
+      }
+    ]
   },
   {
     "id": "tampa-de-vlvulas-hb20-2012-2019",
@@ -2534,10 +3515,31 @@
     ],
     "observacoes": [
       "Confirmar motorização e modelo da tampa.",
-      "Aplicação base cadastrada para HB20 / HB20S. Confirmar variações por chassi/versão antes da venda."
+      "Aplicação base cadastrada para HB20 / HB20S. Confirmar variações por chassi/versão antes da venda.",
+      "Busca de motor deve confirmar ano, cilindrada, combustível, potência/CV e código do motor antes da venda."
     ],
     "confiancaBase": 82,
-    "faseTecnica": "FASE 8 - MOTOR, TRANSMISSÃO E ALIMENTAÇÃO"
+    "faseTecnica": "FASE 8 - MOTOR, TRANSMISSÃO E ALIMENTAÇÃO",
+    "dadosMotor": [
+      {
+        "anos": "2012-2019",
+        "motor": "1.0 Kappa Flex 12V, 3 cilindros",
+        "cilindrada": "998 cm³",
+        "potencia": "75 cv gasolina / 80 cv etanol",
+        "cv": "75/80 cv",
+        "combustivel": "Flex",
+        "observacao": "Confirmar versão e ano; HB20 também pode usar motor 1.6 conforme versão."
+      },
+      {
+        "anos": "2012-2019",
+        "motor": "1.6 Gamma Flex 16V, 4 cilindros",
+        "cilindrada": "1.591 cm³",
+        "potencia": "122 cv gasolina / 128 cv etanol",
+        "cv": "122/128 cv",
+        "combustivel": "Flex",
+        "observacao": "Confirmar se o veículo é 1.0 ou 1.6 antes de vender peças de motor."
+      }
+    ]
   },
   {
     "id": "coletor-admisso-hb20-2012-2019",
@@ -2579,10 +3581,31 @@
     ],
     "observacoes": [
       "Confirmar motor e encaixes dos sensores/mangueiras.",
-      "Aplicação base cadastrada para HB20 / HB20S. Confirmar variações por chassi/versão antes da venda."
+      "Aplicação base cadastrada para HB20 / HB20S. Confirmar variações por chassi/versão antes da venda.",
+      "Busca de motor deve confirmar ano, cilindrada, combustível, potência/CV e código do motor antes da venda."
     ],
     "confiancaBase": 82,
-    "faseTecnica": "FASE 8 - MOTOR, TRANSMISSÃO E ALIMENTAÇÃO"
+    "faseTecnica": "FASE 8 - MOTOR, TRANSMISSÃO E ALIMENTAÇÃO",
+    "dadosMotor": [
+      {
+        "anos": "2012-2019",
+        "motor": "1.0 Kappa Flex 12V, 3 cilindros",
+        "cilindrada": "998 cm³",
+        "potencia": "75 cv gasolina / 80 cv etanol",
+        "cv": "75/80 cv",
+        "combustivel": "Flex",
+        "observacao": "Confirmar versão e ano; HB20 também pode usar motor 1.6 conforme versão."
+      },
+      {
+        "anos": "2012-2019",
+        "motor": "1.6 Gamma Flex 16V, 4 cilindros",
+        "cilindrada": "1.591 cm³",
+        "potencia": "122 cv gasolina / 128 cv etanol",
+        "cv": "122/128 cv",
+        "combustivel": "Flex",
+        "observacao": "Confirmar se o veículo é 1.0 ou 1.6 antes de vender peças de motor."
+      }
+    ]
   },
   {
     "id": "coletor-escape-hb20-2012-2019",
@@ -2624,10 +3647,31 @@
     ],
     "observacoes": [
       "Confirmar motor e presença de catalisador integrado quando aplicável.",
-      "Aplicação base cadastrada para HB20 / HB20S. Confirmar variações por chassi/versão antes da venda."
+      "Aplicação base cadastrada para HB20 / HB20S. Confirmar variações por chassi/versão antes da venda.",
+      "Busca de motor deve confirmar ano, cilindrada, combustível, potência/CV e código do motor antes da venda."
     ],
     "confiancaBase": 82,
-    "faseTecnica": "FASE 8 - MOTOR, TRANSMISSÃO E ALIMENTAÇÃO"
+    "faseTecnica": "FASE 8 - MOTOR, TRANSMISSÃO E ALIMENTAÇÃO",
+    "dadosMotor": [
+      {
+        "anos": "2012-2019",
+        "motor": "1.0 Kappa Flex 12V, 3 cilindros",
+        "cilindrada": "998 cm³",
+        "potencia": "75 cv gasolina / 80 cv etanol",
+        "cv": "75/80 cv",
+        "combustivel": "Flex",
+        "observacao": "Confirmar versão e ano; HB20 também pode usar motor 1.6 conforme versão."
+      },
+      {
+        "anos": "2012-2019",
+        "motor": "1.6 Gamma Flex 16V, 4 cilindros",
+        "cilindrada": "1.591 cm³",
+        "potencia": "122 cv gasolina / 128 cv etanol",
+        "cv": "122/128 cv",
+        "combustivel": "Flex",
+        "observacao": "Confirmar se o veículo é 1.0 ou 1.6 antes de vender peças de motor."
+      }
+    ]
   },
   {
     "id": "bomba-de-leo-hb20-2012-2019",
@@ -2669,10 +3713,31 @@
     ],
     "observacoes": [
       "Confirmar código do motor e aplicação por ano.",
-      "Aplicação base cadastrada para HB20 / HB20S. Confirmar variações por chassi/versão antes da venda."
+      "Aplicação base cadastrada para HB20 / HB20S. Confirmar variações por chassi/versão antes da venda.",
+      "Busca de motor deve confirmar ano, cilindrada, combustível, potência/CV e código do motor antes da venda."
     ],
     "confiancaBase": 82,
-    "faseTecnica": "FASE 8 - MOTOR, TRANSMISSÃO E ALIMENTAÇÃO"
+    "faseTecnica": "FASE 8 - MOTOR, TRANSMISSÃO E ALIMENTAÇÃO",
+    "dadosMotor": [
+      {
+        "anos": "2012-2019",
+        "motor": "1.0 Kappa Flex 12V, 3 cilindros",
+        "cilindrada": "998 cm³",
+        "potencia": "75 cv gasolina / 80 cv etanol",
+        "cv": "75/80 cv",
+        "combustivel": "Flex",
+        "observacao": "Confirmar versão e ano; HB20 também pode usar motor 1.6 conforme versão."
+      },
+      {
+        "anos": "2012-2019",
+        "motor": "1.6 Gamma Flex 16V, 4 cilindros",
+        "cilindrada": "1.591 cm³",
+        "potencia": "122 cv gasolina / 128 cv etanol",
+        "cv": "122/128 cv",
+        "combustivel": "Flex",
+        "observacao": "Confirmar se o veículo é 1.0 ou 1.6 antes de vender peças de motor."
+      }
+    ]
   },
   {
     "id": "coxim-do-motor-hb20-2012-2019",
@@ -2714,10 +3779,31 @@
     ],
     "observacoes": [
       "Confirmar lado/posição do coxim antes da venda.",
-      "Aplicação base cadastrada para HB20 / HB20S. Confirmar variações por chassi/versão antes da venda."
+      "Aplicação base cadastrada para HB20 / HB20S. Confirmar variações por chassi/versão antes da venda.",
+      "Busca de motor deve confirmar ano, cilindrada, combustível, potência/CV e código do motor antes da venda."
     ],
     "confiancaBase": 82,
-    "faseTecnica": "FASE 8 - MOTOR, TRANSMISSÃO E ALIMENTAÇÃO"
+    "faseTecnica": "FASE 8 - MOTOR, TRANSMISSÃO E ALIMENTAÇÃO",
+    "dadosMotor": [
+      {
+        "anos": "2012-2019",
+        "motor": "1.0 Kappa Flex 12V, 3 cilindros",
+        "cilindrada": "998 cm³",
+        "potencia": "75 cv gasolina / 80 cv etanol",
+        "cv": "75/80 cv",
+        "combustivel": "Flex",
+        "observacao": "Confirmar versão e ano; HB20 também pode usar motor 1.6 conforme versão."
+      },
+      {
+        "anos": "2012-2019",
+        "motor": "1.6 Gamma Flex 16V, 4 cilindros",
+        "cilindrada": "1.591 cm³",
+        "potencia": "122 cv gasolina / 128 cv etanol",
+        "cv": "122/128 cv",
+        "combustivel": "Flex",
+        "observacao": "Confirmar se o veículo é 1.0 ou 1.6 antes de vender peças de motor."
+      }
+    ]
   },
   {
     "id": "cmbio-hb20-2012-2019",
@@ -2764,7 +3850,27 @@
       "Aplicação base cadastrada para HB20 / HB20S. Confirmar variações por chassi/versão antes da venda."
     ],
     "confiancaBase": 82,
-    "faseTecnica": "FASE 8 - MOTOR, TRANSMISSÃO E ALIMENTAÇÃO"
+    "faseTecnica": "FASE 8 - MOTOR, TRANSMISSÃO E ALIMENTAÇÃO",
+    "dadosMotor": [
+      {
+        "anos": "2012-2019",
+        "motor": "1.0 Kappa Flex 12V, 3 cilindros",
+        "cilindrada": "998 cm³",
+        "potencia": "75 cv gasolina / 80 cv etanol",
+        "cv": "75/80 cv",
+        "combustivel": "Flex",
+        "observacao": "Confirmar versão e ano; HB20 também pode usar motor 1.6 conforme versão."
+      },
+      {
+        "anos": "2012-2019",
+        "motor": "1.6 Gamma Flex 16V, 4 cilindros",
+        "cilindrada": "1.591 cm³",
+        "potencia": "122 cv gasolina / 128 cv etanol",
+        "cv": "122/128 cv",
+        "combustivel": "Flex",
+        "observacao": "Confirmar se o veículo é 1.0 ou 1.6 antes de vender peças de motor."
+      }
+    ]
   },
   {
     "id": "embreagem-hb20-2012-2019",
@@ -2809,7 +3915,27 @@
       "Aplicação base cadastrada para HB20 / HB20S. Confirmar variações por chassi/versão antes da venda."
     ],
     "confiancaBase": 82,
-    "faseTecnica": "FASE 8 - MOTOR, TRANSMISSÃO E ALIMENTAÇÃO"
+    "faseTecnica": "FASE 8 - MOTOR, TRANSMISSÃO E ALIMENTAÇÃO",
+    "dadosMotor": [
+      {
+        "anos": "2012-2019",
+        "motor": "1.0 Kappa Flex 12V, 3 cilindros",
+        "cilindrada": "998 cm³",
+        "potencia": "75 cv gasolina / 80 cv etanol",
+        "cv": "75/80 cv",
+        "combustivel": "Flex",
+        "observacao": "Confirmar versão e ano; HB20 também pode usar motor 1.6 conforme versão."
+      },
+      {
+        "anos": "2012-2019",
+        "motor": "1.6 Gamma Flex 16V, 4 cilindros",
+        "cilindrada": "1.591 cm³",
+        "potencia": "122 cv gasolina / 128 cv etanol",
+        "cv": "122/128 cv",
+        "combustivel": "Flex",
+        "observacao": "Confirmar se o veículo é 1.0 ou 1.6 antes de vender peças de motor."
+      }
+    ]
   },
   {
     "id": "atuador-de-embreagem-hb20-2012-2019",
@@ -2854,7 +3980,27 @@
       "Aplicação base cadastrada para HB20 / HB20S. Confirmar variações por chassi/versão antes da venda."
     ],
     "confiancaBase": 82,
-    "faseTecnica": "FASE 8 - MOTOR, TRANSMISSÃO E ALIMENTAÇÃO"
+    "faseTecnica": "FASE 8 - MOTOR, TRANSMISSÃO E ALIMENTAÇÃO",
+    "dadosMotor": [
+      {
+        "anos": "2012-2019",
+        "motor": "1.0 Kappa Flex 12V, 3 cilindros",
+        "cilindrada": "998 cm³",
+        "potencia": "75 cv gasolina / 80 cv etanol",
+        "cv": "75/80 cv",
+        "combustivel": "Flex",
+        "observacao": "Confirmar versão e ano; HB20 também pode usar motor 1.6 conforme versão."
+      },
+      {
+        "anos": "2012-2019",
+        "motor": "1.6 Gamma Flex 16V, 4 cilindros",
+        "cilindrada": "1.591 cm³",
+        "potencia": "122 cv gasolina / 128 cv etanol",
+        "cv": "122/128 cv",
+        "combustivel": "Flex",
+        "observacao": "Confirmar se o veículo é 1.0 ou 1.6 antes de vender peças de motor."
+      }
+    ]
   },
   {
     "id": "trambulador-hb20-2012-2019",
@@ -2899,7 +4045,27 @@
       "Aplicação base cadastrada para HB20 / HB20S. Confirmar variações por chassi/versão antes da venda."
     ],
     "confiancaBase": 82,
-    "faseTecnica": "FASE 8 - MOTOR, TRANSMISSÃO E ALIMENTAÇÃO"
+    "faseTecnica": "FASE 8 - MOTOR, TRANSMISSÃO E ALIMENTAÇÃO",
+    "dadosMotor": [
+      {
+        "anos": "2012-2019",
+        "motor": "1.0 Kappa Flex 12V, 3 cilindros",
+        "cilindrada": "998 cm³",
+        "potencia": "75 cv gasolina / 80 cv etanol",
+        "cv": "75/80 cv",
+        "combustivel": "Flex",
+        "observacao": "Confirmar versão e ano; HB20 também pode usar motor 1.6 conforme versão."
+      },
+      {
+        "anos": "2012-2019",
+        "motor": "1.6 Gamma Flex 16V, 4 cilindros",
+        "cilindrada": "1.591 cm³",
+        "potencia": "122 cv gasolina / 128 cv etanol",
+        "cv": "122/128 cv",
+        "combustivel": "Flex",
+        "observacao": "Confirmar se o veículo é 1.0 ou 1.6 antes de vender peças de motor."
+      }
+    ]
   },
   {
     "id": "semi-eixo-hb20-2012-2019",
@@ -2945,7 +4111,27 @@
       "Aplicação base cadastrada para HB20 / HB20S. Confirmar variações por chassi/versão antes da venda."
     ],
     "confiancaBase": 82,
-    "faseTecnica": "FASE 8 - MOTOR, TRANSMISSÃO E ALIMENTAÇÃO"
+    "faseTecnica": "FASE 8 - MOTOR, TRANSMISSÃO E ALIMENTAÇÃO",
+    "dadosMotor": [
+      {
+        "anos": "2012-2019",
+        "motor": "1.0 Kappa Flex 12V, 3 cilindros",
+        "cilindrada": "998 cm³",
+        "potencia": "75 cv gasolina / 80 cv etanol",
+        "cv": "75/80 cv",
+        "combustivel": "Flex",
+        "observacao": "Confirmar versão e ano; HB20 também pode usar motor 1.6 conforme versão."
+      },
+      {
+        "anos": "2012-2019",
+        "motor": "1.6 Gamma Flex 16V, 4 cilindros",
+        "cilindrada": "1.591 cm³",
+        "potencia": "122 cv gasolina / 128 cv etanol",
+        "cv": "122/128 cv",
+        "combustivel": "Flex",
+        "observacao": "Confirmar se o veículo é 1.0 ou 1.6 antes de vender peças de motor."
+      }
+    ]
   },
   {
     "id": "homocintica-hb20-2012-2019",
@@ -2991,7 +4177,27 @@
       "Aplicação base cadastrada para HB20 / HB20S. Confirmar variações por chassi/versão antes da venda."
     ],
     "confiancaBase": 82,
-    "faseTecnica": "FASE 8 - MOTOR, TRANSMISSÃO E ALIMENTAÇÃO"
+    "faseTecnica": "FASE 8 - MOTOR, TRANSMISSÃO E ALIMENTAÇÃO",
+    "dadosMotor": [
+      {
+        "anos": "2012-2019",
+        "motor": "1.0 Kappa Flex 12V, 3 cilindros",
+        "cilindrada": "998 cm³",
+        "potencia": "75 cv gasolina / 80 cv etanol",
+        "cv": "75/80 cv",
+        "combustivel": "Flex",
+        "observacao": "Confirmar versão e ano; HB20 também pode usar motor 1.6 conforme versão."
+      },
+      {
+        "anos": "2012-2019",
+        "motor": "1.6 Gamma Flex 16V, 4 cilindros",
+        "cilindrada": "1.591 cm³",
+        "potencia": "122 cv gasolina / 128 cv etanol",
+        "cv": "122/128 cv",
+        "combustivel": "Flex",
+        "observacao": "Confirmar se o veículo é 1.0 ou 1.6 antes de vender peças de motor."
+      }
+    ]
   },
   {
     "id": "bomba-de-combustvel-hb20-2012-2019",
@@ -3036,7 +4242,27 @@
       "Aplicação base cadastrada para HB20 / HB20S. Confirmar variações por chassi/versão antes da venda."
     ],
     "confiancaBase": 82,
-    "faseTecnica": "FASE 8 - MOTOR, TRANSMISSÃO E ALIMENTAÇÃO"
+    "faseTecnica": "FASE 8 - MOTOR, TRANSMISSÃO E ALIMENTAÇÃO",
+    "dadosMotor": [
+      {
+        "anos": "2012-2019",
+        "motor": "1.0 Kappa Flex 12V, 3 cilindros",
+        "cilindrada": "998 cm³",
+        "potencia": "75 cv gasolina / 80 cv etanol",
+        "cv": "75/80 cv",
+        "combustivel": "Flex",
+        "observacao": "Confirmar versão e ano; HB20 também pode usar motor 1.6 conforme versão."
+      },
+      {
+        "anos": "2012-2019",
+        "motor": "1.6 Gamma Flex 16V, 4 cilindros",
+        "cilindrada": "1.591 cm³",
+        "potencia": "122 cv gasolina / 128 cv etanol",
+        "cv": "122/128 cv",
+        "combustivel": "Flex",
+        "observacao": "Confirmar se o veículo é 1.0 ou 1.6 antes de vender peças de motor."
+      }
+    ]
   },
   {
     "id": "bico-injetor-hb20-2012-2019",
@@ -3081,7 +4307,27 @@
       "Aplicação base cadastrada para HB20 / HB20S. Confirmar variações por chassi/versão antes da venda."
     ],
     "confiancaBase": 82,
-    "faseTecnica": "FASE 8 - MOTOR, TRANSMISSÃO E ALIMENTAÇÃO"
+    "faseTecnica": "FASE 8 - MOTOR, TRANSMISSÃO E ALIMENTAÇÃO",
+    "dadosMotor": [
+      {
+        "anos": "2012-2019",
+        "motor": "1.0 Kappa Flex 12V, 3 cilindros",
+        "cilindrada": "998 cm³",
+        "potencia": "75 cv gasolina / 80 cv etanol",
+        "cv": "75/80 cv",
+        "combustivel": "Flex",
+        "observacao": "Confirmar versão e ano; HB20 também pode usar motor 1.6 conforme versão."
+      },
+      {
+        "anos": "2012-2019",
+        "motor": "1.6 Gamma Flex 16V, 4 cilindros",
+        "cilindrada": "1.591 cm³",
+        "potencia": "122 cv gasolina / 128 cv etanol",
+        "cv": "122/128 cv",
+        "combustivel": "Flex",
+        "observacao": "Confirmar se o veículo é 1.0 ou 1.6 antes de vender peças de motor."
+      }
+    ]
   },
   {
     "id": "corpo-de-borboleta-hb20-2012-2019",
@@ -3126,7 +4372,27 @@
       "Aplicação base cadastrada para HB20 / HB20S. Confirmar variações por chassi/versão antes da venda."
     ],
     "confiancaBase": 82,
-    "faseTecnica": "FASE 8 - MOTOR, TRANSMISSÃO E ALIMENTAÇÃO"
+    "faseTecnica": "FASE 8 - MOTOR, TRANSMISSÃO E ALIMENTAÇÃO",
+    "dadosMotor": [
+      {
+        "anos": "2012-2019",
+        "motor": "1.0 Kappa Flex 12V, 3 cilindros",
+        "cilindrada": "998 cm³",
+        "potencia": "75 cv gasolina / 80 cv etanol",
+        "cv": "75/80 cv",
+        "combustivel": "Flex",
+        "observacao": "Confirmar versão e ano; HB20 também pode usar motor 1.6 conforme versão."
+      },
+      {
+        "anos": "2012-2019",
+        "motor": "1.6 Gamma Flex 16V, 4 cilindros",
+        "cilindrada": "1.591 cm³",
+        "potencia": "122 cv gasolina / 128 cv etanol",
+        "cv": "122/128 cv",
+        "combustivel": "Flex",
+        "observacao": "Confirmar se o veículo é 1.0 ou 1.6 antes de vender peças de motor."
+      }
+    ]
   },
   {
     "id": "filtro-de-combustvel-hb20-2012-2019",
@@ -3170,7 +4436,27 @@
       "Aplicação base cadastrada para HB20 / HB20S. Confirmar variações por chassi/versão antes da venda."
     ],
     "confiancaBase": 82,
-    "faseTecnica": "FASE 8 - MOTOR, TRANSMISSÃO E ALIMENTAÇÃO"
+    "faseTecnica": "FASE 8 - MOTOR, TRANSMISSÃO E ALIMENTAÇÃO",
+    "dadosMotor": [
+      {
+        "anos": "2012-2019",
+        "motor": "1.0 Kappa Flex 12V, 3 cilindros",
+        "cilindrada": "998 cm³",
+        "potencia": "75 cv gasolina / 80 cv etanol",
+        "cv": "75/80 cv",
+        "combustivel": "Flex",
+        "observacao": "Confirmar versão e ano; HB20 também pode usar motor 1.6 conforme versão."
+      },
+      {
+        "anos": "2012-2019",
+        "motor": "1.6 Gamma Flex 16V, 4 cilindros",
+        "cilindrada": "1.591 cm³",
+        "potencia": "122 cv gasolina / 128 cv etanol",
+        "cv": "122/128 cv",
+        "combustivel": "Flex",
+        "observacao": "Confirmar se o veículo é 1.0 ou 1.6 antes de vender peças de motor."
+      }
+    ]
   },
   {
     "id": "tanque-de-combustvel-hb20-2012-2019",
@@ -3215,7 +4501,27 @@
       "Aplicação base cadastrada para HB20 / HB20S. Confirmar variações por chassi/versão antes da venda."
     ],
     "confiancaBase": 82,
-    "faseTecnica": "FASE 8 - MOTOR, TRANSMISSÃO E ALIMENTAÇÃO"
+    "faseTecnica": "FASE 8 - MOTOR, TRANSMISSÃO E ALIMENTAÇÃO",
+    "dadosMotor": [
+      {
+        "anos": "2012-2019",
+        "motor": "1.0 Kappa Flex 12V, 3 cilindros",
+        "cilindrada": "998 cm³",
+        "potencia": "75 cv gasolina / 80 cv etanol",
+        "cv": "75/80 cv",
+        "combustivel": "Flex",
+        "observacao": "Confirmar versão e ano; HB20 também pode usar motor 1.6 conforme versão."
+      },
+      {
+        "anos": "2012-2019",
+        "motor": "1.6 Gamma Flex 16V, 4 cilindros",
+        "cilindrada": "1.591 cm³",
+        "potencia": "122 cv gasolina / 128 cv etanol",
+        "cv": "122/128 cv",
+        "combustivel": "Flex",
+        "observacao": "Confirmar se o veículo é 1.0 ou 1.6 antes de vender peças de motor."
+      }
+    ]
   },
   {
     "id": "motor-completo-uno-2011-2020",
@@ -3262,10 +4568,31 @@
     "observacoes": [
       "Confirmar motorização, ano, combustível e código do motor antes da venda.",
       "Peça pode variar por versão flex/gasolina e câmbio manual/automático.",
-      "Aplicação base cadastrada para UNO / MOBI. Confirmar variações por chassi/versão antes da venda."
+      "Aplicação base cadastrada para UNO / MOBI. Confirmar variações por chassi/versão antes da venda.",
+      "Busca de motor deve confirmar ano, cilindrada, combustível, potência/CV e código do motor antes da venda."
     ],
     "confiancaBase": 82,
-    "faseTecnica": "FASE 8 - MOTOR, TRANSMISSÃO E ALIMENTAÇÃO"
+    "faseTecnica": "FASE 8 - MOTOR, TRANSMISSÃO E ALIMENTAÇÃO",
+    "dadosMotor": [
+      {
+        "anos": "2010-2020",
+        "motor": "1.0 Fire/Flex conforme modelo e ano",
+        "cilindrada": "999 cm³",
+        "potencia": "73 cv gasolina / 75 cv etanol aprox.",
+        "cv": "73/75 cv",
+        "combustivel": "Flex",
+        "observacao": "Confirmar se é Uno ou Mobi, ano e código do motor."
+      },
+      {
+        "anos": "2010-2020",
+        "motor": "1.4 Fire/Flex conforme versão",
+        "cilindrada": "1.368 cm³",
+        "potencia": "85 cv gasolina / 88 cv etanol aprox.",
+        "cv": "85/88 cv",
+        "combustivel": "Flex",
+        "observacao": "Algumas versões usam 1.4; confirmar antes da venda."
+      }
+    ]
   },
   {
     "id": "cabeote-uno-2011-2020",
@@ -3311,10 +4638,31 @@
     "observacoes": [
       "Confirmar motor e quantidade de válvulas.",
       "Verificar se o cliente precisa peça completa ou somente carcaça.",
-      "Aplicação base cadastrada para UNO / MOBI. Confirmar variações por chassi/versão antes da venda."
+      "Aplicação base cadastrada para UNO / MOBI. Confirmar variações por chassi/versão antes da venda.",
+      "Busca de motor deve confirmar ano, cilindrada, combustível, potência/CV e código do motor antes da venda."
     ],
     "confiancaBase": 82,
-    "faseTecnica": "FASE 8 - MOTOR, TRANSMISSÃO E ALIMENTAÇÃO"
+    "faseTecnica": "FASE 8 - MOTOR, TRANSMISSÃO E ALIMENTAÇÃO",
+    "dadosMotor": [
+      {
+        "anos": "2010-2020",
+        "motor": "1.0 Fire/Flex conforme modelo e ano",
+        "cilindrada": "999 cm³",
+        "potencia": "73 cv gasolina / 75 cv etanol aprox.",
+        "cv": "73/75 cv",
+        "combustivel": "Flex",
+        "observacao": "Confirmar se é Uno ou Mobi, ano e código do motor."
+      },
+      {
+        "anos": "2010-2020",
+        "motor": "1.4 Fire/Flex conforme versão",
+        "cilindrada": "1.368 cm³",
+        "potencia": "85 cv gasolina / 88 cv etanol aprox.",
+        "cv": "85/88 cv",
+        "combustivel": "Flex",
+        "observacao": "Algumas versões usam 1.4; confirmar antes da venda."
+      }
+    ]
   },
   {
     "id": "tampa-de-vlvulas-uno-2011-2020",
@@ -3358,10 +4706,31 @@
     ],
     "observacoes": [
       "Confirmar motorização e modelo da tampa.",
-      "Aplicação base cadastrada para UNO / MOBI. Confirmar variações por chassi/versão antes da venda."
+      "Aplicação base cadastrada para UNO / MOBI. Confirmar variações por chassi/versão antes da venda.",
+      "Busca de motor deve confirmar ano, cilindrada, combustível, potência/CV e código do motor antes da venda."
     ],
     "confiancaBase": 82,
-    "faseTecnica": "FASE 8 - MOTOR, TRANSMISSÃO E ALIMENTAÇÃO"
+    "faseTecnica": "FASE 8 - MOTOR, TRANSMISSÃO E ALIMENTAÇÃO",
+    "dadosMotor": [
+      {
+        "anos": "2010-2020",
+        "motor": "1.0 Fire/Flex conforme modelo e ano",
+        "cilindrada": "999 cm³",
+        "potencia": "73 cv gasolina / 75 cv etanol aprox.",
+        "cv": "73/75 cv",
+        "combustivel": "Flex",
+        "observacao": "Confirmar se é Uno ou Mobi, ano e código do motor."
+      },
+      {
+        "anos": "2010-2020",
+        "motor": "1.4 Fire/Flex conforme versão",
+        "cilindrada": "1.368 cm³",
+        "potencia": "85 cv gasolina / 88 cv etanol aprox.",
+        "cv": "85/88 cv",
+        "combustivel": "Flex",
+        "observacao": "Algumas versões usam 1.4; confirmar antes da venda."
+      }
+    ]
   },
   {
     "id": "coletor-admisso-uno-2011-2020",
@@ -3405,10 +4774,31 @@
     ],
     "observacoes": [
       "Confirmar motor e encaixes dos sensores/mangueiras.",
-      "Aplicação base cadastrada para UNO / MOBI. Confirmar variações por chassi/versão antes da venda."
+      "Aplicação base cadastrada para UNO / MOBI. Confirmar variações por chassi/versão antes da venda.",
+      "Busca de motor deve confirmar ano, cilindrada, combustível, potência/CV e código do motor antes da venda."
     ],
     "confiancaBase": 82,
-    "faseTecnica": "FASE 8 - MOTOR, TRANSMISSÃO E ALIMENTAÇÃO"
+    "faseTecnica": "FASE 8 - MOTOR, TRANSMISSÃO E ALIMENTAÇÃO",
+    "dadosMotor": [
+      {
+        "anos": "2010-2020",
+        "motor": "1.0 Fire/Flex conforme modelo e ano",
+        "cilindrada": "999 cm³",
+        "potencia": "73 cv gasolina / 75 cv etanol aprox.",
+        "cv": "73/75 cv",
+        "combustivel": "Flex",
+        "observacao": "Confirmar se é Uno ou Mobi, ano e código do motor."
+      },
+      {
+        "anos": "2010-2020",
+        "motor": "1.4 Fire/Flex conforme versão",
+        "cilindrada": "1.368 cm³",
+        "potencia": "85 cv gasolina / 88 cv etanol aprox.",
+        "cv": "85/88 cv",
+        "combustivel": "Flex",
+        "observacao": "Algumas versões usam 1.4; confirmar antes da venda."
+      }
+    ]
   },
   {
     "id": "coletor-escape-uno-2011-2020",
@@ -3452,10 +4842,31 @@
     ],
     "observacoes": [
       "Confirmar motor e presença de catalisador integrado quando aplicável.",
-      "Aplicação base cadastrada para UNO / MOBI. Confirmar variações por chassi/versão antes da venda."
+      "Aplicação base cadastrada para UNO / MOBI. Confirmar variações por chassi/versão antes da venda.",
+      "Busca de motor deve confirmar ano, cilindrada, combustível, potência/CV e código do motor antes da venda."
     ],
     "confiancaBase": 82,
-    "faseTecnica": "FASE 8 - MOTOR, TRANSMISSÃO E ALIMENTAÇÃO"
+    "faseTecnica": "FASE 8 - MOTOR, TRANSMISSÃO E ALIMENTAÇÃO",
+    "dadosMotor": [
+      {
+        "anos": "2010-2020",
+        "motor": "1.0 Fire/Flex conforme modelo e ano",
+        "cilindrada": "999 cm³",
+        "potencia": "73 cv gasolina / 75 cv etanol aprox.",
+        "cv": "73/75 cv",
+        "combustivel": "Flex",
+        "observacao": "Confirmar se é Uno ou Mobi, ano e código do motor."
+      },
+      {
+        "anos": "2010-2020",
+        "motor": "1.4 Fire/Flex conforme versão",
+        "cilindrada": "1.368 cm³",
+        "potencia": "85 cv gasolina / 88 cv etanol aprox.",
+        "cv": "85/88 cv",
+        "combustivel": "Flex",
+        "observacao": "Algumas versões usam 1.4; confirmar antes da venda."
+      }
+    ]
   },
   {
     "id": "bomba-de-leo-uno-2011-2020",
@@ -3499,10 +4910,31 @@
     ],
     "observacoes": [
       "Confirmar código do motor e aplicação por ano.",
-      "Aplicação base cadastrada para UNO / MOBI. Confirmar variações por chassi/versão antes da venda."
+      "Aplicação base cadastrada para UNO / MOBI. Confirmar variações por chassi/versão antes da venda.",
+      "Busca de motor deve confirmar ano, cilindrada, combustível, potência/CV e código do motor antes da venda."
     ],
     "confiancaBase": 82,
-    "faseTecnica": "FASE 8 - MOTOR, TRANSMISSÃO E ALIMENTAÇÃO"
+    "faseTecnica": "FASE 8 - MOTOR, TRANSMISSÃO E ALIMENTAÇÃO",
+    "dadosMotor": [
+      {
+        "anos": "2010-2020",
+        "motor": "1.0 Fire/Flex conforme modelo e ano",
+        "cilindrada": "999 cm³",
+        "potencia": "73 cv gasolina / 75 cv etanol aprox.",
+        "cv": "73/75 cv",
+        "combustivel": "Flex",
+        "observacao": "Confirmar se é Uno ou Mobi, ano e código do motor."
+      },
+      {
+        "anos": "2010-2020",
+        "motor": "1.4 Fire/Flex conforme versão",
+        "cilindrada": "1.368 cm³",
+        "potencia": "85 cv gasolina / 88 cv etanol aprox.",
+        "cv": "85/88 cv",
+        "combustivel": "Flex",
+        "observacao": "Algumas versões usam 1.4; confirmar antes da venda."
+      }
+    ]
   },
   {
     "id": "coxim-do-motor-uno-2011-2020",
@@ -3546,10 +4978,31 @@
     ],
     "observacoes": [
       "Confirmar lado/posição do coxim antes da venda.",
-      "Aplicação base cadastrada para UNO / MOBI. Confirmar variações por chassi/versão antes da venda."
+      "Aplicação base cadastrada para UNO / MOBI. Confirmar variações por chassi/versão antes da venda.",
+      "Busca de motor deve confirmar ano, cilindrada, combustível, potência/CV e código do motor antes da venda."
     ],
     "confiancaBase": 82,
-    "faseTecnica": "FASE 8 - MOTOR, TRANSMISSÃO E ALIMENTAÇÃO"
+    "faseTecnica": "FASE 8 - MOTOR, TRANSMISSÃO E ALIMENTAÇÃO",
+    "dadosMotor": [
+      {
+        "anos": "2010-2020",
+        "motor": "1.0 Fire/Flex conforme modelo e ano",
+        "cilindrada": "999 cm³",
+        "potencia": "73 cv gasolina / 75 cv etanol aprox.",
+        "cv": "73/75 cv",
+        "combustivel": "Flex",
+        "observacao": "Confirmar se é Uno ou Mobi, ano e código do motor."
+      },
+      {
+        "anos": "2010-2020",
+        "motor": "1.4 Fire/Flex conforme versão",
+        "cilindrada": "1.368 cm³",
+        "potencia": "85 cv gasolina / 88 cv etanol aprox.",
+        "cv": "85/88 cv",
+        "combustivel": "Flex",
+        "observacao": "Algumas versões usam 1.4; confirmar antes da venda."
+      }
+    ]
   },
   {
     "id": "cmbio-uno-2011-2020",
@@ -3598,7 +5051,27 @@
       "Aplicação base cadastrada para UNO / MOBI. Confirmar variações por chassi/versão antes da venda."
     ],
     "confiancaBase": 82,
-    "faseTecnica": "FASE 8 - MOTOR, TRANSMISSÃO E ALIMENTAÇÃO"
+    "faseTecnica": "FASE 8 - MOTOR, TRANSMISSÃO E ALIMENTAÇÃO",
+    "dadosMotor": [
+      {
+        "anos": "2010-2020",
+        "motor": "1.0 Fire/Flex conforme modelo e ano",
+        "cilindrada": "999 cm³",
+        "potencia": "73 cv gasolina / 75 cv etanol aprox.",
+        "cv": "73/75 cv",
+        "combustivel": "Flex",
+        "observacao": "Confirmar se é Uno ou Mobi, ano e código do motor."
+      },
+      {
+        "anos": "2010-2020",
+        "motor": "1.4 Fire/Flex conforme versão",
+        "cilindrada": "1.368 cm³",
+        "potencia": "85 cv gasolina / 88 cv etanol aprox.",
+        "cv": "85/88 cv",
+        "combustivel": "Flex",
+        "observacao": "Algumas versões usam 1.4; confirmar antes da venda."
+      }
+    ]
   },
   {
     "id": "embreagem-uno-2011-2020",
@@ -3645,7 +5118,27 @@
       "Aplicação base cadastrada para UNO / MOBI. Confirmar variações por chassi/versão antes da venda."
     ],
     "confiancaBase": 82,
-    "faseTecnica": "FASE 8 - MOTOR, TRANSMISSÃO E ALIMENTAÇÃO"
+    "faseTecnica": "FASE 8 - MOTOR, TRANSMISSÃO E ALIMENTAÇÃO",
+    "dadosMotor": [
+      {
+        "anos": "2010-2020",
+        "motor": "1.0 Fire/Flex conforme modelo e ano",
+        "cilindrada": "999 cm³",
+        "potencia": "73 cv gasolina / 75 cv etanol aprox.",
+        "cv": "73/75 cv",
+        "combustivel": "Flex",
+        "observacao": "Confirmar se é Uno ou Mobi, ano e código do motor."
+      },
+      {
+        "anos": "2010-2020",
+        "motor": "1.4 Fire/Flex conforme versão",
+        "cilindrada": "1.368 cm³",
+        "potencia": "85 cv gasolina / 88 cv etanol aprox.",
+        "cv": "85/88 cv",
+        "combustivel": "Flex",
+        "observacao": "Algumas versões usam 1.4; confirmar antes da venda."
+      }
+    ]
   },
   {
     "id": "atuador-de-embreagem-uno-2011-2020",
@@ -3692,7 +5185,27 @@
       "Aplicação base cadastrada para UNO / MOBI. Confirmar variações por chassi/versão antes da venda."
     ],
     "confiancaBase": 82,
-    "faseTecnica": "FASE 8 - MOTOR, TRANSMISSÃO E ALIMENTAÇÃO"
+    "faseTecnica": "FASE 8 - MOTOR, TRANSMISSÃO E ALIMENTAÇÃO",
+    "dadosMotor": [
+      {
+        "anos": "2010-2020",
+        "motor": "1.0 Fire/Flex conforme modelo e ano",
+        "cilindrada": "999 cm³",
+        "potencia": "73 cv gasolina / 75 cv etanol aprox.",
+        "cv": "73/75 cv",
+        "combustivel": "Flex",
+        "observacao": "Confirmar se é Uno ou Mobi, ano e código do motor."
+      },
+      {
+        "anos": "2010-2020",
+        "motor": "1.4 Fire/Flex conforme versão",
+        "cilindrada": "1.368 cm³",
+        "potencia": "85 cv gasolina / 88 cv etanol aprox.",
+        "cv": "85/88 cv",
+        "combustivel": "Flex",
+        "observacao": "Algumas versões usam 1.4; confirmar antes da venda."
+      }
+    ]
   },
   {
     "id": "trambulador-uno-2011-2020",
@@ -3739,7 +5252,27 @@
       "Aplicação base cadastrada para UNO / MOBI. Confirmar variações por chassi/versão antes da venda."
     ],
     "confiancaBase": 82,
-    "faseTecnica": "FASE 8 - MOTOR, TRANSMISSÃO E ALIMENTAÇÃO"
+    "faseTecnica": "FASE 8 - MOTOR, TRANSMISSÃO E ALIMENTAÇÃO",
+    "dadosMotor": [
+      {
+        "anos": "2010-2020",
+        "motor": "1.0 Fire/Flex conforme modelo e ano",
+        "cilindrada": "999 cm³",
+        "potencia": "73 cv gasolina / 75 cv etanol aprox.",
+        "cv": "73/75 cv",
+        "combustivel": "Flex",
+        "observacao": "Confirmar se é Uno ou Mobi, ano e código do motor."
+      },
+      {
+        "anos": "2010-2020",
+        "motor": "1.4 Fire/Flex conforme versão",
+        "cilindrada": "1.368 cm³",
+        "potencia": "85 cv gasolina / 88 cv etanol aprox.",
+        "cv": "85/88 cv",
+        "combustivel": "Flex",
+        "observacao": "Algumas versões usam 1.4; confirmar antes da venda."
+      }
+    ]
   },
   {
     "id": "semi-eixo-uno-2011-2020",
@@ -3787,7 +5320,27 @@
       "Aplicação base cadastrada para UNO / MOBI. Confirmar variações por chassi/versão antes da venda."
     ],
     "confiancaBase": 82,
-    "faseTecnica": "FASE 8 - MOTOR, TRANSMISSÃO E ALIMENTAÇÃO"
+    "faseTecnica": "FASE 8 - MOTOR, TRANSMISSÃO E ALIMENTAÇÃO",
+    "dadosMotor": [
+      {
+        "anos": "2010-2020",
+        "motor": "1.0 Fire/Flex conforme modelo e ano",
+        "cilindrada": "999 cm³",
+        "potencia": "73 cv gasolina / 75 cv etanol aprox.",
+        "cv": "73/75 cv",
+        "combustivel": "Flex",
+        "observacao": "Confirmar se é Uno ou Mobi, ano e código do motor."
+      },
+      {
+        "anos": "2010-2020",
+        "motor": "1.4 Fire/Flex conforme versão",
+        "cilindrada": "1.368 cm³",
+        "potencia": "85 cv gasolina / 88 cv etanol aprox.",
+        "cv": "85/88 cv",
+        "combustivel": "Flex",
+        "observacao": "Algumas versões usam 1.4; confirmar antes da venda."
+      }
+    ]
   },
   {
     "id": "homocintica-uno-2011-2020",
@@ -3835,7 +5388,27 @@
       "Aplicação base cadastrada para UNO / MOBI. Confirmar variações por chassi/versão antes da venda."
     ],
     "confiancaBase": 82,
-    "faseTecnica": "FASE 8 - MOTOR, TRANSMISSÃO E ALIMENTAÇÃO"
+    "faseTecnica": "FASE 8 - MOTOR, TRANSMISSÃO E ALIMENTAÇÃO",
+    "dadosMotor": [
+      {
+        "anos": "2010-2020",
+        "motor": "1.0 Fire/Flex conforme modelo e ano",
+        "cilindrada": "999 cm³",
+        "potencia": "73 cv gasolina / 75 cv etanol aprox.",
+        "cv": "73/75 cv",
+        "combustivel": "Flex",
+        "observacao": "Confirmar se é Uno ou Mobi, ano e código do motor."
+      },
+      {
+        "anos": "2010-2020",
+        "motor": "1.4 Fire/Flex conforme versão",
+        "cilindrada": "1.368 cm³",
+        "potencia": "85 cv gasolina / 88 cv etanol aprox.",
+        "cv": "85/88 cv",
+        "combustivel": "Flex",
+        "observacao": "Algumas versões usam 1.4; confirmar antes da venda."
+      }
+    ]
   },
   {
     "id": "bomba-de-combustvel-uno-2011-2020",
@@ -3882,7 +5455,27 @@
       "Aplicação base cadastrada para UNO / MOBI. Confirmar variações por chassi/versão antes da venda."
     ],
     "confiancaBase": 82,
-    "faseTecnica": "FASE 8 - MOTOR, TRANSMISSÃO E ALIMENTAÇÃO"
+    "faseTecnica": "FASE 8 - MOTOR, TRANSMISSÃO E ALIMENTAÇÃO",
+    "dadosMotor": [
+      {
+        "anos": "2010-2020",
+        "motor": "1.0 Fire/Flex conforme modelo e ano",
+        "cilindrada": "999 cm³",
+        "potencia": "73 cv gasolina / 75 cv etanol aprox.",
+        "cv": "73/75 cv",
+        "combustivel": "Flex",
+        "observacao": "Confirmar se é Uno ou Mobi, ano e código do motor."
+      },
+      {
+        "anos": "2010-2020",
+        "motor": "1.4 Fire/Flex conforme versão",
+        "cilindrada": "1.368 cm³",
+        "potencia": "85 cv gasolina / 88 cv etanol aprox.",
+        "cv": "85/88 cv",
+        "combustivel": "Flex",
+        "observacao": "Algumas versões usam 1.4; confirmar antes da venda."
+      }
+    ]
   },
   {
     "id": "bico-injetor-uno-2011-2020",
@@ -3929,7 +5522,27 @@
       "Aplicação base cadastrada para UNO / MOBI. Confirmar variações por chassi/versão antes da venda."
     ],
     "confiancaBase": 82,
-    "faseTecnica": "FASE 8 - MOTOR, TRANSMISSÃO E ALIMENTAÇÃO"
+    "faseTecnica": "FASE 8 - MOTOR, TRANSMISSÃO E ALIMENTAÇÃO",
+    "dadosMotor": [
+      {
+        "anos": "2010-2020",
+        "motor": "1.0 Fire/Flex conforme modelo e ano",
+        "cilindrada": "999 cm³",
+        "potencia": "73 cv gasolina / 75 cv etanol aprox.",
+        "cv": "73/75 cv",
+        "combustivel": "Flex",
+        "observacao": "Confirmar se é Uno ou Mobi, ano e código do motor."
+      },
+      {
+        "anos": "2010-2020",
+        "motor": "1.4 Fire/Flex conforme versão",
+        "cilindrada": "1.368 cm³",
+        "potencia": "85 cv gasolina / 88 cv etanol aprox.",
+        "cv": "85/88 cv",
+        "combustivel": "Flex",
+        "observacao": "Algumas versões usam 1.4; confirmar antes da venda."
+      }
+    ]
   },
   {
     "id": "corpo-de-borboleta-uno-2011-2020",
@@ -3976,7 +5589,27 @@
       "Aplicação base cadastrada para UNO / MOBI. Confirmar variações por chassi/versão antes da venda."
     ],
     "confiancaBase": 82,
-    "faseTecnica": "FASE 8 - MOTOR, TRANSMISSÃO E ALIMENTAÇÃO"
+    "faseTecnica": "FASE 8 - MOTOR, TRANSMISSÃO E ALIMENTAÇÃO",
+    "dadosMotor": [
+      {
+        "anos": "2010-2020",
+        "motor": "1.0 Fire/Flex conforme modelo e ano",
+        "cilindrada": "999 cm³",
+        "potencia": "73 cv gasolina / 75 cv etanol aprox.",
+        "cv": "73/75 cv",
+        "combustivel": "Flex",
+        "observacao": "Confirmar se é Uno ou Mobi, ano e código do motor."
+      },
+      {
+        "anos": "2010-2020",
+        "motor": "1.4 Fire/Flex conforme versão",
+        "cilindrada": "1.368 cm³",
+        "potencia": "85 cv gasolina / 88 cv etanol aprox.",
+        "cv": "85/88 cv",
+        "combustivel": "Flex",
+        "observacao": "Algumas versões usam 1.4; confirmar antes da venda."
+      }
+    ]
   },
   {
     "id": "filtro-de-combustvel-uno-2011-2020",
@@ -4022,7 +5655,27 @@
       "Aplicação base cadastrada para UNO / MOBI. Confirmar variações por chassi/versão antes da venda."
     ],
     "confiancaBase": 82,
-    "faseTecnica": "FASE 8 - MOTOR, TRANSMISSÃO E ALIMENTAÇÃO"
+    "faseTecnica": "FASE 8 - MOTOR, TRANSMISSÃO E ALIMENTAÇÃO",
+    "dadosMotor": [
+      {
+        "anos": "2010-2020",
+        "motor": "1.0 Fire/Flex conforme modelo e ano",
+        "cilindrada": "999 cm³",
+        "potencia": "73 cv gasolina / 75 cv etanol aprox.",
+        "cv": "73/75 cv",
+        "combustivel": "Flex",
+        "observacao": "Confirmar se é Uno ou Mobi, ano e código do motor."
+      },
+      {
+        "anos": "2010-2020",
+        "motor": "1.4 Fire/Flex conforme versão",
+        "cilindrada": "1.368 cm³",
+        "potencia": "85 cv gasolina / 88 cv etanol aprox.",
+        "cv": "85/88 cv",
+        "combustivel": "Flex",
+        "observacao": "Algumas versões usam 1.4; confirmar antes da venda."
+      }
+    ]
   },
   {
     "id": "tanque-de-combustvel-uno-2011-2020",
@@ -4069,7 +5722,27 @@
       "Aplicação base cadastrada para UNO / MOBI. Confirmar variações por chassi/versão antes da venda."
     ],
     "confiancaBase": 82,
-    "faseTecnica": "FASE 8 - MOTOR, TRANSMISSÃO E ALIMENTAÇÃO"
+    "faseTecnica": "FASE 8 - MOTOR, TRANSMISSÃO E ALIMENTAÇÃO",
+    "dadosMotor": [
+      {
+        "anos": "2010-2020",
+        "motor": "1.0 Fire/Flex conforme modelo e ano",
+        "cilindrada": "999 cm³",
+        "potencia": "73 cv gasolina / 75 cv etanol aprox.",
+        "cv": "73/75 cv",
+        "combustivel": "Flex",
+        "observacao": "Confirmar se é Uno ou Mobi, ano e código do motor."
+      },
+      {
+        "anos": "2010-2020",
+        "motor": "1.4 Fire/Flex conforme versão",
+        "cilindrada": "1.368 cm³",
+        "potencia": "85 cv gasolina / 88 cv etanol aprox.",
+        "cv": "85/88 cv",
+        "combustivel": "Flex",
+        "observacao": "Algumas versões usam 1.4; confirmar antes da venda."
+      }
+    ]
   },
   {
     "id": "motor-completo-ka-2014-2019",
@@ -4112,10 +5785,31 @@
     "observacoes": [
       "Confirmar motorização, ano, combustível e código do motor antes da venda.",
       "Peça pode variar por versão flex/gasolina e câmbio manual/automático.",
-      "Aplicação base cadastrada para KA / FIESTA. Confirmar variações por chassi/versão antes da venda."
+      "Aplicação base cadastrada para KA / FIESTA. Confirmar variações por chassi/versão antes da venda.",
+      "Busca de motor deve confirmar ano, cilindrada, combustível, potência/CV e código do motor antes da venda."
     ],
     "confiancaBase": 82,
-    "faseTecnica": "FASE 8 - MOTOR, TRANSMISSÃO E ALIMENTAÇÃO"
+    "faseTecnica": "FASE 8 - MOTOR, TRANSMISSÃO E ALIMENTAÇÃO",
+    "dadosMotor": [
+      {
+        "anos": "2014-2019",
+        "motor": "1.0 Ti-VCT Flex 3 cilindros",
+        "cilindrada": "999 cm³",
+        "potencia": "80 cv gasolina / 85 cv etanol aprox.",
+        "cv": "80/85 cv",
+        "combustivel": "Flex",
+        "observacao": "Confirmar ano/modelo; Ka e Fiesta têm variações por geração."
+      },
+      {
+        "anos": "2014-2019",
+        "motor": "1.5 Sigma Flex",
+        "cilindrada": "1.499 cm³",
+        "potencia": "105 cv gasolina / 110 cv etanol aprox.",
+        "cv": "105/110 cv",
+        "combustivel": "Flex",
+        "observacao": "Confirmar motorização 1.0 ou 1.5."
+      }
+    ]
   },
   {
     "id": "cabeote-ka-2014-2019",
@@ -4157,10 +5851,31 @@
     "observacoes": [
       "Confirmar motor e quantidade de válvulas.",
       "Verificar se o cliente precisa peça completa ou somente carcaça.",
-      "Aplicação base cadastrada para KA / FIESTA. Confirmar variações por chassi/versão antes da venda."
+      "Aplicação base cadastrada para KA / FIESTA. Confirmar variações por chassi/versão antes da venda.",
+      "Busca de motor deve confirmar ano, cilindrada, combustível, potência/CV e código do motor antes da venda."
     ],
     "confiancaBase": 82,
-    "faseTecnica": "FASE 8 - MOTOR, TRANSMISSÃO E ALIMENTAÇÃO"
+    "faseTecnica": "FASE 8 - MOTOR, TRANSMISSÃO E ALIMENTAÇÃO",
+    "dadosMotor": [
+      {
+        "anos": "2014-2019",
+        "motor": "1.0 Ti-VCT Flex 3 cilindros",
+        "cilindrada": "999 cm³",
+        "potencia": "80 cv gasolina / 85 cv etanol aprox.",
+        "cv": "80/85 cv",
+        "combustivel": "Flex",
+        "observacao": "Confirmar ano/modelo; Ka e Fiesta têm variações por geração."
+      },
+      {
+        "anos": "2014-2019",
+        "motor": "1.5 Sigma Flex",
+        "cilindrada": "1.499 cm³",
+        "potencia": "105 cv gasolina / 110 cv etanol aprox.",
+        "cv": "105/110 cv",
+        "combustivel": "Flex",
+        "observacao": "Confirmar motorização 1.0 ou 1.5."
+      }
+    ]
   },
   {
     "id": "tampa-de-vlvulas-ka-2014-2019",
@@ -4200,10 +5915,31 @@
     ],
     "observacoes": [
       "Confirmar motorização e modelo da tampa.",
-      "Aplicação base cadastrada para KA / FIESTA. Confirmar variações por chassi/versão antes da venda."
+      "Aplicação base cadastrada para KA / FIESTA. Confirmar variações por chassi/versão antes da venda.",
+      "Busca de motor deve confirmar ano, cilindrada, combustível, potência/CV e código do motor antes da venda."
     ],
     "confiancaBase": 82,
-    "faseTecnica": "FASE 8 - MOTOR, TRANSMISSÃO E ALIMENTAÇÃO"
+    "faseTecnica": "FASE 8 - MOTOR, TRANSMISSÃO E ALIMENTAÇÃO",
+    "dadosMotor": [
+      {
+        "anos": "2014-2019",
+        "motor": "1.0 Ti-VCT Flex 3 cilindros",
+        "cilindrada": "999 cm³",
+        "potencia": "80 cv gasolina / 85 cv etanol aprox.",
+        "cv": "80/85 cv",
+        "combustivel": "Flex",
+        "observacao": "Confirmar ano/modelo; Ka e Fiesta têm variações por geração."
+      },
+      {
+        "anos": "2014-2019",
+        "motor": "1.5 Sigma Flex",
+        "cilindrada": "1.499 cm³",
+        "potencia": "105 cv gasolina / 110 cv etanol aprox.",
+        "cv": "105/110 cv",
+        "combustivel": "Flex",
+        "observacao": "Confirmar motorização 1.0 ou 1.5."
+      }
+    ]
   },
   {
     "id": "coletor-admisso-ka-2014-2019",
@@ -4243,10 +5979,31 @@
     ],
     "observacoes": [
       "Confirmar motor e encaixes dos sensores/mangueiras.",
-      "Aplicação base cadastrada para KA / FIESTA. Confirmar variações por chassi/versão antes da venda."
+      "Aplicação base cadastrada para KA / FIESTA. Confirmar variações por chassi/versão antes da venda.",
+      "Busca de motor deve confirmar ano, cilindrada, combustível, potência/CV e código do motor antes da venda."
     ],
     "confiancaBase": 82,
-    "faseTecnica": "FASE 8 - MOTOR, TRANSMISSÃO E ALIMENTAÇÃO"
+    "faseTecnica": "FASE 8 - MOTOR, TRANSMISSÃO E ALIMENTAÇÃO",
+    "dadosMotor": [
+      {
+        "anos": "2014-2019",
+        "motor": "1.0 Ti-VCT Flex 3 cilindros",
+        "cilindrada": "999 cm³",
+        "potencia": "80 cv gasolina / 85 cv etanol aprox.",
+        "cv": "80/85 cv",
+        "combustivel": "Flex",
+        "observacao": "Confirmar ano/modelo; Ka e Fiesta têm variações por geração."
+      },
+      {
+        "anos": "2014-2019",
+        "motor": "1.5 Sigma Flex",
+        "cilindrada": "1.499 cm³",
+        "potencia": "105 cv gasolina / 110 cv etanol aprox.",
+        "cv": "105/110 cv",
+        "combustivel": "Flex",
+        "observacao": "Confirmar motorização 1.0 ou 1.5."
+      }
+    ]
   },
   {
     "id": "coletor-escape-ka-2014-2019",
@@ -4286,10 +6043,31 @@
     ],
     "observacoes": [
       "Confirmar motor e presença de catalisador integrado quando aplicável.",
-      "Aplicação base cadastrada para KA / FIESTA. Confirmar variações por chassi/versão antes da venda."
+      "Aplicação base cadastrada para KA / FIESTA. Confirmar variações por chassi/versão antes da venda.",
+      "Busca de motor deve confirmar ano, cilindrada, combustível, potência/CV e código do motor antes da venda."
     ],
     "confiancaBase": 82,
-    "faseTecnica": "FASE 8 - MOTOR, TRANSMISSÃO E ALIMENTAÇÃO"
+    "faseTecnica": "FASE 8 - MOTOR, TRANSMISSÃO E ALIMENTAÇÃO",
+    "dadosMotor": [
+      {
+        "anos": "2014-2019",
+        "motor": "1.0 Ti-VCT Flex 3 cilindros",
+        "cilindrada": "999 cm³",
+        "potencia": "80 cv gasolina / 85 cv etanol aprox.",
+        "cv": "80/85 cv",
+        "combustivel": "Flex",
+        "observacao": "Confirmar ano/modelo; Ka e Fiesta têm variações por geração."
+      },
+      {
+        "anos": "2014-2019",
+        "motor": "1.5 Sigma Flex",
+        "cilindrada": "1.499 cm³",
+        "potencia": "105 cv gasolina / 110 cv etanol aprox.",
+        "cv": "105/110 cv",
+        "combustivel": "Flex",
+        "observacao": "Confirmar motorização 1.0 ou 1.5."
+      }
+    ]
   },
   {
     "id": "bomba-de-leo-ka-2014-2019",
@@ -4329,10 +6107,31 @@
     ],
     "observacoes": [
       "Confirmar código do motor e aplicação por ano.",
-      "Aplicação base cadastrada para KA / FIESTA. Confirmar variações por chassi/versão antes da venda."
+      "Aplicação base cadastrada para KA / FIESTA. Confirmar variações por chassi/versão antes da venda.",
+      "Busca de motor deve confirmar ano, cilindrada, combustível, potência/CV e código do motor antes da venda."
     ],
     "confiancaBase": 82,
-    "faseTecnica": "FASE 8 - MOTOR, TRANSMISSÃO E ALIMENTAÇÃO"
+    "faseTecnica": "FASE 8 - MOTOR, TRANSMISSÃO E ALIMENTAÇÃO",
+    "dadosMotor": [
+      {
+        "anos": "2014-2019",
+        "motor": "1.0 Ti-VCT Flex 3 cilindros",
+        "cilindrada": "999 cm³",
+        "potencia": "80 cv gasolina / 85 cv etanol aprox.",
+        "cv": "80/85 cv",
+        "combustivel": "Flex",
+        "observacao": "Confirmar ano/modelo; Ka e Fiesta têm variações por geração."
+      },
+      {
+        "anos": "2014-2019",
+        "motor": "1.5 Sigma Flex",
+        "cilindrada": "1.499 cm³",
+        "potencia": "105 cv gasolina / 110 cv etanol aprox.",
+        "cv": "105/110 cv",
+        "combustivel": "Flex",
+        "observacao": "Confirmar motorização 1.0 ou 1.5."
+      }
+    ]
   },
   {
     "id": "coxim-do-motor-ka-2014-2019",
@@ -4372,10 +6171,31 @@
     ],
     "observacoes": [
       "Confirmar lado/posição do coxim antes da venda.",
-      "Aplicação base cadastrada para KA / FIESTA. Confirmar variações por chassi/versão antes da venda."
+      "Aplicação base cadastrada para KA / FIESTA. Confirmar variações por chassi/versão antes da venda.",
+      "Busca de motor deve confirmar ano, cilindrada, combustível, potência/CV e código do motor antes da venda."
     ],
     "confiancaBase": 82,
-    "faseTecnica": "FASE 8 - MOTOR, TRANSMISSÃO E ALIMENTAÇÃO"
+    "faseTecnica": "FASE 8 - MOTOR, TRANSMISSÃO E ALIMENTAÇÃO",
+    "dadosMotor": [
+      {
+        "anos": "2014-2019",
+        "motor": "1.0 Ti-VCT Flex 3 cilindros",
+        "cilindrada": "999 cm³",
+        "potencia": "80 cv gasolina / 85 cv etanol aprox.",
+        "cv": "80/85 cv",
+        "combustivel": "Flex",
+        "observacao": "Confirmar ano/modelo; Ka e Fiesta têm variações por geração."
+      },
+      {
+        "anos": "2014-2019",
+        "motor": "1.5 Sigma Flex",
+        "cilindrada": "1.499 cm³",
+        "potencia": "105 cv gasolina / 110 cv etanol aprox.",
+        "cv": "105/110 cv",
+        "combustivel": "Flex",
+        "observacao": "Confirmar motorização 1.0 ou 1.5."
+      }
+    ]
   },
   {
     "id": "cmbio-ka-2014-2019",
@@ -4420,7 +6240,27 @@
       "Aplicação base cadastrada para KA / FIESTA. Confirmar variações por chassi/versão antes da venda."
     ],
     "confiancaBase": 82,
-    "faseTecnica": "FASE 8 - MOTOR, TRANSMISSÃO E ALIMENTAÇÃO"
+    "faseTecnica": "FASE 8 - MOTOR, TRANSMISSÃO E ALIMENTAÇÃO",
+    "dadosMotor": [
+      {
+        "anos": "2014-2019",
+        "motor": "1.0 Ti-VCT Flex 3 cilindros",
+        "cilindrada": "999 cm³",
+        "potencia": "80 cv gasolina / 85 cv etanol aprox.",
+        "cv": "80/85 cv",
+        "combustivel": "Flex",
+        "observacao": "Confirmar ano/modelo; Ka e Fiesta têm variações por geração."
+      },
+      {
+        "anos": "2014-2019",
+        "motor": "1.5 Sigma Flex",
+        "cilindrada": "1.499 cm³",
+        "potencia": "105 cv gasolina / 110 cv etanol aprox.",
+        "cv": "105/110 cv",
+        "combustivel": "Flex",
+        "observacao": "Confirmar motorização 1.0 ou 1.5."
+      }
+    ]
   },
   {
     "id": "embreagem-ka-2014-2019",
@@ -4463,7 +6303,27 @@
       "Aplicação base cadastrada para KA / FIESTA. Confirmar variações por chassi/versão antes da venda."
     ],
     "confiancaBase": 82,
-    "faseTecnica": "FASE 8 - MOTOR, TRANSMISSÃO E ALIMENTAÇÃO"
+    "faseTecnica": "FASE 8 - MOTOR, TRANSMISSÃO E ALIMENTAÇÃO",
+    "dadosMotor": [
+      {
+        "anos": "2014-2019",
+        "motor": "1.0 Ti-VCT Flex 3 cilindros",
+        "cilindrada": "999 cm³",
+        "potencia": "80 cv gasolina / 85 cv etanol aprox.",
+        "cv": "80/85 cv",
+        "combustivel": "Flex",
+        "observacao": "Confirmar ano/modelo; Ka e Fiesta têm variações por geração."
+      },
+      {
+        "anos": "2014-2019",
+        "motor": "1.5 Sigma Flex",
+        "cilindrada": "1.499 cm³",
+        "potencia": "105 cv gasolina / 110 cv etanol aprox.",
+        "cv": "105/110 cv",
+        "combustivel": "Flex",
+        "observacao": "Confirmar motorização 1.0 ou 1.5."
+      }
+    ]
   },
   {
     "id": "atuador-de-embreagem-ka-2014-2019",
@@ -4506,7 +6366,27 @@
       "Aplicação base cadastrada para KA / FIESTA. Confirmar variações por chassi/versão antes da venda."
     ],
     "confiancaBase": 82,
-    "faseTecnica": "FASE 8 - MOTOR, TRANSMISSÃO E ALIMENTAÇÃO"
+    "faseTecnica": "FASE 8 - MOTOR, TRANSMISSÃO E ALIMENTAÇÃO",
+    "dadosMotor": [
+      {
+        "anos": "2014-2019",
+        "motor": "1.0 Ti-VCT Flex 3 cilindros",
+        "cilindrada": "999 cm³",
+        "potencia": "80 cv gasolina / 85 cv etanol aprox.",
+        "cv": "80/85 cv",
+        "combustivel": "Flex",
+        "observacao": "Confirmar ano/modelo; Ka e Fiesta têm variações por geração."
+      },
+      {
+        "anos": "2014-2019",
+        "motor": "1.5 Sigma Flex",
+        "cilindrada": "1.499 cm³",
+        "potencia": "105 cv gasolina / 110 cv etanol aprox.",
+        "cv": "105/110 cv",
+        "combustivel": "Flex",
+        "observacao": "Confirmar motorização 1.0 ou 1.5."
+      }
+    ]
   },
   {
     "id": "trambulador-ka-2014-2019",
@@ -4549,7 +6429,27 @@
       "Aplicação base cadastrada para KA / FIESTA. Confirmar variações por chassi/versão antes da venda."
     ],
     "confiancaBase": 82,
-    "faseTecnica": "FASE 8 - MOTOR, TRANSMISSÃO E ALIMENTAÇÃO"
+    "faseTecnica": "FASE 8 - MOTOR, TRANSMISSÃO E ALIMENTAÇÃO",
+    "dadosMotor": [
+      {
+        "anos": "2014-2019",
+        "motor": "1.0 Ti-VCT Flex 3 cilindros",
+        "cilindrada": "999 cm³",
+        "potencia": "80 cv gasolina / 85 cv etanol aprox.",
+        "cv": "80/85 cv",
+        "combustivel": "Flex",
+        "observacao": "Confirmar ano/modelo; Ka e Fiesta têm variações por geração."
+      },
+      {
+        "anos": "2014-2019",
+        "motor": "1.5 Sigma Flex",
+        "cilindrada": "1.499 cm³",
+        "potencia": "105 cv gasolina / 110 cv etanol aprox.",
+        "cv": "105/110 cv",
+        "combustivel": "Flex",
+        "observacao": "Confirmar motorização 1.0 ou 1.5."
+      }
+    ]
   },
   {
     "id": "semi-eixo-ka-2014-2019",
@@ -4593,7 +6493,27 @@
       "Aplicação base cadastrada para KA / FIESTA. Confirmar variações por chassi/versão antes da venda."
     ],
     "confiancaBase": 82,
-    "faseTecnica": "FASE 8 - MOTOR, TRANSMISSÃO E ALIMENTAÇÃO"
+    "faseTecnica": "FASE 8 - MOTOR, TRANSMISSÃO E ALIMENTAÇÃO",
+    "dadosMotor": [
+      {
+        "anos": "2014-2019",
+        "motor": "1.0 Ti-VCT Flex 3 cilindros",
+        "cilindrada": "999 cm³",
+        "potencia": "80 cv gasolina / 85 cv etanol aprox.",
+        "cv": "80/85 cv",
+        "combustivel": "Flex",
+        "observacao": "Confirmar ano/modelo; Ka e Fiesta têm variações por geração."
+      },
+      {
+        "anos": "2014-2019",
+        "motor": "1.5 Sigma Flex",
+        "cilindrada": "1.499 cm³",
+        "potencia": "105 cv gasolina / 110 cv etanol aprox.",
+        "cv": "105/110 cv",
+        "combustivel": "Flex",
+        "observacao": "Confirmar motorização 1.0 ou 1.5."
+      }
+    ]
   },
   {
     "id": "homocintica-ka-2014-2019",
@@ -4637,7 +6557,27 @@
       "Aplicação base cadastrada para KA / FIESTA. Confirmar variações por chassi/versão antes da venda."
     ],
     "confiancaBase": 82,
-    "faseTecnica": "FASE 8 - MOTOR, TRANSMISSÃO E ALIMENTAÇÃO"
+    "faseTecnica": "FASE 8 - MOTOR, TRANSMISSÃO E ALIMENTAÇÃO",
+    "dadosMotor": [
+      {
+        "anos": "2014-2019",
+        "motor": "1.0 Ti-VCT Flex 3 cilindros",
+        "cilindrada": "999 cm³",
+        "potencia": "80 cv gasolina / 85 cv etanol aprox.",
+        "cv": "80/85 cv",
+        "combustivel": "Flex",
+        "observacao": "Confirmar ano/modelo; Ka e Fiesta têm variações por geração."
+      },
+      {
+        "anos": "2014-2019",
+        "motor": "1.5 Sigma Flex",
+        "cilindrada": "1.499 cm³",
+        "potencia": "105 cv gasolina / 110 cv etanol aprox.",
+        "cv": "105/110 cv",
+        "combustivel": "Flex",
+        "observacao": "Confirmar motorização 1.0 ou 1.5."
+      }
+    ]
   },
   {
     "id": "bomba-de-combustvel-ka-2014-2019",
@@ -4680,7 +6620,27 @@
       "Aplicação base cadastrada para KA / FIESTA. Confirmar variações por chassi/versão antes da venda."
     ],
     "confiancaBase": 82,
-    "faseTecnica": "FASE 8 - MOTOR, TRANSMISSÃO E ALIMENTAÇÃO"
+    "faseTecnica": "FASE 8 - MOTOR, TRANSMISSÃO E ALIMENTAÇÃO",
+    "dadosMotor": [
+      {
+        "anos": "2014-2019",
+        "motor": "1.0 Ti-VCT Flex 3 cilindros",
+        "cilindrada": "999 cm³",
+        "potencia": "80 cv gasolina / 85 cv etanol aprox.",
+        "cv": "80/85 cv",
+        "combustivel": "Flex",
+        "observacao": "Confirmar ano/modelo; Ka e Fiesta têm variações por geração."
+      },
+      {
+        "anos": "2014-2019",
+        "motor": "1.5 Sigma Flex",
+        "cilindrada": "1.499 cm³",
+        "potencia": "105 cv gasolina / 110 cv etanol aprox.",
+        "cv": "105/110 cv",
+        "combustivel": "Flex",
+        "observacao": "Confirmar motorização 1.0 ou 1.5."
+      }
+    ]
   },
   {
     "id": "bico-injetor-ka-2014-2019",
@@ -4723,7 +6683,27 @@
       "Aplicação base cadastrada para KA / FIESTA. Confirmar variações por chassi/versão antes da venda."
     ],
     "confiancaBase": 82,
-    "faseTecnica": "FASE 8 - MOTOR, TRANSMISSÃO E ALIMENTAÇÃO"
+    "faseTecnica": "FASE 8 - MOTOR, TRANSMISSÃO E ALIMENTAÇÃO",
+    "dadosMotor": [
+      {
+        "anos": "2014-2019",
+        "motor": "1.0 Ti-VCT Flex 3 cilindros",
+        "cilindrada": "999 cm³",
+        "potencia": "80 cv gasolina / 85 cv etanol aprox.",
+        "cv": "80/85 cv",
+        "combustivel": "Flex",
+        "observacao": "Confirmar ano/modelo; Ka e Fiesta têm variações por geração."
+      },
+      {
+        "anos": "2014-2019",
+        "motor": "1.5 Sigma Flex",
+        "cilindrada": "1.499 cm³",
+        "potencia": "105 cv gasolina / 110 cv etanol aprox.",
+        "cv": "105/110 cv",
+        "combustivel": "Flex",
+        "observacao": "Confirmar motorização 1.0 ou 1.5."
+      }
+    ]
   },
   {
     "id": "corpo-de-borboleta-ka-2014-2019",
@@ -4766,7 +6746,27 @@
       "Aplicação base cadastrada para KA / FIESTA. Confirmar variações por chassi/versão antes da venda."
     ],
     "confiancaBase": 82,
-    "faseTecnica": "FASE 8 - MOTOR, TRANSMISSÃO E ALIMENTAÇÃO"
+    "faseTecnica": "FASE 8 - MOTOR, TRANSMISSÃO E ALIMENTAÇÃO",
+    "dadosMotor": [
+      {
+        "anos": "2014-2019",
+        "motor": "1.0 Ti-VCT Flex 3 cilindros",
+        "cilindrada": "999 cm³",
+        "potencia": "80 cv gasolina / 85 cv etanol aprox.",
+        "cv": "80/85 cv",
+        "combustivel": "Flex",
+        "observacao": "Confirmar ano/modelo; Ka e Fiesta têm variações por geração."
+      },
+      {
+        "anos": "2014-2019",
+        "motor": "1.5 Sigma Flex",
+        "cilindrada": "1.499 cm³",
+        "potencia": "105 cv gasolina / 110 cv etanol aprox.",
+        "cv": "105/110 cv",
+        "combustivel": "Flex",
+        "observacao": "Confirmar motorização 1.0 ou 1.5."
+      }
+    ]
   },
   {
     "id": "filtro-de-combustvel-ka-2014-2019",
@@ -4808,7 +6808,27 @@
       "Aplicação base cadastrada para KA / FIESTA. Confirmar variações por chassi/versão antes da venda."
     ],
     "confiancaBase": 82,
-    "faseTecnica": "FASE 8 - MOTOR, TRANSMISSÃO E ALIMENTAÇÃO"
+    "faseTecnica": "FASE 8 - MOTOR, TRANSMISSÃO E ALIMENTAÇÃO",
+    "dadosMotor": [
+      {
+        "anos": "2014-2019",
+        "motor": "1.0 Ti-VCT Flex 3 cilindros",
+        "cilindrada": "999 cm³",
+        "potencia": "80 cv gasolina / 85 cv etanol aprox.",
+        "cv": "80/85 cv",
+        "combustivel": "Flex",
+        "observacao": "Confirmar ano/modelo; Ka e Fiesta têm variações por geração."
+      },
+      {
+        "anos": "2014-2019",
+        "motor": "1.5 Sigma Flex",
+        "cilindrada": "1.499 cm³",
+        "potencia": "105 cv gasolina / 110 cv etanol aprox.",
+        "cv": "105/110 cv",
+        "combustivel": "Flex",
+        "observacao": "Confirmar motorização 1.0 ou 1.5."
+      }
+    ]
   },
   {
     "id": "tanque-de-combustvel-ka-2014-2019",
@@ -4851,7 +6871,27 @@
       "Aplicação base cadastrada para KA / FIESTA. Confirmar variações por chassi/versão antes da venda."
     ],
     "confiancaBase": 82,
-    "faseTecnica": "FASE 8 - MOTOR, TRANSMISSÃO E ALIMENTAÇÃO"
+    "faseTecnica": "FASE 8 - MOTOR, TRANSMISSÃO E ALIMENTAÇÃO",
+    "dadosMotor": [
+      {
+        "anos": "2014-2019",
+        "motor": "1.0 Ti-VCT Flex 3 cilindros",
+        "cilindrada": "999 cm³",
+        "potencia": "80 cv gasolina / 85 cv etanol aprox.",
+        "cv": "80/85 cv",
+        "combustivel": "Flex",
+        "observacao": "Confirmar ano/modelo; Ka e Fiesta têm variações por geração."
+      },
+      {
+        "anos": "2014-2019",
+        "motor": "1.5 Sigma Flex",
+        "cilindrada": "1.499 cm³",
+        "potencia": "105 cv gasolina / 110 cv etanol aprox.",
+        "cv": "105/110 cv",
+        "combustivel": "Flex",
+        "observacao": "Confirmar motorização 1.0 ou 1.5."
+      }
+    ]
   },
   {
     "id": "motor-completo-logan-2014-2019",
@@ -4894,10 +6934,31 @@
     "observacoes": [
       "Confirmar motorização, ano, combustível e código do motor antes da venda.",
       "Peça pode variar por versão flex/gasolina e câmbio manual/automático.",
-      "Aplicação base cadastrada para LOGAN / SANDERO. Confirmar variações por chassi/versão antes da venda."
+      "Aplicação base cadastrada para LOGAN / SANDERO. Confirmar variações por chassi/versão antes da venda.",
+      "Busca de motor deve confirmar ano, cilindrada, combustível, potência/CV e código do motor antes da venda."
     ],
     "confiancaBase": 82,
-    "faseTecnica": "FASE 8 - MOTOR, TRANSMISSÃO E ALIMENTAÇÃO"
+    "faseTecnica": "FASE 8 - MOTOR, TRANSMISSÃO E ALIMENTAÇÃO",
+    "dadosMotor": [
+      {
+        "anos": "2014-2019",
+        "motor": "1.0 SCe Flex",
+        "cilindrada": "999 cm³",
+        "potencia": "79 cv gasolina / 82 cv etanol aprox.",
+        "cv": "79/82 cv",
+        "combustivel": "Flex",
+        "observacao": "Confirmar se é motor SCe ou geração anterior."
+      },
+      {
+        "anos": "2014-2019",
+        "motor": "1.6 SCe/Hi-Power Flex conforme ano",
+        "cilindrada": "1.598 cm³",
+        "potencia": "106 a 118 cv aprox. conforme motor/combustível",
+        "cv": "106-118 cv",
+        "combustivel": "Flex",
+        "observacao": "Confirmar código do motor e ano."
+      }
+    ]
   },
   {
     "id": "cabeote-logan-2014-2019",
@@ -4939,10 +7000,31 @@
     "observacoes": [
       "Confirmar motor e quantidade de válvulas.",
       "Verificar se o cliente precisa peça completa ou somente carcaça.",
-      "Aplicação base cadastrada para LOGAN / SANDERO. Confirmar variações por chassi/versão antes da venda."
+      "Aplicação base cadastrada para LOGAN / SANDERO. Confirmar variações por chassi/versão antes da venda.",
+      "Busca de motor deve confirmar ano, cilindrada, combustível, potência/CV e código do motor antes da venda."
     ],
     "confiancaBase": 82,
-    "faseTecnica": "FASE 8 - MOTOR, TRANSMISSÃO E ALIMENTAÇÃO"
+    "faseTecnica": "FASE 8 - MOTOR, TRANSMISSÃO E ALIMENTAÇÃO",
+    "dadosMotor": [
+      {
+        "anos": "2014-2019",
+        "motor": "1.0 SCe Flex",
+        "cilindrada": "999 cm³",
+        "potencia": "79 cv gasolina / 82 cv etanol aprox.",
+        "cv": "79/82 cv",
+        "combustivel": "Flex",
+        "observacao": "Confirmar se é motor SCe ou geração anterior."
+      },
+      {
+        "anos": "2014-2019",
+        "motor": "1.6 SCe/Hi-Power Flex conforme ano",
+        "cilindrada": "1.598 cm³",
+        "potencia": "106 a 118 cv aprox. conforme motor/combustível",
+        "cv": "106-118 cv",
+        "combustivel": "Flex",
+        "observacao": "Confirmar código do motor e ano."
+      }
+    ]
   },
   {
     "id": "tampa-de-vlvulas-logan-2014-2019",
@@ -4982,10 +7064,31 @@
     ],
     "observacoes": [
       "Confirmar motorização e modelo da tampa.",
-      "Aplicação base cadastrada para LOGAN / SANDERO. Confirmar variações por chassi/versão antes da venda."
+      "Aplicação base cadastrada para LOGAN / SANDERO. Confirmar variações por chassi/versão antes da venda.",
+      "Busca de motor deve confirmar ano, cilindrada, combustível, potência/CV e código do motor antes da venda."
     ],
     "confiancaBase": 82,
-    "faseTecnica": "FASE 8 - MOTOR, TRANSMISSÃO E ALIMENTAÇÃO"
+    "faseTecnica": "FASE 8 - MOTOR, TRANSMISSÃO E ALIMENTAÇÃO",
+    "dadosMotor": [
+      {
+        "anos": "2014-2019",
+        "motor": "1.0 SCe Flex",
+        "cilindrada": "999 cm³",
+        "potencia": "79 cv gasolina / 82 cv etanol aprox.",
+        "cv": "79/82 cv",
+        "combustivel": "Flex",
+        "observacao": "Confirmar se é motor SCe ou geração anterior."
+      },
+      {
+        "anos": "2014-2019",
+        "motor": "1.6 SCe/Hi-Power Flex conforme ano",
+        "cilindrada": "1.598 cm³",
+        "potencia": "106 a 118 cv aprox. conforme motor/combustível",
+        "cv": "106-118 cv",
+        "combustivel": "Flex",
+        "observacao": "Confirmar código do motor e ano."
+      }
+    ]
   },
   {
     "id": "coletor-admisso-logan-2014-2019",
@@ -5025,10 +7128,31 @@
     ],
     "observacoes": [
       "Confirmar motor e encaixes dos sensores/mangueiras.",
-      "Aplicação base cadastrada para LOGAN / SANDERO. Confirmar variações por chassi/versão antes da venda."
+      "Aplicação base cadastrada para LOGAN / SANDERO. Confirmar variações por chassi/versão antes da venda.",
+      "Busca de motor deve confirmar ano, cilindrada, combustível, potência/CV e código do motor antes da venda."
     ],
     "confiancaBase": 82,
-    "faseTecnica": "FASE 8 - MOTOR, TRANSMISSÃO E ALIMENTAÇÃO"
+    "faseTecnica": "FASE 8 - MOTOR, TRANSMISSÃO E ALIMENTAÇÃO",
+    "dadosMotor": [
+      {
+        "anos": "2014-2019",
+        "motor": "1.0 SCe Flex",
+        "cilindrada": "999 cm³",
+        "potencia": "79 cv gasolina / 82 cv etanol aprox.",
+        "cv": "79/82 cv",
+        "combustivel": "Flex",
+        "observacao": "Confirmar se é motor SCe ou geração anterior."
+      },
+      {
+        "anos": "2014-2019",
+        "motor": "1.6 SCe/Hi-Power Flex conforme ano",
+        "cilindrada": "1.598 cm³",
+        "potencia": "106 a 118 cv aprox. conforme motor/combustível",
+        "cv": "106-118 cv",
+        "combustivel": "Flex",
+        "observacao": "Confirmar código do motor e ano."
+      }
+    ]
   },
   {
     "id": "coletor-escape-logan-2014-2019",
@@ -5068,10 +7192,31 @@
     ],
     "observacoes": [
       "Confirmar motor e presença de catalisador integrado quando aplicável.",
-      "Aplicação base cadastrada para LOGAN / SANDERO. Confirmar variações por chassi/versão antes da venda."
+      "Aplicação base cadastrada para LOGAN / SANDERO. Confirmar variações por chassi/versão antes da venda.",
+      "Busca de motor deve confirmar ano, cilindrada, combustível, potência/CV e código do motor antes da venda."
     ],
     "confiancaBase": 82,
-    "faseTecnica": "FASE 8 - MOTOR, TRANSMISSÃO E ALIMENTAÇÃO"
+    "faseTecnica": "FASE 8 - MOTOR, TRANSMISSÃO E ALIMENTAÇÃO",
+    "dadosMotor": [
+      {
+        "anos": "2014-2019",
+        "motor": "1.0 SCe Flex",
+        "cilindrada": "999 cm³",
+        "potencia": "79 cv gasolina / 82 cv etanol aprox.",
+        "cv": "79/82 cv",
+        "combustivel": "Flex",
+        "observacao": "Confirmar se é motor SCe ou geração anterior."
+      },
+      {
+        "anos": "2014-2019",
+        "motor": "1.6 SCe/Hi-Power Flex conforme ano",
+        "cilindrada": "1.598 cm³",
+        "potencia": "106 a 118 cv aprox. conforme motor/combustível",
+        "cv": "106-118 cv",
+        "combustivel": "Flex",
+        "observacao": "Confirmar código do motor e ano."
+      }
+    ]
   },
   {
     "id": "bomba-de-leo-logan-2014-2019",
@@ -5111,10 +7256,31 @@
     ],
     "observacoes": [
       "Confirmar código do motor e aplicação por ano.",
-      "Aplicação base cadastrada para LOGAN / SANDERO. Confirmar variações por chassi/versão antes da venda."
+      "Aplicação base cadastrada para LOGAN / SANDERO. Confirmar variações por chassi/versão antes da venda.",
+      "Busca de motor deve confirmar ano, cilindrada, combustível, potência/CV e código do motor antes da venda."
     ],
     "confiancaBase": 82,
-    "faseTecnica": "FASE 8 - MOTOR, TRANSMISSÃO E ALIMENTAÇÃO"
+    "faseTecnica": "FASE 8 - MOTOR, TRANSMISSÃO E ALIMENTAÇÃO",
+    "dadosMotor": [
+      {
+        "anos": "2014-2019",
+        "motor": "1.0 SCe Flex",
+        "cilindrada": "999 cm³",
+        "potencia": "79 cv gasolina / 82 cv etanol aprox.",
+        "cv": "79/82 cv",
+        "combustivel": "Flex",
+        "observacao": "Confirmar se é motor SCe ou geração anterior."
+      },
+      {
+        "anos": "2014-2019",
+        "motor": "1.6 SCe/Hi-Power Flex conforme ano",
+        "cilindrada": "1.598 cm³",
+        "potencia": "106 a 118 cv aprox. conforme motor/combustível",
+        "cv": "106-118 cv",
+        "combustivel": "Flex",
+        "observacao": "Confirmar código do motor e ano."
+      }
+    ]
   },
   {
     "id": "coxim-do-motor-logan-2014-2019",
@@ -5154,10 +7320,31 @@
     ],
     "observacoes": [
       "Confirmar lado/posição do coxim antes da venda.",
-      "Aplicação base cadastrada para LOGAN / SANDERO. Confirmar variações por chassi/versão antes da venda."
+      "Aplicação base cadastrada para LOGAN / SANDERO. Confirmar variações por chassi/versão antes da venda.",
+      "Busca de motor deve confirmar ano, cilindrada, combustível, potência/CV e código do motor antes da venda."
     ],
     "confiancaBase": 82,
-    "faseTecnica": "FASE 8 - MOTOR, TRANSMISSÃO E ALIMENTAÇÃO"
+    "faseTecnica": "FASE 8 - MOTOR, TRANSMISSÃO E ALIMENTAÇÃO",
+    "dadosMotor": [
+      {
+        "anos": "2014-2019",
+        "motor": "1.0 SCe Flex",
+        "cilindrada": "999 cm³",
+        "potencia": "79 cv gasolina / 82 cv etanol aprox.",
+        "cv": "79/82 cv",
+        "combustivel": "Flex",
+        "observacao": "Confirmar se é motor SCe ou geração anterior."
+      },
+      {
+        "anos": "2014-2019",
+        "motor": "1.6 SCe/Hi-Power Flex conforme ano",
+        "cilindrada": "1.598 cm³",
+        "potencia": "106 a 118 cv aprox. conforme motor/combustível",
+        "cv": "106-118 cv",
+        "combustivel": "Flex",
+        "observacao": "Confirmar código do motor e ano."
+      }
+    ]
   },
   {
     "id": "cmbio-logan-2014-2019",
@@ -5202,7 +7389,27 @@
       "Aplicação base cadastrada para LOGAN / SANDERO. Confirmar variações por chassi/versão antes da venda."
     ],
     "confiancaBase": 82,
-    "faseTecnica": "FASE 8 - MOTOR, TRANSMISSÃO E ALIMENTAÇÃO"
+    "faseTecnica": "FASE 8 - MOTOR, TRANSMISSÃO E ALIMENTAÇÃO",
+    "dadosMotor": [
+      {
+        "anos": "2014-2019",
+        "motor": "1.0 SCe Flex",
+        "cilindrada": "999 cm³",
+        "potencia": "79 cv gasolina / 82 cv etanol aprox.",
+        "cv": "79/82 cv",
+        "combustivel": "Flex",
+        "observacao": "Confirmar se é motor SCe ou geração anterior."
+      },
+      {
+        "anos": "2014-2019",
+        "motor": "1.6 SCe/Hi-Power Flex conforme ano",
+        "cilindrada": "1.598 cm³",
+        "potencia": "106 a 118 cv aprox. conforme motor/combustível",
+        "cv": "106-118 cv",
+        "combustivel": "Flex",
+        "observacao": "Confirmar código do motor e ano."
+      }
+    ]
   },
   {
     "id": "embreagem-logan-2014-2019",
@@ -5245,7 +7452,27 @@
       "Aplicação base cadastrada para LOGAN / SANDERO. Confirmar variações por chassi/versão antes da venda."
     ],
     "confiancaBase": 82,
-    "faseTecnica": "FASE 8 - MOTOR, TRANSMISSÃO E ALIMENTAÇÃO"
+    "faseTecnica": "FASE 8 - MOTOR, TRANSMISSÃO E ALIMENTAÇÃO",
+    "dadosMotor": [
+      {
+        "anos": "2014-2019",
+        "motor": "1.0 SCe Flex",
+        "cilindrada": "999 cm³",
+        "potencia": "79 cv gasolina / 82 cv etanol aprox.",
+        "cv": "79/82 cv",
+        "combustivel": "Flex",
+        "observacao": "Confirmar se é motor SCe ou geração anterior."
+      },
+      {
+        "anos": "2014-2019",
+        "motor": "1.6 SCe/Hi-Power Flex conforme ano",
+        "cilindrada": "1.598 cm³",
+        "potencia": "106 a 118 cv aprox. conforme motor/combustível",
+        "cv": "106-118 cv",
+        "combustivel": "Flex",
+        "observacao": "Confirmar código do motor e ano."
+      }
+    ]
   },
   {
     "id": "atuador-de-embreagem-logan-2014-2019",
@@ -5288,7 +7515,27 @@
       "Aplicação base cadastrada para LOGAN / SANDERO. Confirmar variações por chassi/versão antes da venda."
     ],
     "confiancaBase": 82,
-    "faseTecnica": "FASE 8 - MOTOR, TRANSMISSÃO E ALIMENTAÇÃO"
+    "faseTecnica": "FASE 8 - MOTOR, TRANSMISSÃO E ALIMENTAÇÃO",
+    "dadosMotor": [
+      {
+        "anos": "2014-2019",
+        "motor": "1.0 SCe Flex",
+        "cilindrada": "999 cm³",
+        "potencia": "79 cv gasolina / 82 cv etanol aprox.",
+        "cv": "79/82 cv",
+        "combustivel": "Flex",
+        "observacao": "Confirmar se é motor SCe ou geração anterior."
+      },
+      {
+        "anos": "2014-2019",
+        "motor": "1.6 SCe/Hi-Power Flex conforme ano",
+        "cilindrada": "1.598 cm³",
+        "potencia": "106 a 118 cv aprox. conforme motor/combustível",
+        "cv": "106-118 cv",
+        "combustivel": "Flex",
+        "observacao": "Confirmar código do motor e ano."
+      }
+    ]
   },
   {
     "id": "trambulador-logan-2014-2019",
@@ -5331,7 +7578,27 @@
       "Aplicação base cadastrada para LOGAN / SANDERO. Confirmar variações por chassi/versão antes da venda."
     ],
     "confiancaBase": 82,
-    "faseTecnica": "FASE 8 - MOTOR, TRANSMISSÃO E ALIMENTAÇÃO"
+    "faseTecnica": "FASE 8 - MOTOR, TRANSMISSÃO E ALIMENTAÇÃO",
+    "dadosMotor": [
+      {
+        "anos": "2014-2019",
+        "motor": "1.0 SCe Flex",
+        "cilindrada": "999 cm³",
+        "potencia": "79 cv gasolina / 82 cv etanol aprox.",
+        "cv": "79/82 cv",
+        "combustivel": "Flex",
+        "observacao": "Confirmar se é motor SCe ou geração anterior."
+      },
+      {
+        "anos": "2014-2019",
+        "motor": "1.6 SCe/Hi-Power Flex conforme ano",
+        "cilindrada": "1.598 cm³",
+        "potencia": "106 a 118 cv aprox. conforme motor/combustível",
+        "cv": "106-118 cv",
+        "combustivel": "Flex",
+        "observacao": "Confirmar código do motor e ano."
+      }
+    ]
   },
   {
     "id": "semi-eixo-logan-2014-2019",
@@ -5375,7 +7642,27 @@
       "Aplicação base cadastrada para LOGAN / SANDERO. Confirmar variações por chassi/versão antes da venda."
     ],
     "confiancaBase": 82,
-    "faseTecnica": "FASE 8 - MOTOR, TRANSMISSÃO E ALIMENTAÇÃO"
+    "faseTecnica": "FASE 8 - MOTOR, TRANSMISSÃO E ALIMENTAÇÃO",
+    "dadosMotor": [
+      {
+        "anos": "2014-2019",
+        "motor": "1.0 SCe Flex",
+        "cilindrada": "999 cm³",
+        "potencia": "79 cv gasolina / 82 cv etanol aprox.",
+        "cv": "79/82 cv",
+        "combustivel": "Flex",
+        "observacao": "Confirmar se é motor SCe ou geração anterior."
+      },
+      {
+        "anos": "2014-2019",
+        "motor": "1.6 SCe/Hi-Power Flex conforme ano",
+        "cilindrada": "1.598 cm³",
+        "potencia": "106 a 118 cv aprox. conforme motor/combustível",
+        "cv": "106-118 cv",
+        "combustivel": "Flex",
+        "observacao": "Confirmar código do motor e ano."
+      }
+    ]
   },
   {
     "id": "homocintica-logan-2014-2019",
@@ -5419,7 +7706,27 @@
       "Aplicação base cadastrada para LOGAN / SANDERO. Confirmar variações por chassi/versão antes da venda."
     ],
     "confiancaBase": 82,
-    "faseTecnica": "FASE 8 - MOTOR, TRANSMISSÃO E ALIMENTAÇÃO"
+    "faseTecnica": "FASE 8 - MOTOR, TRANSMISSÃO E ALIMENTAÇÃO",
+    "dadosMotor": [
+      {
+        "anos": "2014-2019",
+        "motor": "1.0 SCe Flex",
+        "cilindrada": "999 cm³",
+        "potencia": "79 cv gasolina / 82 cv etanol aprox.",
+        "cv": "79/82 cv",
+        "combustivel": "Flex",
+        "observacao": "Confirmar se é motor SCe ou geração anterior."
+      },
+      {
+        "anos": "2014-2019",
+        "motor": "1.6 SCe/Hi-Power Flex conforme ano",
+        "cilindrada": "1.598 cm³",
+        "potencia": "106 a 118 cv aprox. conforme motor/combustível",
+        "cv": "106-118 cv",
+        "combustivel": "Flex",
+        "observacao": "Confirmar código do motor e ano."
+      }
+    ]
   },
   {
     "id": "bomba-de-combustvel-logan-2014-2019",
@@ -5462,7 +7769,27 @@
       "Aplicação base cadastrada para LOGAN / SANDERO. Confirmar variações por chassi/versão antes da venda."
     ],
     "confiancaBase": 82,
-    "faseTecnica": "FASE 8 - MOTOR, TRANSMISSÃO E ALIMENTAÇÃO"
+    "faseTecnica": "FASE 8 - MOTOR, TRANSMISSÃO E ALIMENTAÇÃO",
+    "dadosMotor": [
+      {
+        "anos": "2014-2019",
+        "motor": "1.0 SCe Flex",
+        "cilindrada": "999 cm³",
+        "potencia": "79 cv gasolina / 82 cv etanol aprox.",
+        "cv": "79/82 cv",
+        "combustivel": "Flex",
+        "observacao": "Confirmar se é motor SCe ou geração anterior."
+      },
+      {
+        "anos": "2014-2019",
+        "motor": "1.6 SCe/Hi-Power Flex conforme ano",
+        "cilindrada": "1.598 cm³",
+        "potencia": "106 a 118 cv aprox. conforme motor/combustível",
+        "cv": "106-118 cv",
+        "combustivel": "Flex",
+        "observacao": "Confirmar código do motor e ano."
+      }
+    ]
   },
   {
     "id": "bico-injetor-logan-2014-2019",
@@ -5505,7 +7832,27 @@
       "Aplicação base cadastrada para LOGAN / SANDERO. Confirmar variações por chassi/versão antes da venda."
     ],
     "confiancaBase": 82,
-    "faseTecnica": "FASE 8 - MOTOR, TRANSMISSÃO E ALIMENTAÇÃO"
+    "faseTecnica": "FASE 8 - MOTOR, TRANSMISSÃO E ALIMENTAÇÃO",
+    "dadosMotor": [
+      {
+        "anos": "2014-2019",
+        "motor": "1.0 SCe Flex",
+        "cilindrada": "999 cm³",
+        "potencia": "79 cv gasolina / 82 cv etanol aprox.",
+        "cv": "79/82 cv",
+        "combustivel": "Flex",
+        "observacao": "Confirmar se é motor SCe ou geração anterior."
+      },
+      {
+        "anos": "2014-2019",
+        "motor": "1.6 SCe/Hi-Power Flex conforme ano",
+        "cilindrada": "1.598 cm³",
+        "potencia": "106 a 118 cv aprox. conforme motor/combustível",
+        "cv": "106-118 cv",
+        "combustivel": "Flex",
+        "observacao": "Confirmar código do motor e ano."
+      }
+    ]
   },
   {
     "id": "corpo-de-borboleta-logan-2014-2019",
@@ -5548,7 +7895,27 @@
       "Aplicação base cadastrada para LOGAN / SANDERO. Confirmar variações por chassi/versão antes da venda."
     ],
     "confiancaBase": 82,
-    "faseTecnica": "FASE 8 - MOTOR, TRANSMISSÃO E ALIMENTAÇÃO"
+    "faseTecnica": "FASE 8 - MOTOR, TRANSMISSÃO E ALIMENTAÇÃO",
+    "dadosMotor": [
+      {
+        "anos": "2014-2019",
+        "motor": "1.0 SCe Flex",
+        "cilindrada": "999 cm³",
+        "potencia": "79 cv gasolina / 82 cv etanol aprox.",
+        "cv": "79/82 cv",
+        "combustivel": "Flex",
+        "observacao": "Confirmar se é motor SCe ou geração anterior."
+      },
+      {
+        "anos": "2014-2019",
+        "motor": "1.6 SCe/Hi-Power Flex conforme ano",
+        "cilindrada": "1.598 cm³",
+        "potencia": "106 a 118 cv aprox. conforme motor/combustível",
+        "cv": "106-118 cv",
+        "combustivel": "Flex",
+        "observacao": "Confirmar código do motor e ano."
+      }
+    ]
   },
   {
     "id": "filtro-de-combustvel-logan-2014-2019",
@@ -5590,7 +7957,27 @@
       "Aplicação base cadastrada para LOGAN / SANDERO. Confirmar variações por chassi/versão antes da venda."
     ],
     "confiancaBase": 82,
-    "faseTecnica": "FASE 8 - MOTOR, TRANSMISSÃO E ALIMENTAÇÃO"
+    "faseTecnica": "FASE 8 - MOTOR, TRANSMISSÃO E ALIMENTAÇÃO",
+    "dadosMotor": [
+      {
+        "anos": "2014-2019",
+        "motor": "1.0 SCe Flex",
+        "cilindrada": "999 cm³",
+        "potencia": "79 cv gasolina / 82 cv etanol aprox.",
+        "cv": "79/82 cv",
+        "combustivel": "Flex",
+        "observacao": "Confirmar se é motor SCe ou geração anterior."
+      },
+      {
+        "anos": "2014-2019",
+        "motor": "1.6 SCe/Hi-Power Flex conforme ano",
+        "cilindrada": "1.598 cm³",
+        "potencia": "106 a 118 cv aprox. conforme motor/combustível",
+        "cv": "106-118 cv",
+        "combustivel": "Flex",
+        "observacao": "Confirmar código do motor e ano."
+      }
+    ]
   },
   {
     "id": "tanque-de-combustvel-logan-2014-2019",
@@ -5633,7 +8020,27 @@
       "Aplicação base cadastrada para LOGAN / SANDERO. Confirmar variações por chassi/versão antes da venda."
     ],
     "confiancaBase": 82,
-    "faseTecnica": "FASE 8 - MOTOR, TRANSMISSÃO E ALIMENTAÇÃO"
+    "faseTecnica": "FASE 8 - MOTOR, TRANSMISSÃO E ALIMENTAÇÃO",
+    "dadosMotor": [
+      {
+        "anos": "2014-2019",
+        "motor": "1.0 SCe Flex",
+        "cilindrada": "999 cm³",
+        "potencia": "79 cv gasolina / 82 cv etanol aprox.",
+        "cv": "79/82 cv",
+        "combustivel": "Flex",
+        "observacao": "Confirmar se é motor SCe ou geração anterior."
+      },
+      {
+        "anos": "2014-2019",
+        "motor": "1.6 SCe/Hi-Power Flex conforme ano",
+        "cilindrada": "1.598 cm³",
+        "potencia": "106 a 118 cv aprox. conforme motor/combustível",
+        "cv": "106-118 cv",
+        "combustivel": "Flex",
+        "observacao": "Confirmar código do motor e ano."
+      }
+    ]
   },
   {
     "id": "motor-completo-etios-2013-2020",
@@ -5678,10 +8085,31 @@
     "observacoes": [
       "Confirmar motorização, ano, combustível e código do motor antes da venda.",
       "Peça pode variar por versão flex/gasolina e câmbio manual/automático.",
-      "Aplicação base cadastrada para ETIOS. Confirmar variações por chassi/versão antes da venda."
+      "Aplicação base cadastrada para ETIOS. Confirmar variações por chassi/versão antes da venda.",
+      "Busca de motor deve confirmar ano, cilindrada, combustível, potência/CV e código do motor antes da venda."
     ],
     "confiancaBase": 82,
-    "faseTecnica": "FASE 8 - MOTOR, TRANSMISSÃO E ALIMENTAÇÃO"
+    "faseTecnica": "FASE 8 - MOTOR, TRANSMISSÃO E ALIMENTAÇÃO",
+    "dadosMotor": [
+      {
+        "anos": "2012-2021",
+        "motor": "1.3 Dual VVT-i Flex",
+        "cilindrada": "1.329 cm³",
+        "potencia": "88 cv gasolina / 98 cv etanol aprox.",
+        "cv": "88/98 cv",
+        "combustivel": "Flex",
+        "observacao": "Confirmar se é 1.3 ou 1.5."
+      },
+      {
+        "anos": "2012-2021",
+        "motor": "1.5 Dual VVT-i Flex",
+        "cilindrada": "1.496 cm³",
+        "potencia": "102 cv gasolina / 107 cv etanol aprox.",
+        "cv": "102/107 cv",
+        "combustivel": "Flex",
+        "observacao": "Confirmar versão e ano."
+      }
+    ]
   },
   {
     "id": "cabeote-etios-2013-2020",
@@ -5725,10 +8153,31 @@
     "observacoes": [
       "Confirmar motor e quantidade de válvulas.",
       "Verificar se o cliente precisa peça completa ou somente carcaça.",
-      "Aplicação base cadastrada para ETIOS. Confirmar variações por chassi/versão antes da venda."
+      "Aplicação base cadastrada para ETIOS. Confirmar variações por chassi/versão antes da venda.",
+      "Busca de motor deve confirmar ano, cilindrada, combustível, potência/CV e código do motor antes da venda."
     ],
     "confiancaBase": 82,
-    "faseTecnica": "FASE 8 - MOTOR, TRANSMISSÃO E ALIMENTAÇÃO"
+    "faseTecnica": "FASE 8 - MOTOR, TRANSMISSÃO E ALIMENTAÇÃO",
+    "dadosMotor": [
+      {
+        "anos": "2012-2021",
+        "motor": "1.3 Dual VVT-i Flex",
+        "cilindrada": "1.329 cm³",
+        "potencia": "88 cv gasolina / 98 cv etanol aprox.",
+        "cv": "88/98 cv",
+        "combustivel": "Flex",
+        "observacao": "Confirmar se é 1.3 ou 1.5."
+      },
+      {
+        "anos": "2012-2021",
+        "motor": "1.5 Dual VVT-i Flex",
+        "cilindrada": "1.496 cm³",
+        "potencia": "102 cv gasolina / 107 cv etanol aprox.",
+        "cv": "102/107 cv",
+        "combustivel": "Flex",
+        "observacao": "Confirmar versão e ano."
+      }
+    ]
   },
   {
     "id": "tampa-de-vlvulas-etios-2013-2020",
@@ -5770,10 +8219,31 @@
     ],
     "observacoes": [
       "Confirmar motorização e modelo da tampa.",
-      "Aplicação base cadastrada para ETIOS. Confirmar variações por chassi/versão antes da venda."
+      "Aplicação base cadastrada para ETIOS. Confirmar variações por chassi/versão antes da venda.",
+      "Busca de motor deve confirmar ano, cilindrada, combustível, potência/CV e código do motor antes da venda."
     ],
     "confiancaBase": 82,
-    "faseTecnica": "FASE 8 - MOTOR, TRANSMISSÃO E ALIMENTAÇÃO"
+    "faseTecnica": "FASE 8 - MOTOR, TRANSMISSÃO E ALIMENTAÇÃO",
+    "dadosMotor": [
+      {
+        "anos": "2012-2021",
+        "motor": "1.3 Dual VVT-i Flex",
+        "cilindrada": "1.329 cm³",
+        "potencia": "88 cv gasolina / 98 cv etanol aprox.",
+        "cv": "88/98 cv",
+        "combustivel": "Flex",
+        "observacao": "Confirmar se é 1.3 ou 1.5."
+      },
+      {
+        "anos": "2012-2021",
+        "motor": "1.5 Dual VVT-i Flex",
+        "cilindrada": "1.496 cm³",
+        "potencia": "102 cv gasolina / 107 cv etanol aprox.",
+        "cv": "102/107 cv",
+        "combustivel": "Flex",
+        "observacao": "Confirmar versão e ano."
+      }
+    ]
   },
   {
     "id": "coletor-admisso-etios-2013-2020",
@@ -5815,10 +8285,31 @@
     ],
     "observacoes": [
       "Confirmar motor e encaixes dos sensores/mangueiras.",
-      "Aplicação base cadastrada para ETIOS. Confirmar variações por chassi/versão antes da venda."
+      "Aplicação base cadastrada para ETIOS. Confirmar variações por chassi/versão antes da venda.",
+      "Busca de motor deve confirmar ano, cilindrada, combustível, potência/CV e código do motor antes da venda."
     ],
     "confiancaBase": 82,
-    "faseTecnica": "FASE 8 - MOTOR, TRANSMISSÃO E ALIMENTAÇÃO"
+    "faseTecnica": "FASE 8 - MOTOR, TRANSMISSÃO E ALIMENTAÇÃO",
+    "dadosMotor": [
+      {
+        "anos": "2012-2021",
+        "motor": "1.3 Dual VVT-i Flex",
+        "cilindrada": "1.329 cm³",
+        "potencia": "88 cv gasolina / 98 cv etanol aprox.",
+        "cv": "88/98 cv",
+        "combustivel": "Flex",
+        "observacao": "Confirmar se é 1.3 ou 1.5."
+      },
+      {
+        "anos": "2012-2021",
+        "motor": "1.5 Dual VVT-i Flex",
+        "cilindrada": "1.496 cm³",
+        "potencia": "102 cv gasolina / 107 cv etanol aprox.",
+        "cv": "102/107 cv",
+        "combustivel": "Flex",
+        "observacao": "Confirmar versão e ano."
+      }
+    ]
   },
   {
     "id": "coletor-escape-etios-2013-2020",
@@ -5860,10 +8351,31 @@
     ],
     "observacoes": [
       "Confirmar motor e presença de catalisador integrado quando aplicável.",
-      "Aplicação base cadastrada para ETIOS. Confirmar variações por chassi/versão antes da venda."
+      "Aplicação base cadastrada para ETIOS. Confirmar variações por chassi/versão antes da venda.",
+      "Busca de motor deve confirmar ano, cilindrada, combustível, potência/CV e código do motor antes da venda."
     ],
     "confiancaBase": 82,
-    "faseTecnica": "FASE 8 - MOTOR, TRANSMISSÃO E ALIMENTAÇÃO"
+    "faseTecnica": "FASE 8 - MOTOR, TRANSMISSÃO E ALIMENTAÇÃO",
+    "dadosMotor": [
+      {
+        "anos": "2012-2021",
+        "motor": "1.3 Dual VVT-i Flex",
+        "cilindrada": "1.329 cm³",
+        "potencia": "88 cv gasolina / 98 cv etanol aprox.",
+        "cv": "88/98 cv",
+        "combustivel": "Flex",
+        "observacao": "Confirmar se é 1.3 ou 1.5."
+      },
+      {
+        "anos": "2012-2021",
+        "motor": "1.5 Dual VVT-i Flex",
+        "cilindrada": "1.496 cm³",
+        "potencia": "102 cv gasolina / 107 cv etanol aprox.",
+        "cv": "102/107 cv",
+        "combustivel": "Flex",
+        "observacao": "Confirmar versão e ano."
+      }
+    ]
   },
   {
     "id": "bomba-de-leo-etios-2013-2020",
@@ -5905,10 +8417,31 @@
     ],
     "observacoes": [
       "Confirmar código do motor e aplicação por ano.",
-      "Aplicação base cadastrada para ETIOS. Confirmar variações por chassi/versão antes da venda."
+      "Aplicação base cadastrada para ETIOS. Confirmar variações por chassi/versão antes da venda.",
+      "Busca de motor deve confirmar ano, cilindrada, combustível, potência/CV e código do motor antes da venda."
     ],
     "confiancaBase": 82,
-    "faseTecnica": "FASE 8 - MOTOR, TRANSMISSÃO E ALIMENTAÇÃO"
+    "faseTecnica": "FASE 8 - MOTOR, TRANSMISSÃO E ALIMENTAÇÃO",
+    "dadosMotor": [
+      {
+        "anos": "2012-2021",
+        "motor": "1.3 Dual VVT-i Flex",
+        "cilindrada": "1.329 cm³",
+        "potencia": "88 cv gasolina / 98 cv etanol aprox.",
+        "cv": "88/98 cv",
+        "combustivel": "Flex",
+        "observacao": "Confirmar se é 1.3 ou 1.5."
+      },
+      {
+        "anos": "2012-2021",
+        "motor": "1.5 Dual VVT-i Flex",
+        "cilindrada": "1.496 cm³",
+        "potencia": "102 cv gasolina / 107 cv etanol aprox.",
+        "cv": "102/107 cv",
+        "combustivel": "Flex",
+        "observacao": "Confirmar versão e ano."
+      }
+    ]
   },
   {
     "id": "coxim-do-motor-etios-2013-2020",
@@ -5950,10 +8483,31 @@
     ],
     "observacoes": [
       "Confirmar lado/posição do coxim antes da venda.",
-      "Aplicação base cadastrada para ETIOS. Confirmar variações por chassi/versão antes da venda."
+      "Aplicação base cadastrada para ETIOS. Confirmar variações por chassi/versão antes da venda.",
+      "Busca de motor deve confirmar ano, cilindrada, combustível, potência/CV e código do motor antes da venda."
     ],
     "confiancaBase": 82,
-    "faseTecnica": "FASE 8 - MOTOR, TRANSMISSÃO E ALIMENTAÇÃO"
+    "faseTecnica": "FASE 8 - MOTOR, TRANSMISSÃO E ALIMENTAÇÃO",
+    "dadosMotor": [
+      {
+        "anos": "2012-2021",
+        "motor": "1.3 Dual VVT-i Flex",
+        "cilindrada": "1.329 cm³",
+        "potencia": "88 cv gasolina / 98 cv etanol aprox.",
+        "cv": "88/98 cv",
+        "combustivel": "Flex",
+        "observacao": "Confirmar se é 1.3 ou 1.5."
+      },
+      {
+        "anos": "2012-2021",
+        "motor": "1.5 Dual VVT-i Flex",
+        "cilindrada": "1.496 cm³",
+        "potencia": "102 cv gasolina / 107 cv etanol aprox.",
+        "cv": "102/107 cv",
+        "combustivel": "Flex",
+        "observacao": "Confirmar versão e ano."
+      }
+    ]
   },
   {
     "id": "cmbio-etios-2013-2020",
@@ -6000,7 +8554,27 @@
       "Aplicação base cadastrada para ETIOS. Confirmar variações por chassi/versão antes da venda."
     ],
     "confiancaBase": 82,
-    "faseTecnica": "FASE 8 - MOTOR, TRANSMISSÃO E ALIMENTAÇÃO"
+    "faseTecnica": "FASE 8 - MOTOR, TRANSMISSÃO E ALIMENTAÇÃO",
+    "dadosMotor": [
+      {
+        "anos": "2012-2021",
+        "motor": "1.3 Dual VVT-i Flex",
+        "cilindrada": "1.329 cm³",
+        "potencia": "88 cv gasolina / 98 cv etanol aprox.",
+        "cv": "88/98 cv",
+        "combustivel": "Flex",
+        "observacao": "Confirmar se é 1.3 ou 1.5."
+      },
+      {
+        "anos": "2012-2021",
+        "motor": "1.5 Dual VVT-i Flex",
+        "cilindrada": "1.496 cm³",
+        "potencia": "102 cv gasolina / 107 cv etanol aprox.",
+        "cv": "102/107 cv",
+        "combustivel": "Flex",
+        "observacao": "Confirmar versão e ano."
+      }
+    ]
   },
   {
     "id": "embreagem-etios-2013-2020",
@@ -6045,7 +8619,27 @@
       "Aplicação base cadastrada para ETIOS. Confirmar variações por chassi/versão antes da venda."
     ],
     "confiancaBase": 82,
-    "faseTecnica": "FASE 8 - MOTOR, TRANSMISSÃO E ALIMENTAÇÃO"
+    "faseTecnica": "FASE 8 - MOTOR, TRANSMISSÃO E ALIMENTAÇÃO",
+    "dadosMotor": [
+      {
+        "anos": "2012-2021",
+        "motor": "1.3 Dual VVT-i Flex",
+        "cilindrada": "1.329 cm³",
+        "potencia": "88 cv gasolina / 98 cv etanol aprox.",
+        "cv": "88/98 cv",
+        "combustivel": "Flex",
+        "observacao": "Confirmar se é 1.3 ou 1.5."
+      },
+      {
+        "anos": "2012-2021",
+        "motor": "1.5 Dual VVT-i Flex",
+        "cilindrada": "1.496 cm³",
+        "potencia": "102 cv gasolina / 107 cv etanol aprox.",
+        "cv": "102/107 cv",
+        "combustivel": "Flex",
+        "observacao": "Confirmar versão e ano."
+      }
+    ]
   },
   {
     "id": "atuador-de-embreagem-etios-2013-2020",
@@ -6090,7 +8684,27 @@
       "Aplicação base cadastrada para ETIOS. Confirmar variações por chassi/versão antes da venda."
     ],
     "confiancaBase": 82,
-    "faseTecnica": "FASE 8 - MOTOR, TRANSMISSÃO E ALIMENTAÇÃO"
+    "faseTecnica": "FASE 8 - MOTOR, TRANSMISSÃO E ALIMENTAÇÃO",
+    "dadosMotor": [
+      {
+        "anos": "2012-2021",
+        "motor": "1.3 Dual VVT-i Flex",
+        "cilindrada": "1.329 cm³",
+        "potencia": "88 cv gasolina / 98 cv etanol aprox.",
+        "cv": "88/98 cv",
+        "combustivel": "Flex",
+        "observacao": "Confirmar se é 1.3 ou 1.5."
+      },
+      {
+        "anos": "2012-2021",
+        "motor": "1.5 Dual VVT-i Flex",
+        "cilindrada": "1.496 cm³",
+        "potencia": "102 cv gasolina / 107 cv etanol aprox.",
+        "cv": "102/107 cv",
+        "combustivel": "Flex",
+        "observacao": "Confirmar versão e ano."
+      }
+    ]
   },
   {
     "id": "trambulador-etios-2013-2020",
@@ -6135,7 +8749,27 @@
       "Aplicação base cadastrada para ETIOS. Confirmar variações por chassi/versão antes da venda."
     ],
     "confiancaBase": 82,
-    "faseTecnica": "FASE 8 - MOTOR, TRANSMISSÃO E ALIMENTAÇÃO"
+    "faseTecnica": "FASE 8 - MOTOR, TRANSMISSÃO E ALIMENTAÇÃO",
+    "dadosMotor": [
+      {
+        "anos": "2012-2021",
+        "motor": "1.3 Dual VVT-i Flex",
+        "cilindrada": "1.329 cm³",
+        "potencia": "88 cv gasolina / 98 cv etanol aprox.",
+        "cv": "88/98 cv",
+        "combustivel": "Flex",
+        "observacao": "Confirmar se é 1.3 ou 1.5."
+      },
+      {
+        "anos": "2012-2021",
+        "motor": "1.5 Dual VVT-i Flex",
+        "cilindrada": "1.496 cm³",
+        "potencia": "102 cv gasolina / 107 cv etanol aprox.",
+        "cv": "102/107 cv",
+        "combustivel": "Flex",
+        "observacao": "Confirmar versão e ano."
+      }
+    ]
   },
   {
     "id": "semi-eixo-etios-2013-2020",
@@ -6181,7 +8815,27 @@
       "Aplicação base cadastrada para ETIOS. Confirmar variações por chassi/versão antes da venda."
     ],
     "confiancaBase": 82,
-    "faseTecnica": "FASE 8 - MOTOR, TRANSMISSÃO E ALIMENTAÇÃO"
+    "faseTecnica": "FASE 8 - MOTOR, TRANSMISSÃO E ALIMENTAÇÃO",
+    "dadosMotor": [
+      {
+        "anos": "2012-2021",
+        "motor": "1.3 Dual VVT-i Flex",
+        "cilindrada": "1.329 cm³",
+        "potencia": "88 cv gasolina / 98 cv etanol aprox.",
+        "cv": "88/98 cv",
+        "combustivel": "Flex",
+        "observacao": "Confirmar se é 1.3 ou 1.5."
+      },
+      {
+        "anos": "2012-2021",
+        "motor": "1.5 Dual VVT-i Flex",
+        "cilindrada": "1.496 cm³",
+        "potencia": "102 cv gasolina / 107 cv etanol aprox.",
+        "cv": "102/107 cv",
+        "combustivel": "Flex",
+        "observacao": "Confirmar versão e ano."
+      }
+    ]
   },
   {
     "id": "homocintica-etios-2013-2020",
@@ -6227,7 +8881,27 @@
       "Aplicação base cadastrada para ETIOS. Confirmar variações por chassi/versão antes da venda."
     ],
     "confiancaBase": 82,
-    "faseTecnica": "FASE 8 - MOTOR, TRANSMISSÃO E ALIMENTAÇÃO"
+    "faseTecnica": "FASE 8 - MOTOR, TRANSMISSÃO E ALIMENTAÇÃO",
+    "dadosMotor": [
+      {
+        "anos": "2012-2021",
+        "motor": "1.3 Dual VVT-i Flex",
+        "cilindrada": "1.329 cm³",
+        "potencia": "88 cv gasolina / 98 cv etanol aprox.",
+        "cv": "88/98 cv",
+        "combustivel": "Flex",
+        "observacao": "Confirmar se é 1.3 ou 1.5."
+      },
+      {
+        "anos": "2012-2021",
+        "motor": "1.5 Dual VVT-i Flex",
+        "cilindrada": "1.496 cm³",
+        "potencia": "102 cv gasolina / 107 cv etanol aprox.",
+        "cv": "102/107 cv",
+        "combustivel": "Flex",
+        "observacao": "Confirmar versão e ano."
+      }
+    ]
   },
   {
     "id": "bomba-de-combustvel-etios-2013-2020",
@@ -6272,7 +8946,27 @@
       "Aplicação base cadastrada para ETIOS. Confirmar variações por chassi/versão antes da venda."
     ],
     "confiancaBase": 82,
-    "faseTecnica": "FASE 8 - MOTOR, TRANSMISSÃO E ALIMENTAÇÃO"
+    "faseTecnica": "FASE 8 - MOTOR, TRANSMISSÃO E ALIMENTAÇÃO",
+    "dadosMotor": [
+      {
+        "anos": "2012-2021",
+        "motor": "1.3 Dual VVT-i Flex",
+        "cilindrada": "1.329 cm³",
+        "potencia": "88 cv gasolina / 98 cv etanol aprox.",
+        "cv": "88/98 cv",
+        "combustivel": "Flex",
+        "observacao": "Confirmar se é 1.3 ou 1.5."
+      },
+      {
+        "anos": "2012-2021",
+        "motor": "1.5 Dual VVT-i Flex",
+        "cilindrada": "1.496 cm³",
+        "potencia": "102 cv gasolina / 107 cv etanol aprox.",
+        "cv": "102/107 cv",
+        "combustivel": "Flex",
+        "observacao": "Confirmar versão e ano."
+      }
+    ]
   },
   {
     "id": "bico-injetor-etios-2013-2020",
@@ -6317,7 +9011,27 @@
       "Aplicação base cadastrada para ETIOS. Confirmar variações por chassi/versão antes da venda."
     ],
     "confiancaBase": 82,
-    "faseTecnica": "FASE 8 - MOTOR, TRANSMISSÃO E ALIMENTAÇÃO"
+    "faseTecnica": "FASE 8 - MOTOR, TRANSMISSÃO E ALIMENTAÇÃO",
+    "dadosMotor": [
+      {
+        "anos": "2012-2021",
+        "motor": "1.3 Dual VVT-i Flex",
+        "cilindrada": "1.329 cm³",
+        "potencia": "88 cv gasolina / 98 cv etanol aprox.",
+        "cv": "88/98 cv",
+        "combustivel": "Flex",
+        "observacao": "Confirmar se é 1.3 ou 1.5."
+      },
+      {
+        "anos": "2012-2021",
+        "motor": "1.5 Dual VVT-i Flex",
+        "cilindrada": "1.496 cm³",
+        "potencia": "102 cv gasolina / 107 cv etanol aprox.",
+        "cv": "102/107 cv",
+        "combustivel": "Flex",
+        "observacao": "Confirmar versão e ano."
+      }
+    ]
   },
   {
     "id": "corpo-de-borboleta-etios-2013-2020",
@@ -6362,7 +9076,27 @@
       "Aplicação base cadastrada para ETIOS. Confirmar variações por chassi/versão antes da venda."
     ],
     "confiancaBase": 82,
-    "faseTecnica": "FASE 8 - MOTOR, TRANSMISSÃO E ALIMENTAÇÃO"
+    "faseTecnica": "FASE 8 - MOTOR, TRANSMISSÃO E ALIMENTAÇÃO",
+    "dadosMotor": [
+      {
+        "anos": "2012-2021",
+        "motor": "1.3 Dual VVT-i Flex",
+        "cilindrada": "1.329 cm³",
+        "potencia": "88 cv gasolina / 98 cv etanol aprox.",
+        "cv": "88/98 cv",
+        "combustivel": "Flex",
+        "observacao": "Confirmar se é 1.3 ou 1.5."
+      },
+      {
+        "anos": "2012-2021",
+        "motor": "1.5 Dual VVT-i Flex",
+        "cilindrada": "1.496 cm³",
+        "potencia": "102 cv gasolina / 107 cv etanol aprox.",
+        "cv": "102/107 cv",
+        "combustivel": "Flex",
+        "observacao": "Confirmar versão e ano."
+      }
+    ]
   },
   {
     "id": "filtro-de-combustvel-etios-2013-2020",
@@ -6406,7 +9140,27 @@
       "Aplicação base cadastrada para ETIOS. Confirmar variações por chassi/versão antes da venda."
     ],
     "confiancaBase": 82,
-    "faseTecnica": "FASE 8 - MOTOR, TRANSMISSÃO E ALIMENTAÇÃO"
+    "faseTecnica": "FASE 8 - MOTOR, TRANSMISSÃO E ALIMENTAÇÃO",
+    "dadosMotor": [
+      {
+        "anos": "2012-2021",
+        "motor": "1.3 Dual VVT-i Flex",
+        "cilindrada": "1.329 cm³",
+        "potencia": "88 cv gasolina / 98 cv etanol aprox.",
+        "cv": "88/98 cv",
+        "combustivel": "Flex",
+        "observacao": "Confirmar se é 1.3 ou 1.5."
+      },
+      {
+        "anos": "2012-2021",
+        "motor": "1.5 Dual VVT-i Flex",
+        "cilindrada": "1.496 cm³",
+        "potencia": "102 cv gasolina / 107 cv etanol aprox.",
+        "cv": "102/107 cv",
+        "combustivel": "Flex",
+        "observacao": "Confirmar versão e ano."
+      }
+    ]
   },
   {
     "id": "tanque-de-combustvel-etios-2013-2020",
@@ -6451,6 +9205,26 @@
       "Aplicação base cadastrada para ETIOS. Confirmar variações por chassi/versão antes da venda."
     ],
     "confiancaBase": 82,
-    "faseTecnica": "FASE 8 - MOTOR, TRANSMISSÃO E ALIMENTAÇÃO"
+    "faseTecnica": "FASE 8 - MOTOR, TRANSMISSÃO E ALIMENTAÇÃO",
+    "dadosMotor": [
+      {
+        "anos": "2012-2021",
+        "motor": "1.3 Dual VVT-i Flex",
+        "cilindrada": "1.329 cm³",
+        "potencia": "88 cv gasolina / 98 cv etanol aprox.",
+        "cv": "88/98 cv",
+        "combustivel": "Flex",
+        "observacao": "Confirmar se é 1.3 ou 1.5."
+      },
+      {
+        "anos": "2012-2021",
+        "motor": "1.5 Dual VVT-i Flex",
+        "cilindrada": "1.496 cm³",
+        "potencia": "102 cv gasolina / 107 cv etanol aprox.",
+        "cv": "102/107 cv",
+        "combustivel": "Flex",
+        "observacao": "Confirmar versão e ano."
+      }
+    ]
   }
 ]
