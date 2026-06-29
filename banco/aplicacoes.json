@@ -1183,5 +1183,8696 @@
       "lanterna": "W5W",
       "pisca": "PY21W"
     }
+  },
+  {
+    "id": "radiador-classic-2003-2010",
+    "pecas": [
+      "RADIADOR"
+    ],
+    "marcas": [
+      "CHEVROLET",
+      "GM"
+    ],
+    "modelos": [
+      "CLASSIC",
+      "CORSA CLASSIC"
+    ],
+    "anos": [
+      2003,
+      2004,
+      2005,
+      2006,
+      2007,
+      2008,
+      2009,
+      2010
+    ],
+    "lados": [
+      "N/D"
+    ],
+    "posicoes": [
+      "DIANTEIRO"
+    ],
+    "fabricantes": [],
+    "relacionadas": [
+      "CONDENSADOR",
+      "VENTOINHA",
+      "ELETROVENTILADOR",
+      "RESERVATORIO",
+      "MANGUEIRA RADIADOR",
+      "ADITIVO"
+    ],
+    "observacoes": [
+      "Confirmar motor, câmbio manual/automático e se o veículo possui ar condicionado.",
+      "Classic/Corsa Classic pode variar por motorização, ano e presença de ar condicionado.",
+      "Base técnica expandida por família de alto giro. Conferir peça antiga, código e versão antes de finalizar a venda."
+    ],
+    "confiancaBase": 78,
+    "lampadas": {}
+  },
+  {
+    "id": "radiador-corsa-1994-2002",
+    "pecas": [
+      "RADIADOR"
+    ],
+    "marcas": [
+      "CHEVROLET",
+      "GM"
+    ],
+    "modelos": [
+      "CORSA",
+      "CORSA WIND",
+      "CORSA SEDAN",
+      "CORSA PICKUP"
+    ],
+    "anos": [
+      1994,
+      1995,
+      1996,
+      1997,
+      1998,
+      1999,
+      2000,
+      2001,
+      2002
+    ],
+    "lados": [
+      "N/D"
+    ],
+    "posicoes": [
+      "DIANTEIRO"
+    ],
+    "fabricantes": [],
+    "relacionadas": [
+      "CONDENSADOR",
+      "VENTOINHA",
+      "ELETROVENTILADOR",
+      "RESERVATORIO",
+      "MANGUEIRA RADIADOR",
+      "ADITIVO"
+    ],
+    "observacoes": [
+      "Confirmar motor, câmbio manual/automático e se o veículo possui ar condicionado.",
+      "Corsa antigo possui variações por ano, carroceria e motorização.",
+      "Base técnica expandida por família de alto giro. Conferir peça antiga, código e versão antes de finalizar a venda."
+    ],
+    "confiancaBase": 78,
+    "lampadas": {}
+  },
+  {
+    "id": "radiador-gol-g5-2009-2012",
+    "pecas": [
+      "RADIADOR"
+    ],
+    "marcas": [
+      "VOLKSWAGEN",
+      "VW"
+    ],
+    "modelos": [
+      "GOL G5",
+      "GOL",
+      "VOYAGE G5",
+      "VOYAGE"
+    ],
+    "anos": [
+      2009,
+      2010,
+      2011,
+      2012
+    ],
+    "lados": [
+      "N/D"
+    ],
+    "posicoes": [
+      "DIANTEIRO"
+    ],
+    "fabricantes": [],
+    "relacionadas": [
+      "CONDENSADOR",
+      "VENTOINHA",
+      "ELETROVENTILADOR",
+      "RESERVATORIO",
+      "MANGUEIRA RADIADOR",
+      "ADITIVO"
+    ],
+    "observacoes": [
+      "Confirmar motor, câmbio manual/automático e se o veículo possui ar condicionado.",
+      "Gol/Voyage G5 pode variar por motor, câmbio, direção hidráulica/elétrica e presença de ar condicionado.",
+      "Base técnica expandida por família de alto giro. Conferir peça antiga, código e versão antes de finalizar a venda."
+    ],
+    "confiancaBase": 78,
+    "lampadas": {}
+  },
+  {
+    "id": "radiador-onix-2020-2023",
+    "pecas": [
+      "RADIADOR"
+    ],
+    "marcas": [
+      "CHEVROLET",
+      "GM"
+    ],
+    "modelos": [
+      "ONIX",
+      "ONIX PLUS"
+    ],
+    "anos": [
+      2020,
+      2021,
+      2022,
+      2023
+    ],
+    "lados": [
+      "N/D"
+    ],
+    "posicoes": [
+      "DIANTEIRO"
+    ],
+    "fabricantes": [],
+    "relacionadas": [
+      "CONDENSADOR",
+      "VENTOINHA",
+      "ELETROVENTILADOR",
+      "RESERVATORIO",
+      "MANGUEIRA RADIADOR",
+      "ADITIVO"
+    ],
+    "observacoes": [
+      "Confirmar motor, câmbio manual/automático e se o veículo possui ar condicionado.",
+      "Onix/Onix Plus pode variar por versão, motor turbo/aspirado e itens eletrônicos.",
+      "Base técnica expandida por família de alto giro. Conferir peça antiga, código e versão antes de finalizar a venda."
+    ],
+    "confiancaBase": 78,
+    "lampadas": {}
+  },
+  {
+    "id": "radiador-hb20-2012-2019",
+    "pecas": [
+      "RADIADOR"
+    ],
+    "marcas": [
+      "HYUNDAI"
+    ],
+    "modelos": [
+      "HB20",
+      "HB20S"
+    ],
+    "anos": [
+      2012,
+      2013,
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2019
+    ],
+    "lados": [
+      "N/D"
+    ],
+    "posicoes": [
+      "DIANTEIRO"
+    ],
+    "fabricantes": [],
+    "relacionadas": [
+      "CONDENSADOR",
+      "VENTOINHA",
+      "ELETROVENTILADOR",
+      "RESERVATORIO",
+      "MANGUEIRA RADIADOR",
+      "ADITIVO"
+    ],
+    "observacoes": [
+      "Confirmar motor, câmbio manual/automático e se o veículo possui ar condicionado.",
+      "HB20/HB20S pode variar entre hatch/sedan, motor 1.0/1.6 e presença de ar condicionado.",
+      "Base técnica expandida por família de alto giro. Conferir peça antiga, código e versão antes de finalizar a venda."
+    ],
+    "confiancaBase": 78,
+    "lampadas": {}
+  },
+  {
+    "id": "radiador-fiesta-2003-2007",
+    "pecas": [
+      "RADIADOR"
+    ],
+    "marcas": [
+      "FORD"
+    ],
+    "modelos": [
+      "FIESTA"
+    ],
+    "anos": [
+      2003,
+      2004,
+      2005,
+      2006,
+      2007
+    ],
+    "lados": [
+      "N/D"
+    ],
+    "posicoes": [
+      "DIANTEIRO"
+    ],
+    "fabricantes": [],
+    "relacionadas": [
+      "CONDENSADOR",
+      "VENTOINHA",
+      "ELETROVENTILADOR",
+      "RESERVATORIO",
+      "MANGUEIRA RADIADOR",
+      "ADITIVO"
+    ],
+    "observacoes": [
+      "Confirmar motor, câmbio manual/automático e se o veículo possui ar condicionado.",
+      "Fiesta pode variar por geração, motor e sistema de direção.",
+      "Base técnica expandida por família de alto giro. Conferir peça antiga, código e versão antes de finalizar a venda."
+    ],
+    "confiancaBase": 78,
+    "lampadas": {}
+  },
+  {
+    "id": "condensador-classic-2003-2010",
+    "pecas": [
+      "CONDENSADOR"
+    ],
+    "marcas": [
+      "CHEVROLET",
+      "GM"
+    ],
+    "modelos": [
+      "CLASSIC",
+      "CORSA CLASSIC"
+    ],
+    "anos": [
+      2003,
+      2004,
+      2005,
+      2006,
+      2007,
+      2008,
+      2009,
+      2010
+    ],
+    "lados": [
+      "N/D"
+    ],
+    "posicoes": [
+      "DIANTEIRO"
+    ],
+    "fabricantes": [],
+    "relacionadas": [
+      "RADIADOR",
+      "VENTOINHA",
+      "COMPRESSOR AR",
+      "FILTRO SECADOR",
+      "CAIXA EVAPORADORA"
+    ],
+    "observacoes": [
+      "Confirmar se o veículo possui ar condicionado original e modelo do condensador.",
+      "Classic/Corsa Classic pode variar por motorização, ano e presença de ar condicionado.",
+      "Base técnica expandida por família de alto giro. Conferir peça antiga, código e versão antes de finalizar a venda."
+    ],
+    "confiancaBase": 78,
+    "lampadas": {}
+  },
+  {
+    "id": "condensador-corsa-1994-2002",
+    "pecas": [
+      "CONDENSADOR"
+    ],
+    "marcas": [
+      "CHEVROLET",
+      "GM"
+    ],
+    "modelos": [
+      "CORSA",
+      "CORSA WIND",
+      "CORSA SEDAN",
+      "CORSA PICKUP"
+    ],
+    "anos": [
+      1994,
+      1995,
+      1996,
+      1997,
+      1998,
+      1999,
+      2000,
+      2001,
+      2002
+    ],
+    "lados": [
+      "N/D"
+    ],
+    "posicoes": [
+      "DIANTEIRO"
+    ],
+    "fabricantes": [],
+    "relacionadas": [
+      "RADIADOR",
+      "VENTOINHA",
+      "COMPRESSOR AR",
+      "FILTRO SECADOR",
+      "CAIXA EVAPORADORA"
+    ],
+    "observacoes": [
+      "Confirmar se o veículo possui ar condicionado original e modelo do condensador.",
+      "Corsa antigo possui variações por ano, carroceria e motorização.",
+      "Base técnica expandida por família de alto giro. Conferir peça antiga, código e versão antes de finalizar a venda."
+    ],
+    "confiancaBase": 78,
+    "lampadas": {}
+  },
+  {
+    "id": "condensador-gol-g5-2009-2012",
+    "pecas": [
+      "CONDENSADOR"
+    ],
+    "marcas": [
+      "VOLKSWAGEN",
+      "VW"
+    ],
+    "modelos": [
+      "GOL G5",
+      "GOL",
+      "VOYAGE G5",
+      "VOYAGE"
+    ],
+    "anos": [
+      2009,
+      2010,
+      2011,
+      2012
+    ],
+    "lados": [
+      "N/D"
+    ],
+    "posicoes": [
+      "DIANTEIRO"
+    ],
+    "fabricantes": [],
+    "relacionadas": [
+      "RADIADOR",
+      "VENTOINHA",
+      "COMPRESSOR AR",
+      "FILTRO SECADOR",
+      "CAIXA EVAPORADORA"
+    ],
+    "observacoes": [
+      "Confirmar se o veículo possui ar condicionado original e modelo do condensador.",
+      "Gol/Voyage G5 pode variar por motor, câmbio, direção hidráulica/elétrica e presença de ar condicionado.",
+      "Base técnica expandida por família de alto giro. Conferir peça antiga, código e versão antes de finalizar a venda."
+    ],
+    "confiancaBase": 78,
+    "lampadas": {}
+  },
+  {
+    "id": "condensador-onix-2020-2023",
+    "pecas": [
+      "CONDENSADOR"
+    ],
+    "marcas": [
+      "CHEVROLET",
+      "GM"
+    ],
+    "modelos": [
+      "ONIX",
+      "ONIX PLUS"
+    ],
+    "anos": [
+      2020,
+      2021,
+      2022,
+      2023
+    ],
+    "lados": [
+      "N/D"
+    ],
+    "posicoes": [
+      "DIANTEIRO"
+    ],
+    "fabricantes": [],
+    "relacionadas": [
+      "RADIADOR",
+      "VENTOINHA",
+      "COMPRESSOR AR",
+      "FILTRO SECADOR",
+      "CAIXA EVAPORADORA"
+    ],
+    "observacoes": [
+      "Confirmar se o veículo possui ar condicionado original e modelo do condensador.",
+      "Onix/Onix Plus pode variar por versão, motor turbo/aspirado e itens eletrônicos.",
+      "Base técnica expandida por família de alto giro. Conferir peça antiga, código e versão antes de finalizar a venda."
+    ],
+    "confiancaBase": 78,
+    "lampadas": {}
+  },
+  {
+    "id": "condensador-hb20-2012-2019",
+    "pecas": [
+      "CONDENSADOR"
+    ],
+    "marcas": [
+      "HYUNDAI"
+    ],
+    "modelos": [
+      "HB20",
+      "HB20S"
+    ],
+    "anos": [
+      2012,
+      2013,
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2019
+    ],
+    "lados": [
+      "N/D"
+    ],
+    "posicoes": [
+      "DIANTEIRO"
+    ],
+    "fabricantes": [],
+    "relacionadas": [
+      "RADIADOR",
+      "VENTOINHA",
+      "COMPRESSOR AR",
+      "FILTRO SECADOR",
+      "CAIXA EVAPORADORA"
+    ],
+    "observacoes": [
+      "Confirmar se o veículo possui ar condicionado original e modelo do condensador.",
+      "HB20/HB20S pode variar entre hatch/sedan, motor 1.0/1.6 e presença de ar condicionado.",
+      "Base técnica expandida por família de alto giro. Conferir peça antiga, código e versão antes de finalizar a venda."
+    ],
+    "confiancaBase": 78,
+    "lampadas": {}
+  },
+  {
+    "id": "condensador-fiesta-2003-2007",
+    "pecas": [
+      "CONDENSADOR"
+    ],
+    "marcas": [
+      "FORD"
+    ],
+    "modelos": [
+      "FIESTA"
+    ],
+    "anos": [
+      2003,
+      2004,
+      2005,
+      2006,
+      2007
+    ],
+    "lados": [
+      "N/D"
+    ],
+    "posicoes": [
+      "DIANTEIRO"
+    ],
+    "fabricantes": [],
+    "relacionadas": [
+      "RADIADOR",
+      "VENTOINHA",
+      "COMPRESSOR AR",
+      "FILTRO SECADOR",
+      "CAIXA EVAPORADORA"
+    ],
+    "observacoes": [
+      "Confirmar se o veículo possui ar condicionado original e modelo do condensador.",
+      "Fiesta pode variar por geração, motor e sistema de direção.",
+      "Base técnica expandida por família de alto giro. Conferir peça antiga, código e versão antes de finalizar a venda."
+    ],
+    "confiancaBase": 78,
+    "lampadas": {}
+  },
+  {
+    "id": "ventoinha-classic-2003-2010",
+    "pecas": [
+      "VENTOINHA",
+      "ELETROVENTILADOR"
+    ],
+    "marcas": [
+      "CHEVROLET",
+      "GM"
+    ],
+    "modelos": [
+      "CLASSIC",
+      "CORSA CLASSIC"
+    ],
+    "anos": [
+      2003,
+      2004,
+      2005,
+      2006,
+      2007,
+      2008,
+      2009,
+      2010
+    ],
+    "lados": [
+      "N/D"
+    ],
+    "posicoes": [
+      "DIANTEIRO"
+    ],
+    "fabricantes": [],
+    "relacionadas": [
+      "RADIADOR",
+      "DEFLETOR",
+      "RESISTENCIA DA VENTOINHA",
+      "SENSOR TEMPERATURA"
+    ],
+    "observacoes": [
+      "Confirmar quantidade de pinos, encaixe, diâmetro e se é conjunto completo ou motor separado.",
+      "Classic/Corsa Classic pode variar por motorização, ano e presença de ar condicionado.",
+      "Base técnica expandida por família de alto giro. Conferir peça antiga, código e versão antes de finalizar a venda."
+    ],
+    "confiancaBase": 78,
+    "lampadas": {}
+  },
+  {
+    "id": "ventoinha-corsa-1994-2002",
+    "pecas": [
+      "VENTOINHA",
+      "ELETROVENTILADOR"
+    ],
+    "marcas": [
+      "CHEVROLET",
+      "GM"
+    ],
+    "modelos": [
+      "CORSA",
+      "CORSA WIND",
+      "CORSA SEDAN",
+      "CORSA PICKUP"
+    ],
+    "anos": [
+      1994,
+      1995,
+      1996,
+      1997,
+      1998,
+      1999,
+      2000,
+      2001,
+      2002
+    ],
+    "lados": [
+      "N/D"
+    ],
+    "posicoes": [
+      "DIANTEIRO"
+    ],
+    "fabricantes": [],
+    "relacionadas": [
+      "RADIADOR",
+      "DEFLETOR",
+      "RESISTENCIA DA VENTOINHA",
+      "SENSOR TEMPERATURA"
+    ],
+    "observacoes": [
+      "Confirmar quantidade de pinos, encaixe, diâmetro e se é conjunto completo ou motor separado.",
+      "Corsa antigo possui variações por ano, carroceria e motorização.",
+      "Base técnica expandida por família de alto giro. Conferir peça antiga, código e versão antes de finalizar a venda."
+    ],
+    "confiancaBase": 78,
+    "lampadas": {}
+  },
+  {
+    "id": "ventoinha-gol-g5-2009-2012",
+    "pecas": [
+      "VENTOINHA",
+      "ELETROVENTILADOR"
+    ],
+    "marcas": [
+      "VOLKSWAGEN",
+      "VW"
+    ],
+    "modelos": [
+      "GOL G5",
+      "GOL",
+      "VOYAGE G5",
+      "VOYAGE"
+    ],
+    "anos": [
+      2009,
+      2010,
+      2011,
+      2012
+    ],
+    "lados": [
+      "N/D"
+    ],
+    "posicoes": [
+      "DIANTEIRO"
+    ],
+    "fabricantes": [],
+    "relacionadas": [
+      "RADIADOR",
+      "DEFLETOR",
+      "RESISTENCIA DA VENTOINHA",
+      "SENSOR TEMPERATURA"
+    ],
+    "observacoes": [
+      "Confirmar quantidade de pinos, encaixe, diâmetro e se é conjunto completo ou motor separado.",
+      "Gol/Voyage G5 pode variar por motor, câmbio, direção hidráulica/elétrica e presença de ar condicionado.",
+      "Base técnica expandida por família de alto giro. Conferir peça antiga, código e versão antes de finalizar a venda."
+    ],
+    "confiancaBase": 78,
+    "lampadas": {}
+  },
+  {
+    "id": "ventoinha-onix-2020-2023",
+    "pecas": [
+      "VENTOINHA",
+      "ELETROVENTILADOR"
+    ],
+    "marcas": [
+      "CHEVROLET",
+      "GM"
+    ],
+    "modelos": [
+      "ONIX",
+      "ONIX PLUS"
+    ],
+    "anos": [
+      2020,
+      2021,
+      2022,
+      2023
+    ],
+    "lados": [
+      "N/D"
+    ],
+    "posicoes": [
+      "DIANTEIRO"
+    ],
+    "fabricantes": [],
+    "relacionadas": [
+      "RADIADOR",
+      "DEFLETOR",
+      "RESISTENCIA DA VENTOINHA",
+      "SENSOR TEMPERATURA"
+    ],
+    "observacoes": [
+      "Confirmar quantidade de pinos, encaixe, diâmetro e se é conjunto completo ou motor separado.",
+      "Onix/Onix Plus pode variar por versão, motor turbo/aspirado e itens eletrônicos.",
+      "Base técnica expandida por família de alto giro. Conferir peça antiga, código e versão antes de finalizar a venda."
+    ],
+    "confiancaBase": 78,
+    "lampadas": {}
+  },
+  {
+    "id": "ventoinha-hb20-2012-2019",
+    "pecas": [
+      "VENTOINHA",
+      "ELETROVENTILADOR"
+    ],
+    "marcas": [
+      "HYUNDAI"
+    ],
+    "modelos": [
+      "HB20",
+      "HB20S"
+    ],
+    "anos": [
+      2012,
+      2013,
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2019
+    ],
+    "lados": [
+      "N/D"
+    ],
+    "posicoes": [
+      "DIANTEIRO"
+    ],
+    "fabricantes": [],
+    "relacionadas": [
+      "RADIADOR",
+      "DEFLETOR",
+      "RESISTENCIA DA VENTOINHA",
+      "SENSOR TEMPERATURA"
+    ],
+    "observacoes": [
+      "Confirmar quantidade de pinos, encaixe, diâmetro e se é conjunto completo ou motor separado.",
+      "HB20/HB20S pode variar entre hatch/sedan, motor 1.0/1.6 e presença de ar condicionado.",
+      "Base técnica expandida por família de alto giro. Conferir peça antiga, código e versão antes de finalizar a venda."
+    ],
+    "confiancaBase": 78,
+    "lampadas": {}
+  },
+  {
+    "id": "ventoinha-fiesta-2003-2007",
+    "pecas": [
+      "VENTOINHA",
+      "ELETROVENTILADOR"
+    ],
+    "marcas": [
+      "FORD"
+    ],
+    "modelos": [
+      "FIESTA"
+    ],
+    "anos": [
+      2003,
+      2004,
+      2005,
+      2006,
+      2007
+    ],
+    "lados": [
+      "N/D"
+    ],
+    "posicoes": [
+      "DIANTEIRO"
+    ],
+    "fabricantes": [],
+    "relacionadas": [
+      "RADIADOR",
+      "DEFLETOR",
+      "RESISTENCIA DA VENTOINHA",
+      "SENSOR TEMPERATURA"
+    ],
+    "observacoes": [
+      "Confirmar quantidade de pinos, encaixe, diâmetro e se é conjunto completo ou motor separado.",
+      "Fiesta pode variar por geração, motor e sistema de direção.",
+      "Base técnica expandida por família de alto giro. Conferir peça antiga, código e versão antes de finalizar a venda."
+    ],
+    "confiancaBase": 78,
+    "lampadas": {}
+  },
+  {
+    "id": "reservatorio-classic-2003-2010",
+    "pecas": [
+      "RESERVATORIO",
+      "RESERVATÓRIO",
+      "RESERVATORIO AGUA",
+      "RESERVATÓRIO ÁGUA"
+    ],
+    "marcas": [
+      "CHEVROLET",
+      "GM"
+    ],
+    "modelos": [
+      "CLASSIC",
+      "CORSA CLASSIC"
+    ],
+    "anos": [
+      2003,
+      2004,
+      2005,
+      2006,
+      2007,
+      2008,
+      2009,
+      2010
+    ],
+    "lados": [
+      "N/D"
+    ],
+    "posicoes": [
+      "DIANTEIRO"
+    ],
+    "fabricantes": [],
+    "relacionadas": [
+      "TAMPA RESERVATORIO",
+      "RADIADOR",
+      "MANGUEIRA RADIADOR",
+      "ADITIVO"
+    ],
+    "observacoes": [
+      "Confirmar formato, quantidade de saídas e posição das mangueiras.",
+      "Classic/Corsa Classic pode variar por motorização, ano e presença de ar condicionado.",
+      "Base técnica expandida por família de alto giro. Conferir peça antiga, código e versão antes de finalizar a venda."
+    ],
+    "confiancaBase": 78,
+    "lampadas": {}
+  },
+  {
+    "id": "reservatorio-corsa-1994-2002",
+    "pecas": [
+      "RESERVATORIO",
+      "RESERVATÓRIO",
+      "RESERVATORIO AGUA",
+      "RESERVATÓRIO ÁGUA"
+    ],
+    "marcas": [
+      "CHEVROLET",
+      "GM"
+    ],
+    "modelos": [
+      "CORSA",
+      "CORSA WIND",
+      "CORSA SEDAN",
+      "CORSA PICKUP"
+    ],
+    "anos": [
+      1994,
+      1995,
+      1996,
+      1997,
+      1998,
+      1999,
+      2000,
+      2001,
+      2002
+    ],
+    "lados": [
+      "N/D"
+    ],
+    "posicoes": [
+      "DIANTEIRO"
+    ],
+    "fabricantes": [],
+    "relacionadas": [
+      "TAMPA RESERVATORIO",
+      "RADIADOR",
+      "MANGUEIRA RADIADOR",
+      "ADITIVO"
+    ],
+    "observacoes": [
+      "Confirmar formato, quantidade de saídas e posição das mangueiras.",
+      "Corsa antigo possui variações por ano, carroceria e motorização.",
+      "Base técnica expandida por família de alto giro. Conferir peça antiga, código e versão antes de finalizar a venda."
+    ],
+    "confiancaBase": 78,
+    "lampadas": {}
+  },
+  {
+    "id": "reservatorio-gol-g5-2009-2012",
+    "pecas": [
+      "RESERVATORIO",
+      "RESERVATÓRIO",
+      "RESERVATORIO AGUA",
+      "RESERVATÓRIO ÁGUA"
+    ],
+    "marcas": [
+      "VOLKSWAGEN",
+      "VW"
+    ],
+    "modelos": [
+      "GOL G5",
+      "GOL",
+      "VOYAGE G5",
+      "VOYAGE"
+    ],
+    "anos": [
+      2009,
+      2010,
+      2011,
+      2012
+    ],
+    "lados": [
+      "N/D"
+    ],
+    "posicoes": [
+      "DIANTEIRO"
+    ],
+    "fabricantes": [],
+    "relacionadas": [
+      "TAMPA RESERVATORIO",
+      "RADIADOR",
+      "MANGUEIRA RADIADOR",
+      "ADITIVO"
+    ],
+    "observacoes": [
+      "Confirmar formato, quantidade de saídas e posição das mangueiras.",
+      "Gol/Voyage G5 pode variar por motor, câmbio, direção hidráulica/elétrica e presença de ar condicionado.",
+      "Base técnica expandida por família de alto giro. Conferir peça antiga, código e versão antes de finalizar a venda."
+    ],
+    "confiancaBase": 78,
+    "lampadas": {}
+  },
+  {
+    "id": "reservatorio-onix-2020-2023",
+    "pecas": [
+      "RESERVATORIO",
+      "RESERVATÓRIO",
+      "RESERVATORIO AGUA",
+      "RESERVATÓRIO ÁGUA"
+    ],
+    "marcas": [
+      "CHEVROLET",
+      "GM"
+    ],
+    "modelos": [
+      "ONIX",
+      "ONIX PLUS"
+    ],
+    "anos": [
+      2020,
+      2021,
+      2022,
+      2023
+    ],
+    "lados": [
+      "N/D"
+    ],
+    "posicoes": [
+      "DIANTEIRO"
+    ],
+    "fabricantes": [],
+    "relacionadas": [
+      "TAMPA RESERVATORIO",
+      "RADIADOR",
+      "MANGUEIRA RADIADOR",
+      "ADITIVO"
+    ],
+    "observacoes": [
+      "Confirmar formato, quantidade de saídas e posição das mangueiras.",
+      "Onix/Onix Plus pode variar por versão, motor turbo/aspirado e itens eletrônicos.",
+      "Base técnica expandida por família de alto giro. Conferir peça antiga, código e versão antes de finalizar a venda."
+    ],
+    "confiancaBase": 78,
+    "lampadas": {}
+  },
+  {
+    "id": "reservatorio-hb20-2012-2019",
+    "pecas": [
+      "RESERVATORIO",
+      "RESERVATÓRIO",
+      "RESERVATORIO AGUA",
+      "RESERVATÓRIO ÁGUA"
+    ],
+    "marcas": [
+      "HYUNDAI"
+    ],
+    "modelos": [
+      "HB20",
+      "HB20S"
+    ],
+    "anos": [
+      2012,
+      2013,
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2019
+    ],
+    "lados": [
+      "N/D"
+    ],
+    "posicoes": [
+      "DIANTEIRO"
+    ],
+    "fabricantes": [],
+    "relacionadas": [
+      "TAMPA RESERVATORIO",
+      "RADIADOR",
+      "MANGUEIRA RADIADOR",
+      "ADITIVO"
+    ],
+    "observacoes": [
+      "Confirmar formato, quantidade de saídas e posição das mangueiras.",
+      "HB20/HB20S pode variar entre hatch/sedan, motor 1.0/1.6 e presença de ar condicionado.",
+      "Base técnica expandida por família de alto giro. Conferir peça antiga, código e versão antes de finalizar a venda."
+    ],
+    "confiancaBase": 78,
+    "lampadas": {}
+  },
+  {
+    "id": "reservatorio-fiesta-2003-2007",
+    "pecas": [
+      "RESERVATORIO",
+      "RESERVATÓRIO",
+      "RESERVATORIO AGUA",
+      "RESERVATÓRIO ÁGUA"
+    ],
+    "marcas": [
+      "FORD"
+    ],
+    "modelos": [
+      "FIESTA"
+    ],
+    "anos": [
+      2003,
+      2004,
+      2005,
+      2006,
+      2007
+    ],
+    "lados": [
+      "N/D"
+    ],
+    "posicoes": [
+      "DIANTEIRO"
+    ],
+    "fabricantes": [],
+    "relacionadas": [
+      "TAMPA RESERVATORIO",
+      "RADIADOR",
+      "MANGUEIRA RADIADOR",
+      "ADITIVO"
+    ],
+    "observacoes": [
+      "Confirmar formato, quantidade de saídas e posição das mangueiras.",
+      "Fiesta pode variar por geração, motor e sistema de direção.",
+      "Base técnica expandida por família de alto giro. Conferir peça antiga, código e versão antes de finalizar a venda."
+    ],
+    "confiancaBase": 78,
+    "lampadas": {}
+  },
+  {
+    "id": "intercooler-classic-2003-2010",
+    "pecas": [
+      "INTERCOOLER"
+    ],
+    "marcas": [
+      "CHEVROLET",
+      "GM"
+    ],
+    "modelos": [
+      "CLASSIC",
+      "CORSA CLASSIC"
+    ],
+    "anos": [
+      2003,
+      2004,
+      2005,
+      2006,
+      2007,
+      2008,
+      2009,
+      2010
+    ],
+    "lados": [
+      "N/D"
+    ],
+    "posicoes": [
+      "DIANTEIRO"
+    ],
+    "fabricantes": [],
+    "relacionadas": [
+      "MANGUEIRA INTERCOOLER",
+      "TURBINA",
+      "RADIADOR",
+      "CONDENSADOR"
+    ],
+    "observacoes": [
+      "Aplicação comum em versões turbo/diesel. Confirmar motor antes da venda.",
+      "Classic/Corsa Classic pode variar por motorização, ano e presença de ar condicionado.",
+      "Base técnica expandida por família de alto giro. Conferir peça antiga, código e versão antes de finalizar a venda."
+    ],
+    "confiancaBase": 78,
+    "lampadas": {}
+  },
+  {
+    "id": "intercooler-corsa-1994-2002",
+    "pecas": [
+      "INTERCOOLER"
+    ],
+    "marcas": [
+      "CHEVROLET",
+      "GM"
+    ],
+    "modelos": [
+      "CORSA",
+      "CORSA WIND",
+      "CORSA SEDAN",
+      "CORSA PICKUP"
+    ],
+    "anos": [
+      1994,
+      1995,
+      1996,
+      1997,
+      1998,
+      1999,
+      2000,
+      2001,
+      2002
+    ],
+    "lados": [
+      "N/D"
+    ],
+    "posicoes": [
+      "DIANTEIRO"
+    ],
+    "fabricantes": [],
+    "relacionadas": [
+      "MANGUEIRA INTERCOOLER",
+      "TURBINA",
+      "RADIADOR",
+      "CONDENSADOR"
+    ],
+    "observacoes": [
+      "Aplicação comum em versões turbo/diesel. Confirmar motor antes da venda.",
+      "Corsa antigo possui variações por ano, carroceria e motorização.",
+      "Base técnica expandida por família de alto giro. Conferir peça antiga, código e versão antes de finalizar a venda."
+    ],
+    "confiancaBase": 78,
+    "lampadas": {}
+  },
+  {
+    "id": "intercooler-gol-g5-2009-2012",
+    "pecas": [
+      "INTERCOOLER"
+    ],
+    "marcas": [
+      "VOLKSWAGEN",
+      "VW"
+    ],
+    "modelos": [
+      "GOL G5",
+      "GOL",
+      "VOYAGE G5",
+      "VOYAGE"
+    ],
+    "anos": [
+      2009,
+      2010,
+      2011,
+      2012
+    ],
+    "lados": [
+      "N/D"
+    ],
+    "posicoes": [
+      "DIANTEIRO"
+    ],
+    "fabricantes": [],
+    "relacionadas": [
+      "MANGUEIRA INTERCOOLER",
+      "TURBINA",
+      "RADIADOR",
+      "CONDENSADOR"
+    ],
+    "observacoes": [
+      "Aplicação comum em versões turbo/diesel. Confirmar motor antes da venda.",
+      "Gol/Voyage G5 pode variar por motor, câmbio, direção hidráulica/elétrica e presença de ar condicionado.",
+      "Base técnica expandida por família de alto giro. Conferir peça antiga, código e versão antes de finalizar a venda."
+    ],
+    "confiancaBase": 78,
+    "lampadas": {}
+  },
+  {
+    "id": "intercooler-onix-2020-2023",
+    "pecas": [
+      "INTERCOOLER"
+    ],
+    "marcas": [
+      "CHEVROLET",
+      "GM"
+    ],
+    "modelos": [
+      "ONIX",
+      "ONIX PLUS"
+    ],
+    "anos": [
+      2020,
+      2021,
+      2022,
+      2023
+    ],
+    "lados": [
+      "N/D"
+    ],
+    "posicoes": [
+      "DIANTEIRO"
+    ],
+    "fabricantes": [],
+    "relacionadas": [
+      "MANGUEIRA INTERCOOLER",
+      "TURBINA",
+      "RADIADOR",
+      "CONDENSADOR"
+    ],
+    "observacoes": [
+      "Aplicação comum em versões turbo/diesel. Confirmar motor antes da venda.",
+      "Onix/Onix Plus pode variar por versão, motor turbo/aspirado e itens eletrônicos.",
+      "Base técnica expandida por família de alto giro. Conferir peça antiga, código e versão antes de finalizar a venda."
+    ],
+    "confiancaBase": 78,
+    "lampadas": {}
+  },
+  {
+    "id": "intercooler-hb20-2012-2019",
+    "pecas": [
+      "INTERCOOLER"
+    ],
+    "marcas": [
+      "HYUNDAI"
+    ],
+    "modelos": [
+      "HB20",
+      "HB20S"
+    ],
+    "anos": [
+      2012,
+      2013,
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2019
+    ],
+    "lados": [
+      "N/D"
+    ],
+    "posicoes": [
+      "DIANTEIRO"
+    ],
+    "fabricantes": [],
+    "relacionadas": [
+      "MANGUEIRA INTERCOOLER",
+      "TURBINA",
+      "RADIADOR",
+      "CONDENSADOR"
+    ],
+    "observacoes": [
+      "Aplicação comum em versões turbo/diesel. Confirmar motor antes da venda.",
+      "HB20/HB20S pode variar entre hatch/sedan, motor 1.0/1.6 e presença de ar condicionado.",
+      "Base técnica expandida por família de alto giro. Conferir peça antiga, código e versão antes de finalizar a venda."
+    ],
+    "confiancaBase": 78,
+    "lampadas": {}
+  },
+  {
+    "id": "intercooler-fiesta-2003-2007",
+    "pecas": [
+      "INTERCOOLER"
+    ],
+    "marcas": [
+      "FORD"
+    ],
+    "modelos": [
+      "FIESTA"
+    ],
+    "anos": [
+      2003,
+      2004,
+      2005,
+      2006,
+      2007
+    ],
+    "lados": [
+      "N/D"
+    ],
+    "posicoes": [
+      "DIANTEIRO"
+    ],
+    "fabricantes": [],
+    "relacionadas": [
+      "MANGUEIRA INTERCOOLER",
+      "TURBINA",
+      "RADIADOR",
+      "CONDENSADOR"
+    ],
+    "observacoes": [
+      "Aplicação comum em versões turbo/diesel. Confirmar motor antes da venda.",
+      "Fiesta pode variar por geração, motor e sistema de direção.",
+      "Base técnica expandida por família de alto giro. Conferir peça antiga, código e versão antes de finalizar a venda."
+    ],
+    "confiancaBase": 78,
+    "lampadas": {}
+  },
+  {
+    "id": "compressor-ar-classic-2003-2010",
+    "pecas": [
+      "COMPRESSOR AR",
+      "COMPRESSOR DO AR",
+      "COMPRESSOR AR CONDICIONADO",
+      "COMPRESSOR"
+    ],
+    "marcas": [
+      "CHEVROLET",
+      "GM"
+    ],
+    "modelos": [
+      "CLASSIC",
+      "CORSA CLASSIC"
+    ],
+    "anos": [
+      2003,
+      2004,
+      2005,
+      2006,
+      2007,
+      2008,
+      2009,
+      2010
+    ],
+    "lados": [
+      "N/D"
+    ],
+    "posicoes": [
+      "MOTOR"
+    ],
+    "fabricantes": [],
+    "relacionadas": [
+      "CONDENSADOR",
+      "CAIXA EVAPORADORA",
+      "FILTRO CABINE",
+      "CORREIA",
+      "POLIA"
+    ],
+    "observacoes": [
+      "Confirmar código do compressor, tipo de polia, conectores e motorização.",
+      "Classic/Corsa Classic pode variar por motorização, ano e presença de ar condicionado.",
+      "Base técnica expandida por família de alto giro. Conferir peça antiga, código e versão antes de finalizar a venda."
+    ],
+    "confiancaBase": 78,
+    "lampadas": {}
+  },
+  {
+    "id": "compressor-ar-corsa-1994-2002",
+    "pecas": [
+      "COMPRESSOR AR",
+      "COMPRESSOR DO AR",
+      "COMPRESSOR AR CONDICIONADO",
+      "COMPRESSOR"
+    ],
+    "marcas": [
+      "CHEVROLET",
+      "GM"
+    ],
+    "modelos": [
+      "CORSA",
+      "CORSA WIND",
+      "CORSA SEDAN",
+      "CORSA PICKUP"
+    ],
+    "anos": [
+      1994,
+      1995,
+      1996,
+      1997,
+      1998,
+      1999,
+      2000,
+      2001,
+      2002
+    ],
+    "lados": [
+      "N/D"
+    ],
+    "posicoes": [
+      "MOTOR"
+    ],
+    "fabricantes": [],
+    "relacionadas": [
+      "CONDENSADOR",
+      "CAIXA EVAPORADORA",
+      "FILTRO CABINE",
+      "CORREIA",
+      "POLIA"
+    ],
+    "observacoes": [
+      "Confirmar código do compressor, tipo de polia, conectores e motorização.",
+      "Corsa antigo possui variações por ano, carroceria e motorização.",
+      "Base técnica expandida por família de alto giro. Conferir peça antiga, código e versão antes de finalizar a venda."
+    ],
+    "confiancaBase": 78,
+    "lampadas": {}
+  },
+  {
+    "id": "compressor-ar-gol-g5-2009-2012",
+    "pecas": [
+      "COMPRESSOR AR",
+      "COMPRESSOR DO AR",
+      "COMPRESSOR AR CONDICIONADO",
+      "COMPRESSOR"
+    ],
+    "marcas": [
+      "VOLKSWAGEN",
+      "VW"
+    ],
+    "modelos": [
+      "GOL G5",
+      "GOL",
+      "VOYAGE G5",
+      "VOYAGE"
+    ],
+    "anos": [
+      2009,
+      2010,
+      2011,
+      2012
+    ],
+    "lados": [
+      "N/D"
+    ],
+    "posicoes": [
+      "MOTOR"
+    ],
+    "fabricantes": [],
+    "relacionadas": [
+      "CONDENSADOR",
+      "CAIXA EVAPORADORA",
+      "FILTRO CABINE",
+      "CORREIA",
+      "POLIA"
+    ],
+    "observacoes": [
+      "Confirmar código do compressor, tipo de polia, conectores e motorização.",
+      "Gol/Voyage G5 pode variar por motor, câmbio, direção hidráulica/elétrica e presença de ar condicionado.",
+      "Base técnica expandida por família de alto giro. Conferir peça antiga, código e versão antes de finalizar a venda."
+    ],
+    "confiancaBase": 78,
+    "lampadas": {}
+  },
+  {
+    "id": "compressor-ar-onix-2020-2023",
+    "pecas": [
+      "COMPRESSOR AR",
+      "COMPRESSOR DO AR",
+      "COMPRESSOR AR CONDICIONADO",
+      "COMPRESSOR"
+    ],
+    "marcas": [
+      "CHEVROLET",
+      "GM"
+    ],
+    "modelos": [
+      "ONIX",
+      "ONIX PLUS"
+    ],
+    "anos": [
+      2020,
+      2021,
+      2022,
+      2023
+    ],
+    "lados": [
+      "N/D"
+    ],
+    "posicoes": [
+      "MOTOR"
+    ],
+    "fabricantes": [],
+    "relacionadas": [
+      "CONDENSADOR",
+      "CAIXA EVAPORADORA",
+      "FILTRO CABINE",
+      "CORREIA",
+      "POLIA"
+    ],
+    "observacoes": [
+      "Confirmar código do compressor, tipo de polia, conectores e motorização.",
+      "Onix/Onix Plus pode variar por versão, motor turbo/aspirado e itens eletrônicos.",
+      "Base técnica expandida por família de alto giro. Conferir peça antiga, código e versão antes de finalizar a venda."
+    ],
+    "confiancaBase": 78,
+    "lampadas": {}
+  },
+  {
+    "id": "compressor-ar-hb20-2012-2019",
+    "pecas": [
+      "COMPRESSOR AR",
+      "COMPRESSOR DO AR",
+      "COMPRESSOR AR CONDICIONADO",
+      "COMPRESSOR"
+    ],
+    "marcas": [
+      "HYUNDAI"
+    ],
+    "modelos": [
+      "HB20",
+      "HB20S"
+    ],
+    "anos": [
+      2012,
+      2013,
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2019
+    ],
+    "lados": [
+      "N/D"
+    ],
+    "posicoes": [
+      "MOTOR"
+    ],
+    "fabricantes": [],
+    "relacionadas": [
+      "CONDENSADOR",
+      "CAIXA EVAPORADORA",
+      "FILTRO CABINE",
+      "CORREIA",
+      "POLIA"
+    ],
+    "observacoes": [
+      "Confirmar código do compressor, tipo de polia, conectores e motorização.",
+      "HB20/HB20S pode variar entre hatch/sedan, motor 1.0/1.6 e presença de ar condicionado.",
+      "Base técnica expandida por família de alto giro. Conferir peça antiga, código e versão antes de finalizar a venda."
+    ],
+    "confiancaBase": 78,
+    "lampadas": {}
+  },
+  {
+    "id": "compressor-ar-fiesta-2003-2007",
+    "pecas": [
+      "COMPRESSOR AR",
+      "COMPRESSOR DO AR",
+      "COMPRESSOR AR CONDICIONADO",
+      "COMPRESSOR"
+    ],
+    "marcas": [
+      "FORD"
+    ],
+    "modelos": [
+      "FIESTA"
+    ],
+    "anos": [
+      2003,
+      2004,
+      2005,
+      2006,
+      2007
+    ],
+    "lados": [
+      "N/D"
+    ],
+    "posicoes": [
+      "MOTOR"
+    ],
+    "fabricantes": [],
+    "relacionadas": [
+      "CONDENSADOR",
+      "CAIXA EVAPORADORA",
+      "FILTRO CABINE",
+      "CORREIA",
+      "POLIA"
+    ],
+    "observacoes": [
+      "Confirmar código do compressor, tipo de polia, conectores e motorização.",
+      "Fiesta pode variar por geração, motor e sistema de direção.",
+      "Base técnica expandida por família de alto giro. Conferir peça antiga, código e versão antes de finalizar a venda."
+    ],
+    "confiancaBase": 78,
+    "lampadas": {}
+  },
+  {
+    "id": "caixa-evaporadora-classic-2003-2010",
+    "pecas": [
+      "CAIXA EVAPORADORA",
+      "EVAPORADOR"
+    ],
+    "marcas": [
+      "CHEVROLET",
+      "GM"
+    ],
+    "modelos": [
+      "CLASSIC",
+      "CORSA CLASSIC"
+    ],
+    "anos": [
+      2003,
+      2004,
+      2005,
+      2006,
+      2007,
+      2008,
+      2009,
+      2010
+    ],
+    "lados": [
+      "N/D"
+    ],
+    "posicoes": [
+      "INTERNO"
+    ],
+    "fabricantes": [],
+    "relacionadas": [
+      "COMPRESSOR AR",
+      "CONDENSADOR",
+      "FILTRO CABINE",
+      "RESISTENCIA AR"
+    ],
+    "observacoes": [
+      "Confirmar se o veículo possui ar condicionado original e modelo da caixa.",
+      "Classic/Corsa Classic pode variar por motorização, ano e presença de ar condicionado.",
+      "Base técnica expandida por família de alto giro. Conferir peça antiga, código e versão antes de finalizar a venda."
+    ],
+    "confiancaBase": 78,
+    "lampadas": {}
+  },
+  {
+    "id": "caixa-evaporadora-corsa-1994-2002",
+    "pecas": [
+      "CAIXA EVAPORADORA",
+      "EVAPORADOR"
+    ],
+    "marcas": [
+      "CHEVROLET",
+      "GM"
+    ],
+    "modelos": [
+      "CORSA",
+      "CORSA WIND",
+      "CORSA SEDAN",
+      "CORSA PICKUP"
+    ],
+    "anos": [
+      1994,
+      1995,
+      1996,
+      1997,
+      1998,
+      1999,
+      2000,
+      2001,
+      2002
+    ],
+    "lados": [
+      "N/D"
+    ],
+    "posicoes": [
+      "INTERNO"
+    ],
+    "fabricantes": [],
+    "relacionadas": [
+      "COMPRESSOR AR",
+      "CONDENSADOR",
+      "FILTRO CABINE",
+      "RESISTENCIA AR"
+    ],
+    "observacoes": [
+      "Confirmar se o veículo possui ar condicionado original e modelo da caixa.",
+      "Corsa antigo possui variações por ano, carroceria e motorização.",
+      "Base técnica expandida por família de alto giro. Conferir peça antiga, código e versão antes de finalizar a venda."
+    ],
+    "confiancaBase": 78,
+    "lampadas": {}
+  },
+  {
+    "id": "caixa-evaporadora-gol-g5-2009-2012",
+    "pecas": [
+      "CAIXA EVAPORADORA",
+      "EVAPORADOR"
+    ],
+    "marcas": [
+      "VOLKSWAGEN",
+      "VW"
+    ],
+    "modelos": [
+      "GOL G5",
+      "GOL",
+      "VOYAGE G5",
+      "VOYAGE"
+    ],
+    "anos": [
+      2009,
+      2010,
+      2011,
+      2012
+    ],
+    "lados": [
+      "N/D"
+    ],
+    "posicoes": [
+      "INTERNO"
+    ],
+    "fabricantes": [],
+    "relacionadas": [
+      "COMPRESSOR AR",
+      "CONDENSADOR",
+      "FILTRO CABINE",
+      "RESISTENCIA AR"
+    ],
+    "observacoes": [
+      "Confirmar se o veículo possui ar condicionado original e modelo da caixa.",
+      "Gol/Voyage G5 pode variar por motor, câmbio, direção hidráulica/elétrica e presença de ar condicionado.",
+      "Base técnica expandida por família de alto giro. Conferir peça antiga, código e versão antes de finalizar a venda."
+    ],
+    "confiancaBase": 78,
+    "lampadas": {}
+  },
+  {
+    "id": "caixa-evaporadora-onix-2020-2023",
+    "pecas": [
+      "CAIXA EVAPORADORA",
+      "EVAPORADOR"
+    ],
+    "marcas": [
+      "CHEVROLET",
+      "GM"
+    ],
+    "modelos": [
+      "ONIX",
+      "ONIX PLUS"
+    ],
+    "anos": [
+      2020,
+      2021,
+      2022,
+      2023
+    ],
+    "lados": [
+      "N/D"
+    ],
+    "posicoes": [
+      "INTERNO"
+    ],
+    "fabricantes": [],
+    "relacionadas": [
+      "COMPRESSOR AR",
+      "CONDENSADOR",
+      "FILTRO CABINE",
+      "RESISTENCIA AR"
+    ],
+    "observacoes": [
+      "Confirmar se o veículo possui ar condicionado original e modelo da caixa.",
+      "Onix/Onix Plus pode variar por versão, motor turbo/aspirado e itens eletrônicos.",
+      "Base técnica expandida por família de alto giro. Conferir peça antiga, código e versão antes de finalizar a venda."
+    ],
+    "confiancaBase": 78,
+    "lampadas": {}
+  },
+  {
+    "id": "caixa-evaporadora-hb20-2012-2019",
+    "pecas": [
+      "CAIXA EVAPORADORA",
+      "EVAPORADOR"
+    ],
+    "marcas": [
+      "HYUNDAI"
+    ],
+    "modelos": [
+      "HB20",
+      "HB20S"
+    ],
+    "anos": [
+      2012,
+      2013,
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2019
+    ],
+    "lados": [
+      "N/D"
+    ],
+    "posicoes": [
+      "INTERNO"
+    ],
+    "fabricantes": [],
+    "relacionadas": [
+      "COMPRESSOR AR",
+      "CONDENSADOR",
+      "FILTRO CABINE",
+      "RESISTENCIA AR"
+    ],
+    "observacoes": [
+      "Confirmar se o veículo possui ar condicionado original e modelo da caixa.",
+      "HB20/HB20S pode variar entre hatch/sedan, motor 1.0/1.6 e presença de ar condicionado.",
+      "Base técnica expandida por família de alto giro. Conferir peça antiga, código e versão antes de finalizar a venda."
+    ],
+    "confiancaBase": 78,
+    "lampadas": {}
+  },
+  {
+    "id": "caixa-evaporadora-fiesta-2003-2007",
+    "pecas": [
+      "CAIXA EVAPORADORA",
+      "EVAPORADOR"
+    ],
+    "marcas": [
+      "FORD"
+    ],
+    "modelos": [
+      "FIESTA"
+    ],
+    "anos": [
+      2003,
+      2004,
+      2005,
+      2006,
+      2007
+    ],
+    "lados": [
+      "N/D"
+    ],
+    "posicoes": [
+      "INTERNO"
+    ],
+    "fabricantes": [],
+    "relacionadas": [
+      "COMPRESSOR AR",
+      "CONDENSADOR",
+      "FILTRO CABINE",
+      "RESISTENCIA AR"
+    ],
+    "observacoes": [
+      "Confirmar se o veículo possui ar condicionado original e modelo da caixa.",
+      "Fiesta pode variar por geração, motor e sistema de direção.",
+      "Base técnica expandida por família de alto giro. Conferir peça antiga, código e versão antes de finalizar a venda."
+    ],
+    "confiancaBase": 78,
+    "lampadas": {}
+  },
+  {
+    "id": "mangueiras-principais-classic-2003-2010",
+    "pecas": [
+      "MANGUEIRA",
+      "MANGUEIRA RADIADOR",
+      "MANGUEIRA ARREFECIMENTO",
+      "MANGUEIRAS PRINCIPAIS"
+    ],
+    "marcas": [
+      "CHEVROLET",
+      "GM"
+    ],
+    "modelos": [
+      "CLASSIC",
+      "CORSA CLASSIC"
+    ],
+    "anos": [
+      2003,
+      2004,
+      2005,
+      2006,
+      2007,
+      2008,
+      2009,
+      2010
+    ],
+    "lados": [
+      "N/D"
+    ],
+    "posicoes": [
+      "MOTOR"
+    ],
+    "fabricantes": [],
+    "relacionadas": [
+      "RADIADOR",
+      "RESERVATORIO",
+      "VALVULA TERMOSTATICA",
+      "BOMBA DAGUA"
+    ],
+    "observacoes": [
+      "Confirmar se é superior, inferior, retorno, reservatório ou ar quente.",
+      "Classic/Corsa Classic pode variar por motorização, ano e presença de ar condicionado.",
+      "Base técnica expandida por família de alto giro. Conferir peça antiga, código e versão antes de finalizar a venda."
+    ],
+    "confiancaBase": 78,
+    "lampadas": {}
+  },
+  {
+    "id": "mangueiras-principais-corsa-1994-2002",
+    "pecas": [
+      "MANGUEIRA",
+      "MANGUEIRA RADIADOR",
+      "MANGUEIRA ARREFECIMENTO",
+      "MANGUEIRAS PRINCIPAIS"
+    ],
+    "marcas": [
+      "CHEVROLET",
+      "GM"
+    ],
+    "modelos": [
+      "CORSA",
+      "CORSA WIND",
+      "CORSA SEDAN",
+      "CORSA PICKUP"
+    ],
+    "anos": [
+      1994,
+      1995,
+      1996,
+      1997,
+      1998,
+      1999,
+      2000,
+      2001,
+      2002
+    ],
+    "lados": [
+      "N/D"
+    ],
+    "posicoes": [
+      "MOTOR"
+    ],
+    "fabricantes": [],
+    "relacionadas": [
+      "RADIADOR",
+      "RESERVATORIO",
+      "VALVULA TERMOSTATICA",
+      "BOMBA DAGUA"
+    ],
+    "observacoes": [
+      "Confirmar se é superior, inferior, retorno, reservatório ou ar quente.",
+      "Corsa antigo possui variações por ano, carroceria e motorização.",
+      "Base técnica expandida por família de alto giro. Conferir peça antiga, código e versão antes de finalizar a venda."
+    ],
+    "confiancaBase": 78,
+    "lampadas": {}
+  },
+  {
+    "id": "mangueiras-principais-gol-g5-2009-2012",
+    "pecas": [
+      "MANGUEIRA",
+      "MANGUEIRA RADIADOR",
+      "MANGUEIRA ARREFECIMENTO",
+      "MANGUEIRAS PRINCIPAIS"
+    ],
+    "marcas": [
+      "VOLKSWAGEN",
+      "VW"
+    ],
+    "modelos": [
+      "GOL G5",
+      "GOL",
+      "VOYAGE G5",
+      "VOYAGE"
+    ],
+    "anos": [
+      2009,
+      2010,
+      2011,
+      2012
+    ],
+    "lados": [
+      "N/D"
+    ],
+    "posicoes": [
+      "MOTOR"
+    ],
+    "fabricantes": [],
+    "relacionadas": [
+      "RADIADOR",
+      "RESERVATORIO",
+      "VALVULA TERMOSTATICA",
+      "BOMBA DAGUA"
+    ],
+    "observacoes": [
+      "Confirmar se é superior, inferior, retorno, reservatório ou ar quente.",
+      "Gol/Voyage G5 pode variar por motor, câmbio, direção hidráulica/elétrica e presença de ar condicionado.",
+      "Base técnica expandida por família de alto giro. Conferir peça antiga, código e versão antes de finalizar a venda."
+    ],
+    "confiancaBase": 78,
+    "lampadas": {}
+  },
+  {
+    "id": "mangueiras-principais-onix-2020-2023",
+    "pecas": [
+      "MANGUEIRA",
+      "MANGUEIRA RADIADOR",
+      "MANGUEIRA ARREFECIMENTO",
+      "MANGUEIRAS PRINCIPAIS"
+    ],
+    "marcas": [
+      "CHEVROLET",
+      "GM"
+    ],
+    "modelos": [
+      "ONIX",
+      "ONIX PLUS"
+    ],
+    "anos": [
+      2020,
+      2021,
+      2022,
+      2023
+    ],
+    "lados": [
+      "N/D"
+    ],
+    "posicoes": [
+      "MOTOR"
+    ],
+    "fabricantes": [],
+    "relacionadas": [
+      "RADIADOR",
+      "RESERVATORIO",
+      "VALVULA TERMOSTATICA",
+      "BOMBA DAGUA"
+    ],
+    "observacoes": [
+      "Confirmar se é superior, inferior, retorno, reservatório ou ar quente.",
+      "Onix/Onix Plus pode variar por versão, motor turbo/aspirado e itens eletrônicos.",
+      "Base técnica expandida por família de alto giro. Conferir peça antiga, código e versão antes de finalizar a venda."
+    ],
+    "confiancaBase": 78,
+    "lampadas": {}
+  },
+  {
+    "id": "mangueiras-principais-hb20-2012-2019",
+    "pecas": [
+      "MANGUEIRA",
+      "MANGUEIRA RADIADOR",
+      "MANGUEIRA ARREFECIMENTO",
+      "MANGUEIRAS PRINCIPAIS"
+    ],
+    "marcas": [
+      "HYUNDAI"
+    ],
+    "modelos": [
+      "HB20",
+      "HB20S"
+    ],
+    "anos": [
+      2012,
+      2013,
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2019
+    ],
+    "lados": [
+      "N/D"
+    ],
+    "posicoes": [
+      "MOTOR"
+    ],
+    "fabricantes": [],
+    "relacionadas": [
+      "RADIADOR",
+      "RESERVATORIO",
+      "VALVULA TERMOSTATICA",
+      "BOMBA DAGUA"
+    ],
+    "observacoes": [
+      "Confirmar se é superior, inferior, retorno, reservatório ou ar quente.",
+      "HB20/HB20S pode variar entre hatch/sedan, motor 1.0/1.6 e presença de ar condicionado.",
+      "Base técnica expandida por família de alto giro. Conferir peça antiga, código e versão antes de finalizar a venda."
+    ],
+    "confiancaBase": 78,
+    "lampadas": {}
+  },
+  {
+    "id": "mangueiras-principais-fiesta-2003-2007",
+    "pecas": [
+      "MANGUEIRA",
+      "MANGUEIRA RADIADOR",
+      "MANGUEIRA ARREFECIMENTO",
+      "MANGUEIRAS PRINCIPAIS"
+    ],
+    "marcas": [
+      "FORD"
+    ],
+    "modelos": [
+      "FIESTA"
+    ],
+    "anos": [
+      2003,
+      2004,
+      2005,
+      2006,
+      2007
+    ],
+    "lados": [
+      "N/D"
+    ],
+    "posicoes": [
+      "MOTOR"
+    ],
+    "fabricantes": [],
+    "relacionadas": [
+      "RADIADOR",
+      "RESERVATORIO",
+      "VALVULA TERMOSTATICA",
+      "BOMBA DAGUA"
+    ],
+    "observacoes": [
+      "Confirmar se é superior, inferior, retorno, reservatório ou ar quente.",
+      "Fiesta pode variar por geração, motor e sistema de direção.",
+      "Base técnica expandida por família de alto giro. Conferir peça antiga, código e versão antes de finalizar a venda."
+    ],
+    "confiancaBase": 78,
+    "lampadas": {}
+  },
+  {
+    "id": "carter-classic-2003-2010",
+    "pecas": [
+      "CARTER",
+      "CÁRTER"
+    ],
+    "marcas": [
+      "CHEVROLET",
+      "GM"
+    ],
+    "modelos": [
+      "CLASSIC",
+      "CORSA CLASSIC"
+    ],
+    "anos": [
+      2003,
+      2004,
+      2005,
+      2006,
+      2007,
+      2008,
+      2009,
+      2010
+    ],
+    "lados": [
+      "N/D"
+    ],
+    "posicoes": [
+      "INFERIOR"
+    ],
+    "fabricantes": [],
+    "relacionadas": [
+      "JUNTA CARTER",
+      "OLEO MOTOR",
+      "PROTETOR DE CARTER"
+    ],
+    "observacoes": [
+      "Confirmar motor, material do cárter e presença de sensor/encaixes.",
+      "Classic/Corsa Classic pode variar por motorização, ano e presença de ar condicionado.",
+      "Base técnica expandida por família de alto giro. Conferir peça antiga, código e versão antes de finalizar a venda."
+    ],
+    "confiancaBase": 78,
+    "lampadas": {}
+  },
+  {
+    "id": "carter-corsa-1994-2002",
+    "pecas": [
+      "CARTER",
+      "CÁRTER"
+    ],
+    "marcas": [
+      "CHEVROLET",
+      "GM"
+    ],
+    "modelos": [
+      "CORSA",
+      "CORSA WIND",
+      "CORSA SEDAN",
+      "CORSA PICKUP"
+    ],
+    "anos": [
+      1994,
+      1995,
+      1996,
+      1997,
+      1998,
+      1999,
+      2000,
+      2001,
+      2002
+    ],
+    "lados": [
+      "N/D"
+    ],
+    "posicoes": [
+      "INFERIOR"
+    ],
+    "fabricantes": [],
+    "relacionadas": [
+      "JUNTA CARTER",
+      "OLEO MOTOR",
+      "PROTETOR DE CARTER"
+    ],
+    "observacoes": [
+      "Confirmar motor, material do cárter e presença de sensor/encaixes.",
+      "Corsa antigo possui variações por ano, carroceria e motorização.",
+      "Base técnica expandida por família de alto giro. Conferir peça antiga, código e versão antes de finalizar a venda."
+    ],
+    "confiancaBase": 78,
+    "lampadas": {}
+  },
+  {
+    "id": "carter-gol-g5-2009-2012",
+    "pecas": [
+      "CARTER",
+      "CÁRTER"
+    ],
+    "marcas": [
+      "VOLKSWAGEN",
+      "VW"
+    ],
+    "modelos": [
+      "GOL G5",
+      "GOL",
+      "VOYAGE G5",
+      "VOYAGE"
+    ],
+    "anos": [
+      2009,
+      2010,
+      2011,
+      2012
+    ],
+    "lados": [
+      "N/D"
+    ],
+    "posicoes": [
+      "INFERIOR"
+    ],
+    "fabricantes": [],
+    "relacionadas": [
+      "JUNTA CARTER",
+      "OLEO MOTOR",
+      "PROTETOR DE CARTER"
+    ],
+    "observacoes": [
+      "Confirmar motor, material do cárter e presença de sensor/encaixes.",
+      "Gol/Voyage G5 pode variar por motor, câmbio, direção hidráulica/elétrica e presença de ar condicionado.",
+      "Base técnica expandida por família de alto giro. Conferir peça antiga, código e versão antes de finalizar a venda."
+    ],
+    "confiancaBase": 78,
+    "lampadas": {}
+  },
+  {
+    "id": "carter-onix-2020-2023",
+    "pecas": [
+      "CARTER",
+      "CÁRTER"
+    ],
+    "marcas": [
+      "CHEVROLET",
+      "GM"
+    ],
+    "modelos": [
+      "ONIX",
+      "ONIX PLUS"
+    ],
+    "anos": [
+      2020,
+      2021,
+      2022,
+      2023
+    ],
+    "lados": [
+      "N/D"
+    ],
+    "posicoes": [
+      "INFERIOR"
+    ],
+    "fabricantes": [],
+    "relacionadas": [
+      "JUNTA CARTER",
+      "OLEO MOTOR",
+      "PROTETOR DE CARTER"
+    ],
+    "observacoes": [
+      "Confirmar motor, material do cárter e presença de sensor/encaixes.",
+      "Onix/Onix Plus pode variar por versão, motor turbo/aspirado e itens eletrônicos.",
+      "Base técnica expandida por família de alto giro. Conferir peça antiga, código e versão antes de finalizar a venda."
+    ],
+    "confiancaBase": 78,
+    "lampadas": {}
+  },
+  {
+    "id": "carter-hb20-2012-2019",
+    "pecas": [
+      "CARTER",
+      "CÁRTER"
+    ],
+    "marcas": [
+      "HYUNDAI"
+    ],
+    "modelos": [
+      "HB20",
+      "HB20S"
+    ],
+    "anos": [
+      2012,
+      2013,
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2019
+    ],
+    "lados": [
+      "N/D"
+    ],
+    "posicoes": [
+      "INFERIOR"
+    ],
+    "fabricantes": [],
+    "relacionadas": [
+      "JUNTA CARTER",
+      "OLEO MOTOR",
+      "PROTETOR DE CARTER"
+    ],
+    "observacoes": [
+      "Confirmar motor, material do cárter e presença de sensor/encaixes.",
+      "HB20/HB20S pode variar entre hatch/sedan, motor 1.0/1.6 e presença de ar condicionado.",
+      "Base técnica expandida por família de alto giro. Conferir peça antiga, código e versão antes de finalizar a venda."
+    ],
+    "confiancaBase": 78,
+    "lampadas": {}
+  },
+  {
+    "id": "carter-fiesta-2003-2007",
+    "pecas": [
+      "CARTER",
+      "CÁRTER"
+    ],
+    "marcas": [
+      "FORD"
+    ],
+    "modelos": [
+      "FIESTA"
+    ],
+    "anos": [
+      2003,
+      2004,
+      2005,
+      2006,
+      2007
+    ],
+    "lados": [
+      "N/D"
+    ],
+    "posicoes": [
+      "INFERIOR"
+    ],
+    "fabricantes": [],
+    "relacionadas": [
+      "JUNTA CARTER",
+      "OLEO MOTOR",
+      "PROTETOR DE CARTER"
+    ],
+    "observacoes": [
+      "Confirmar motor, material do cárter e presença de sensor/encaixes.",
+      "Fiesta pode variar por geração, motor e sistema de direção.",
+      "Base técnica expandida por família de alto giro. Conferir peça antiga, código e versão antes de finalizar a venda."
+    ],
+    "confiancaBase": 78,
+    "lampadas": {}
+  },
+  {
+    "id": "protetor-carter-classic-2003-2010",
+    "pecas": [
+      "PROTETOR DE CARTER",
+      "PROTETOR DE CÁRTER"
+    ],
+    "marcas": [
+      "CHEVROLET",
+      "GM"
+    ],
+    "modelos": [
+      "CLASSIC",
+      "CORSA CLASSIC"
+    ],
+    "anos": [
+      2003,
+      2004,
+      2005,
+      2006,
+      2007,
+      2008,
+      2009,
+      2010
+    ],
+    "lados": [
+      "N/D"
+    ],
+    "posicoes": [
+      "INFERIOR"
+    ],
+    "fabricantes": [],
+    "relacionadas": [
+      "CARTER",
+      "PARACHOQUE DIANTEIRO",
+      "AGREGADO"
+    ],
+    "observacoes": [
+      "Confirmar modelo, furação e se o veículo possui protetor original/adaptado.",
+      "Classic/Corsa Classic pode variar por motorização, ano e presença de ar condicionado.",
+      "Base técnica expandida por família de alto giro. Conferir peça antiga, código e versão antes de finalizar a venda."
+    ],
+    "confiancaBase": 78,
+    "lampadas": {}
+  },
+  {
+    "id": "protetor-carter-corsa-1994-2002",
+    "pecas": [
+      "PROTETOR DE CARTER",
+      "PROTETOR DE CÁRTER"
+    ],
+    "marcas": [
+      "CHEVROLET",
+      "GM"
+    ],
+    "modelos": [
+      "CORSA",
+      "CORSA WIND",
+      "CORSA SEDAN",
+      "CORSA PICKUP"
+    ],
+    "anos": [
+      1994,
+      1995,
+      1996,
+      1997,
+      1998,
+      1999,
+      2000,
+      2001,
+      2002
+    ],
+    "lados": [
+      "N/D"
+    ],
+    "posicoes": [
+      "INFERIOR"
+    ],
+    "fabricantes": [],
+    "relacionadas": [
+      "CARTER",
+      "PARACHOQUE DIANTEIRO",
+      "AGREGADO"
+    ],
+    "observacoes": [
+      "Confirmar modelo, furação e se o veículo possui protetor original/adaptado.",
+      "Corsa antigo possui variações por ano, carroceria e motorização.",
+      "Base técnica expandida por família de alto giro. Conferir peça antiga, código e versão antes de finalizar a venda."
+    ],
+    "confiancaBase": 78,
+    "lampadas": {}
+  },
+  {
+    "id": "protetor-carter-gol-g5-2009-2012",
+    "pecas": [
+      "PROTETOR DE CARTER",
+      "PROTETOR DE CÁRTER"
+    ],
+    "marcas": [
+      "VOLKSWAGEN",
+      "VW"
+    ],
+    "modelos": [
+      "GOL G5",
+      "GOL",
+      "VOYAGE G5",
+      "VOYAGE"
+    ],
+    "anos": [
+      2009,
+      2010,
+      2011,
+      2012
+    ],
+    "lados": [
+      "N/D"
+    ],
+    "posicoes": [
+      "INFERIOR"
+    ],
+    "fabricantes": [],
+    "relacionadas": [
+      "CARTER",
+      "PARACHOQUE DIANTEIRO",
+      "AGREGADO"
+    ],
+    "observacoes": [
+      "Confirmar modelo, furação e se o veículo possui protetor original/adaptado.",
+      "Gol/Voyage G5 pode variar por motor, câmbio, direção hidráulica/elétrica e presença de ar condicionado.",
+      "Base técnica expandida por família de alto giro. Conferir peça antiga, código e versão antes de finalizar a venda."
+    ],
+    "confiancaBase": 78,
+    "lampadas": {}
+  },
+  {
+    "id": "protetor-carter-onix-2020-2023",
+    "pecas": [
+      "PROTETOR DE CARTER",
+      "PROTETOR DE CÁRTER"
+    ],
+    "marcas": [
+      "CHEVROLET",
+      "GM"
+    ],
+    "modelos": [
+      "ONIX",
+      "ONIX PLUS"
+    ],
+    "anos": [
+      2020,
+      2021,
+      2022,
+      2023
+    ],
+    "lados": [
+      "N/D"
+    ],
+    "posicoes": [
+      "INFERIOR"
+    ],
+    "fabricantes": [],
+    "relacionadas": [
+      "CARTER",
+      "PARACHOQUE DIANTEIRO",
+      "AGREGADO"
+    ],
+    "observacoes": [
+      "Confirmar modelo, furação e se o veículo possui protetor original/adaptado.",
+      "Onix/Onix Plus pode variar por versão, motor turbo/aspirado e itens eletrônicos.",
+      "Base técnica expandida por família de alto giro. Conferir peça antiga, código e versão antes de finalizar a venda."
+    ],
+    "confiancaBase": 78,
+    "lampadas": {}
+  },
+  {
+    "id": "protetor-carter-hb20-2012-2019",
+    "pecas": [
+      "PROTETOR DE CARTER",
+      "PROTETOR DE CÁRTER"
+    ],
+    "marcas": [
+      "HYUNDAI"
+    ],
+    "modelos": [
+      "HB20",
+      "HB20S"
+    ],
+    "anos": [
+      2012,
+      2013,
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2019
+    ],
+    "lados": [
+      "N/D"
+    ],
+    "posicoes": [
+      "INFERIOR"
+    ],
+    "fabricantes": [],
+    "relacionadas": [
+      "CARTER",
+      "PARACHOQUE DIANTEIRO",
+      "AGREGADO"
+    ],
+    "observacoes": [
+      "Confirmar modelo, furação e se o veículo possui protetor original/adaptado.",
+      "HB20/HB20S pode variar entre hatch/sedan, motor 1.0/1.6 e presença de ar condicionado.",
+      "Base técnica expandida por família de alto giro. Conferir peça antiga, código e versão antes de finalizar a venda."
+    ],
+    "confiancaBase": 78,
+    "lampadas": {}
+  },
+  {
+    "id": "protetor-carter-fiesta-2003-2007",
+    "pecas": [
+      "PROTETOR DE CARTER",
+      "PROTETOR DE CÁRTER"
+    ],
+    "marcas": [
+      "FORD"
+    ],
+    "modelos": [
+      "FIESTA"
+    ],
+    "anos": [
+      2003,
+      2004,
+      2005,
+      2006,
+      2007
+    ],
+    "lados": [
+      "N/D"
+    ],
+    "posicoes": [
+      "INFERIOR"
+    ],
+    "fabricantes": [],
+    "relacionadas": [
+      "CARTER",
+      "PARACHOQUE DIANTEIRO",
+      "AGREGADO"
+    ],
+    "observacoes": [
+      "Confirmar modelo, furação e se o veículo possui protetor original/adaptado.",
+      "Fiesta pode variar por geração, motor e sistema de direção.",
+      "Base técnica expandida por família de alto giro. Conferir peça antiga, código e versão antes de finalizar a venda."
+    ],
+    "confiancaBase": 78,
+    "lampadas": {}
+  },
+  {
+    "id": "amortecedor-classic-2003-2010",
+    "pecas": [
+      "AMORTECEDOR"
+    ],
+    "marcas": [
+      "CHEVROLET",
+      "GM"
+    ],
+    "modelos": [
+      "CLASSIC",
+      "CORSA CLASSIC"
+    ],
+    "anos": [
+      2003,
+      2004,
+      2005,
+      2006,
+      2007,
+      2008,
+      2009,
+      2010
+    ],
+    "lados": [
+      "DIREITO",
+      "ESQUERDO"
+    ],
+    "posicoes": [
+      "DIANTEIRO",
+      "TRASEIRO"
+    ],
+    "fabricantes": [],
+    "relacionadas": [
+      "COXIM AMORTECEDOR",
+      "BATENTE",
+      "COIFA",
+      "MOLA",
+      "BANDEJA"
+    ],
+    "observacoes": [
+      "Confirmar posição dianteira/traseira, lado quando aplicável e tipo de suspensão.",
+      "Classic/Corsa Classic pode variar por motorização, ano e presença de ar condicionado.",
+      "Base técnica expandida por família de alto giro. Conferir peça antiga, código e versão antes de finalizar a venda."
+    ],
+    "confiancaBase": 78,
+    "lampadas": {}
+  },
+  {
+    "id": "amortecedor-corsa-1994-2002",
+    "pecas": [
+      "AMORTECEDOR"
+    ],
+    "marcas": [
+      "CHEVROLET",
+      "GM"
+    ],
+    "modelos": [
+      "CORSA",
+      "CORSA WIND",
+      "CORSA SEDAN",
+      "CORSA PICKUP"
+    ],
+    "anos": [
+      1994,
+      1995,
+      1996,
+      1997,
+      1998,
+      1999,
+      2000,
+      2001,
+      2002
+    ],
+    "lados": [
+      "DIREITO",
+      "ESQUERDO"
+    ],
+    "posicoes": [
+      "DIANTEIRO",
+      "TRASEIRO"
+    ],
+    "fabricantes": [],
+    "relacionadas": [
+      "COXIM AMORTECEDOR",
+      "BATENTE",
+      "COIFA",
+      "MOLA",
+      "BANDEJA"
+    ],
+    "observacoes": [
+      "Confirmar posição dianteira/traseira, lado quando aplicável e tipo de suspensão.",
+      "Corsa antigo possui variações por ano, carroceria e motorização.",
+      "Base técnica expandida por família de alto giro. Conferir peça antiga, código e versão antes de finalizar a venda."
+    ],
+    "confiancaBase": 78,
+    "lampadas": {}
+  },
+  {
+    "id": "amortecedor-gol-g5-2009-2012",
+    "pecas": [
+      "AMORTECEDOR"
+    ],
+    "marcas": [
+      "VOLKSWAGEN",
+      "VW"
+    ],
+    "modelos": [
+      "GOL G5",
+      "GOL",
+      "VOYAGE G5",
+      "VOYAGE"
+    ],
+    "anos": [
+      2009,
+      2010,
+      2011,
+      2012
+    ],
+    "lados": [
+      "DIREITO",
+      "ESQUERDO"
+    ],
+    "posicoes": [
+      "DIANTEIRO",
+      "TRASEIRO"
+    ],
+    "fabricantes": [],
+    "relacionadas": [
+      "COXIM AMORTECEDOR",
+      "BATENTE",
+      "COIFA",
+      "MOLA",
+      "BANDEJA"
+    ],
+    "observacoes": [
+      "Confirmar posição dianteira/traseira, lado quando aplicável e tipo de suspensão.",
+      "Gol/Voyage G5 pode variar por motor, câmbio, direção hidráulica/elétrica e presença de ar condicionado.",
+      "Base técnica expandida por família de alto giro. Conferir peça antiga, código e versão antes de finalizar a venda."
+    ],
+    "confiancaBase": 78,
+    "lampadas": {}
+  },
+  {
+    "id": "amortecedor-onix-2020-2023",
+    "pecas": [
+      "AMORTECEDOR"
+    ],
+    "marcas": [
+      "CHEVROLET",
+      "GM"
+    ],
+    "modelos": [
+      "ONIX",
+      "ONIX PLUS"
+    ],
+    "anos": [
+      2020,
+      2021,
+      2022,
+      2023
+    ],
+    "lados": [
+      "DIREITO",
+      "ESQUERDO"
+    ],
+    "posicoes": [
+      "DIANTEIRO",
+      "TRASEIRO"
+    ],
+    "fabricantes": [],
+    "relacionadas": [
+      "COXIM AMORTECEDOR",
+      "BATENTE",
+      "COIFA",
+      "MOLA",
+      "BANDEJA"
+    ],
+    "observacoes": [
+      "Confirmar posição dianteira/traseira, lado quando aplicável e tipo de suspensão.",
+      "Onix/Onix Plus pode variar por versão, motor turbo/aspirado e itens eletrônicos.",
+      "Base técnica expandida por família de alto giro. Conferir peça antiga, código e versão antes de finalizar a venda."
+    ],
+    "confiancaBase": 78,
+    "lampadas": {}
+  },
+  {
+    "id": "amortecedor-hb20-2012-2019",
+    "pecas": [
+      "AMORTECEDOR"
+    ],
+    "marcas": [
+      "HYUNDAI"
+    ],
+    "modelos": [
+      "HB20",
+      "HB20S"
+    ],
+    "anos": [
+      2012,
+      2013,
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2019
+    ],
+    "lados": [
+      "DIREITO",
+      "ESQUERDO"
+    ],
+    "posicoes": [
+      "DIANTEIRO",
+      "TRASEIRO"
+    ],
+    "fabricantes": [],
+    "relacionadas": [
+      "COXIM AMORTECEDOR",
+      "BATENTE",
+      "COIFA",
+      "MOLA",
+      "BANDEJA"
+    ],
+    "observacoes": [
+      "Confirmar posição dianteira/traseira, lado quando aplicável e tipo de suspensão.",
+      "HB20/HB20S pode variar entre hatch/sedan, motor 1.0/1.6 e presença de ar condicionado.",
+      "Base técnica expandida por família de alto giro. Conferir peça antiga, código e versão antes de finalizar a venda."
+    ],
+    "confiancaBase": 78,
+    "lampadas": {}
+  },
+  {
+    "id": "amortecedor-fiesta-2003-2007",
+    "pecas": [
+      "AMORTECEDOR"
+    ],
+    "marcas": [
+      "FORD"
+    ],
+    "modelos": [
+      "FIESTA"
+    ],
+    "anos": [
+      2003,
+      2004,
+      2005,
+      2006,
+      2007
+    ],
+    "lados": [
+      "DIREITO",
+      "ESQUERDO"
+    ],
+    "posicoes": [
+      "DIANTEIRO",
+      "TRASEIRO"
+    ],
+    "fabricantes": [],
+    "relacionadas": [
+      "COXIM AMORTECEDOR",
+      "BATENTE",
+      "COIFA",
+      "MOLA",
+      "BANDEJA"
+    ],
+    "observacoes": [
+      "Confirmar posição dianteira/traseira, lado quando aplicável e tipo de suspensão.",
+      "Fiesta pode variar por geração, motor e sistema de direção.",
+      "Base técnica expandida por família de alto giro. Conferir peça antiga, código e versão antes de finalizar a venda."
+    ],
+    "confiancaBase": 78,
+    "lampadas": {}
+  },
+  {
+    "id": "bandeja-classic-2003-2010",
+    "pecas": [
+      "BANDEJA",
+      "BANDEJA SUSPENSAO",
+      "BANDEJA SUSPENSÃO"
+    ],
+    "marcas": [
+      "CHEVROLET",
+      "GM"
+    ],
+    "modelos": [
+      "CLASSIC",
+      "CORSA CLASSIC"
+    ],
+    "anos": [
+      2003,
+      2004,
+      2005,
+      2006,
+      2007,
+      2008,
+      2009,
+      2010
+    ],
+    "lados": [
+      "DIREITO",
+      "ESQUERDO"
+    ],
+    "posicoes": [
+      "DIANTEIRO"
+    ],
+    "fabricantes": [],
+    "relacionadas": [
+      "PIVO",
+      "BUCHA BANDEJA",
+      "BIELETA",
+      "AMORTECEDOR"
+    ],
+    "observacoes": [
+      "Confirmar lado e se acompanha pivô/buchas.",
+      "Classic/Corsa Classic pode variar por motorização, ano e presença de ar condicionado.",
+      "Base técnica expandida por família de alto giro. Conferir peça antiga, código e versão antes de finalizar a venda."
+    ],
+    "confiancaBase": 78,
+    "lampadas": {}
+  },
+  {
+    "id": "bandeja-corsa-1994-2002",
+    "pecas": [
+      "BANDEJA",
+      "BANDEJA SUSPENSAO",
+      "BANDEJA SUSPENSÃO"
+    ],
+    "marcas": [
+      "CHEVROLET",
+      "GM"
+    ],
+    "modelos": [
+      "CORSA",
+      "CORSA WIND",
+      "CORSA SEDAN",
+      "CORSA PICKUP"
+    ],
+    "anos": [
+      1994,
+      1995,
+      1996,
+      1997,
+      1998,
+      1999,
+      2000,
+      2001,
+      2002
+    ],
+    "lados": [
+      "DIREITO",
+      "ESQUERDO"
+    ],
+    "posicoes": [
+      "DIANTEIRO"
+    ],
+    "fabricantes": [],
+    "relacionadas": [
+      "PIVO",
+      "BUCHA BANDEJA",
+      "BIELETA",
+      "AMORTECEDOR"
+    ],
+    "observacoes": [
+      "Confirmar lado e se acompanha pivô/buchas.",
+      "Corsa antigo possui variações por ano, carroceria e motorização.",
+      "Base técnica expandida por família de alto giro. Conferir peça antiga, código e versão antes de finalizar a venda."
+    ],
+    "confiancaBase": 78,
+    "lampadas": {}
+  },
+  {
+    "id": "bandeja-gol-g5-2009-2012",
+    "pecas": [
+      "BANDEJA",
+      "BANDEJA SUSPENSAO",
+      "BANDEJA SUSPENSÃO"
+    ],
+    "marcas": [
+      "VOLKSWAGEN",
+      "VW"
+    ],
+    "modelos": [
+      "GOL G5",
+      "GOL",
+      "VOYAGE G5",
+      "VOYAGE"
+    ],
+    "anos": [
+      2009,
+      2010,
+      2011,
+      2012
+    ],
+    "lados": [
+      "DIREITO",
+      "ESQUERDO"
+    ],
+    "posicoes": [
+      "DIANTEIRO"
+    ],
+    "fabricantes": [],
+    "relacionadas": [
+      "PIVO",
+      "BUCHA BANDEJA",
+      "BIELETA",
+      "AMORTECEDOR"
+    ],
+    "observacoes": [
+      "Confirmar lado e se acompanha pivô/buchas.",
+      "Gol/Voyage G5 pode variar por motor, câmbio, direção hidráulica/elétrica e presença de ar condicionado.",
+      "Base técnica expandida por família de alto giro. Conferir peça antiga, código e versão antes de finalizar a venda."
+    ],
+    "confiancaBase": 78,
+    "lampadas": {}
+  },
+  {
+    "id": "bandeja-onix-2020-2023",
+    "pecas": [
+      "BANDEJA",
+      "BANDEJA SUSPENSAO",
+      "BANDEJA SUSPENSÃO"
+    ],
+    "marcas": [
+      "CHEVROLET",
+      "GM"
+    ],
+    "modelos": [
+      "ONIX",
+      "ONIX PLUS"
+    ],
+    "anos": [
+      2020,
+      2021,
+      2022,
+      2023
+    ],
+    "lados": [
+      "DIREITO",
+      "ESQUERDO"
+    ],
+    "posicoes": [
+      "DIANTEIRO"
+    ],
+    "fabricantes": [],
+    "relacionadas": [
+      "PIVO",
+      "BUCHA BANDEJA",
+      "BIELETA",
+      "AMORTECEDOR"
+    ],
+    "observacoes": [
+      "Confirmar lado e se acompanha pivô/buchas.",
+      "Onix/Onix Plus pode variar por versão, motor turbo/aspirado e itens eletrônicos.",
+      "Base técnica expandida por família de alto giro. Conferir peça antiga, código e versão antes de finalizar a venda."
+    ],
+    "confiancaBase": 78,
+    "lampadas": {}
+  },
+  {
+    "id": "bandeja-hb20-2012-2019",
+    "pecas": [
+      "BANDEJA",
+      "BANDEJA SUSPENSAO",
+      "BANDEJA SUSPENSÃO"
+    ],
+    "marcas": [
+      "HYUNDAI"
+    ],
+    "modelos": [
+      "HB20",
+      "HB20S"
+    ],
+    "anos": [
+      2012,
+      2013,
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2019
+    ],
+    "lados": [
+      "DIREITO",
+      "ESQUERDO"
+    ],
+    "posicoes": [
+      "DIANTEIRO"
+    ],
+    "fabricantes": [],
+    "relacionadas": [
+      "PIVO",
+      "BUCHA BANDEJA",
+      "BIELETA",
+      "AMORTECEDOR"
+    ],
+    "observacoes": [
+      "Confirmar lado e se acompanha pivô/buchas.",
+      "HB20/HB20S pode variar entre hatch/sedan, motor 1.0/1.6 e presença de ar condicionado.",
+      "Base técnica expandida por família de alto giro. Conferir peça antiga, código e versão antes de finalizar a venda."
+    ],
+    "confiancaBase": 78,
+    "lampadas": {}
+  },
+  {
+    "id": "bandeja-fiesta-2003-2007",
+    "pecas": [
+      "BANDEJA",
+      "BANDEJA SUSPENSAO",
+      "BANDEJA SUSPENSÃO"
+    ],
+    "marcas": [
+      "FORD"
+    ],
+    "modelos": [
+      "FIESTA"
+    ],
+    "anos": [
+      2003,
+      2004,
+      2005,
+      2006,
+      2007
+    ],
+    "lados": [
+      "DIREITO",
+      "ESQUERDO"
+    ],
+    "posicoes": [
+      "DIANTEIRO"
+    ],
+    "fabricantes": [],
+    "relacionadas": [
+      "PIVO",
+      "BUCHA BANDEJA",
+      "BIELETA",
+      "AMORTECEDOR"
+    ],
+    "observacoes": [
+      "Confirmar lado e se acompanha pivô/buchas.",
+      "Fiesta pode variar por geração, motor e sistema de direção.",
+      "Base técnica expandida por família de alto giro. Conferir peça antiga, código e versão antes de finalizar a venda."
+    ],
+    "confiancaBase": 78,
+    "lampadas": {}
+  },
+  {
+    "id": "bieleta-classic-2003-2010",
+    "pecas": [
+      "BIELETA"
+    ],
+    "marcas": [
+      "CHEVROLET",
+      "GM"
+    ],
+    "modelos": [
+      "CLASSIC",
+      "CORSA CLASSIC"
+    ],
+    "anos": [
+      2003,
+      2004,
+      2005,
+      2006,
+      2007,
+      2008,
+      2009,
+      2010
+    ],
+    "lados": [
+      "DIREITO",
+      "ESQUERDO"
+    ],
+    "posicoes": [
+      "DIANTEIRO",
+      "TRASEIRO"
+    ],
+    "fabricantes": [],
+    "relacionadas": [
+      "BARRA ESTABILIZADORA",
+      "AMORTECEDOR",
+      "BANDEJA"
+    ],
+    "observacoes": [
+      "Confirmar comprimento, lado e posição.",
+      "Classic/Corsa Classic pode variar por motorização, ano e presença de ar condicionado.",
+      "Base técnica expandida por família de alto giro. Conferir peça antiga, código e versão antes de finalizar a venda."
+    ],
+    "confiancaBase": 78,
+    "lampadas": {}
+  },
+  {
+    "id": "bieleta-corsa-1994-2002",
+    "pecas": [
+      "BIELETA"
+    ],
+    "marcas": [
+      "CHEVROLET",
+      "GM"
+    ],
+    "modelos": [
+      "CORSA",
+      "CORSA WIND",
+      "CORSA SEDAN",
+      "CORSA PICKUP"
+    ],
+    "anos": [
+      1994,
+      1995,
+      1996,
+      1997,
+      1998,
+      1999,
+      2000,
+      2001,
+      2002
+    ],
+    "lados": [
+      "DIREITO",
+      "ESQUERDO"
+    ],
+    "posicoes": [
+      "DIANTEIRO",
+      "TRASEIRO"
+    ],
+    "fabricantes": [],
+    "relacionadas": [
+      "BARRA ESTABILIZADORA",
+      "AMORTECEDOR",
+      "BANDEJA"
+    ],
+    "observacoes": [
+      "Confirmar comprimento, lado e posição.",
+      "Corsa antigo possui variações por ano, carroceria e motorização.",
+      "Base técnica expandida por família de alto giro. Conferir peça antiga, código e versão antes de finalizar a venda."
+    ],
+    "confiancaBase": 78,
+    "lampadas": {}
+  },
+  {
+    "id": "bieleta-gol-g5-2009-2012",
+    "pecas": [
+      "BIELETA"
+    ],
+    "marcas": [
+      "VOLKSWAGEN",
+      "VW"
+    ],
+    "modelos": [
+      "GOL G5",
+      "GOL",
+      "VOYAGE G5",
+      "VOYAGE"
+    ],
+    "anos": [
+      2009,
+      2010,
+      2011,
+      2012
+    ],
+    "lados": [
+      "DIREITO",
+      "ESQUERDO"
+    ],
+    "posicoes": [
+      "DIANTEIRO",
+      "TRASEIRO"
+    ],
+    "fabricantes": [],
+    "relacionadas": [
+      "BARRA ESTABILIZADORA",
+      "AMORTECEDOR",
+      "BANDEJA"
+    ],
+    "observacoes": [
+      "Confirmar comprimento, lado e posição.",
+      "Gol/Voyage G5 pode variar por motor, câmbio, direção hidráulica/elétrica e presença de ar condicionado.",
+      "Base técnica expandida por família de alto giro. Conferir peça antiga, código e versão antes de finalizar a venda."
+    ],
+    "confiancaBase": 78,
+    "lampadas": {}
+  },
+  {
+    "id": "bieleta-onix-2020-2023",
+    "pecas": [
+      "BIELETA"
+    ],
+    "marcas": [
+      "CHEVROLET",
+      "GM"
+    ],
+    "modelos": [
+      "ONIX",
+      "ONIX PLUS"
+    ],
+    "anos": [
+      2020,
+      2021,
+      2022,
+      2023
+    ],
+    "lados": [
+      "DIREITO",
+      "ESQUERDO"
+    ],
+    "posicoes": [
+      "DIANTEIRO",
+      "TRASEIRO"
+    ],
+    "fabricantes": [],
+    "relacionadas": [
+      "BARRA ESTABILIZADORA",
+      "AMORTECEDOR",
+      "BANDEJA"
+    ],
+    "observacoes": [
+      "Confirmar comprimento, lado e posição.",
+      "Onix/Onix Plus pode variar por versão, motor turbo/aspirado e itens eletrônicos.",
+      "Base técnica expandida por família de alto giro. Conferir peça antiga, código e versão antes de finalizar a venda."
+    ],
+    "confiancaBase": 78,
+    "lampadas": {}
+  },
+  {
+    "id": "bieleta-hb20-2012-2019",
+    "pecas": [
+      "BIELETA"
+    ],
+    "marcas": [
+      "HYUNDAI"
+    ],
+    "modelos": [
+      "HB20",
+      "HB20S"
+    ],
+    "anos": [
+      2012,
+      2013,
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2019
+    ],
+    "lados": [
+      "DIREITO",
+      "ESQUERDO"
+    ],
+    "posicoes": [
+      "DIANTEIRO",
+      "TRASEIRO"
+    ],
+    "fabricantes": [],
+    "relacionadas": [
+      "BARRA ESTABILIZADORA",
+      "AMORTECEDOR",
+      "BANDEJA"
+    ],
+    "observacoes": [
+      "Confirmar comprimento, lado e posição.",
+      "HB20/HB20S pode variar entre hatch/sedan, motor 1.0/1.6 e presença de ar condicionado.",
+      "Base técnica expandida por família de alto giro. Conferir peça antiga, código e versão antes de finalizar a venda."
+    ],
+    "confiancaBase": 78,
+    "lampadas": {}
+  },
+  {
+    "id": "bieleta-fiesta-2003-2007",
+    "pecas": [
+      "BIELETA"
+    ],
+    "marcas": [
+      "FORD"
+    ],
+    "modelos": [
+      "FIESTA"
+    ],
+    "anos": [
+      2003,
+      2004,
+      2005,
+      2006,
+      2007
+    ],
+    "lados": [
+      "DIREITO",
+      "ESQUERDO"
+    ],
+    "posicoes": [
+      "DIANTEIRO",
+      "TRASEIRO"
+    ],
+    "fabricantes": [],
+    "relacionadas": [
+      "BARRA ESTABILIZADORA",
+      "AMORTECEDOR",
+      "BANDEJA"
+    ],
+    "observacoes": [
+      "Confirmar comprimento, lado e posição.",
+      "Fiesta pode variar por geração, motor e sistema de direção.",
+      "Base técnica expandida por família de alto giro. Conferir peça antiga, código e versão antes de finalizar a venda."
+    ],
+    "confiancaBase": 78,
+    "lampadas": {}
+  },
+  {
+    "id": "pivo-classic-2003-2010",
+    "pecas": [
+      "PIVO",
+      "PIVÔ"
+    ],
+    "marcas": [
+      "CHEVROLET",
+      "GM"
+    ],
+    "modelos": [
+      "CLASSIC",
+      "CORSA CLASSIC"
+    ],
+    "anos": [
+      2003,
+      2004,
+      2005,
+      2006,
+      2007,
+      2008,
+      2009,
+      2010
+    ],
+    "lados": [
+      "DIREITO",
+      "ESQUERDO"
+    ],
+    "posicoes": [
+      "DIANTEIRO"
+    ],
+    "fabricantes": [],
+    "relacionadas": [
+      "BANDEJA",
+      "TERMINAL DIRECAO",
+      "AXIAL"
+    ],
+    "observacoes": [
+      "Confirmar se o pivô é separado ou integrado na bandeja.",
+      "Classic/Corsa Classic pode variar por motorização, ano e presença de ar condicionado.",
+      "Base técnica expandida por família de alto giro. Conferir peça antiga, código e versão antes de finalizar a venda."
+    ],
+    "confiancaBase": 78,
+    "lampadas": {}
+  },
+  {
+    "id": "pivo-corsa-1994-2002",
+    "pecas": [
+      "PIVO",
+      "PIVÔ"
+    ],
+    "marcas": [
+      "CHEVROLET",
+      "GM"
+    ],
+    "modelos": [
+      "CORSA",
+      "CORSA WIND",
+      "CORSA SEDAN",
+      "CORSA PICKUP"
+    ],
+    "anos": [
+      1994,
+      1995,
+      1996,
+      1997,
+      1998,
+      1999,
+      2000,
+      2001,
+      2002
+    ],
+    "lados": [
+      "DIREITO",
+      "ESQUERDO"
+    ],
+    "posicoes": [
+      "DIANTEIRO"
+    ],
+    "fabricantes": [],
+    "relacionadas": [
+      "BANDEJA",
+      "TERMINAL DIRECAO",
+      "AXIAL"
+    ],
+    "observacoes": [
+      "Confirmar se o pivô é separado ou integrado na bandeja.",
+      "Corsa antigo possui variações por ano, carroceria e motorização.",
+      "Base técnica expandida por família de alto giro. Conferir peça antiga, código e versão antes de finalizar a venda."
+    ],
+    "confiancaBase": 78,
+    "lampadas": {}
+  },
+  {
+    "id": "pivo-gol-g5-2009-2012",
+    "pecas": [
+      "PIVO",
+      "PIVÔ"
+    ],
+    "marcas": [
+      "VOLKSWAGEN",
+      "VW"
+    ],
+    "modelos": [
+      "GOL G5",
+      "GOL",
+      "VOYAGE G5",
+      "VOYAGE"
+    ],
+    "anos": [
+      2009,
+      2010,
+      2011,
+      2012
+    ],
+    "lados": [
+      "DIREITO",
+      "ESQUERDO"
+    ],
+    "posicoes": [
+      "DIANTEIRO"
+    ],
+    "fabricantes": [],
+    "relacionadas": [
+      "BANDEJA",
+      "TERMINAL DIRECAO",
+      "AXIAL"
+    ],
+    "observacoes": [
+      "Confirmar se o pivô é separado ou integrado na bandeja.",
+      "Gol/Voyage G5 pode variar por motor, câmbio, direção hidráulica/elétrica e presença de ar condicionado.",
+      "Base técnica expandida por família de alto giro. Conferir peça antiga, código e versão antes de finalizar a venda."
+    ],
+    "confiancaBase": 78,
+    "lampadas": {}
+  },
+  {
+    "id": "pivo-onix-2020-2023",
+    "pecas": [
+      "PIVO",
+      "PIVÔ"
+    ],
+    "marcas": [
+      "CHEVROLET",
+      "GM"
+    ],
+    "modelos": [
+      "ONIX",
+      "ONIX PLUS"
+    ],
+    "anos": [
+      2020,
+      2021,
+      2022,
+      2023
+    ],
+    "lados": [
+      "DIREITO",
+      "ESQUERDO"
+    ],
+    "posicoes": [
+      "DIANTEIRO"
+    ],
+    "fabricantes": [],
+    "relacionadas": [
+      "BANDEJA",
+      "TERMINAL DIRECAO",
+      "AXIAL"
+    ],
+    "observacoes": [
+      "Confirmar se o pivô é separado ou integrado na bandeja.",
+      "Onix/Onix Plus pode variar por versão, motor turbo/aspirado e itens eletrônicos.",
+      "Base técnica expandida por família de alto giro. Conferir peça antiga, código e versão antes de finalizar a venda."
+    ],
+    "confiancaBase": 78,
+    "lampadas": {}
+  },
+  {
+    "id": "pivo-hb20-2012-2019",
+    "pecas": [
+      "PIVO",
+      "PIVÔ"
+    ],
+    "marcas": [
+      "HYUNDAI"
+    ],
+    "modelos": [
+      "HB20",
+      "HB20S"
+    ],
+    "anos": [
+      2012,
+      2013,
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2019
+    ],
+    "lados": [
+      "DIREITO",
+      "ESQUERDO"
+    ],
+    "posicoes": [
+      "DIANTEIRO"
+    ],
+    "fabricantes": [],
+    "relacionadas": [
+      "BANDEJA",
+      "TERMINAL DIRECAO",
+      "AXIAL"
+    ],
+    "observacoes": [
+      "Confirmar se o pivô é separado ou integrado na bandeja.",
+      "HB20/HB20S pode variar entre hatch/sedan, motor 1.0/1.6 e presença de ar condicionado.",
+      "Base técnica expandida por família de alto giro. Conferir peça antiga, código e versão antes de finalizar a venda."
+    ],
+    "confiancaBase": 78,
+    "lampadas": {}
+  },
+  {
+    "id": "pivo-fiesta-2003-2007",
+    "pecas": [
+      "PIVO",
+      "PIVÔ"
+    ],
+    "marcas": [
+      "FORD"
+    ],
+    "modelos": [
+      "FIESTA"
+    ],
+    "anos": [
+      2003,
+      2004,
+      2005,
+      2006,
+      2007
+    ],
+    "lados": [
+      "DIREITO",
+      "ESQUERDO"
+    ],
+    "posicoes": [
+      "DIANTEIRO"
+    ],
+    "fabricantes": [],
+    "relacionadas": [
+      "BANDEJA",
+      "TERMINAL DIRECAO",
+      "AXIAL"
+    ],
+    "observacoes": [
+      "Confirmar se o pivô é separado ou integrado na bandeja.",
+      "Fiesta pode variar por geração, motor e sistema de direção.",
+      "Base técnica expandida por família de alto giro. Conferir peça antiga, código e versão antes de finalizar a venda."
+    ],
+    "confiancaBase": 78,
+    "lampadas": {}
+  },
+  {
+    "id": "terminal-direcao-classic-2003-2010",
+    "pecas": [
+      "TERMINAL DIRECAO",
+      "TERMINAL DIREÇÃO"
+    ],
+    "marcas": [
+      "CHEVROLET",
+      "GM"
+    ],
+    "modelos": [
+      "CLASSIC",
+      "CORSA CLASSIC"
+    ],
+    "anos": [
+      2003,
+      2004,
+      2005,
+      2006,
+      2007,
+      2008,
+      2009,
+      2010
+    ],
+    "lados": [
+      "DIREITO",
+      "ESQUERDO"
+    ],
+    "posicoes": [
+      "DIANTEIRO"
+    ],
+    "fabricantes": [],
+    "relacionadas": [
+      "AXIAL",
+      "CAIXA DIRECAO",
+      "PIVO"
+    ],
+    "observacoes": [
+      "Confirmar lado, rosca e sistema de direção.",
+      "Classic/Corsa Classic pode variar por motorização, ano e presença de ar condicionado.",
+      "Base técnica expandida por família de alto giro. Conferir peça antiga, código e versão antes de finalizar a venda."
+    ],
+    "confiancaBase": 78,
+    "lampadas": {}
+  },
+  {
+    "id": "terminal-direcao-corsa-1994-2002",
+    "pecas": [
+      "TERMINAL DIRECAO",
+      "TERMINAL DIREÇÃO"
+    ],
+    "marcas": [
+      "CHEVROLET",
+      "GM"
+    ],
+    "modelos": [
+      "CORSA",
+      "CORSA WIND",
+      "CORSA SEDAN",
+      "CORSA PICKUP"
+    ],
+    "anos": [
+      1994,
+      1995,
+      1996,
+      1997,
+      1998,
+      1999,
+      2000,
+      2001,
+      2002
+    ],
+    "lados": [
+      "DIREITO",
+      "ESQUERDO"
+    ],
+    "posicoes": [
+      "DIANTEIRO"
+    ],
+    "fabricantes": [],
+    "relacionadas": [
+      "AXIAL",
+      "CAIXA DIRECAO",
+      "PIVO"
+    ],
+    "observacoes": [
+      "Confirmar lado, rosca e sistema de direção.",
+      "Corsa antigo possui variações por ano, carroceria e motorização.",
+      "Base técnica expandida por família de alto giro. Conferir peça antiga, código e versão antes de finalizar a venda."
+    ],
+    "confiancaBase": 78,
+    "lampadas": {}
+  },
+  {
+    "id": "terminal-direcao-gol-g5-2009-2012",
+    "pecas": [
+      "TERMINAL DIRECAO",
+      "TERMINAL DIREÇÃO"
+    ],
+    "marcas": [
+      "VOLKSWAGEN",
+      "VW"
+    ],
+    "modelos": [
+      "GOL G5",
+      "GOL",
+      "VOYAGE G5",
+      "VOYAGE"
+    ],
+    "anos": [
+      2009,
+      2010,
+      2011,
+      2012
+    ],
+    "lados": [
+      "DIREITO",
+      "ESQUERDO"
+    ],
+    "posicoes": [
+      "DIANTEIRO"
+    ],
+    "fabricantes": [],
+    "relacionadas": [
+      "AXIAL",
+      "CAIXA DIRECAO",
+      "PIVO"
+    ],
+    "observacoes": [
+      "Confirmar lado, rosca e sistema de direção.",
+      "Gol/Voyage G5 pode variar por motor, câmbio, direção hidráulica/elétrica e presença de ar condicionado.",
+      "Base técnica expandida por família de alto giro. Conferir peça antiga, código e versão antes de finalizar a venda."
+    ],
+    "confiancaBase": 78,
+    "lampadas": {}
+  },
+  {
+    "id": "terminal-direcao-onix-2020-2023",
+    "pecas": [
+      "TERMINAL DIRECAO",
+      "TERMINAL DIREÇÃO"
+    ],
+    "marcas": [
+      "CHEVROLET",
+      "GM"
+    ],
+    "modelos": [
+      "ONIX",
+      "ONIX PLUS"
+    ],
+    "anos": [
+      2020,
+      2021,
+      2022,
+      2023
+    ],
+    "lados": [
+      "DIREITO",
+      "ESQUERDO"
+    ],
+    "posicoes": [
+      "DIANTEIRO"
+    ],
+    "fabricantes": [],
+    "relacionadas": [
+      "AXIAL",
+      "CAIXA DIRECAO",
+      "PIVO"
+    ],
+    "observacoes": [
+      "Confirmar lado, rosca e sistema de direção.",
+      "Onix/Onix Plus pode variar por versão, motor turbo/aspirado e itens eletrônicos.",
+      "Base técnica expandida por família de alto giro. Conferir peça antiga, código e versão antes de finalizar a venda."
+    ],
+    "confiancaBase": 78,
+    "lampadas": {}
+  },
+  {
+    "id": "terminal-direcao-hb20-2012-2019",
+    "pecas": [
+      "TERMINAL DIRECAO",
+      "TERMINAL DIREÇÃO"
+    ],
+    "marcas": [
+      "HYUNDAI"
+    ],
+    "modelos": [
+      "HB20",
+      "HB20S"
+    ],
+    "anos": [
+      2012,
+      2013,
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2019
+    ],
+    "lados": [
+      "DIREITO",
+      "ESQUERDO"
+    ],
+    "posicoes": [
+      "DIANTEIRO"
+    ],
+    "fabricantes": [],
+    "relacionadas": [
+      "AXIAL",
+      "CAIXA DIRECAO",
+      "PIVO"
+    ],
+    "observacoes": [
+      "Confirmar lado, rosca e sistema de direção.",
+      "HB20/HB20S pode variar entre hatch/sedan, motor 1.0/1.6 e presença de ar condicionado.",
+      "Base técnica expandida por família de alto giro. Conferir peça antiga, código e versão antes de finalizar a venda."
+    ],
+    "confiancaBase": 78,
+    "lampadas": {}
+  },
+  {
+    "id": "terminal-direcao-fiesta-2003-2007",
+    "pecas": [
+      "TERMINAL DIRECAO",
+      "TERMINAL DIREÇÃO"
+    ],
+    "marcas": [
+      "FORD"
+    ],
+    "modelos": [
+      "FIESTA"
+    ],
+    "anos": [
+      2003,
+      2004,
+      2005,
+      2006,
+      2007
+    ],
+    "lados": [
+      "DIREITO",
+      "ESQUERDO"
+    ],
+    "posicoes": [
+      "DIANTEIRO"
+    ],
+    "fabricantes": [],
+    "relacionadas": [
+      "AXIAL",
+      "CAIXA DIRECAO",
+      "PIVO"
+    ],
+    "observacoes": [
+      "Confirmar lado, rosca e sistema de direção.",
+      "Fiesta pode variar por geração, motor e sistema de direção.",
+      "Base técnica expandida por família de alto giro. Conferir peça antiga, código e versão antes de finalizar a venda."
+    ],
+    "confiancaBase": 78,
+    "lampadas": {}
+  },
+  {
+    "id": "axial-classic-2003-2010",
+    "pecas": [
+      "AXIAL",
+      "BARRA AXIAL"
+    ],
+    "marcas": [
+      "CHEVROLET",
+      "GM"
+    ],
+    "modelos": [
+      "CLASSIC",
+      "CORSA CLASSIC"
+    ],
+    "anos": [
+      2003,
+      2004,
+      2005,
+      2006,
+      2007,
+      2008,
+      2009,
+      2010
+    ],
+    "lados": [
+      "DIREITO",
+      "ESQUERDO"
+    ],
+    "posicoes": [
+      "DIANTEIRO"
+    ],
+    "fabricantes": [],
+    "relacionadas": [
+      "TERMINAL DIRECAO",
+      "CAIXA DIRECAO",
+      "COIFA DIRECAO"
+    ],
+    "observacoes": [
+      "Confirmar sistema de direção e medida da rosca.",
+      "Classic/Corsa Classic pode variar por motorização, ano e presença de ar condicionado.",
+      "Base técnica expandida por família de alto giro. Conferir peça antiga, código e versão antes de finalizar a venda."
+    ],
+    "confiancaBase": 78,
+    "lampadas": {}
+  },
+  {
+    "id": "axial-corsa-1994-2002",
+    "pecas": [
+      "AXIAL",
+      "BARRA AXIAL"
+    ],
+    "marcas": [
+      "CHEVROLET",
+      "GM"
+    ],
+    "modelos": [
+      "CORSA",
+      "CORSA WIND",
+      "CORSA SEDAN",
+      "CORSA PICKUP"
+    ],
+    "anos": [
+      1994,
+      1995,
+      1996,
+      1997,
+      1998,
+      1999,
+      2000,
+      2001,
+      2002
+    ],
+    "lados": [
+      "DIREITO",
+      "ESQUERDO"
+    ],
+    "posicoes": [
+      "DIANTEIRO"
+    ],
+    "fabricantes": [],
+    "relacionadas": [
+      "TERMINAL DIRECAO",
+      "CAIXA DIRECAO",
+      "COIFA DIRECAO"
+    ],
+    "observacoes": [
+      "Confirmar sistema de direção e medida da rosca.",
+      "Corsa antigo possui variações por ano, carroceria e motorização.",
+      "Base técnica expandida por família de alto giro. Conferir peça antiga, código e versão antes de finalizar a venda."
+    ],
+    "confiancaBase": 78,
+    "lampadas": {}
+  },
+  {
+    "id": "axial-gol-g5-2009-2012",
+    "pecas": [
+      "AXIAL",
+      "BARRA AXIAL"
+    ],
+    "marcas": [
+      "VOLKSWAGEN",
+      "VW"
+    ],
+    "modelos": [
+      "GOL G5",
+      "GOL",
+      "VOYAGE G5",
+      "VOYAGE"
+    ],
+    "anos": [
+      2009,
+      2010,
+      2011,
+      2012
+    ],
+    "lados": [
+      "DIREITO",
+      "ESQUERDO"
+    ],
+    "posicoes": [
+      "DIANTEIRO"
+    ],
+    "fabricantes": [],
+    "relacionadas": [
+      "TERMINAL DIRECAO",
+      "CAIXA DIRECAO",
+      "COIFA DIRECAO"
+    ],
+    "observacoes": [
+      "Confirmar sistema de direção e medida da rosca.",
+      "Gol/Voyage G5 pode variar por motor, câmbio, direção hidráulica/elétrica e presença de ar condicionado.",
+      "Base técnica expandida por família de alto giro. Conferir peça antiga, código e versão antes de finalizar a venda."
+    ],
+    "confiancaBase": 78,
+    "lampadas": {}
+  },
+  {
+    "id": "axial-onix-2020-2023",
+    "pecas": [
+      "AXIAL",
+      "BARRA AXIAL"
+    ],
+    "marcas": [
+      "CHEVROLET",
+      "GM"
+    ],
+    "modelos": [
+      "ONIX",
+      "ONIX PLUS"
+    ],
+    "anos": [
+      2020,
+      2021,
+      2022,
+      2023
+    ],
+    "lados": [
+      "DIREITO",
+      "ESQUERDO"
+    ],
+    "posicoes": [
+      "DIANTEIRO"
+    ],
+    "fabricantes": [],
+    "relacionadas": [
+      "TERMINAL DIRECAO",
+      "CAIXA DIRECAO",
+      "COIFA DIRECAO"
+    ],
+    "observacoes": [
+      "Confirmar sistema de direção e medida da rosca.",
+      "Onix/Onix Plus pode variar por versão, motor turbo/aspirado e itens eletrônicos.",
+      "Base técnica expandida por família de alto giro. Conferir peça antiga, código e versão antes de finalizar a venda."
+    ],
+    "confiancaBase": 78,
+    "lampadas": {}
+  },
+  {
+    "id": "axial-hb20-2012-2019",
+    "pecas": [
+      "AXIAL",
+      "BARRA AXIAL"
+    ],
+    "marcas": [
+      "HYUNDAI"
+    ],
+    "modelos": [
+      "HB20",
+      "HB20S"
+    ],
+    "anos": [
+      2012,
+      2013,
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2019
+    ],
+    "lados": [
+      "DIREITO",
+      "ESQUERDO"
+    ],
+    "posicoes": [
+      "DIANTEIRO"
+    ],
+    "fabricantes": [],
+    "relacionadas": [
+      "TERMINAL DIRECAO",
+      "CAIXA DIRECAO",
+      "COIFA DIRECAO"
+    ],
+    "observacoes": [
+      "Confirmar sistema de direção e medida da rosca.",
+      "HB20/HB20S pode variar entre hatch/sedan, motor 1.0/1.6 e presença de ar condicionado.",
+      "Base técnica expandida por família de alto giro. Conferir peça antiga, código e versão antes de finalizar a venda."
+    ],
+    "confiancaBase": 78,
+    "lampadas": {}
+  },
+  {
+    "id": "axial-fiesta-2003-2007",
+    "pecas": [
+      "AXIAL",
+      "BARRA AXIAL"
+    ],
+    "marcas": [
+      "FORD"
+    ],
+    "modelos": [
+      "FIESTA"
+    ],
+    "anos": [
+      2003,
+      2004,
+      2005,
+      2006,
+      2007
+    ],
+    "lados": [
+      "DIREITO",
+      "ESQUERDO"
+    ],
+    "posicoes": [
+      "DIANTEIRO"
+    ],
+    "fabricantes": [],
+    "relacionadas": [
+      "TERMINAL DIRECAO",
+      "CAIXA DIRECAO",
+      "COIFA DIRECAO"
+    ],
+    "observacoes": [
+      "Confirmar sistema de direção e medida da rosca.",
+      "Fiesta pode variar por geração, motor e sistema de direção.",
+      "Base técnica expandida por família de alto giro. Conferir peça antiga, código e versão antes de finalizar a venda."
+    ],
+    "confiancaBase": 78,
+    "lampadas": {}
+  },
+  {
+    "id": "cubo-classic-2003-2010",
+    "pecas": [
+      "CUBO",
+      "CUBO RODA"
+    ],
+    "marcas": [
+      "CHEVROLET",
+      "GM"
+    ],
+    "modelos": [
+      "CLASSIC",
+      "CORSA CLASSIC"
+    ],
+    "anos": [
+      2003,
+      2004,
+      2005,
+      2006,
+      2007,
+      2008,
+      2009,
+      2010
+    ],
+    "lados": [
+      "DIREITO",
+      "ESQUERDO"
+    ],
+    "posicoes": [
+      "DIANTEIRO",
+      "TRASEIRO"
+    ],
+    "fabricantes": [],
+    "relacionadas": [
+      "ROLAMENTO",
+      "DISCO FREIO",
+      "TAMBOR"
+    ],
+    "observacoes": [
+      "Confirmar posição, presença de ABS e quantidade de furos.",
+      "Classic/Corsa Classic pode variar por motorização, ano e presença de ar condicionado.",
+      "Base técnica expandida por família de alto giro. Conferir peça antiga, código e versão antes de finalizar a venda."
+    ],
+    "confiancaBase": 78,
+    "lampadas": {}
+  },
+  {
+    "id": "cubo-corsa-1994-2002",
+    "pecas": [
+      "CUBO",
+      "CUBO RODA"
+    ],
+    "marcas": [
+      "CHEVROLET",
+      "GM"
+    ],
+    "modelos": [
+      "CORSA",
+      "CORSA WIND",
+      "CORSA SEDAN",
+      "CORSA PICKUP"
+    ],
+    "anos": [
+      1994,
+      1995,
+      1996,
+      1997,
+      1998,
+      1999,
+      2000,
+      2001,
+      2002
+    ],
+    "lados": [
+      "DIREITO",
+      "ESQUERDO"
+    ],
+    "posicoes": [
+      "DIANTEIRO",
+      "TRASEIRO"
+    ],
+    "fabricantes": [],
+    "relacionadas": [
+      "ROLAMENTO",
+      "DISCO FREIO",
+      "TAMBOR"
+    ],
+    "observacoes": [
+      "Confirmar posição, presença de ABS e quantidade de furos.",
+      "Corsa antigo possui variações por ano, carroceria e motorização.",
+      "Base técnica expandida por família de alto giro. Conferir peça antiga, código e versão antes de finalizar a venda."
+    ],
+    "confiancaBase": 78,
+    "lampadas": {}
+  },
+  {
+    "id": "cubo-gol-g5-2009-2012",
+    "pecas": [
+      "CUBO",
+      "CUBO RODA"
+    ],
+    "marcas": [
+      "VOLKSWAGEN",
+      "VW"
+    ],
+    "modelos": [
+      "GOL G5",
+      "GOL",
+      "VOYAGE G5",
+      "VOYAGE"
+    ],
+    "anos": [
+      2009,
+      2010,
+      2011,
+      2012
+    ],
+    "lados": [
+      "DIREITO",
+      "ESQUERDO"
+    ],
+    "posicoes": [
+      "DIANTEIRO",
+      "TRASEIRO"
+    ],
+    "fabricantes": [],
+    "relacionadas": [
+      "ROLAMENTO",
+      "DISCO FREIO",
+      "TAMBOR"
+    ],
+    "observacoes": [
+      "Confirmar posição, presença de ABS e quantidade de furos.",
+      "Gol/Voyage G5 pode variar por motor, câmbio, direção hidráulica/elétrica e presença de ar condicionado.",
+      "Base técnica expandida por família de alto giro. Conferir peça antiga, código e versão antes de finalizar a venda."
+    ],
+    "confiancaBase": 78,
+    "lampadas": {}
+  },
+  {
+    "id": "cubo-onix-2020-2023",
+    "pecas": [
+      "CUBO",
+      "CUBO RODA"
+    ],
+    "marcas": [
+      "CHEVROLET",
+      "GM"
+    ],
+    "modelos": [
+      "ONIX",
+      "ONIX PLUS"
+    ],
+    "anos": [
+      2020,
+      2021,
+      2022,
+      2023
+    ],
+    "lados": [
+      "DIREITO",
+      "ESQUERDO"
+    ],
+    "posicoes": [
+      "DIANTEIRO",
+      "TRASEIRO"
+    ],
+    "fabricantes": [],
+    "relacionadas": [
+      "ROLAMENTO",
+      "DISCO FREIO",
+      "TAMBOR"
+    ],
+    "observacoes": [
+      "Confirmar posição, presença de ABS e quantidade de furos.",
+      "Onix/Onix Plus pode variar por versão, motor turbo/aspirado e itens eletrônicos.",
+      "Base técnica expandida por família de alto giro. Conferir peça antiga, código e versão antes de finalizar a venda."
+    ],
+    "confiancaBase": 78,
+    "lampadas": {}
+  },
+  {
+    "id": "cubo-hb20-2012-2019",
+    "pecas": [
+      "CUBO",
+      "CUBO RODA"
+    ],
+    "marcas": [
+      "HYUNDAI"
+    ],
+    "modelos": [
+      "HB20",
+      "HB20S"
+    ],
+    "anos": [
+      2012,
+      2013,
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2019
+    ],
+    "lados": [
+      "DIREITO",
+      "ESQUERDO"
+    ],
+    "posicoes": [
+      "DIANTEIRO",
+      "TRASEIRO"
+    ],
+    "fabricantes": [],
+    "relacionadas": [
+      "ROLAMENTO",
+      "DISCO FREIO",
+      "TAMBOR"
+    ],
+    "observacoes": [
+      "Confirmar posição, presença de ABS e quantidade de furos.",
+      "HB20/HB20S pode variar entre hatch/sedan, motor 1.0/1.6 e presença de ar condicionado.",
+      "Base técnica expandida por família de alto giro. Conferir peça antiga, código e versão antes de finalizar a venda."
+    ],
+    "confiancaBase": 78,
+    "lampadas": {}
+  },
+  {
+    "id": "cubo-fiesta-2003-2007",
+    "pecas": [
+      "CUBO",
+      "CUBO RODA"
+    ],
+    "marcas": [
+      "FORD"
+    ],
+    "modelos": [
+      "FIESTA"
+    ],
+    "anos": [
+      2003,
+      2004,
+      2005,
+      2006,
+      2007
+    ],
+    "lados": [
+      "DIREITO",
+      "ESQUERDO"
+    ],
+    "posicoes": [
+      "DIANTEIRO",
+      "TRASEIRO"
+    ],
+    "fabricantes": [],
+    "relacionadas": [
+      "ROLAMENTO",
+      "DISCO FREIO",
+      "TAMBOR"
+    ],
+    "observacoes": [
+      "Confirmar posição, presença de ABS e quantidade de furos.",
+      "Fiesta pode variar por geração, motor e sistema de direção.",
+      "Base técnica expandida por família de alto giro. Conferir peça antiga, código e versão antes de finalizar a venda."
+    ],
+    "confiancaBase": 78,
+    "lampadas": {}
+  },
+  {
+    "id": "rolamento-classic-2003-2010",
+    "pecas": [
+      "ROLAMENTO",
+      "ROLAMENTO RODA"
+    ],
+    "marcas": [
+      "CHEVROLET",
+      "GM"
+    ],
+    "modelos": [
+      "CLASSIC",
+      "CORSA CLASSIC"
+    ],
+    "anos": [
+      2003,
+      2004,
+      2005,
+      2006,
+      2007,
+      2008,
+      2009,
+      2010
+    ],
+    "lados": [
+      "DIREITO",
+      "ESQUERDO"
+    ],
+    "posicoes": [
+      "DIANTEIRO",
+      "TRASEIRO"
+    ],
+    "fabricantes": [],
+    "relacionadas": [
+      "CUBO",
+      "RETENTOR",
+      "DISCO FREIO",
+      "TAMBOR"
+    ],
+    "observacoes": [
+      "Confirmar posição, medida e se possui sensor/anel ABS.",
+      "Classic/Corsa Classic pode variar por motorização, ano e presença de ar condicionado.",
+      "Base técnica expandida por família de alto giro. Conferir peça antiga, código e versão antes de finalizar a venda."
+    ],
+    "confiancaBase": 78,
+    "lampadas": {}
+  },
+  {
+    "id": "rolamento-corsa-1994-2002",
+    "pecas": [
+      "ROLAMENTO",
+      "ROLAMENTO RODA"
+    ],
+    "marcas": [
+      "CHEVROLET",
+      "GM"
+    ],
+    "modelos": [
+      "CORSA",
+      "CORSA WIND",
+      "CORSA SEDAN",
+      "CORSA PICKUP"
+    ],
+    "anos": [
+      1994,
+      1995,
+      1996,
+      1997,
+      1998,
+      1999,
+      2000,
+      2001,
+      2002
+    ],
+    "lados": [
+      "DIREITO",
+      "ESQUERDO"
+    ],
+    "posicoes": [
+      "DIANTEIRO",
+      "TRASEIRO"
+    ],
+    "fabricantes": [],
+    "relacionadas": [
+      "CUBO",
+      "RETENTOR",
+      "DISCO FREIO",
+      "TAMBOR"
+    ],
+    "observacoes": [
+      "Confirmar posição, medida e se possui sensor/anel ABS.",
+      "Corsa antigo possui variações por ano, carroceria e motorização.",
+      "Base técnica expandida por família de alto giro. Conferir peça antiga, código e versão antes de finalizar a venda."
+    ],
+    "confiancaBase": 78,
+    "lampadas": {}
+  },
+  {
+    "id": "rolamento-gol-g5-2009-2012",
+    "pecas": [
+      "ROLAMENTO",
+      "ROLAMENTO RODA"
+    ],
+    "marcas": [
+      "VOLKSWAGEN",
+      "VW"
+    ],
+    "modelos": [
+      "GOL G5",
+      "GOL",
+      "VOYAGE G5",
+      "VOYAGE"
+    ],
+    "anos": [
+      2009,
+      2010,
+      2011,
+      2012
+    ],
+    "lados": [
+      "DIREITO",
+      "ESQUERDO"
+    ],
+    "posicoes": [
+      "DIANTEIRO",
+      "TRASEIRO"
+    ],
+    "fabricantes": [],
+    "relacionadas": [
+      "CUBO",
+      "RETENTOR",
+      "DISCO FREIO",
+      "TAMBOR"
+    ],
+    "observacoes": [
+      "Confirmar posição, medida e se possui sensor/anel ABS.",
+      "Gol/Voyage G5 pode variar por motor, câmbio, direção hidráulica/elétrica e presença de ar condicionado.",
+      "Base técnica expandida por família de alto giro. Conferir peça antiga, código e versão antes de finalizar a venda."
+    ],
+    "confiancaBase": 78,
+    "lampadas": {}
+  },
+  {
+    "id": "rolamento-onix-2020-2023",
+    "pecas": [
+      "ROLAMENTO",
+      "ROLAMENTO RODA"
+    ],
+    "marcas": [
+      "CHEVROLET",
+      "GM"
+    ],
+    "modelos": [
+      "ONIX",
+      "ONIX PLUS"
+    ],
+    "anos": [
+      2020,
+      2021,
+      2022,
+      2023
+    ],
+    "lados": [
+      "DIREITO",
+      "ESQUERDO"
+    ],
+    "posicoes": [
+      "DIANTEIRO",
+      "TRASEIRO"
+    ],
+    "fabricantes": [],
+    "relacionadas": [
+      "CUBO",
+      "RETENTOR",
+      "DISCO FREIO",
+      "TAMBOR"
+    ],
+    "observacoes": [
+      "Confirmar posição, medida e se possui sensor/anel ABS.",
+      "Onix/Onix Plus pode variar por versão, motor turbo/aspirado e itens eletrônicos.",
+      "Base técnica expandida por família de alto giro. Conferir peça antiga, código e versão antes de finalizar a venda."
+    ],
+    "confiancaBase": 78,
+    "lampadas": {}
+  },
+  {
+    "id": "rolamento-hb20-2012-2019",
+    "pecas": [
+      "ROLAMENTO",
+      "ROLAMENTO RODA"
+    ],
+    "marcas": [
+      "HYUNDAI"
+    ],
+    "modelos": [
+      "HB20",
+      "HB20S"
+    ],
+    "anos": [
+      2012,
+      2013,
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2019
+    ],
+    "lados": [
+      "DIREITO",
+      "ESQUERDO"
+    ],
+    "posicoes": [
+      "DIANTEIRO",
+      "TRASEIRO"
+    ],
+    "fabricantes": [],
+    "relacionadas": [
+      "CUBO",
+      "RETENTOR",
+      "DISCO FREIO",
+      "TAMBOR"
+    ],
+    "observacoes": [
+      "Confirmar posição, medida e se possui sensor/anel ABS.",
+      "HB20/HB20S pode variar entre hatch/sedan, motor 1.0/1.6 e presença de ar condicionado.",
+      "Base técnica expandida por família de alto giro. Conferir peça antiga, código e versão antes de finalizar a venda."
+    ],
+    "confiancaBase": 78,
+    "lampadas": {}
+  },
+  {
+    "id": "rolamento-fiesta-2003-2007",
+    "pecas": [
+      "ROLAMENTO",
+      "ROLAMENTO RODA"
+    ],
+    "marcas": [
+      "FORD"
+    ],
+    "modelos": [
+      "FIESTA"
+    ],
+    "anos": [
+      2003,
+      2004,
+      2005,
+      2006,
+      2007
+    ],
+    "lados": [
+      "DIREITO",
+      "ESQUERDO"
+    ],
+    "posicoes": [
+      "DIANTEIRO",
+      "TRASEIRO"
+    ],
+    "fabricantes": [],
+    "relacionadas": [
+      "CUBO",
+      "RETENTOR",
+      "DISCO FREIO",
+      "TAMBOR"
+    ],
+    "observacoes": [
+      "Confirmar posição, medida e se possui sensor/anel ABS.",
+      "Fiesta pode variar por geração, motor e sistema de direção.",
+      "Base técnica expandida por família de alto giro. Conferir peça antiga, código e versão antes de finalizar a venda."
+    ],
+    "confiancaBase": 78,
+    "lampadas": {}
+  },
+  {
+    "id": "disco-freio-classic-2003-2010",
+    "pecas": [
+      "DISCO",
+      "DISCO FREIO",
+      "DISCO DE FREIO"
+    ],
+    "marcas": [
+      "CHEVROLET",
+      "GM"
+    ],
+    "modelos": [
+      "CLASSIC",
+      "CORSA CLASSIC"
+    ],
+    "anos": [
+      2003,
+      2004,
+      2005,
+      2006,
+      2007,
+      2008,
+      2009,
+      2010
+    ],
+    "lados": [
+      "N/D"
+    ],
+    "posicoes": [
+      "DIANTEIRO",
+      "TRASEIRO"
+    ],
+    "fabricantes": [],
+    "relacionadas": [
+      "PASTILHA",
+      "CUBO",
+      "PINCA FREIO"
+    ],
+    "observacoes": [
+      "Confirmar diâmetro, ventilado/sólido, furação e presença de ABS quando aplicável.",
+      "Classic/Corsa Classic pode variar por motorização, ano e presença de ar condicionado.",
+      "Base técnica expandida por família de alto giro. Conferir peça antiga, código e versão antes de finalizar a venda."
+    ],
+    "confiancaBase": 78,
+    "lampadas": {}
+  },
+  {
+    "id": "disco-freio-corsa-1994-2002",
+    "pecas": [
+      "DISCO",
+      "DISCO FREIO",
+      "DISCO DE FREIO"
+    ],
+    "marcas": [
+      "CHEVROLET",
+      "GM"
+    ],
+    "modelos": [
+      "CORSA",
+      "CORSA WIND",
+      "CORSA SEDAN",
+      "CORSA PICKUP"
+    ],
+    "anos": [
+      1994,
+      1995,
+      1996,
+      1997,
+      1998,
+      1999,
+      2000,
+      2001,
+      2002
+    ],
+    "lados": [
+      "N/D"
+    ],
+    "posicoes": [
+      "DIANTEIRO",
+      "TRASEIRO"
+    ],
+    "fabricantes": [],
+    "relacionadas": [
+      "PASTILHA",
+      "CUBO",
+      "PINCA FREIO"
+    ],
+    "observacoes": [
+      "Confirmar diâmetro, ventilado/sólido, furação e presença de ABS quando aplicável.",
+      "Corsa antigo possui variações por ano, carroceria e motorização.",
+      "Base técnica expandida por família de alto giro. Conferir peça antiga, código e versão antes de finalizar a venda."
+    ],
+    "confiancaBase": 78,
+    "lampadas": {}
+  },
+  {
+    "id": "disco-freio-gol-g5-2009-2012",
+    "pecas": [
+      "DISCO",
+      "DISCO FREIO",
+      "DISCO DE FREIO"
+    ],
+    "marcas": [
+      "VOLKSWAGEN",
+      "VW"
+    ],
+    "modelos": [
+      "GOL G5",
+      "GOL",
+      "VOYAGE G5",
+      "VOYAGE"
+    ],
+    "anos": [
+      2009,
+      2010,
+      2011,
+      2012
+    ],
+    "lados": [
+      "N/D"
+    ],
+    "posicoes": [
+      "DIANTEIRO",
+      "TRASEIRO"
+    ],
+    "fabricantes": [],
+    "relacionadas": [
+      "PASTILHA",
+      "CUBO",
+      "PINCA FREIO"
+    ],
+    "observacoes": [
+      "Confirmar diâmetro, ventilado/sólido, furação e presença de ABS quando aplicável.",
+      "Gol/Voyage G5 pode variar por motor, câmbio, direção hidráulica/elétrica e presença de ar condicionado.",
+      "Base técnica expandida por família de alto giro. Conferir peça antiga, código e versão antes de finalizar a venda."
+    ],
+    "confiancaBase": 78,
+    "lampadas": {}
+  },
+  {
+    "id": "disco-freio-onix-2020-2023",
+    "pecas": [
+      "DISCO",
+      "DISCO FREIO",
+      "DISCO DE FREIO"
+    ],
+    "marcas": [
+      "CHEVROLET",
+      "GM"
+    ],
+    "modelos": [
+      "ONIX",
+      "ONIX PLUS"
+    ],
+    "anos": [
+      2020,
+      2021,
+      2022,
+      2023
+    ],
+    "lados": [
+      "N/D"
+    ],
+    "posicoes": [
+      "DIANTEIRO",
+      "TRASEIRO"
+    ],
+    "fabricantes": [],
+    "relacionadas": [
+      "PASTILHA",
+      "CUBO",
+      "PINCA FREIO"
+    ],
+    "observacoes": [
+      "Confirmar diâmetro, ventilado/sólido, furação e presença de ABS quando aplicável.",
+      "Onix/Onix Plus pode variar por versão, motor turbo/aspirado e itens eletrônicos.",
+      "Base técnica expandida por família de alto giro. Conferir peça antiga, código e versão antes de finalizar a venda."
+    ],
+    "confiancaBase": 78,
+    "lampadas": {}
+  },
+  {
+    "id": "disco-freio-hb20-2012-2019",
+    "pecas": [
+      "DISCO",
+      "DISCO FREIO",
+      "DISCO DE FREIO"
+    ],
+    "marcas": [
+      "HYUNDAI"
+    ],
+    "modelos": [
+      "HB20",
+      "HB20S"
+    ],
+    "anos": [
+      2012,
+      2013,
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2019
+    ],
+    "lados": [
+      "N/D"
+    ],
+    "posicoes": [
+      "DIANTEIRO",
+      "TRASEIRO"
+    ],
+    "fabricantes": [],
+    "relacionadas": [
+      "PASTILHA",
+      "CUBO",
+      "PINCA FREIO"
+    ],
+    "observacoes": [
+      "Confirmar diâmetro, ventilado/sólido, furação e presença de ABS quando aplicável.",
+      "HB20/HB20S pode variar entre hatch/sedan, motor 1.0/1.6 e presença de ar condicionado.",
+      "Base técnica expandida por família de alto giro. Conferir peça antiga, código e versão antes de finalizar a venda."
+    ],
+    "confiancaBase": 78,
+    "lampadas": {}
+  },
+  {
+    "id": "disco-freio-fiesta-2003-2007",
+    "pecas": [
+      "DISCO",
+      "DISCO FREIO",
+      "DISCO DE FREIO"
+    ],
+    "marcas": [
+      "FORD"
+    ],
+    "modelos": [
+      "FIESTA"
+    ],
+    "anos": [
+      2003,
+      2004,
+      2005,
+      2006,
+      2007
+    ],
+    "lados": [
+      "N/D"
+    ],
+    "posicoes": [
+      "DIANTEIRO",
+      "TRASEIRO"
+    ],
+    "fabricantes": [],
+    "relacionadas": [
+      "PASTILHA",
+      "CUBO",
+      "PINCA FREIO"
+    ],
+    "observacoes": [
+      "Confirmar diâmetro, ventilado/sólido, furação e presença de ABS quando aplicável.",
+      "Fiesta pode variar por geração, motor e sistema de direção.",
+      "Base técnica expandida por família de alto giro. Conferir peça antiga, código e versão antes de finalizar a venda."
+    ],
+    "confiancaBase": 78,
+    "lampadas": {}
+  },
+  {
+    "id": "tambor-freio-classic-2003-2010",
+    "pecas": [
+      "TAMBOR",
+      "TAMBOR FREIO",
+      "TAMBOR DE FREIO"
+    ],
+    "marcas": [
+      "CHEVROLET",
+      "GM"
+    ],
+    "modelos": [
+      "CLASSIC",
+      "CORSA CLASSIC"
+    ],
+    "anos": [
+      2003,
+      2004,
+      2005,
+      2006,
+      2007,
+      2008,
+      2009,
+      2010
+    ],
+    "lados": [
+      "N/D"
+    ],
+    "posicoes": [
+      "TRASEIRO"
+    ],
+    "fabricantes": [],
+    "relacionadas": [
+      "SAPATA",
+      "CILINDRO RODA",
+      "ROLAMENTO"
+    ],
+    "observacoes": [
+      "Confirmar diâmetro interno, quantidade de furos e se acompanha cubo/rolamento.",
+      "Classic/Corsa Classic pode variar por motorização, ano e presença de ar condicionado.",
+      "Base técnica expandida por família de alto giro. Conferir peça antiga, código e versão antes de finalizar a venda."
+    ],
+    "confiancaBase": 78,
+    "lampadas": {}
+  },
+  {
+    "id": "tambor-freio-corsa-1994-2002",
+    "pecas": [
+      "TAMBOR",
+      "TAMBOR FREIO",
+      "TAMBOR DE FREIO"
+    ],
+    "marcas": [
+      "CHEVROLET",
+      "GM"
+    ],
+    "modelos": [
+      "CORSA",
+      "CORSA WIND",
+      "CORSA SEDAN",
+      "CORSA PICKUP"
+    ],
+    "anos": [
+      1994,
+      1995,
+      1996,
+      1997,
+      1998,
+      1999,
+      2000,
+      2001,
+      2002
+    ],
+    "lados": [
+      "N/D"
+    ],
+    "posicoes": [
+      "TRASEIRO"
+    ],
+    "fabricantes": [],
+    "relacionadas": [
+      "SAPATA",
+      "CILINDRO RODA",
+      "ROLAMENTO"
+    ],
+    "observacoes": [
+      "Confirmar diâmetro interno, quantidade de furos e se acompanha cubo/rolamento.",
+      "Corsa antigo possui variações por ano, carroceria e motorização.",
+      "Base técnica expandida por família de alto giro. Conferir peça antiga, código e versão antes de finalizar a venda."
+    ],
+    "confiancaBase": 78,
+    "lampadas": {}
+  },
+  {
+    "id": "tambor-freio-gol-g5-2009-2012",
+    "pecas": [
+      "TAMBOR",
+      "TAMBOR FREIO",
+      "TAMBOR DE FREIO"
+    ],
+    "marcas": [
+      "VOLKSWAGEN",
+      "VW"
+    ],
+    "modelos": [
+      "GOL G5",
+      "GOL",
+      "VOYAGE G5",
+      "VOYAGE"
+    ],
+    "anos": [
+      2009,
+      2010,
+      2011,
+      2012
+    ],
+    "lados": [
+      "N/D"
+    ],
+    "posicoes": [
+      "TRASEIRO"
+    ],
+    "fabricantes": [],
+    "relacionadas": [
+      "SAPATA",
+      "CILINDRO RODA",
+      "ROLAMENTO"
+    ],
+    "observacoes": [
+      "Confirmar diâmetro interno, quantidade de furos e se acompanha cubo/rolamento.",
+      "Gol/Voyage G5 pode variar por motor, câmbio, direção hidráulica/elétrica e presença de ar condicionado.",
+      "Base técnica expandida por família de alto giro. Conferir peça antiga, código e versão antes de finalizar a venda."
+    ],
+    "confiancaBase": 78,
+    "lampadas": {}
+  },
+  {
+    "id": "tambor-freio-onix-2020-2023",
+    "pecas": [
+      "TAMBOR",
+      "TAMBOR FREIO",
+      "TAMBOR DE FREIO"
+    ],
+    "marcas": [
+      "CHEVROLET",
+      "GM"
+    ],
+    "modelos": [
+      "ONIX",
+      "ONIX PLUS"
+    ],
+    "anos": [
+      2020,
+      2021,
+      2022,
+      2023
+    ],
+    "lados": [
+      "N/D"
+    ],
+    "posicoes": [
+      "TRASEIRO"
+    ],
+    "fabricantes": [],
+    "relacionadas": [
+      "SAPATA",
+      "CILINDRO RODA",
+      "ROLAMENTO"
+    ],
+    "observacoes": [
+      "Confirmar diâmetro interno, quantidade de furos e se acompanha cubo/rolamento.",
+      "Onix/Onix Plus pode variar por versão, motor turbo/aspirado e itens eletrônicos.",
+      "Base técnica expandida por família de alto giro. Conferir peça antiga, código e versão antes de finalizar a venda."
+    ],
+    "confiancaBase": 78,
+    "lampadas": {}
+  },
+  {
+    "id": "tambor-freio-hb20-2012-2019",
+    "pecas": [
+      "TAMBOR",
+      "TAMBOR FREIO",
+      "TAMBOR DE FREIO"
+    ],
+    "marcas": [
+      "HYUNDAI"
+    ],
+    "modelos": [
+      "HB20",
+      "HB20S"
+    ],
+    "anos": [
+      2012,
+      2013,
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2019
+    ],
+    "lados": [
+      "N/D"
+    ],
+    "posicoes": [
+      "TRASEIRO"
+    ],
+    "fabricantes": [],
+    "relacionadas": [
+      "SAPATA",
+      "CILINDRO RODA",
+      "ROLAMENTO"
+    ],
+    "observacoes": [
+      "Confirmar diâmetro interno, quantidade de furos e se acompanha cubo/rolamento.",
+      "HB20/HB20S pode variar entre hatch/sedan, motor 1.0/1.6 e presença de ar condicionado.",
+      "Base técnica expandida por família de alto giro. Conferir peça antiga, código e versão antes de finalizar a venda."
+    ],
+    "confiancaBase": 78,
+    "lampadas": {}
+  },
+  {
+    "id": "tambor-freio-fiesta-2003-2007",
+    "pecas": [
+      "TAMBOR",
+      "TAMBOR FREIO",
+      "TAMBOR DE FREIO"
+    ],
+    "marcas": [
+      "FORD"
+    ],
+    "modelos": [
+      "FIESTA"
+    ],
+    "anos": [
+      2003,
+      2004,
+      2005,
+      2006,
+      2007
+    ],
+    "lados": [
+      "N/D"
+    ],
+    "posicoes": [
+      "TRASEIRO"
+    ],
+    "fabricantes": [],
+    "relacionadas": [
+      "SAPATA",
+      "CILINDRO RODA",
+      "ROLAMENTO"
+    ],
+    "observacoes": [
+      "Confirmar diâmetro interno, quantidade de furos e se acompanha cubo/rolamento.",
+      "Fiesta pode variar por geração, motor e sistema de direção.",
+      "Base técnica expandida por família de alto giro. Conferir peça antiga, código e versão antes de finalizar a venda."
+    ],
+    "confiancaBase": 78,
+    "lampadas": {}
+  },
+  {
+    "id": "pastilha-classic-2003-2010",
+    "pecas": [
+      "PASTILHA",
+      "PASTILHA FREIO",
+      "PASTILHA DE FREIO"
+    ],
+    "marcas": [
+      "CHEVROLET",
+      "GM"
+    ],
+    "modelos": [
+      "CLASSIC",
+      "CORSA CLASSIC"
+    ],
+    "anos": [
+      2003,
+      2004,
+      2005,
+      2006,
+      2007,
+      2008,
+      2009,
+      2010
+    ],
+    "lados": [
+      "N/D"
+    ],
+    "posicoes": [
+      "DIANTEIRO",
+      "TRASEIRO"
+    ],
+    "fabricantes": [],
+    "relacionadas": [
+      "DISCO FREIO",
+      "SENSOR PASTILHA",
+      "PINCA FREIO"
+    ],
+    "observacoes": [
+      "Confirmar sistema de freio, formato da pastilha e presença de sensor.",
+      "Classic/Corsa Classic pode variar por motorização, ano e presença de ar condicionado.",
+      "Base técnica expandida por família de alto giro. Conferir peça antiga, código e versão antes de finalizar a venda."
+    ],
+    "confiancaBase": 78,
+    "lampadas": {}
+  },
+  {
+    "id": "pastilha-corsa-1994-2002",
+    "pecas": [
+      "PASTILHA",
+      "PASTILHA FREIO",
+      "PASTILHA DE FREIO"
+    ],
+    "marcas": [
+      "CHEVROLET",
+      "GM"
+    ],
+    "modelos": [
+      "CORSA",
+      "CORSA WIND",
+      "CORSA SEDAN",
+      "CORSA PICKUP"
+    ],
+    "anos": [
+      1994,
+      1995,
+      1996,
+      1997,
+      1998,
+      1999,
+      2000,
+      2001,
+      2002
+    ],
+    "lados": [
+      "N/D"
+    ],
+    "posicoes": [
+      "DIANTEIRO",
+      "TRASEIRO"
+    ],
+    "fabricantes": [],
+    "relacionadas": [
+      "DISCO FREIO",
+      "SENSOR PASTILHA",
+      "PINCA FREIO"
+    ],
+    "observacoes": [
+      "Confirmar sistema de freio, formato da pastilha e presença de sensor.",
+      "Corsa antigo possui variações por ano, carroceria e motorização.",
+      "Base técnica expandida por família de alto giro. Conferir peça antiga, código e versão antes de finalizar a venda."
+    ],
+    "confiancaBase": 78,
+    "lampadas": {}
+  },
+  {
+    "id": "pastilha-gol-g5-2009-2012",
+    "pecas": [
+      "PASTILHA",
+      "PASTILHA FREIO",
+      "PASTILHA DE FREIO"
+    ],
+    "marcas": [
+      "VOLKSWAGEN",
+      "VW"
+    ],
+    "modelos": [
+      "GOL G5",
+      "GOL",
+      "VOYAGE G5",
+      "VOYAGE"
+    ],
+    "anos": [
+      2009,
+      2010,
+      2011,
+      2012
+    ],
+    "lados": [
+      "N/D"
+    ],
+    "posicoes": [
+      "DIANTEIRO",
+      "TRASEIRO"
+    ],
+    "fabricantes": [],
+    "relacionadas": [
+      "DISCO FREIO",
+      "SENSOR PASTILHA",
+      "PINCA FREIO"
+    ],
+    "observacoes": [
+      "Confirmar sistema de freio, formato da pastilha e presença de sensor.",
+      "Gol/Voyage G5 pode variar por motor, câmbio, direção hidráulica/elétrica e presença de ar condicionado.",
+      "Base técnica expandida por família de alto giro. Conferir peça antiga, código e versão antes de finalizar a venda."
+    ],
+    "confiancaBase": 78,
+    "lampadas": {}
+  },
+  {
+    "id": "pastilha-onix-2020-2023",
+    "pecas": [
+      "PASTILHA",
+      "PASTILHA FREIO",
+      "PASTILHA DE FREIO"
+    ],
+    "marcas": [
+      "CHEVROLET",
+      "GM"
+    ],
+    "modelos": [
+      "ONIX",
+      "ONIX PLUS"
+    ],
+    "anos": [
+      2020,
+      2021,
+      2022,
+      2023
+    ],
+    "lados": [
+      "N/D"
+    ],
+    "posicoes": [
+      "DIANTEIRO",
+      "TRASEIRO"
+    ],
+    "fabricantes": [],
+    "relacionadas": [
+      "DISCO FREIO",
+      "SENSOR PASTILHA",
+      "PINCA FREIO"
+    ],
+    "observacoes": [
+      "Confirmar sistema de freio, formato da pastilha e presença de sensor.",
+      "Onix/Onix Plus pode variar por versão, motor turbo/aspirado e itens eletrônicos.",
+      "Base técnica expandida por família de alto giro. Conferir peça antiga, código e versão antes de finalizar a venda."
+    ],
+    "confiancaBase": 78,
+    "lampadas": {}
+  },
+  {
+    "id": "pastilha-hb20-2012-2019",
+    "pecas": [
+      "PASTILHA",
+      "PASTILHA FREIO",
+      "PASTILHA DE FREIO"
+    ],
+    "marcas": [
+      "HYUNDAI"
+    ],
+    "modelos": [
+      "HB20",
+      "HB20S"
+    ],
+    "anos": [
+      2012,
+      2013,
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2019
+    ],
+    "lados": [
+      "N/D"
+    ],
+    "posicoes": [
+      "DIANTEIRO",
+      "TRASEIRO"
+    ],
+    "fabricantes": [],
+    "relacionadas": [
+      "DISCO FREIO",
+      "SENSOR PASTILHA",
+      "PINCA FREIO"
+    ],
+    "observacoes": [
+      "Confirmar sistema de freio, formato da pastilha e presença de sensor.",
+      "HB20/HB20S pode variar entre hatch/sedan, motor 1.0/1.6 e presença de ar condicionado.",
+      "Base técnica expandida por família de alto giro. Conferir peça antiga, código e versão antes de finalizar a venda."
+    ],
+    "confiancaBase": 78,
+    "lampadas": {}
+  },
+  {
+    "id": "pastilha-fiesta-2003-2007",
+    "pecas": [
+      "PASTILHA",
+      "PASTILHA FREIO",
+      "PASTILHA DE FREIO"
+    ],
+    "marcas": [
+      "FORD"
+    ],
+    "modelos": [
+      "FIESTA"
+    ],
+    "anos": [
+      2003,
+      2004,
+      2005,
+      2006,
+      2007
+    ],
+    "lados": [
+      "N/D"
+    ],
+    "posicoes": [
+      "DIANTEIRO",
+      "TRASEIRO"
+    ],
+    "fabricantes": [],
+    "relacionadas": [
+      "DISCO FREIO",
+      "SENSOR PASTILHA",
+      "PINCA FREIO"
+    ],
+    "observacoes": [
+      "Confirmar sistema de freio, formato da pastilha e presença de sensor.",
+      "Fiesta pode variar por geração, motor e sistema de direção.",
+      "Base técnica expandida por família de alto giro. Conferir peça antiga, código e versão antes de finalizar a venda."
+    ],
+    "confiancaBase": 78,
+    "lampadas": {}
+  },
+  {
+    "id": "sapata-classic-2003-2010",
+    "pecas": [
+      "SAPATA",
+      "SAPATA FREIO",
+      "SAPATA DE FREIO"
+    ],
+    "marcas": [
+      "CHEVROLET",
+      "GM"
+    ],
+    "modelos": [
+      "CLASSIC",
+      "CORSA CLASSIC"
+    ],
+    "anos": [
+      2003,
+      2004,
+      2005,
+      2006,
+      2007,
+      2008,
+      2009,
+      2010
+    ],
+    "lados": [
+      "N/D"
+    ],
+    "posicoes": [
+      "TRASEIRO"
+    ],
+    "fabricantes": [],
+    "relacionadas": [
+      "TAMBOR FREIO",
+      "CILINDRO RODA",
+      "MOLA SAPATA"
+    ],
+    "observacoes": [
+      "Confirmar medida da lona e sistema de freio traseiro.",
+      "Classic/Corsa Classic pode variar por motorização, ano e presença de ar condicionado.",
+      "Base técnica expandida por família de alto giro. Conferir peça antiga, código e versão antes de finalizar a venda."
+    ],
+    "confiancaBase": 78,
+    "lampadas": {}
+  },
+  {
+    "id": "sapata-corsa-1994-2002",
+    "pecas": [
+      "SAPATA",
+      "SAPATA FREIO",
+      "SAPATA DE FREIO"
+    ],
+    "marcas": [
+      "CHEVROLET",
+      "GM"
+    ],
+    "modelos": [
+      "CORSA",
+      "CORSA WIND",
+      "CORSA SEDAN",
+      "CORSA PICKUP"
+    ],
+    "anos": [
+      1994,
+      1995,
+      1996,
+      1997,
+      1998,
+      1999,
+      2000,
+      2001,
+      2002
+    ],
+    "lados": [
+      "N/D"
+    ],
+    "posicoes": [
+      "TRASEIRO"
+    ],
+    "fabricantes": [],
+    "relacionadas": [
+      "TAMBOR FREIO",
+      "CILINDRO RODA",
+      "MOLA SAPATA"
+    ],
+    "observacoes": [
+      "Confirmar medida da lona e sistema de freio traseiro.",
+      "Corsa antigo possui variações por ano, carroceria e motorização.",
+      "Base técnica expandida por família de alto giro. Conferir peça antiga, código e versão antes de finalizar a venda."
+    ],
+    "confiancaBase": 78,
+    "lampadas": {}
+  },
+  {
+    "id": "sapata-gol-g5-2009-2012",
+    "pecas": [
+      "SAPATA",
+      "SAPATA FREIO",
+      "SAPATA DE FREIO"
+    ],
+    "marcas": [
+      "VOLKSWAGEN",
+      "VW"
+    ],
+    "modelos": [
+      "GOL G5",
+      "GOL",
+      "VOYAGE G5",
+      "VOYAGE"
+    ],
+    "anos": [
+      2009,
+      2010,
+      2011,
+      2012
+    ],
+    "lados": [
+      "N/D"
+    ],
+    "posicoes": [
+      "TRASEIRO"
+    ],
+    "fabricantes": [],
+    "relacionadas": [
+      "TAMBOR FREIO",
+      "CILINDRO RODA",
+      "MOLA SAPATA"
+    ],
+    "observacoes": [
+      "Confirmar medida da lona e sistema de freio traseiro.",
+      "Gol/Voyage G5 pode variar por motor, câmbio, direção hidráulica/elétrica e presença de ar condicionado.",
+      "Base técnica expandida por família de alto giro. Conferir peça antiga, código e versão antes de finalizar a venda."
+    ],
+    "confiancaBase": 78,
+    "lampadas": {}
+  },
+  {
+    "id": "sapata-onix-2020-2023",
+    "pecas": [
+      "SAPATA",
+      "SAPATA FREIO",
+      "SAPATA DE FREIO"
+    ],
+    "marcas": [
+      "CHEVROLET",
+      "GM"
+    ],
+    "modelos": [
+      "ONIX",
+      "ONIX PLUS"
+    ],
+    "anos": [
+      2020,
+      2021,
+      2022,
+      2023
+    ],
+    "lados": [
+      "N/D"
+    ],
+    "posicoes": [
+      "TRASEIRO"
+    ],
+    "fabricantes": [],
+    "relacionadas": [
+      "TAMBOR FREIO",
+      "CILINDRO RODA",
+      "MOLA SAPATA"
+    ],
+    "observacoes": [
+      "Confirmar medida da lona e sistema de freio traseiro.",
+      "Onix/Onix Plus pode variar por versão, motor turbo/aspirado e itens eletrônicos.",
+      "Base técnica expandida por família de alto giro. Conferir peça antiga, código e versão antes de finalizar a venda."
+    ],
+    "confiancaBase": 78,
+    "lampadas": {}
+  },
+  {
+    "id": "sapata-hb20-2012-2019",
+    "pecas": [
+      "SAPATA",
+      "SAPATA FREIO",
+      "SAPATA DE FREIO"
+    ],
+    "marcas": [
+      "HYUNDAI"
+    ],
+    "modelos": [
+      "HB20",
+      "HB20S"
+    ],
+    "anos": [
+      2012,
+      2013,
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2019
+    ],
+    "lados": [
+      "N/D"
+    ],
+    "posicoes": [
+      "TRASEIRO"
+    ],
+    "fabricantes": [],
+    "relacionadas": [
+      "TAMBOR FREIO",
+      "CILINDRO RODA",
+      "MOLA SAPATA"
+    ],
+    "observacoes": [
+      "Confirmar medida da lona e sistema de freio traseiro.",
+      "HB20/HB20S pode variar entre hatch/sedan, motor 1.0/1.6 e presença de ar condicionado.",
+      "Base técnica expandida por família de alto giro. Conferir peça antiga, código e versão antes de finalizar a venda."
+    ],
+    "confiancaBase": 78,
+    "lampadas": {}
+  },
+  {
+    "id": "sapata-fiesta-2003-2007",
+    "pecas": [
+      "SAPATA",
+      "SAPATA FREIO",
+      "SAPATA DE FREIO"
+    ],
+    "marcas": [
+      "FORD"
+    ],
+    "modelos": [
+      "FIESTA"
+    ],
+    "anos": [
+      2003,
+      2004,
+      2005,
+      2006,
+      2007
+    ],
+    "lados": [
+      "N/D"
+    ],
+    "posicoes": [
+      "TRASEIRO"
+    ],
+    "fabricantes": [],
+    "relacionadas": [
+      "TAMBOR FREIO",
+      "CILINDRO RODA",
+      "MOLA SAPATA"
+    ],
+    "observacoes": [
+      "Confirmar medida da lona e sistema de freio traseiro.",
+      "Fiesta pode variar por geração, motor e sistema de direção.",
+      "Base técnica expandida por família de alto giro. Conferir peça antiga, código e versão antes de finalizar a venda."
+    ],
+    "confiancaBase": 78,
+    "lampadas": {}
+  },
+  {
+    "id": "cilindro-roda-classic-2003-2010",
+    "pecas": [
+      "CILINDRO RODA",
+      "CILINDRO DE RODA"
+    ],
+    "marcas": [
+      "CHEVROLET",
+      "GM"
+    ],
+    "modelos": [
+      "CLASSIC",
+      "CORSA CLASSIC"
+    ],
+    "anos": [
+      2003,
+      2004,
+      2005,
+      2006,
+      2007,
+      2008,
+      2009,
+      2010
+    ],
+    "lados": [
+      "DIREITO",
+      "ESQUERDO"
+    ],
+    "posicoes": [
+      "TRASEIRO"
+    ],
+    "fabricantes": [],
+    "relacionadas": [
+      "SAPATA",
+      "TAMBOR FREIO",
+      "FLUIDO FREIO"
+    ],
+    "observacoes": [
+      "Confirmar lado, diâmetro e sistema de freio.",
+      "Classic/Corsa Classic pode variar por motorização, ano e presença de ar condicionado.",
+      "Base técnica expandida por família de alto giro. Conferir peça antiga, código e versão antes de finalizar a venda."
+    ],
+    "confiancaBase": 78,
+    "lampadas": {}
+  },
+  {
+    "id": "cilindro-roda-corsa-1994-2002",
+    "pecas": [
+      "CILINDRO RODA",
+      "CILINDRO DE RODA"
+    ],
+    "marcas": [
+      "CHEVROLET",
+      "GM"
+    ],
+    "modelos": [
+      "CORSA",
+      "CORSA WIND",
+      "CORSA SEDAN",
+      "CORSA PICKUP"
+    ],
+    "anos": [
+      1994,
+      1995,
+      1996,
+      1997,
+      1998,
+      1999,
+      2000,
+      2001,
+      2002
+    ],
+    "lados": [
+      "DIREITO",
+      "ESQUERDO"
+    ],
+    "posicoes": [
+      "TRASEIRO"
+    ],
+    "fabricantes": [],
+    "relacionadas": [
+      "SAPATA",
+      "TAMBOR FREIO",
+      "FLUIDO FREIO"
+    ],
+    "observacoes": [
+      "Confirmar lado, diâmetro e sistema de freio.",
+      "Corsa antigo possui variações por ano, carroceria e motorização.",
+      "Base técnica expandida por família de alto giro. Conferir peça antiga, código e versão antes de finalizar a venda."
+    ],
+    "confiancaBase": 78,
+    "lampadas": {}
+  },
+  {
+    "id": "cilindro-roda-gol-g5-2009-2012",
+    "pecas": [
+      "CILINDRO RODA",
+      "CILINDRO DE RODA"
+    ],
+    "marcas": [
+      "VOLKSWAGEN",
+      "VW"
+    ],
+    "modelos": [
+      "GOL G5",
+      "GOL",
+      "VOYAGE G5",
+      "VOYAGE"
+    ],
+    "anos": [
+      2009,
+      2010,
+      2011,
+      2012
+    ],
+    "lados": [
+      "DIREITO",
+      "ESQUERDO"
+    ],
+    "posicoes": [
+      "TRASEIRO"
+    ],
+    "fabricantes": [],
+    "relacionadas": [
+      "SAPATA",
+      "TAMBOR FREIO",
+      "FLUIDO FREIO"
+    ],
+    "observacoes": [
+      "Confirmar lado, diâmetro e sistema de freio.",
+      "Gol/Voyage G5 pode variar por motor, câmbio, direção hidráulica/elétrica e presença de ar condicionado.",
+      "Base técnica expandida por família de alto giro. Conferir peça antiga, código e versão antes de finalizar a venda."
+    ],
+    "confiancaBase": 78,
+    "lampadas": {}
+  },
+  {
+    "id": "cilindro-roda-onix-2020-2023",
+    "pecas": [
+      "CILINDRO RODA",
+      "CILINDRO DE RODA"
+    ],
+    "marcas": [
+      "CHEVROLET",
+      "GM"
+    ],
+    "modelos": [
+      "ONIX",
+      "ONIX PLUS"
+    ],
+    "anos": [
+      2020,
+      2021,
+      2022,
+      2023
+    ],
+    "lados": [
+      "DIREITO",
+      "ESQUERDO"
+    ],
+    "posicoes": [
+      "TRASEIRO"
+    ],
+    "fabricantes": [],
+    "relacionadas": [
+      "SAPATA",
+      "TAMBOR FREIO",
+      "FLUIDO FREIO"
+    ],
+    "observacoes": [
+      "Confirmar lado, diâmetro e sistema de freio.",
+      "Onix/Onix Plus pode variar por versão, motor turbo/aspirado e itens eletrônicos.",
+      "Base técnica expandida por família de alto giro. Conferir peça antiga, código e versão antes de finalizar a venda."
+    ],
+    "confiancaBase": 78,
+    "lampadas": {}
+  },
+  {
+    "id": "cilindro-roda-hb20-2012-2019",
+    "pecas": [
+      "CILINDRO RODA",
+      "CILINDRO DE RODA"
+    ],
+    "marcas": [
+      "HYUNDAI"
+    ],
+    "modelos": [
+      "HB20",
+      "HB20S"
+    ],
+    "anos": [
+      2012,
+      2013,
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2019
+    ],
+    "lados": [
+      "DIREITO",
+      "ESQUERDO"
+    ],
+    "posicoes": [
+      "TRASEIRO"
+    ],
+    "fabricantes": [],
+    "relacionadas": [
+      "SAPATA",
+      "TAMBOR FREIO",
+      "FLUIDO FREIO"
+    ],
+    "observacoes": [
+      "Confirmar lado, diâmetro e sistema de freio.",
+      "HB20/HB20S pode variar entre hatch/sedan, motor 1.0/1.6 e presença de ar condicionado.",
+      "Base técnica expandida por família de alto giro. Conferir peça antiga, código e versão antes de finalizar a venda."
+    ],
+    "confiancaBase": 78,
+    "lampadas": {}
+  },
+  {
+    "id": "cilindro-roda-fiesta-2003-2007",
+    "pecas": [
+      "CILINDRO RODA",
+      "CILINDRO DE RODA"
+    ],
+    "marcas": [
+      "FORD"
+    ],
+    "modelos": [
+      "FIESTA"
+    ],
+    "anos": [
+      2003,
+      2004,
+      2005,
+      2006,
+      2007
+    ],
+    "lados": [
+      "DIREITO",
+      "ESQUERDO"
+    ],
+    "posicoes": [
+      "TRASEIRO"
+    ],
+    "fabricantes": [],
+    "relacionadas": [
+      "SAPATA",
+      "TAMBOR FREIO",
+      "FLUIDO FREIO"
+    ],
+    "observacoes": [
+      "Confirmar lado, diâmetro e sistema de freio.",
+      "Fiesta pode variar por geração, motor e sistema de direção.",
+      "Base técnica expandida por família de alto giro. Conferir peça antiga, código e versão antes de finalizar a venda."
+    ],
+    "confiancaBase": 78,
+    "lampadas": {}
+  },
+  {
+    "id": "servofreio-classic-2003-2010",
+    "pecas": [
+      "SERVOFREIO",
+      "HIDROVACUO",
+      "HIDROVÁCUO"
+    ],
+    "marcas": [
+      "CHEVROLET",
+      "GM"
+    ],
+    "modelos": [
+      "CLASSIC",
+      "CORSA CLASSIC"
+    ],
+    "anos": [
+      2003,
+      2004,
+      2005,
+      2006,
+      2007,
+      2008,
+      2009,
+      2010
+    ],
+    "lados": [
+      "N/D"
+    ],
+    "posicoes": [
+      "MOTOR"
+    ],
+    "fabricantes": [],
+    "relacionadas": [
+      "CILINDRO MESTRE",
+      "FLUIDO FREIO",
+      "PEDAL FREIO"
+    ],
+    "observacoes": [
+      "Confirmar motor, sistema ABS e fixação.",
+      "Classic/Corsa Classic pode variar por motorização, ano e presença de ar condicionado.",
+      "Base técnica expandida por família de alto giro. Conferir peça antiga, código e versão antes de finalizar a venda."
+    ],
+    "confiancaBase": 78,
+    "lampadas": {}
+  },
+  {
+    "id": "servofreio-corsa-1994-2002",
+    "pecas": [
+      "SERVOFREIO",
+      "HIDROVACUO",
+      "HIDROVÁCUO"
+    ],
+    "marcas": [
+      "CHEVROLET",
+      "GM"
+    ],
+    "modelos": [
+      "CORSA",
+      "CORSA WIND",
+      "CORSA SEDAN",
+      "CORSA PICKUP"
+    ],
+    "anos": [
+      1994,
+      1995,
+      1996,
+      1997,
+      1998,
+      1999,
+      2000,
+      2001,
+      2002
+    ],
+    "lados": [
+      "N/D"
+    ],
+    "posicoes": [
+      "MOTOR"
+    ],
+    "fabricantes": [],
+    "relacionadas": [
+      "CILINDRO MESTRE",
+      "FLUIDO FREIO",
+      "PEDAL FREIO"
+    ],
+    "observacoes": [
+      "Confirmar motor, sistema ABS e fixação.",
+      "Corsa antigo possui variações por ano, carroceria e motorização.",
+      "Base técnica expandida por família de alto giro. Conferir peça antiga, código e versão antes de finalizar a venda."
+    ],
+    "confiancaBase": 78,
+    "lampadas": {}
+  },
+  {
+    "id": "servofreio-gol-g5-2009-2012",
+    "pecas": [
+      "SERVOFREIO",
+      "HIDROVACUO",
+      "HIDROVÁCUO"
+    ],
+    "marcas": [
+      "VOLKSWAGEN",
+      "VW"
+    ],
+    "modelos": [
+      "GOL G5",
+      "GOL",
+      "VOYAGE G5",
+      "VOYAGE"
+    ],
+    "anos": [
+      2009,
+      2010,
+      2011,
+      2012
+    ],
+    "lados": [
+      "N/D"
+    ],
+    "posicoes": [
+      "MOTOR"
+    ],
+    "fabricantes": [],
+    "relacionadas": [
+      "CILINDRO MESTRE",
+      "FLUIDO FREIO",
+      "PEDAL FREIO"
+    ],
+    "observacoes": [
+      "Confirmar motor, sistema ABS e fixação.",
+      "Gol/Voyage G5 pode variar por motor, câmbio, direção hidráulica/elétrica e presença de ar condicionado.",
+      "Base técnica expandida por família de alto giro. Conferir peça antiga, código e versão antes de finalizar a venda."
+    ],
+    "confiancaBase": 78,
+    "lampadas": {}
+  },
+  {
+    "id": "servofreio-onix-2020-2023",
+    "pecas": [
+      "SERVOFREIO",
+      "HIDROVACUO",
+      "HIDROVÁCUO"
+    ],
+    "marcas": [
+      "CHEVROLET",
+      "GM"
+    ],
+    "modelos": [
+      "ONIX",
+      "ONIX PLUS"
+    ],
+    "anos": [
+      2020,
+      2021,
+      2022,
+      2023
+    ],
+    "lados": [
+      "N/D"
+    ],
+    "posicoes": [
+      "MOTOR"
+    ],
+    "fabricantes": [],
+    "relacionadas": [
+      "CILINDRO MESTRE",
+      "FLUIDO FREIO",
+      "PEDAL FREIO"
+    ],
+    "observacoes": [
+      "Confirmar motor, sistema ABS e fixação.",
+      "Onix/Onix Plus pode variar por versão, motor turbo/aspirado e itens eletrônicos.",
+      "Base técnica expandida por família de alto giro. Conferir peça antiga, código e versão antes de finalizar a venda."
+    ],
+    "confiancaBase": 78,
+    "lampadas": {}
+  },
+  {
+    "id": "servofreio-hb20-2012-2019",
+    "pecas": [
+      "SERVOFREIO",
+      "HIDROVACUO",
+      "HIDROVÁCUO"
+    ],
+    "marcas": [
+      "HYUNDAI"
+    ],
+    "modelos": [
+      "HB20",
+      "HB20S"
+    ],
+    "anos": [
+      2012,
+      2013,
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2019
+    ],
+    "lados": [
+      "N/D"
+    ],
+    "posicoes": [
+      "MOTOR"
+    ],
+    "fabricantes": [],
+    "relacionadas": [
+      "CILINDRO MESTRE",
+      "FLUIDO FREIO",
+      "PEDAL FREIO"
+    ],
+    "observacoes": [
+      "Confirmar motor, sistema ABS e fixação.",
+      "HB20/HB20S pode variar entre hatch/sedan, motor 1.0/1.6 e presença de ar condicionado.",
+      "Base técnica expandida por família de alto giro. Conferir peça antiga, código e versão antes de finalizar a venda."
+    ],
+    "confiancaBase": 78,
+    "lampadas": {}
+  },
+  {
+    "id": "servofreio-fiesta-2003-2007",
+    "pecas": [
+      "SERVOFREIO",
+      "HIDROVACUO",
+      "HIDROVÁCUO"
+    ],
+    "marcas": [
+      "FORD"
+    ],
+    "modelos": [
+      "FIESTA"
+    ],
+    "anos": [
+      2003,
+      2004,
+      2005,
+      2006,
+      2007
+    ],
+    "lados": [
+      "N/D"
+    ],
+    "posicoes": [
+      "MOTOR"
+    ],
+    "fabricantes": [],
+    "relacionadas": [
+      "CILINDRO MESTRE",
+      "FLUIDO FREIO",
+      "PEDAL FREIO"
+    ],
+    "observacoes": [
+      "Confirmar motor, sistema ABS e fixação.",
+      "Fiesta pode variar por geração, motor e sistema de direção.",
+      "Base técnica expandida por família de alto giro. Conferir peça antiga, código e versão antes de finalizar a venda."
+    ],
+    "confiancaBase": 78,
+    "lampadas": {}
+  },
+  {
+    "id": "cilindro-mestre-classic-2003-2010",
+    "pecas": [
+      "CILINDRO MESTRE",
+      "CILINDRO MESTRE FREIO"
+    ],
+    "marcas": [
+      "CHEVROLET",
+      "GM"
+    ],
+    "modelos": [
+      "CLASSIC",
+      "CORSA CLASSIC"
+    ],
+    "anos": [
+      2003,
+      2004,
+      2005,
+      2006,
+      2007,
+      2008,
+      2009,
+      2010
+    ],
+    "lados": [
+      "N/D"
+    ],
+    "posicoes": [
+      "MOTOR"
+    ],
+    "fabricantes": [],
+    "relacionadas": [
+      "SERVOFREIO",
+      "RESERVATORIO FLUIDO",
+      "FLUIDO FREIO"
+    ],
+    "observacoes": [
+      "Confirmar sistema ABS, quantidade de saídas e reservatório.",
+      "Classic/Corsa Classic pode variar por motorização, ano e presença de ar condicionado.",
+      "Base técnica expandida por família de alto giro. Conferir peça antiga, código e versão antes de finalizar a venda."
+    ],
+    "confiancaBase": 78,
+    "lampadas": {}
+  },
+  {
+    "id": "cilindro-mestre-corsa-1994-2002",
+    "pecas": [
+      "CILINDRO MESTRE",
+      "CILINDRO MESTRE FREIO"
+    ],
+    "marcas": [
+      "CHEVROLET",
+      "GM"
+    ],
+    "modelos": [
+      "CORSA",
+      "CORSA WIND",
+      "CORSA SEDAN",
+      "CORSA PICKUP"
+    ],
+    "anos": [
+      1994,
+      1995,
+      1996,
+      1997,
+      1998,
+      1999,
+      2000,
+      2001,
+      2002
+    ],
+    "lados": [
+      "N/D"
+    ],
+    "posicoes": [
+      "MOTOR"
+    ],
+    "fabricantes": [],
+    "relacionadas": [
+      "SERVOFREIO",
+      "RESERVATORIO FLUIDO",
+      "FLUIDO FREIO"
+    ],
+    "observacoes": [
+      "Confirmar sistema ABS, quantidade de saídas e reservatório.",
+      "Corsa antigo possui variações por ano, carroceria e motorização.",
+      "Base técnica expandida por família de alto giro. Conferir peça antiga, código e versão antes de finalizar a venda."
+    ],
+    "confiancaBase": 78,
+    "lampadas": {}
+  },
+  {
+    "id": "cilindro-mestre-gol-g5-2009-2012",
+    "pecas": [
+      "CILINDRO MESTRE",
+      "CILINDRO MESTRE FREIO"
+    ],
+    "marcas": [
+      "VOLKSWAGEN",
+      "VW"
+    ],
+    "modelos": [
+      "GOL G5",
+      "GOL",
+      "VOYAGE G5",
+      "VOYAGE"
+    ],
+    "anos": [
+      2009,
+      2010,
+      2011,
+      2012
+    ],
+    "lados": [
+      "N/D"
+    ],
+    "posicoes": [
+      "MOTOR"
+    ],
+    "fabricantes": [],
+    "relacionadas": [
+      "SERVOFREIO",
+      "RESERVATORIO FLUIDO",
+      "FLUIDO FREIO"
+    ],
+    "observacoes": [
+      "Confirmar sistema ABS, quantidade de saídas e reservatório.",
+      "Gol/Voyage G5 pode variar por motor, câmbio, direção hidráulica/elétrica e presença de ar condicionado.",
+      "Base técnica expandida por família de alto giro. Conferir peça antiga, código e versão antes de finalizar a venda."
+    ],
+    "confiancaBase": 78,
+    "lampadas": {}
+  },
+  {
+    "id": "cilindro-mestre-onix-2020-2023",
+    "pecas": [
+      "CILINDRO MESTRE",
+      "CILINDRO MESTRE FREIO"
+    ],
+    "marcas": [
+      "CHEVROLET",
+      "GM"
+    ],
+    "modelos": [
+      "ONIX",
+      "ONIX PLUS"
+    ],
+    "anos": [
+      2020,
+      2021,
+      2022,
+      2023
+    ],
+    "lados": [
+      "N/D"
+    ],
+    "posicoes": [
+      "MOTOR"
+    ],
+    "fabricantes": [],
+    "relacionadas": [
+      "SERVOFREIO",
+      "RESERVATORIO FLUIDO",
+      "FLUIDO FREIO"
+    ],
+    "observacoes": [
+      "Confirmar sistema ABS, quantidade de saídas e reservatório.",
+      "Onix/Onix Plus pode variar por versão, motor turbo/aspirado e itens eletrônicos.",
+      "Base técnica expandida por família de alto giro. Conferir peça antiga, código e versão antes de finalizar a venda."
+    ],
+    "confiancaBase": 78,
+    "lampadas": {}
+  },
+  {
+    "id": "cilindro-mestre-hb20-2012-2019",
+    "pecas": [
+      "CILINDRO MESTRE",
+      "CILINDRO MESTRE FREIO"
+    ],
+    "marcas": [
+      "HYUNDAI"
+    ],
+    "modelos": [
+      "HB20",
+      "HB20S"
+    ],
+    "anos": [
+      2012,
+      2013,
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2019
+    ],
+    "lados": [
+      "N/D"
+    ],
+    "posicoes": [
+      "MOTOR"
+    ],
+    "fabricantes": [],
+    "relacionadas": [
+      "SERVOFREIO",
+      "RESERVATORIO FLUIDO",
+      "FLUIDO FREIO"
+    ],
+    "observacoes": [
+      "Confirmar sistema ABS, quantidade de saídas e reservatório.",
+      "HB20/HB20S pode variar entre hatch/sedan, motor 1.0/1.6 e presença de ar condicionado.",
+      "Base técnica expandida por família de alto giro. Conferir peça antiga, código e versão antes de finalizar a venda."
+    ],
+    "confiancaBase": 78,
+    "lampadas": {}
+  },
+  {
+    "id": "cilindro-mestre-fiesta-2003-2007",
+    "pecas": [
+      "CILINDRO MESTRE",
+      "CILINDRO MESTRE FREIO"
+    ],
+    "marcas": [
+      "FORD"
+    ],
+    "modelos": [
+      "FIESTA"
+    ],
+    "anos": [
+      2003,
+      2004,
+      2005,
+      2006,
+      2007
+    ],
+    "lados": [
+      "N/D"
+    ],
+    "posicoes": [
+      "MOTOR"
+    ],
+    "fabricantes": [],
+    "relacionadas": [
+      "SERVOFREIO",
+      "RESERVATORIO FLUIDO",
+      "FLUIDO FREIO"
+    ],
+    "observacoes": [
+      "Confirmar sistema ABS, quantidade de saídas e reservatório.",
+      "Fiesta pode variar por geração, motor e sistema de direção.",
+      "Base técnica expandida por família de alto giro. Conferir peça antiga, código e versão antes de finalizar a venda."
+    ],
+    "confiancaBase": 78,
+    "lampadas": {}
+  },
+  {
+    "id": "alternador-classic-2003-2010",
+    "pecas": [
+      "ALTERNADOR"
+    ],
+    "marcas": [
+      "CHEVROLET",
+      "GM"
+    ],
+    "modelos": [
+      "CLASSIC",
+      "CORSA CLASSIC"
+    ],
+    "anos": [
+      2003,
+      2004,
+      2005,
+      2006,
+      2007,
+      2008,
+      2009,
+      2010
+    ],
+    "lados": [
+      "N/D"
+    ],
+    "posicoes": [
+      "MOTOR"
+    ],
+    "fabricantes": [],
+    "relacionadas": [
+      "CORREIA",
+      "REGULADOR VOLTAGEM",
+      "BATERIA"
+    ],
+    "observacoes": [
+      "Confirmar amperagem, polia, conectores e motorização.",
+      "Classic/Corsa Classic pode variar por motorização, ano e presença de ar condicionado.",
+      "Base técnica expandida por família de alto giro. Conferir peça antiga, código e versão antes de finalizar a venda."
+    ],
+    "confiancaBase": 78,
+    "lampadas": {}
+  },
+  {
+    "id": "alternador-corsa-1994-2002",
+    "pecas": [
+      "ALTERNADOR"
+    ],
+    "marcas": [
+      "CHEVROLET",
+      "GM"
+    ],
+    "modelos": [
+      "CORSA",
+      "CORSA WIND",
+      "CORSA SEDAN",
+      "CORSA PICKUP"
+    ],
+    "anos": [
+      1994,
+      1995,
+      1996,
+      1997,
+      1998,
+      1999,
+      2000,
+      2001,
+      2002
+    ],
+    "lados": [
+      "N/D"
+    ],
+    "posicoes": [
+      "MOTOR"
+    ],
+    "fabricantes": [],
+    "relacionadas": [
+      "CORREIA",
+      "REGULADOR VOLTAGEM",
+      "BATERIA"
+    ],
+    "observacoes": [
+      "Confirmar amperagem, polia, conectores e motorização.",
+      "Corsa antigo possui variações por ano, carroceria e motorização.",
+      "Base técnica expandida por família de alto giro. Conferir peça antiga, código e versão antes de finalizar a venda."
+    ],
+    "confiancaBase": 78,
+    "lampadas": {}
+  },
+  {
+    "id": "alternador-gol-g5-2009-2012",
+    "pecas": [
+      "ALTERNADOR"
+    ],
+    "marcas": [
+      "VOLKSWAGEN",
+      "VW"
+    ],
+    "modelos": [
+      "GOL G5",
+      "GOL",
+      "VOYAGE G5",
+      "VOYAGE"
+    ],
+    "anos": [
+      2009,
+      2010,
+      2011,
+      2012
+    ],
+    "lados": [
+      "N/D"
+    ],
+    "posicoes": [
+      "MOTOR"
+    ],
+    "fabricantes": [],
+    "relacionadas": [
+      "CORREIA",
+      "REGULADOR VOLTAGEM",
+      "BATERIA"
+    ],
+    "observacoes": [
+      "Confirmar amperagem, polia, conectores e motorização.",
+      "Gol/Voyage G5 pode variar por motor, câmbio, direção hidráulica/elétrica e presença de ar condicionado.",
+      "Base técnica expandida por família de alto giro. Conferir peça antiga, código e versão antes de finalizar a venda."
+    ],
+    "confiancaBase": 78,
+    "lampadas": {}
+  },
+  {
+    "id": "alternador-onix-2020-2023",
+    "pecas": [
+      "ALTERNADOR"
+    ],
+    "marcas": [
+      "CHEVROLET",
+      "GM"
+    ],
+    "modelos": [
+      "ONIX",
+      "ONIX PLUS"
+    ],
+    "anos": [
+      2020,
+      2021,
+      2022,
+      2023
+    ],
+    "lados": [
+      "N/D"
+    ],
+    "posicoes": [
+      "MOTOR"
+    ],
+    "fabricantes": [],
+    "relacionadas": [
+      "CORREIA",
+      "REGULADOR VOLTAGEM",
+      "BATERIA"
+    ],
+    "observacoes": [
+      "Confirmar amperagem, polia, conectores e motorização.",
+      "Onix/Onix Plus pode variar por versão, motor turbo/aspirado e itens eletrônicos.",
+      "Base técnica expandida por família de alto giro. Conferir peça antiga, código e versão antes de finalizar a venda."
+    ],
+    "confiancaBase": 78,
+    "lampadas": {}
+  },
+  {
+    "id": "alternador-hb20-2012-2019",
+    "pecas": [
+      "ALTERNADOR"
+    ],
+    "marcas": [
+      "HYUNDAI"
+    ],
+    "modelos": [
+      "HB20",
+      "HB20S"
+    ],
+    "anos": [
+      2012,
+      2013,
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2019
+    ],
+    "lados": [
+      "N/D"
+    ],
+    "posicoes": [
+      "MOTOR"
+    ],
+    "fabricantes": [],
+    "relacionadas": [
+      "CORREIA",
+      "REGULADOR VOLTAGEM",
+      "BATERIA"
+    ],
+    "observacoes": [
+      "Confirmar amperagem, polia, conectores e motorização.",
+      "HB20/HB20S pode variar entre hatch/sedan, motor 1.0/1.6 e presença de ar condicionado.",
+      "Base técnica expandida por família de alto giro. Conferir peça antiga, código e versão antes de finalizar a venda."
+    ],
+    "confiancaBase": 78,
+    "lampadas": {}
+  },
+  {
+    "id": "alternador-fiesta-2003-2007",
+    "pecas": [
+      "ALTERNADOR"
+    ],
+    "marcas": [
+      "FORD"
+    ],
+    "modelos": [
+      "FIESTA"
+    ],
+    "anos": [
+      2003,
+      2004,
+      2005,
+      2006,
+      2007
+    ],
+    "lados": [
+      "N/D"
+    ],
+    "posicoes": [
+      "MOTOR"
+    ],
+    "fabricantes": [],
+    "relacionadas": [
+      "CORREIA",
+      "REGULADOR VOLTAGEM",
+      "BATERIA"
+    ],
+    "observacoes": [
+      "Confirmar amperagem, polia, conectores e motorização.",
+      "Fiesta pode variar por geração, motor e sistema de direção.",
+      "Base técnica expandida por família de alto giro. Conferir peça antiga, código e versão antes de finalizar a venda."
+    ],
+    "confiancaBase": 78,
+    "lampadas": {}
+  },
+  {
+    "id": "motor-partida-classic-2003-2010",
+    "pecas": [
+      "MOTOR PARTIDA",
+      "MOTOR DE PARTIDA",
+      "ARRANQUE"
+    ],
+    "marcas": [
+      "CHEVROLET",
+      "GM"
+    ],
+    "modelos": [
+      "CLASSIC",
+      "CORSA CLASSIC"
+    ],
+    "anos": [
+      2003,
+      2004,
+      2005,
+      2006,
+      2007,
+      2008,
+      2009,
+      2010
+    ],
+    "lados": [
+      "N/D"
+    ],
+    "posicoes": [
+      "MOTOR"
+    ],
+    "fabricantes": [],
+    "relacionadas": [
+      "BATERIA",
+      "CHAVE IGNICAO",
+      "ALTERNADOR"
+    ],
+    "observacoes": [
+      "Confirmar número de dentes, potência e motorização.",
+      "Classic/Corsa Classic pode variar por motorização, ano e presença de ar condicionado.",
+      "Base técnica expandida por família de alto giro. Conferir peça antiga, código e versão antes de finalizar a venda."
+    ],
+    "confiancaBase": 78,
+    "lampadas": {}
+  },
+  {
+    "id": "motor-partida-corsa-1994-2002",
+    "pecas": [
+      "MOTOR PARTIDA",
+      "MOTOR DE PARTIDA",
+      "ARRANQUE"
+    ],
+    "marcas": [
+      "CHEVROLET",
+      "GM"
+    ],
+    "modelos": [
+      "CORSA",
+      "CORSA WIND",
+      "CORSA SEDAN",
+      "CORSA PICKUP"
+    ],
+    "anos": [
+      1994,
+      1995,
+      1996,
+      1997,
+      1998,
+      1999,
+      2000,
+      2001,
+      2002
+    ],
+    "lados": [
+      "N/D"
+    ],
+    "posicoes": [
+      "MOTOR"
+    ],
+    "fabricantes": [],
+    "relacionadas": [
+      "BATERIA",
+      "CHAVE IGNICAO",
+      "ALTERNADOR"
+    ],
+    "observacoes": [
+      "Confirmar número de dentes, potência e motorização.",
+      "Corsa antigo possui variações por ano, carroceria e motorização.",
+      "Base técnica expandida por família de alto giro. Conferir peça antiga, código e versão antes de finalizar a venda."
+    ],
+    "confiancaBase": 78,
+    "lampadas": {}
+  },
+  {
+    "id": "motor-partida-gol-g5-2009-2012",
+    "pecas": [
+      "MOTOR PARTIDA",
+      "MOTOR DE PARTIDA",
+      "ARRANQUE"
+    ],
+    "marcas": [
+      "VOLKSWAGEN",
+      "VW"
+    ],
+    "modelos": [
+      "GOL G5",
+      "GOL",
+      "VOYAGE G5",
+      "VOYAGE"
+    ],
+    "anos": [
+      2009,
+      2010,
+      2011,
+      2012
+    ],
+    "lados": [
+      "N/D"
+    ],
+    "posicoes": [
+      "MOTOR"
+    ],
+    "fabricantes": [],
+    "relacionadas": [
+      "BATERIA",
+      "CHAVE IGNICAO",
+      "ALTERNADOR"
+    ],
+    "observacoes": [
+      "Confirmar número de dentes, potência e motorização.",
+      "Gol/Voyage G5 pode variar por motor, câmbio, direção hidráulica/elétrica e presença de ar condicionado.",
+      "Base técnica expandida por família de alto giro. Conferir peça antiga, código e versão antes de finalizar a venda."
+    ],
+    "confiancaBase": 78,
+    "lampadas": {}
+  },
+  {
+    "id": "motor-partida-onix-2020-2023",
+    "pecas": [
+      "MOTOR PARTIDA",
+      "MOTOR DE PARTIDA",
+      "ARRANQUE"
+    ],
+    "marcas": [
+      "CHEVROLET",
+      "GM"
+    ],
+    "modelos": [
+      "ONIX",
+      "ONIX PLUS"
+    ],
+    "anos": [
+      2020,
+      2021,
+      2022,
+      2023
+    ],
+    "lados": [
+      "N/D"
+    ],
+    "posicoes": [
+      "MOTOR"
+    ],
+    "fabricantes": [],
+    "relacionadas": [
+      "BATERIA",
+      "CHAVE IGNICAO",
+      "ALTERNADOR"
+    ],
+    "observacoes": [
+      "Confirmar número de dentes, potência e motorização.",
+      "Onix/Onix Plus pode variar por versão, motor turbo/aspirado e itens eletrônicos.",
+      "Base técnica expandida por família de alto giro. Conferir peça antiga, código e versão antes de finalizar a venda."
+    ],
+    "confiancaBase": 78,
+    "lampadas": {}
+  },
+  {
+    "id": "motor-partida-hb20-2012-2019",
+    "pecas": [
+      "MOTOR PARTIDA",
+      "MOTOR DE PARTIDA",
+      "ARRANQUE"
+    ],
+    "marcas": [
+      "HYUNDAI"
+    ],
+    "modelos": [
+      "HB20",
+      "HB20S"
+    ],
+    "anos": [
+      2012,
+      2013,
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2019
+    ],
+    "lados": [
+      "N/D"
+    ],
+    "posicoes": [
+      "MOTOR"
+    ],
+    "fabricantes": [],
+    "relacionadas": [
+      "BATERIA",
+      "CHAVE IGNICAO",
+      "ALTERNADOR"
+    ],
+    "observacoes": [
+      "Confirmar número de dentes, potência e motorização.",
+      "HB20/HB20S pode variar entre hatch/sedan, motor 1.0/1.6 e presença de ar condicionado.",
+      "Base técnica expandida por família de alto giro. Conferir peça antiga, código e versão antes de finalizar a venda."
+    ],
+    "confiancaBase": 78,
+    "lampadas": {}
+  },
+  {
+    "id": "motor-partida-fiesta-2003-2007",
+    "pecas": [
+      "MOTOR PARTIDA",
+      "MOTOR DE PARTIDA",
+      "ARRANQUE"
+    ],
+    "marcas": [
+      "FORD"
+    ],
+    "modelos": [
+      "FIESTA"
+    ],
+    "anos": [
+      2003,
+      2004,
+      2005,
+      2006,
+      2007
+    ],
+    "lados": [
+      "N/D"
+    ],
+    "posicoes": [
+      "MOTOR"
+    ],
+    "fabricantes": [],
+    "relacionadas": [
+      "BATERIA",
+      "CHAVE IGNICAO",
+      "ALTERNADOR"
+    ],
+    "observacoes": [
+      "Confirmar número de dentes, potência e motorização.",
+      "Fiesta pode variar por geração, motor e sistema de direção.",
+      "Base técnica expandida por família de alto giro. Conferir peça antiga, código e versão antes de finalizar a venda."
+    ],
+    "confiancaBase": 78,
+    "lampadas": {}
+  },
+  {
+    "id": "bobina-classic-2003-2010",
+    "pecas": [
+      "BOBINA",
+      "BOBINA IGNICAO",
+      "BOBINA IGNIÇÃO"
+    ],
+    "marcas": [
+      "CHEVROLET",
+      "GM"
+    ],
+    "modelos": [
+      "CLASSIC",
+      "CORSA CLASSIC"
+    ],
+    "anos": [
+      2003,
+      2004,
+      2005,
+      2006,
+      2007,
+      2008,
+      2009,
+      2010
+    ],
+    "lados": [
+      "N/D"
+    ],
+    "posicoes": [
+      "MOTOR"
+    ],
+    "fabricantes": [],
+    "relacionadas": [
+      "CABO VELA",
+      "VELA",
+      "SENSOR ROTACAO"
+    ],
+    "observacoes": [
+      "Confirmar motor, quantidade de pinos e tipo de bobina.",
+      "Classic/Corsa Classic pode variar por motorização, ano e presença de ar condicionado.",
+      "Base técnica expandida por família de alto giro. Conferir peça antiga, código e versão antes de finalizar a venda."
+    ],
+    "confiancaBase": 78,
+    "lampadas": {}
+  },
+  {
+    "id": "bobina-corsa-1994-2002",
+    "pecas": [
+      "BOBINA",
+      "BOBINA IGNICAO",
+      "BOBINA IGNIÇÃO"
+    ],
+    "marcas": [
+      "CHEVROLET",
+      "GM"
+    ],
+    "modelos": [
+      "CORSA",
+      "CORSA WIND",
+      "CORSA SEDAN",
+      "CORSA PICKUP"
+    ],
+    "anos": [
+      1994,
+      1995,
+      1996,
+      1997,
+      1998,
+      1999,
+      2000,
+      2001,
+      2002
+    ],
+    "lados": [
+      "N/D"
+    ],
+    "posicoes": [
+      "MOTOR"
+    ],
+    "fabricantes": [],
+    "relacionadas": [
+      "CABO VELA",
+      "VELA",
+      "SENSOR ROTACAO"
+    ],
+    "observacoes": [
+      "Confirmar motor, quantidade de pinos e tipo de bobina.",
+      "Corsa antigo possui variações por ano, carroceria e motorização.",
+      "Base técnica expandida por família de alto giro. Conferir peça antiga, código e versão antes de finalizar a venda."
+    ],
+    "confiancaBase": 78,
+    "lampadas": {}
+  },
+  {
+    "id": "bobina-gol-g5-2009-2012",
+    "pecas": [
+      "BOBINA",
+      "BOBINA IGNICAO",
+      "BOBINA IGNIÇÃO"
+    ],
+    "marcas": [
+      "VOLKSWAGEN",
+      "VW"
+    ],
+    "modelos": [
+      "GOL G5",
+      "GOL",
+      "VOYAGE G5",
+      "VOYAGE"
+    ],
+    "anos": [
+      2009,
+      2010,
+      2011,
+      2012
+    ],
+    "lados": [
+      "N/D"
+    ],
+    "posicoes": [
+      "MOTOR"
+    ],
+    "fabricantes": [],
+    "relacionadas": [
+      "CABO VELA",
+      "VELA",
+      "SENSOR ROTACAO"
+    ],
+    "observacoes": [
+      "Confirmar motor, quantidade de pinos e tipo de bobina.",
+      "Gol/Voyage G5 pode variar por motor, câmbio, direção hidráulica/elétrica e presença de ar condicionado.",
+      "Base técnica expandida por família de alto giro. Conferir peça antiga, código e versão antes de finalizar a venda."
+    ],
+    "confiancaBase": 78,
+    "lampadas": {}
+  },
+  {
+    "id": "bobina-onix-2020-2023",
+    "pecas": [
+      "BOBINA",
+      "BOBINA IGNICAO",
+      "BOBINA IGNIÇÃO"
+    ],
+    "marcas": [
+      "CHEVROLET",
+      "GM"
+    ],
+    "modelos": [
+      "ONIX",
+      "ONIX PLUS"
+    ],
+    "anos": [
+      2020,
+      2021,
+      2022,
+      2023
+    ],
+    "lados": [
+      "N/D"
+    ],
+    "posicoes": [
+      "MOTOR"
+    ],
+    "fabricantes": [],
+    "relacionadas": [
+      "CABO VELA",
+      "VELA",
+      "SENSOR ROTACAO"
+    ],
+    "observacoes": [
+      "Confirmar motor, quantidade de pinos e tipo de bobina.",
+      "Onix/Onix Plus pode variar por versão, motor turbo/aspirado e itens eletrônicos.",
+      "Base técnica expandida por família de alto giro. Conferir peça antiga, código e versão antes de finalizar a venda."
+    ],
+    "confiancaBase": 78,
+    "lampadas": {}
+  },
+  {
+    "id": "bobina-hb20-2012-2019",
+    "pecas": [
+      "BOBINA",
+      "BOBINA IGNICAO",
+      "BOBINA IGNIÇÃO"
+    ],
+    "marcas": [
+      "HYUNDAI"
+    ],
+    "modelos": [
+      "HB20",
+      "HB20S"
+    ],
+    "anos": [
+      2012,
+      2013,
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2019
+    ],
+    "lados": [
+      "N/D"
+    ],
+    "posicoes": [
+      "MOTOR"
+    ],
+    "fabricantes": [],
+    "relacionadas": [
+      "CABO VELA",
+      "VELA",
+      "SENSOR ROTACAO"
+    ],
+    "observacoes": [
+      "Confirmar motor, quantidade de pinos e tipo de bobina.",
+      "HB20/HB20S pode variar entre hatch/sedan, motor 1.0/1.6 e presença de ar condicionado.",
+      "Base técnica expandida por família de alto giro. Conferir peça antiga, código e versão antes de finalizar a venda."
+    ],
+    "confiancaBase": 78,
+    "lampadas": {}
+  },
+  {
+    "id": "bobina-fiesta-2003-2007",
+    "pecas": [
+      "BOBINA",
+      "BOBINA IGNICAO",
+      "BOBINA IGNIÇÃO"
+    ],
+    "marcas": [
+      "FORD"
+    ],
+    "modelos": [
+      "FIESTA"
+    ],
+    "anos": [
+      2003,
+      2004,
+      2005,
+      2006,
+      2007
+    ],
+    "lados": [
+      "N/D"
+    ],
+    "posicoes": [
+      "MOTOR"
+    ],
+    "fabricantes": [],
+    "relacionadas": [
+      "CABO VELA",
+      "VELA",
+      "SENSOR ROTACAO"
+    ],
+    "observacoes": [
+      "Confirmar motor, quantidade de pinos e tipo de bobina.",
+      "Fiesta pode variar por geração, motor e sistema de direção.",
+      "Base técnica expandida por família de alto giro. Conferir peça antiga, código e versão antes de finalizar a venda."
+    ],
+    "confiancaBase": 78,
+    "lampadas": {}
+  },
+  {
+    "id": "sensor-abs-classic-2003-2010",
+    "pecas": [
+      "SENSOR ABS"
+    ],
+    "marcas": [
+      "CHEVROLET",
+      "GM"
+    ],
+    "modelos": [
+      "CLASSIC",
+      "CORSA CLASSIC"
+    ],
+    "anos": [
+      2003,
+      2004,
+      2005,
+      2006,
+      2007,
+      2008,
+      2009,
+      2010
+    ],
+    "lados": [
+      "DIREITO",
+      "ESQUERDO"
+    ],
+    "posicoes": [
+      "DIANTEIRO",
+      "TRASEIRO"
+    ],
+    "fabricantes": [],
+    "relacionadas": [
+      "CUBO",
+      "ROLAMENTO",
+      "MODULO ABS"
+    ],
+    "observacoes": [
+      "Confirmar lado, posição e conector.",
+      "Classic/Corsa Classic pode variar por motorização, ano e presença de ar condicionado.",
+      "Base técnica expandida por família de alto giro. Conferir peça antiga, código e versão antes de finalizar a venda."
+    ],
+    "confiancaBase": 78,
+    "lampadas": {}
+  },
+  {
+    "id": "sensor-abs-corsa-1994-2002",
+    "pecas": [
+      "SENSOR ABS"
+    ],
+    "marcas": [
+      "CHEVROLET",
+      "GM"
+    ],
+    "modelos": [
+      "CORSA",
+      "CORSA WIND",
+      "CORSA SEDAN",
+      "CORSA PICKUP"
+    ],
+    "anos": [
+      1994,
+      1995,
+      1996,
+      1997,
+      1998,
+      1999,
+      2000,
+      2001,
+      2002
+    ],
+    "lados": [
+      "DIREITO",
+      "ESQUERDO"
+    ],
+    "posicoes": [
+      "DIANTEIRO",
+      "TRASEIRO"
+    ],
+    "fabricantes": [],
+    "relacionadas": [
+      "CUBO",
+      "ROLAMENTO",
+      "MODULO ABS"
+    ],
+    "observacoes": [
+      "Confirmar lado, posição e conector.",
+      "Corsa antigo possui variações por ano, carroceria e motorização.",
+      "Base técnica expandida por família de alto giro. Conferir peça antiga, código e versão antes de finalizar a venda."
+    ],
+    "confiancaBase": 78,
+    "lampadas": {}
+  },
+  {
+    "id": "sensor-abs-gol-g5-2009-2012",
+    "pecas": [
+      "SENSOR ABS"
+    ],
+    "marcas": [
+      "VOLKSWAGEN",
+      "VW"
+    ],
+    "modelos": [
+      "GOL G5",
+      "GOL",
+      "VOYAGE G5",
+      "VOYAGE"
+    ],
+    "anos": [
+      2009,
+      2010,
+      2011,
+      2012
+    ],
+    "lados": [
+      "DIREITO",
+      "ESQUERDO"
+    ],
+    "posicoes": [
+      "DIANTEIRO",
+      "TRASEIRO"
+    ],
+    "fabricantes": [],
+    "relacionadas": [
+      "CUBO",
+      "ROLAMENTO",
+      "MODULO ABS"
+    ],
+    "observacoes": [
+      "Confirmar lado, posição e conector.",
+      "Gol/Voyage G5 pode variar por motor, câmbio, direção hidráulica/elétrica e presença de ar condicionado.",
+      "Base técnica expandida por família de alto giro. Conferir peça antiga, código e versão antes de finalizar a venda."
+    ],
+    "confiancaBase": 78,
+    "lampadas": {}
+  },
+  {
+    "id": "sensor-abs-onix-2020-2023",
+    "pecas": [
+      "SENSOR ABS"
+    ],
+    "marcas": [
+      "CHEVROLET",
+      "GM"
+    ],
+    "modelos": [
+      "ONIX",
+      "ONIX PLUS"
+    ],
+    "anos": [
+      2020,
+      2021,
+      2022,
+      2023
+    ],
+    "lados": [
+      "DIREITO",
+      "ESQUERDO"
+    ],
+    "posicoes": [
+      "DIANTEIRO",
+      "TRASEIRO"
+    ],
+    "fabricantes": [],
+    "relacionadas": [
+      "CUBO",
+      "ROLAMENTO",
+      "MODULO ABS"
+    ],
+    "observacoes": [
+      "Confirmar lado, posição e conector.",
+      "Onix/Onix Plus pode variar por versão, motor turbo/aspirado e itens eletrônicos.",
+      "Base técnica expandida por família de alto giro. Conferir peça antiga, código e versão antes de finalizar a venda."
+    ],
+    "confiancaBase": 78,
+    "lampadas": {}
+  },
+  {
+    "id": "sensor-abs-hb20-2012-2019",
+    "pecas": [
+      "SENSOR ABS"
+    ],
+    "marcas": [
+      "HYUNDAI"
+    ],
+    "modelos": [
+      "HB20",
+      "HB20S"
+    ],
+    "anos": [
+      2012,
+      2013,
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2019
+    ],
+    "lados": [
+      "DIREITO",
+      "ESQUERDO"
+    ],
+    "posicoes": [
+      "DIANTEIRO",
+      "TRASEIRO"
+    ],
+    "fabricantes": [],
+    "relacionadas": [
+      "CUBO",
+      "ROLAMENTO",
+      "MODULO ABS"
+    ],
+    "observacoes": [
+      "Confirmar lado, posição e conector.",
+      "HB20/HB20S pode variar entre hatch/sedan, motor 1.0/1.6 e presença de ar condicionado.",
+      "Base técnica expandida por família de alto giro. Conferir peça antiga, código e versão antes de finalizar a venda."
+    ],
+    "confiancaBase": 78,
+    "lampadas": {}
+  },
+  {
+    "id": "sensor-abs-fiesta-2003-2007",
+    "pecas": [
+      "SENSOR ABS"
+    ],
+    "marcas": [
+      "FORD"
+    ],
+    "modelos": [
+      "FIESTA"
+    ],
+    "anos": [
+      2003,
+      2004,
+      2005,
+      2006,
+      2007
+    ],
+    "lados": [
+      "DIREITO",
+      "ESQUERDO"
+    ],
+    "posicoes": [
+      "DIANTEIRO",
+      "TRASEIRO"
+    ],
+    "fabricantes": [],
+    "relacionadas": [
+      "CUBO",
+      "ROLAMENTO",
+      "MODULO ABS"
+    ],
+    "observacoes": [
+      "Confirmar lado, posição e conector.",
+      "Fiesta pode variar por geração, motor e sistema de direção.",
+      "Base técnica expandida por família de alto giro. Conferir peça antiga, código e versão antes de finalizar a venda."
+    ],
+    "confiancaBase": 78,
+    "lampadas": {}
+  },
+  {
+    "id": "sensor-rotacao-classic-2003-2010",
+    "pecas": [
+      "SENSOR ROTACAO",
+      "SENSOR ROTAÇÃO"
+    ],
+    "marcas": [
+      "CHEVROLET",
+      "GM"
+    ],
+    "modelos": [
+      "CLASSIC",
+      "CORSA CLASSIC"
+    ],
+    "anos": [
+      2003,
+      2004,
+      2005,
+      2006,
+      2007,
+      2008,
+      2009,
+      2010
+    ],
+    "lados": [
+      "N/D"
+    ],
+    "posicoes": [
+      "MOTOR"
+    ],
+    "fabricantes": [],
+    "relacionadas": [
+      "BOBINA",
+      "MOTOR PARTIDA",
+      "CHICOTE"
+    ],
+    "observacoes": [
+      "Confirmar motor, conector e posição de instalação.",
+      "Classic/Corsa Classic pode variar por motorização, ano e presença de ar condicionado.",
+      "Base técnica expandida por família de alto giro. Conferir peça antiga, código e versão antes de finalizar a venda."
+    ],
+    "confiancaBase": 78,
+    "lampadas": {}
+  },
+  {
+    "id": "sensor-rotacao-corsa-1994-2002",
+    "pecas": [
+      "SENSOR ROTACAO",
+      "SENSOR ROTAÇÃO"
+    ],
+    "marcas": [
+      "CHEVROLET",
+      "GM"
+    ],
+    "modelos": [
+      "CORSA",
+      "CORSA WIND",
+      "CORSA SEDAN",
+      "CORSA PICKUP"
+    ],
+    "anos": [
+      1994,
+      1995,
+      1996,
+      1997,
+      1998,
+      1999,
+      2000,
+      2001,
+      2002
+    ],
+    "lados": [
+      "N/D"
+    ],
+    "posicoes": [
+      "MOTOR"
+    ],
+    "fabricantes": [],
+    "relacionadas": [
+      "BOBINA",
+      "MOTOR PARTIDA",
+      "CHICOTE"
+    ],
+    "observacoes": [
+      "Confirmar motor, conector e posição de instalação.",
+      "Corsa antigo possui variações por ano, carroceria e motorização.",
+      "Base técnica expandida por família de alto giro. Conferir peça antiga, código e versão antes de finalizar a venda."
+    ],
+    "confiancaBase": 78,
+    "lampadas": {}
+  },
+  {
+    "id": "sensor-rotacao-gol-g5-2009-2012",
+    "pecas": [
+      "SENSOR ROTACAO",
+      "SENSOR ROTAÇÃO"
+    ],
+    "marcas": [
+      "VOLKSWAGEN",
+      "VW"
+    ],
+    "modelos": [
+      "GOL G5",
+      "GOL",
+      "VOYAGE G5",
+      "VOYAGE"
+    ],
+    "anos": [
+      2009,
+      2010,
+      2011,
+      2012
+    ],
+    "lados": [
+      "N/D"
+    ],
+    "posicoes": [
+      "MOTOR"
+    ],
+    "fabricantes": [],
+    "relacionadas": [
+      "BOBINA",
+      "MOTOR PARTIDA",
+      "CHICOTE"
+    ],
+    "observacoes": [
+      "Confirmar motor, conector e posição de instalação.",
+      "Gol/Voyage G5 pode variar por motor, câmbio, direção hidráulica/elétrica e presença de ar condicionado.",
+      "Base técnica expandida por família de alto giro. Conferir peça antiga, código e versão antes de finalizar a venda."
+    ],
+    "confiancaBase": 78,
+    "lampadas": {}
+  },
+  {
+    "id": "sensor-rotacao-onix-2020-2023",
+    "pecas": [
+      "SENSOR ROTACAO",
+      "SENSOR ROTAÇÃO"
+    ],
+    "marcas": [
+      "CHEVROLET",
+      "GM"
+    ],
+    "modelos": [
+      "ONIX",
+      "ONIX PLUS"
+    ],
+    "anos": [
+      2020,
+      2021,
+      2022,
+      2023
+    ],
+    "lados": [
+      "N/D"
+    ],
+    "posicoes": [
+      "MOTOR"
+    ],
+    "fabricantes": [],
+    "relacionadas": [
+      "BOBINA",
+      "MOTOR PARTIDA",
+      "CHICOTE"
+    ],
+    "observacoes": [
+      "Confirmar motor, conector e posição de instalação.",
+      "Onix/Onix Plus pode variar por versão, motor turbo/aspirado e itens eletrônicos.",
+      "Base técnica expandida por família de alto giro. Conferir peça antiga, código e versão antes de finalizar a venda."
+    ],
+    "confiancaBase": 78,
+    "lampadas": {}
+  },
+  {
+    "id": "sensor-rotacao-hb20-2012-2019",
+    "pecas": [
+      "SENSOR ROTACAO",
+      "SENSOR ROTAÇÃO"
+    ],
+    "marcas": [
+      "HYUNDAI"
+    ],
+    "modelos": [
+      "HB20",
+      "HB20S"
+    ],
+    "anos": [
+      2012,
+      2013,
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2019
+    ],
+    "lados": [
+      "N/D"
+    ],
+    "posicoes": [
+      "MOTOR"
+    ],
+    "fabricantes": [],
+    "relacionadas": [
+      "BOBINA",
+      "MOTOR PARTIDA",
+      "CHICOTE"
+    ],
+    "observacoes": [
+      "Confirmar motor, conector e posição de instalação.",
+      "HB20/HB20S pode variar entre hatch/sedan, motor 1.0/1.6 e presença de ar condicionado.",
+      "Base técnica expandida por família de alto giro. Conferir peça antiga, código e versão antes de finalizar a venda."
+    ],
+    "confiancaBase": 78,
+    "lampadas": {}
+  },
+  {
+    "id": "sensor-rotacao-fiesta-2003-2007",
+    "pecas": [
+      "SENSOR ROTACAO",
+      "SENSOR ROTAÇÃO"
+    ],
+    "marcas": [
+      "FORD"
+    ],
+    "modelos": [
+      "FIESTA"
+    ],
+    "anos": [
+      2003,
+      2004,
+      2005,
+      2006,
+      2007
+    ],
+    "lados": [
+      "N/D"
+    ],
+    "posicoes": [
+      "MOTOR"
+    ],
+    "fabricantes": [],
+    "relacionadas": [
+      "BOBINA",
+      "MOTOR PARTIDA",
+      "CHICOTE"
+    ],
+    "observacoes": [
+      "Confirmar motor, conector e posição de instalação.",
+      "Fiesta pode variar por geração, motor e sistema de direção.",
+      "Base técnica expandida por família de alto giro. Conferir peça antiga, código e versão antes de finalizar a venda."
+    ],
+    "confiancaBase": 78,
+    "lampadas": {}
+  },
+  {
+    "id": "sensor-temperatura-classic-2003-2010",
+    "pecas": [
+      "SENSOR TEMPERATURA",
+      "SENSOR DE TEMPERATURA"
+    ],
+    "marcas": [
+      "CHEVROLET",
+      "GM"
+    ],
+    "modelos": [
+      "CLASSIC",
+      "CORSA CLASSIC"
+    ],
+    "anos": [
+      2003,
+      2004,
+      2005,
+      2006,
+      2007,
+      2008,
+      2009,
+      2010
+    ],
+    "lados": [
+      "N/D"
+    ],
+    "posicoes": [
+      "MOTOR"
+    ],
+    "fabricantes": [],
+    "relacionadas": [
+      "RADIADOR",
+      "VENTOINHA",
+      "VALVULA TERMOSTATICA"
+    ],
+    "observacoes": [
+      "Confirmar motor, quantidade de pinos e rosca/encaixe.",
+      "Classic/Corsa Classic pode variar por motorização, ano e presença de ar condicionado.",
+      "Base técnica expandida por família de alto giro. Conferir peça antiga, código e versão antes de finalizar a venda."
+    ],
+    "confiancaBase": 78,
+    "lampadas": {}
+  },
+  {
+    "id": "sensor-temperatura-corsa-1994-2002",
+    "pecas": [
+      "SENSOR TEMPERATURA",
+      "SENSOR DE TEMPERATURA"
+    ],
+    "marcas": [
+      "CHEVROLET",
+      "GM"
+    ],
+    "modelos": [
+      "CORSA",
+      "CORSA WIND",
+      "CORSA SEDAN",
+      "CORSA PICKUP"
+    ],
+    "anos": [
+      1994,
+      1995,
+      1996,
+      1997,
+      1998,
+      1999,
+      2000,
+      2001,
+      2002
+    ],
+    "lados": [
+      "N/D"
+    ],
+    "posicoes": [
+      "MOTOR"
+    ],
+    "fabricantes": [],
+    "relacionadas": [
+      "RADIADOR",
+      "VENTOINHA",
+      "VALVULA TERMOSTATICA"
+    ],
+    "observacoes": [
+      "Confirmar motor, quantidade de pinos e rosca/encaixe.",
+      "Corsa antigo possui variações por ano, carroceria e motorização.",
+      "Base técnica expandida por família de alto giro. Conferir peça antiga, código e versão antes de finalizar a venda."
+    ],
+    "confiancaBase": 78,
+    "lampadas": {}
+  },
+  {
+    "id": "sensor-temperatura-gol-g5-2009-2012",
+    "pecas": [
+      "SENSOR TEMPERATURA",
+      "SENSOR DE TEMPERATURA"
+    ],
+    "marcas": [
+      "VOLKSWAGEN",
+      "VW"
+    ],
+    "modelos": [
+      "GOL G5",
+      "GOL",
+      "VOYAGE G5",
+      "VOYAGE"
+    ],
+    "anos": [
+      2009,
+      2010,
+      2011,
+      2012
+    ],
+    "lados": [
+      "N/D"
+    ],
+    "posicoes": [
+      "MOTOR"
+    ],
+    "fabricantes": [],
+    "relacionadas": [
+      "RADIADOR",
+      "VENTOINHA",
+      "VALVULA TERMOSTATICA"
+    ],
+    "observacoes": [
+      "Confirmar motor, quantidade de pinos e rosca/encaixe.",
+      "Gol/Voyage G5 pode variar por motor, câmbio, direção hidráulica/elétrica e presença de ar condicionado.",
+      "Base técnica expandida por família de alto giro. Conferir peça antiga, código e versão antes de finalizar a venda."
+    ],
+    "confiancaBase": 78,
+    "lampadas": {}
+  },
+  {
+    "id": "sensor-temperatura-onix-2020-2023",
+    "pecas": [
+      "SENSOR TEMPERATURA",
+      "SENSOR DE TEMPERATURA"
+    ],
+    "marcas": [
+      "CHEVROLET",
+      "GM"
+    ],
+    "modelos": [
+      "ONIX",
+      "ONIX PLUS"
+    ],
+    "anos": [
+      2020,
+      2021,
+      2022,
+      2023
+    ],
+    "lados": [
+      "N/D"
+    ],
+    "posicoes": [
+      "MOTOR"
+    ],
+    "fabricantes": [],
+    "relacionadas": [
+      "RADIADOR",
+      "VENTOINHA",
+      "VALVULA TERMOSTATICA"
+    ],
+    "observacoes": [
+      "Confirmar motor, quantidade de pinos e rosca/encaixe.",
+      "Onix/Onix Plus pode variar por versão, motor turbo/aspirado e itens eletrônicos.",
+      "Base técnica expandida por família de alto giro. Conferir peça antiga, código e versão antes de finalizar a venda."
+    ],
+    "confiancaBase": 78,
+    "lampadas": {}
+  },
+  {
+    "id": "sensor-temperatura-hb20-2012-2019",
+    "pecas": [
+      "SENSOR TEMPERATURA",
+      "SENSOR DE TEMPERATURA"
+    ],
+    "marcas": [
+      "HYUNDAI"
+    ],
+    "modelos": [
+      "HB20",
+      "HB20S"
+    ],
+    "anos": [
+      2012,
+      2013,
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2019
+    ],
+    "lados": [
+      "N/D"
+    ],
+    "posicoes": [
+      "MOTOR"
+    ],
+    "fabricantes": [],
+    "relacionadas": [
+      "RADIADOR",
+      "VENTOINHA",
+      "VALVULA TERMOSTATICA"
+    ],
+    "observacoes": [
+      "Confirmar motor, quantidade de pinos e rosca/encaixe.",
+      "HB20/HB20S pode variar entre hatch/sedan, motor 1.0/1.6 e presença de ar condicionado.",
+      "Base técnica expandida por família de alto giro. Conferir peça antiga, código e versão antes de finalizar a venda."
+    ],
+    "confiancaBase": 78,
+    "lampadas": {}
+  },
+  {
+    "id": "sensor-temperatura-fiesta-2003-2007",
+    "pecas": [
+      "SENSOR TEMPERATURA",
+      "SENSOR DE TEMPERATURA"
+    ],
+    "marcas": [
+      "FORD"
+    ],
+    "modelos": [
+      "FIESTA"
+    ],
+    "anos": [
+      2003,
+      2004,
+      2005,
+      2006,
+      2007
+    ],
+    "lados": [
+      "N/D"
+    ],
+    "posicoes": [
+      "MOTOR"
+    ],
+    "fabricantes": [],
+    "relacionadas": [
+      "RADIADOR",
+      "VENTOINHA",
+      "VALVULA TERMOSTATICA"
+    ],
+    "observacoes": [
+      "Confirmar motor, quantidade de pinos e rosca/encaixe.",
+      "Fiesta pode variar por geração, motor e sistema de direção.",
+      "Base técnica expandida por família de alto giro. Conferir peça antiga, código e versão antes de finalizar a venda."
+    ],
+    "confiancaBase": 78,
+    "lampadas": {}
+  },
+  {
+    "id": "interruptores-classic-2003-2010",
+    "pecas": [
+      "INTERRUPTOR",
+      "INTERRUPTORES",
+      "INTERRUPTOR FREIO",
+      "INTERRUPTOR OLEO",
+      "INTERRUPTOR RE"
+    ],
+    "marcas": [
+      "CHEVROLET",
+      "GM"
+    ],
+    "modelos": [
+      "CLASSIC",
+      "CORSA CLASSIC"
+    ],
+    "anos": [
+      2003,
+      2004,
+      2005,
+      2006,
+      2007,
+      2008,
+      2009,
+      2010
+    ],
+    "lados": [
+      "N/D"
+    ],
+    "posicoes": [
+      "INTERNO",
+      "MOTOR",
+      "CAMBIO"
+    ],
+    "fabricantes": [],
+    "relacionadas": [
+      "CHICOTE",
+      "SENSOR",
+      "PAINEL"
+    ],
+    "observacoes": [
+      "Confirmar função do interruptor, conector e local de instalação.",
+      "Classic/Corsa Classic pode variar por motorização, ano e presença de ar condicionado.",
+      "Base técnica expandida por família de alto giro. Conferir peça antiga, código e versão antes de finalizar a venda."
+    ],
+    "confiancaBase": 78,
+    "lampadas": {}
+  },
+  {
+    "id": "interruptores-corsa-1994-2002",
+    "pecas": [
+      "INTERRUPTOR",
+      "INTERRUPTORES",
+      "INTERRUPTOR FREIO",
+      "INTERRUPTOR OLEO",
+      "INTERRUPTOR RE"
+    ],
+    "marcas": [
+      "CHEVROLET",
+      "GM"
+    ],
+    "modelos": [
+      "CORSA",
+      "CORSA WIND",
+      "CORSA SEDAN",
+      "CORSA PICKUP"
+    ],
+    "anos": [
+      1994,
+      1995,
+      1996,
+      1997,
+      1998,
+      1999,
+      2000,
+      2001,
+      2002
+    ],
+    "lados": [
+      "N/D"
+    ],
+    "posicoes": [
+      "INTERNO",
+      "MOTOR",
+      "CAMBIO"
+    ],
+    "fabricantes": [],
+    "relacionadas": [
+      "CHICOTE",
+      "SENSOR",
+      "PAINEL"
+    ],
+    "observacoes": [
+      "Confirmar função do interruptor, conector e local de instalação.",
+      "Corsa antigo possui variações por ano, carroceria e motorização.",
+      "Base técnica expandida por família de alto giro. Conferir peça antiga, código e versão antes de finalizar a venda."
+    ],
+    "confiancaBase": 78,
+    "lampadas": {}
+  },
+  {
+    "id": "interruptores-gol-g5-2009-2012",
+    "pecas": [
+      "INTERRUPTOR",
+      "INTERRUPTORES",
+      "INTERRUPTOR FREIO",
+      "INTERRUPTOR OLEO",
+      "INTERRUPTOR RE"
+    ],
+    "marcas": [
+      "VOLKSWAGEN",
+      "VW"
+    ],
+    "modelos": [
+      "GOL G5",
+      "GOL",
+      "VOYAGE G5",
+      "VOYAGE"
+    ],
+    "anos": [
+      2009,
+      2010,
+      2011,
+      2012
+    ],
+    "lados": [
+      "N/D"
+    ],
+    "posicoes": [
+      "INTERNO",
+      "MOTOR",
+      "CAMBIO"
+    ],
+    "fabricantes": [],
+    "relacionadas": [
+      "CHICOTE",
+      "SENSOR",
+      "PAINEL"
+    ],
+    "observacoes": [
+      "Confirmar função do interruptor, conector e local de instalação.",
+      "Gol/Voyage G5 pode variar por motor, câmbio, direção hidráulica/elétrica e presença de ar condicionado.",
+      "Base técnica expandida por família de alto giro. Conferir peça antiga, código e versão antes de finalizar a venda."
+    ],
+    "confiancaBase": 78,
+    "lampadas": {}
+  },
+  {
+    "id": "interruptores-onix-2020-2023",
+    "pecas": [
+      "INTERRUPTOR",
+      "INTERRUPTORES",
+      "INTERRUPTOR FREIO",
+      "INTERRUPTOR OLEO",
+      "INTERRUPTOR RE"
+    ],
+    "marcas": [
+      "CHEVROLET",
+      "GM"
+    ],
+    "modelos": [
+      "ONIX",
+      "ONIX PLUS"
+    ],
+    "anos": [
+      2020,
+      2021,
+      2022,
+      2023
+    ],
+    "lados": [
+      "N/D"
+    ],
+    "posicoes": [
+      "INTERNO",
+      "MOTOR",
+      "CAMBIO"
+    ],
+    "fabricantes": [],
+    "relacionadas": [
+      "CHICOTE",
+      "SENSOR",
+      "PAINEL"
+    ],
+    "observacoes": [
+      "Confirmar função do interruptor, conector e local de instalação.",
+      "Onix/Onix Plus pode variar por versão, motor turbo/aspirado e itens eletrônicos.",
+      "Base técnica expandida por família de alto giro. Conferir peça antiga, código e versão antes de finalizar a venda."
+    ],
+    "confiancaBase": 78,
+    "lampadas": {}
+  },
+  {
+    "id": "interruptores-hb20-2012-2019",
+    "pecas": [
+      "INTERRUPTOR",
+      "INTERRUPTORES",
+      "INTERRUPTOR FREIO",
+      "INTERRUPTOR OLEO",
+      "INTERRUPTOR RE"
+    ],
+    "marcas": [
+      "HYUNDAI"
+    ],
+    "modelos": [
+      "HB20",
+      "HB20S"
+    ],
+    "anos": [
+      2012,
+      2013,
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2019
+    ],
+    "lados": [
+      "N/D"
+    ],
+    "posicoes": [
+      "INTERNO",
+      "MOTOR",
+      "CAMBIO"
+    ],
+    "fabricantes": [],
+    "relacionadas": [
+      "CHICOTE",
+      "SENSOR",
+      "PAINEL"
+    ],
+    "observacoes": [
+      "Confirmar função do interruptor, conector e local de instalação.",
+      "HB20/HB20S pode variar entre hatch/sedan, motor 1.0/1.6 e presença de ar condicionado.",
+      "Base técnica expandida por família de alto giro. Conferir peça antiga, código e versão antes de finalizar a venda."
+    ],
+    "confiancaBase": 78,
+    "lampadas": {}
+  },
+  {
+    "id": "interruptores-fiesta-2003-2007",
+    "pecas": [
+      "INTERRUPTOR",
+      "INTERRUPTORES",
+      "INTERRUPTOR FREIO",
+      "INTERRUPTOR OLEO",
+      "INTERRUPTOR RE"
+    ],
+    "marcas": [
+      "FORD"
+    ],
+    "modelos": [
+      "FIESTA"
+    ],
+    "anos": [
+      2003,
+      2004,
+      2005,
+      2006,
+      2007
+    ],
+    "lados": [
+      "N/D"
+    ],
+    "posicoes": [
+      "INTERNO",
+      "MOTOR",
+      "CAMBIO"
+    ],
+    "fabricantes": [],
+    "relacionadas": [
+      "CHICOTE",
+      "SENSOR",
+      "PAINEL"
+    ],
+    "observacoes": [
+      "Confirmar função do interruptor, conector e local de instalação.",
+      "Fiesta pode variar por geração, motor e sistema de direção.",
+      "Base técnica expandida por família de alto giro. Conferir peça antiga, código e versão antes de finalizar a venda."
+    ],
+    "confiancaBase": 78,
+    "lampadas": {}
+  },
+  {
+    "id": "filtro-cabine-classic-2003-2010",
+    "pecas": [
+      "FILTRO CABINE",
+      "FILTRO DO AR CONDICIONADO",
+      "FILTRO AR CONDICIONADO"
+    ],
+    "marcas": [
+      "CHEVROLET",
+      "GM"
+    ],
+    "modelos": [
+      "CLASSIC",
+      "CORSA CLASSIC"
+    ],
+    "anos": [
+      2003,
+      2004,
+      2005,
+      2006,
+      2007,
+      2008,
+      2009,
+      2010
+    ],
+    "lados": [
+      "N/D"
+    ],
+    "posicoes": [
+      "INTERNO"
+    ],
+    "fabricantes": [],
+    "relacionadas": [
+      "CAIXA EVAPORADORA",
+      "VENTILADOR INTERNO",
+      "HIGIENIZACAO AR"
+    ],
+    "observacoes": [
+      "Confirmar se o veículo possui alojamento para filtro de cabine.",
+      "Classic/Corsa Classic pode variar por motorização, ano e presença de ar condicionado.",
+      "Base técnica expandida por família de alto giro. Conferir peça antiga, código e versão antes de finalizar a venda."
+    ],
+    "confiancaBase": 78,
+    "lampadas": {}
+  },
+  {
+    "id": "filtro-cabine-corsa-1994-2002",
+    "pecas": [
+      "FILTRO CABINE",
+      "FILTRO DO AR CONDICIONADO",
+      "FILTRO AR CONDICIONADO"
+    ],
+    "marcas": [
+      "CHEVROLET",
+      "GM"
+    ],
+    "modelos": [
+      "CORSA",
+      "CORSA WIND",
+      "CORSA SEDAN",
+      "CORSA PICKUP"
+    ],
+    "anos": [
+      1994,
+      1995,
+      1996,
+      1997,
+      1998,
+      1999,
+      2000,
+      2001,
+      2002
+    ],
+    "lados": [
+      "N/D"
+    ],
+    "posicoes": [
+      "INTERNO"
+    ],
+    "fabricantes": [],
+    "relacionadas": [
+      "CAIXA EVAPORADORA",
+      "VENTILADOR INTERNO",
+      "HIGIENIZACAO AR"
+    ],
+    "observacoes": [
+      "Confirmar se o veículo possui alojamento para filtro de cabine.",
+      "Corsa antigo possui variações por ano, carroceria e motorização.",
+      "Base técnica expandida por família de alto giro. Conferir peça antiga, código e versão antes de finalizar a venda."
+    ],
+    "confiancaBase": 78,
+    "lampadas": {}
+  },
+  {
+    "id": "filtro-cabine-gol-g5-2009-2012",
+    "pecas": [
+      "FILTRO CABINE",
+      "FILTRO DO AR CONDICIONADO",
+      "FILTRO AR CONDICIONADO"
+    ],
+    "marcas": [
+      "VOLKSWAGEN",
+      "VW"
+    ],
+    "modelos": [
+      "GOL G5",
+      "GOL",
+      "VOYAGE G5",
+      "VOYAGE"
+    ],
+    "anos": [
+      2009,
+      2010,
+      2011,
+      2012
+    ],
+    "lados": [
+      "N/D"
+    ],
+    "posicoes": [
+      "INTERNO"
+    ],
+    "fabricantes": [],
+    "relacionadas": [
+      "CAIXA EVAPORADORA",
+      "VENTILADOR INTERNO",
+      "HIGIENIZACAO AR"
+    ],
+    "observacoes": [
+      "Confirmar se o veículo possui alojamento para filtro de cabine.",
+      "Gol/Voyage G5 pode variar por motor, câmbio, direção hidráulica/elétrica e presença de ar condicionado.",
+      "Base técnica expandida por família de alto giro. Conferir peça antiga, código e versão antes de finalizar a venda."
+    ],
+    "confiancaBase": 78,
+    "lampadas": {}
+  },
+  {
+    "id": "filtro-cabine-onix-2020-2023",
+    "pecas": [
+      "FILTRO CABINE",
+      "FILTRO DO AR CONDICIONADO",
+      "FILTRO AR CONDICIONADO"
+    ],
+    "marcas": [
+      "CHEVROLET",
+      "GM"
+    ],
+    "modelos": [
+      "ONIX",
+      "ONIX PLUS"
+    ],
+    "anos": [
+      2020,
+      2021,
+      2022,
+      2023
+    ],
+    "lados": [
+      "N/D"
+    ],
+    "posicoes": [
+      "INTERNO"
+    ],
+    "fabricantes": [],
+    "relacionadas": [
+      "CAIXA EVAPORADORA",
+      "VENTILADOR INTERNO",
+      "HIGIENIZACAO AR"
+    ],
+    "observacoes": [
+      "Confirmar se o veículo possui alojamento para filtro de cabine.",
+      "Onix/Onix Plus pode variar por versão, motor turbo/aspirado e itens eletrônicos.",
+      "Base técnica expandida por família de alto giro. Conferir peça antiga, código e versão antes de finalizar a venda."
+    ],
+    "confiancaBase": 78,
+    "lampadas": {}
+  },
+  {
+    "id": "filtro-cabine-hb20-2012-2019",
+    "pecas": [
+      "FILTRO CABINE",
+      "FILTRO DO AR CONDICIONADO",
+      "FILTRO AR CONDICIONADO"
+    ],
+    "marcas": [
+      "HYUNDAI"
+    ],
+    "modelos": [
+      "HB20",
+      "HB20S"
+    ],
+    "anos": [
+      2012,
+      2013,
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2019
+    ],
+    "lados": [
+      "N/D"
+    ],
+    "posicoes": [
+      "INTERNO"
+    ],
+    "fabricantes": [],
+    "relacionadas": [
+      "CAIXA EVAPORADORA",
+      "VENTILADOR INTERNO",
+      "HIGIENIZACAO AR"
+    ],
+    "observacoes": [
+      "Confirmar se o veículo possui alojamento para filtro de cabine.",
+      "HB20/HB20S pode variar entre hatch/sedan, motor 1.0/1.6 e presença de ar condicionado.",
+      "Base técnica expandida por família de alto giro. Conferir peça antiga, código e versão antes de finalizar a venda."
+    ],
+    "confiancaBase": 78,
+    "lampadas": {}
+  },
+  {
+    "id": "filtro-cabine-fiesta-2003-2007",
+    "pecas": [
+      "FILTRO CABINE",
+      "FILTRO DO AR CONDICIONADO",
+      "FILTRO AR CONDICIONADO"
+    ],
+    "marcas": [
+      "FORD"
+    ],
+    "modelos": [
+      "FIESTA"
+    ],
+    "anos": [
+      2003,
+      2004,
+      2005,
+      2006,
+      2007
+    ],
+    "lados": [
+      "N/D"
+    ],
+    "posicoes": [
+      "INTERNO"
+    ],
+    "fabricantes": [],
+    "relacionadas": [
+      "CAIXA EVAPORADORA",
+      "VENTILADOR INTERNO",
+      "HIGIENIZACAO AR"
+    ],
+    "observacoes": [
+      "Confirmar se o veículo possui alojamento para filtro de cabine.",
+      "Fiesta pode variar por geração, motor e sistema de direção.",
+      "Base técnica expandida por família de alto giro. Conferir peça antiga, código e versão antes de finalizar a venda."
+    ],
+    "confiancaBase": 78,
+    "lampadas": {}
   }
 ]
