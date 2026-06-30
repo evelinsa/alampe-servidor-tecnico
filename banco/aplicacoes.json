@@ -1,5 +1,4661 @@
 [
   {
+    "id": "master-motor-completo-hb20-2012-2019",
+    "pecas": [
+      "MOTOR COMPLETO"
+    ],
+    "tipoPeca": "MECÂNICA MOTOR",
+    "marcas": [
+      "HYUNDAI"
+    ],
+    "modelos": [
+      "HB20",
+      "HB20S"
+    ],
+    "anos": [
+      2012,
+      2013,
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2019
+    ],
+    "motores": [
+      "1.0 Kappa Flex 12V / 1.6 Gamma Flex 16V"
+    ],
+    "lados": [
+      "N/D"
+    ],
+    "posicoes": [
+      "MOTOR"
+    ],
+    "compatibilidadeRegra": "MOTOR_EXATO_POR_CILINDRADA_VALVULAS_CODIGO",
+    "dadosMotor": [
+      {
+        "anos": "2012-2019",
+        "motor": "1.0 Kappa Flex 12V",
+        "cilindrada": "998 cm³",
+        "cilindros": "3 cilindros",
+        "valvulas": "12V",
+        "cv": "75/80 cv",
+        "potencia": "75 cv gasolina / 80 cv etanol",
+        "combustivel": "Flex",
+        "codigoMotor": "Kappa G3LA/G3LA Flex (confirmar chassi)",
+        "observacao": "Compatibilidade de motor depende do código do motor, chicote, injeção, câmbio e ano."
+      },
+      {
+        "anos": "2012-2019",
+        "motor": "1.6 Gamma Flex 16V",
+        "cilindrada": "1.591 cm³",
+        "cilindros": "4 cilindros",
+        "valvulas": "16V",
+        "cv": "122/128 cv",
+        "potencia": "122 cv gasolina / 128 cv etanol",
+        "combustivel": "Flex",
+        "codigoMotor": "Gamma G4FC/G4FG conforme aplicação (confirmar chassi)",
+        "observacao": "Não vender como compatível com 1.0. Confirmar código do motor e peça antiga."
+      }
+    ],
+    "compatibilidadeEssencial": [
+      {
+        "campo": "Peça",
+        "valor": "MOTOR COMPLETO"
+      },
+      {
+        "campo": "Aplicação base",
+        "valor": "HYUNDAI HB20 / HB20S"
+      },
+      {
+        "campo": "Anos",
+        "valor": "2012-2019"
+      },
+      {
+        "campo": "Conferir antes da venda",
+        "valor": "cilindrada, CV, cilindros, válvulas, combustível, código do motor, chassi e peça antiga"
+      },
+      {
+        "campo": "Lado",
+        "valor": "NÃO SE APLICA"
+      }
+    ],
+    "relacionadas": [
+      "JUNTA",
+      "RETENTOR",
+      "CORREIA",
+      "TENSOR",
+      "SENSOR ROTAÇÃO",
+      "SENSOR TEMPERATURA"
+    ],
+    "observacoes": [
+      "Base master etapa 1. Dados usados para compatibilidade técnica; confirmar código do motor/chassi antes de finalizar a venda."
+    ],
+    "confiancaBase": 94,
+    "faseTecnica": "BASE MASTER MOTORES ETAPA 1"
+  },
+  {
+    "id": "master-cabe-ote-hb20-2012-2019",
+    "pecas": [
+      "CABEÇOTE"
+    ],
+    "tipoPeca": "MECÂNICA MOTOR",
+    "marcas": [
+      "HYUNDAI"
+    ],
+    "modelos": [
+      "HB20",
+      "HB20S"
+    ],
+    "anos": [
+      2012,
+      2013,
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2019
+    ],
+    "motores": [
+      "1.0 Kappa Flex 12V / 1.6 Gamma Flex 16V"
+    ],
+    "lados": [
+      "N/D"
+    ],
+    "posicoes": [
+      "MOTOR"
+    ],
+    "compatibilidadeRegra": "MOTOR_EXATO_POR_CILINDRADA_VALVULAS_CODIGO",
+    "dadosMotor": [
+      {
+        "anos": "2012-2019",
+        "motor": "1.0 Kappa Flex 12V",
+        "cilindrada": "998 cm³",
+        "cilindros": "3 cilindros",
+        "valvulas": "12V",
+        "cv": "75/80 cv",
+        "potencia": "75 cv gasolina / 80 cv etanol",
+        "combustivel": "Flex",
+        "codigoMotor": "Kappa G3LA/G3LA Flex (confirmar chassi)",
+        "observacao": "Compatibilidade de motor depende do código do motor, chicote, injeção, câmbio e ano."
+      },
+      {
+        "anos": "2012-2019",
+        "motor": "1.6 Gamma Flex 16V",
+        "cilindrada": "1.591 cm³",
+        "cilindros": "4 cilindros",
+        "valvulas": "16V",
+        "cv": "122/128 cv",
+        "potencia": "122 cv gasolina / 128 cv etanol",
+        "combustivel": "Flex",
+        "codigoMotor": "Gamma G4FC/G4FG conforme aplicação (confirmar chassi)",
+        "observacao": "Não vender como compatível com 1.0. Confirmar código do motor e peça antiga."
+      }
+    ],
+    "compatibilidadeEssencial": [
+      {
+        "campo": "Peça",
+        "valor": "CABEÇOTE"
+      },
+      {
+        "campo": "Aplicação base",
+        "valor": "HYUNDAI HB20 / HB20S"
+      },
+      {
+        "campo": "Anos",
+        "valor": "2012-2019"
+      },
+      {
+        "campo": "Conferir antes da venda",
+        "valor": "cilindrada, CV, cilindros, válvulas, combustível, código do motor, chassi e peça antiga"
+      },
+      {
+        "campo": "Lado",
+        "valor": "NÃO SE APLICA"
+      }
+    ],
+    "relacionadas": [
+      "JUNTA",
+      "RETENTOR",
+      "CORREIA",
+      "TENSOR",
+      "SENSOR ROTAÇÃO",
+      "SENSOR TEMPERATURA"
+    ],
+    "observacoes": [
+      "Base master etapa 1. Dados usados para compatibilidade técnica; confirmar código do motor/chassi antes de finalizar a venda."
+    ],
+    "confiancaBase": 94,
+    "faseTecnica": "BASE MASTER MOTORES ETAPA 1"
+  },
+  {
+    "id": "master-tampa-de-v-lvulas-hb20-2012-2019",
+    "pecas": [
+      "TAMPA DE VÁLVULAS"
+    ],
+    "tipoPeca": "MECÂNICA MOTOR",
+    "marcas": [
+      "HYUNDAI"
+    ],
+    "modelos": [
+      "HB20",
+      "HB20S"
+    ],
+    "anos": [
+      2012,
+      2013,
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2019
+    ],
+    "motores": [
+      "1.0 Kappa Flex 12V / 1.6 Gamma Flex 16V"
+    ],
+    "lados": [
+      "N/D"
+    ],
+    "posicoes": [
+      "MOTOR"
+    ],
+    "compatibilidadeRegra": "MOTOR_EXATO_POR_CILINDRADA_VALVULAS_CODIGO",
+    "dadosMotor": [
+      {
+        "anos": "2012-2019",
+        "motor": "1.0 Kappa Flex 12V",
+        "cilindrada": "998 cm³",
+        "cilindros": "3 cilindros",
+        "valvulas": "12V",
+        "cv": "75/80 cv",
+        "potencia": "75 cv gasolina / 80 cv etanol",
+        "combustivel": "Flex",
+        "codigoMotor": "Kappa G3LA/G3LA Flex (confirmar chassi)",
+        "observacao": "Compatibilidade de motor depende do código do motor, chicote, injeção, câmbio e ano."
+      },
+      {
+        "anos": "2012-2019",
+        "motor": "1.6 Gamma Flex 16V",
+        "cilindrada": "1.591 cm³",
+        "cilindros": "4 cilindros",
+        "valvulas": "16V",
+        "cv": "122/128 cv",
+        "potencia": "122 cv gasolina / 128 cv etanol",
+        "combustivel": "Flex",
+        "codigoMotor": "Gamma G4FC/G4FG conforme aplicação (confirmar chassi)",
+        "observacao": "Não vender como compatível com 1.0. Confirmar código do motor e peça antiga."
+      }
+    ],
+    "compatibilidadeEssencial": [
+      {
+        "campo": "Peça",
+        "valor": "TAMPA DE VÁLVULAS"
+      },
+      {
+        "campo": "Aplicação base",
+        "valor": "HYUNDAI HB20 / HB20S"
+      },
+      {
+        "campo": "Anos",
+        "valor": "2012-2019"
+      },
+      {
+        "campo": "Conferir antes da venda",
+        "valor": "cilindrada, CV, cilindros, válvulas, combustível, código do motor, chassi e peça antiga"
+      },
+      {
+        "campo": "Lado",
+        "valor": "NÃO SE APLICA"
+      }
+    ],
+    "relacionadas": [
+      "JUNTA",
+      "RETENTOR",
+      "CORREIA",
+      "TENSOR",
+      "SENSOR ROTAÇÃO",
+      "SENSOR TEMPERATURA"
+    ],
+    "observacoes": [
+      "Base master etapa 1. Dados usados para compatibilidade técnica; confirmar código do motor/chassi antes de finalizar a venda."
+    ],
+    "confiancaBase": 94,
+    "faseTecnica": "BASE MASTER MOTORES ETAPA 1"
+  },
+  {
+    "id": "master-c-rter-hb20-2012-2019",
+    "pecas": [
+      "CÁRTER"
+    ],
+    "tipoPeca": "MECÂNICA MOTOR",
+    "marcas": [
+      "HYUNDAI"
+    ],
+    "modelos": [
+      "HB20",
+      "HB20S"
+    ],
+    "anos": [
+      2012,
+      2013,
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2019
+    ],
+    "motores": [
+      "1.0 Kappa Flex 12V / 1.6 Gamma Flex 16V"
+    ],
+    "lados": [
+      "N/D"
+    ],
+    "posicoes": [
+      "MOTOR"
+    ],
+    "compatibilidadeRegra": "MOTOR_EXATO_POR_CILINDRADA_VALVULAS_CODIGO",
+    "dadosMotor": [
+      {
+        "anos": "2012-2019",
+        "motor": "1.0 Kappa Flex 12V",
+        "cilindrada": "998 cm³",
+        "cilindros": "3 cilindros",
+        "valvulas": "12V",
+        "cv": "75/80 cv",
+        "potencia": "75 cv gasolina / 80 cv etanol",
+        "combustivel": "Flex",
+        "codigoMotor": "Kappa G3LA/G3LA Flex (confirmar chassi)",
+        "observacao": "Compatibilidade de motor depende do código do motor, chicote, injeção, câmbio e ano."
+      },
+      {
+        "anos": "2012-2019",
+        "motor": "1.6 Gamma Flex 16V",
+        "cilindrada": "1.591 cm³",
+        "cilindros": "4 cilindros",
+        "valvulas": "16V",
+        "cv": "122/128 cv",
+        "potencia": "122 cv gasolina / 128 cv etanol",
+        "combustivel": "Flex",
+        "codigoMotor": "Gamma G4FC/G4FG conforme aplicação (confirmar chassi)",
+        "observacao": "Não vender como compatível com 1.0. Confirmar código do motor e peça antiga."
+      }
+    ],
+    "compatibilidadeEssencial": [
+      {
+        "campo": "Peça",
+        "valor": "CÁRTER"
+      },
+      {
+        "campo": "Aplicação base",
+        "valor": "HYUNDAI HB20 / HB20S"
+      },
+      {
+        "campo": "Anos",
+        "valor": "2012-2019"
+      },
+      {
+        "campo": "Conferir antes da venda",
+        "valor": "cilindrada, CV, cilindros, válvulas, combustível, código do motor, chassi e peça antiga"
+      },
+      {
+        "campo": "Lado",
+        "valor": "NÃO SE APLICA"
+      }
+    ],
+    "relacionadas": [
+      "JUNTA",
+      "RETENTOR",
+      "CORREIA",
+      "TENSOR",
+      "SENSOR ROTAÇÃO",
+      "SENSOR TEMPERATURA"
+    ],
+    "observacoes": [
+      "Base master etapa 1. Dados usados para compatibilidade técnica; confirmar código do motor/chassi antes de finalizar a venda."
+    ],
+    "confiancaBase": 94,
+    "faseTecnica": "BASE MASTER MOTORES ETAPA 1"
+  },
+  {
+    "id": "master-bomba-de-leo-hb20-2012-2019",
+    "pecas": [
+      "BOMBA DE ÓLEO"
+    ],
+    "tipoPeca": "MECÂNICA MOTOR",
+    "marcas": [
+      "HYUNDAI"
+    ],
+    "modelos": [
+      "HB20",
+      "HB20S"
+    ],
+    "anos": [
+      2012,
+      2013,
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2019
+    ],
+    "motores": [
+      "1.0 Kappa Flex 12V / 1.6 Gamma Flex 16V"
+    ],
+    "lados": [
+      "N/D"
+    ],
+    "posicoes": [
+      "MOTOR"
+    ],
+    "compatibilidadeRegra": "MOTOR_EXATO_POR_CILINDRADA_VALVULAS_CODIGO",
+    "dadosMotor": [
+      {
+        "anos": "2012-2019",
+        "motor": "1.0 Kappa Flex 12V",
+        "cilindrada": "998 cm³",
+        "cilindros": "3 cilindros",
+        "valvulas": "12V",
+        "cv": "75/80 cv",
+        "potencia": "75 cv gasolina / 80 cv etanol",
+        "combustivel": "Flex",
+        "codigoMotor": "Kappa G3LA/G3LA Flex (confirmar chassi)",
+        "observacao": "Compatibilidade de motor depende do código do motor, chicote, injeção, câmbio e ano."
+      },
+      {
+        "anos": "2012-2019",
+        "motor": "1.6 Gamma Flex 16V",
+        "cilindrada": "1.591 cm³",
+        "cilindros": "4 cilindros",
+        "valvulas": "16V",
+        "cv": "122/128 cv",
+        "potencia": "122 cv gasolina / 128 cv etanol",
+        "combustivel": "Flex",
+        "codigoMotor": "Gamma G4FC/G4FG conforme aplicação (confirmar chassi)",
+        "observacao": "Não vender como compatível com 1.0. Confirmar código do motor e peça antiga."
+      }
+    ],
+    "compatibilidadeEssencial": [
+      {
+        "campo": "Peça",
+        "valor": "BOMBA DE ÓLEO"
+      },
+      {
+        "campo": "Aplicação base",
+        "valor": "HYUNDAI HB20 / HB20S"
+      },
+      {
+        "campo": "Anos",
+        "valor": "2012-2019"
+      },
+      {
+        "campo": "Conferir antes da venda",
+        "valor": "cilindrada, CV, cilindros, válvulas, combustível, código do motor, chassi e peça antiga"
+      },
+      {
+        "campo": "Lado",
+        "valor": "NÃO SE APLICA"
+      }
+    ],
+    "relacionadas": [
+      "JUNTA",
+      "RETENTOR",
+      "CORREIA",
+      "TENSOR",
+      "SENSOR ROTAÇÃO",
+      "SENSOR TEMPERATURA"
+    ],
+    "observacoes": [
+      "Base master etapa 1. Dados usados para compatibilidade técnica; confirmar código do motor/chassi antes de finalizar a venda."
+    ],
+    "confiancaBase": 94,
+    "faseTecnica": "BASE MASTER MOTORES ETAPA 1"
+  },
+  {
+    "id": "master-coxim-do-motor-hb20-2012-2019",
+    "pecas": [
+      "COXIM DO MOTOR"
+    ],
+    "tipoPeca": "MECÂNICA MOTOR",
+    "marcas": [
+      "HYUNDAI"
+    ],
+    "modelos": [
+      "HB20",
+      "HB20S"
+    ],
+    "anos": [
+      2012,
+      2013,
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2019
+    ],
+    "motores": [
+      "1.0 Kappa Flex 12V / 1.6 Gamma Flex 16V"
+    ],
+    "lados": [
+      "N/D"
+    ],
+    "posicoes": [
+      "MOTOR"
+    ],
+    "compatibilidadeRegra": "MOTOR_EXATO_POR_CILINDRADA_VALVULAS_CODIGO",
+    "dadosMotor": [
+      {
+        "anos": "2012-2019",
+        "motor": "1.0 Kappa Flex 12V",
+        "cilindrada": "998 cm³",
+        "cilindros": "3 cilindros",
+        "valvulas": "12V",
+        "cv": "75/80 cv",
+        "potencia": "75 cv gasolina / 80 cv etanol",
+        "combustivel": "Flex",
+        "codigoMotor": "Kappa G3LA/G3LA Flex (confirmar chassi)",
+        "observacao": "Compatibilidade de motor depende do código do motor, chicote, injeção, câmbio e ano."
+      },
+      {
+        "anos": "2012-2019",
+        "motor": "1.6 Gamma Flex 16V",
+        "cilindrada": "1.591 cm³",
+        "cilindros": "4 cilindros",
+        "valvulas": "16V",
+        "cv": "122/128 cv",
+        "potencia": "122 cv gasolina / 128 cv etanol",
+        "combustivel": "Flex",
+        "codigoMotor": "Gamma G4FC/G4FG conforme aplicação (confirmar chassi)",
+        "observacao": "Não vender como compatível com 1.0. Confirmar código do motor e peça antiga."
+      }
+    ],
+    "compatibilidadeEssencial": [
+      {
+        "campo": "Peça",
+        "valor": "COXIM DO MOTOR"
+      },
+      {
+        "campo": "Aplicação base",
+        "valor": "HYUNDAI HB20 / HB20S"
+      },
+      {
+        "campo": "Anos",
+        "valor": "2012-2019"
+      },
+      {
+        "campo": "Conferir antes da venda",
+        "valor": "cilindrada, CV, cilindros, válvulas, combustível, código do motor, chassi e peça antiga"
+      },
+      {
+        "campo": "Lado",
+        "valor": "NÃO SE APLICA"
+      }
+    ],
+    "relacionadas": [
+      "JUNTA",
+      "RETENTOR",
+      "CORREIA",
+      "TENSOR",
+      "SENSOR ROTAÇÃO",
+      "SENSOR TEMPERATURA"
+    ],
+    "observacoes": [
+      "Base master etapa 1. Dados usados para compatibilidade técnica; confirmar código do motor/chassi antes de finalizar a venda."
+    ],
+    "confiancaBase": 94,
+    "faseTecnica": "BASE MASTER MOTORES ETAPA 1"
+  },
+  {
+    "id": "master-coletor-admiss-o-hb20-2012-2019",
+    "pecas": [
+      "COLETOR ADMISSÃO"
+    ],
+    "tipoPeca": "MECÂNICA MOTOR",
+    "marcas": [
+      "HYUNDAI"
+    ],
+    "modelos": [
+      "HB20",
+      "HB20S"
+    ],
+    "anos": [
+      2012,
+      2013,
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2019
+    ],
+    "motores": [
+      "1.0 Kappa Flex 12V / 1.6 Gamma Flex 16V"
+    ],
+    "lados": [
+      "N/D"
+    ],
+    "posicoes": [
+      "MOTOR"
+    ],
+    "compatibilidadeRegra": "MOTOR_EXATO_POR_CILINDRADA_VALVULAS_CODIGO",
+    "dadosMotor": [
+      {
+        "anos": "2012-2019",
+        "motor": "1.0 Kappa Flex 12V",
+        "cilindrada": "998 cm³",
+        "cilindros": "3 cilindros",
+        "valvulas": "12V",
+        "cv": "75/80 cv",
+        "potencia": "75 cv gasolina / 80 cv etanol",
+        "combustivel": "Flex",
+        "codigoMotor": "Kappa G3LA/G3LA Flex (confirmar chassi)",
+        "observacao": "Compatibilidade de motor depende do código do motor, chicote, injeção, câmbio e ano."
+      },
+      {
+        "anos": "2012-2019",
+        "motor": "1.6 Gamma Flex 16V",
+        "cilindrada": "1.591 cm³",
+        "cilindros": "4 cilindros",
+        "valvulas": "16V",
+        "cv": "122/128 cv",
+        "potencia": "122 cv gasolina / 128 cv etanol",
+        "combustivel": "Flex",
+        "codigoMotor": "Gamma G4FC/G4FG conforme aplicação (confirmar chassi)",
+        "observacao": "Não vender como compatível com 1.0. Confirmar código do motor e peça antiga."
+      }
+    ],
+    "compatibilidadeEssencial": [
+      {
+        "campo": "Peça",
+        "valor": "COLETOR ADMISSÃO"
+      },
+      {
+        "campo": "Aplicação base",
+        "valor": "HYUNDAI HB20 / HB20S"
+      },
+      {
+        "campo": "Anos",
+        "valor": "2012-2019"
+      },
+      {
+        "campo": "Conferir antes da venda",
+        "valor": "cilindrada, CV, cilindros, válvulas, combustível, código do motor, chassi e peça antiga"
+      },
+      {
+        "campo": "Lado",
+        "valor": "NÃO SE APLICA"
+      }
+    ],
+    "relacionadas": [
+      "JUNTA",
+      "RETENTOR",
+      "CORREIA",
+      "TENSOR",
+      "SENSOR ROTAÇÃO",
+      "SENSOR TEMPERATURA"
+    ],
+    "observacoes": [
+      "Base master etapa 1. Dados usados para compatibilidade técnica; confirmar código do motor/chassi antes de finalizar a venda."
+    ],
+    "confiancaBase": 94,
+    "faseTecnica": "BASE MASTER MOTORES ETAPA 1"
+  },
+  {
+    "id": "master-coletor-escape-hb20-2012-2019",
+    "pecas": [
+      "COLETOR ESCAPE"
+    ],
+    "tipoPeca": "MECÂNICA MOTOR",
+    "marcas": [
+      "HYUNDAI"
+    ],
+    "modelos": [
+      "HB20",
+      "HB20S"
+    ],
+    "anos": [
+      2012,
+      2013,
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2019
+    ],
+    "motores": [
+      "1.0 Kappa Flex 12V / 1.6 Gamma Flex 16V"
+    ],
+    "lados": [
+      "N/D"
+    ],
+    "posicoes": [
+      "MOTOR"
+    ],
+    "compatibilidadeRegra": "MOTOR_EXATO_POR_CILINDRADA_VALVULAS_CODIGO",
+    "dadosMotor": [
+      {
+        "anos": "2012-2019",
+        "motor": "1.0 Kappa Flex 12V",
+        "cilindrada": "998 cm³",
+        "cilindros": "3 cilindros",
+        "valvulas": "12V",
+        "cv": "75/80 cv",
+        "potencia": "75 cv gasolina / 80 cv etanol",
+        "combustivel": "Flex",
+        "codigoMotor": "Kappa G3LA/G3LA Flex (confirmar chassi)",
+        "observacao": "Compatibilidade de motor depende do código do motor, chicote, injeção, câmbio e ano."
+      },
+      {
+        "anos": "2012-2019",
+        "motor": "1.6 Gamma Flex 16V",
+        "cilindrada": "1.591 cm³",
+        "cilindros": "4 cilindros",
+        "valvulas": "16V",
+        "cv": "122/128 cv",
+        "potencia": "122 cv gasolina / 128 cv etanol",
+        "combustivel": "Flex",
+        "codigoMotor": "Gamma G4FC/G4FG conforme aplicação (confirmar chassi)",
+        "observacao": "Não vender como compatível com 1.0. Confirmar código do motor e peça antiga."
+      }
+    ],
+    "compatibilidadeEssencial": [
+      {
+        "campo": "Peça",
+        "valor": "COLETOR ESCAPE"
+      },
+      {
+        "campo": "Aplicação base",
+        "valor": "HYUNDAI HB20 / HB20S"
+      },
+      {
+        "campo": "Anos",
+        "valor": "2012-2019"
+      },
+      {
+        "campo": "Conferir antes da venda",
+        "valor": "cilindrada, CV, cilindros, válvulas, combustível, código do motor, chassi e peça antiga"
+      },
+      {
+        "campo": "Lado",
+        "valor": "NÃO SE APLICA"
+      }
+    ],
+    "relacionadas": [
+      "JUNTA",
+      "RETENTOR",
+      "CORREIA",
+      "TENSOR",
+      "SENSOR ROTAÇÃO",
+      "SENSOR TEMPERATURA"
+    ],
+    "observacoes": [
+      "Base master etapa 1. Dados usados para compatibilidade técnica; confirmar código do motor/chassi antes de finalizar a venda."
+    ],
+    "confiancaBase": 94,
+    "faseTecnica": "BASE MASTER MOTORES ETAPA 1"
+  },
+  {
+    "id": "master-motor-completo-onix-prisma-2013-2019",
+    "pecas": [
+      "MOTOR COMPLETO"
+    ],
+    "tipoPeca": "MECÂNICA MOTOR",
+    "marcas": [
+      "CHEVROLET",
+      "GM"
+    ],
+    "modelos": [
+      "ONIX",
+      "PRISMA"
+    ],
+    "anos": [
+      2013,
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2019
+    ],
+    "motores": [
+      "1.0 SPE/4 Flex 8V / 1.4 SPE/4 Flex 8V"
+    ],
+    "lados": [
+      "N/D"
+    ],
+    "posicoes": [
+      "MOTOR"
+    ],
+    "compatibilidadeRegra": "MOTOR_EXATO_POR_CILINDRADA_VALVULAS_CODIGO",
+    "dadosMotor": [
+      {
+        "anos": "2013-2019",
+        "motor": "1.0 SPE/4 Flex 8V",
+        "cilindrada": "999 cm³",
+        "cilindros": "4 cilindros",
+        "valvulas": "8V",
+        "cv": "78/80 cv",
+        "potencia": "78 cv gasolina / 80 cv etanol",
+        "combustivel": "Flex",
+        "codigoMotor": "SPE/4 Família I (confirmar etiqueta/código)",
+        "observacao": "Confirmar ano, código do motor e se é Onix/Prisma geração 1."
+      },
+      {
+        "anos": "2013-2019",
+        "motor": "1.4 SPE/4 Flex 8V",
+        "cilindrada": "1.389 cm³",
+        "cilindros": "4 cilindros",
+        "valvulas": "8V",
+        "cv": "98/106 cv",
+        "potencia": "98 cv gasolina / 106 cv etanol",
+        "combustivel": "Flex",
+        "codigoMotor": "SPE/4 Família I (confirmar etiqueta/código)",
+        "observacao": "Não confundir com motor 1.0. Conferir chassi e peça antiga."
+      }
+    ],
+    "compatibilidadeEssencial": [
+      {
+        "campo": "Peça",
+        "valor": "MOTOR COMPLETO"
+      },
+      {
+        "campo": "Aplicação base",
+        "valor": "CHEVROLET / GM ONIX / PRISMA"
+      },
+      {
+        "campo": "Anos",
+        "valor": "2013-2019"
+      },
+      {
+        "campo": "Conferir antes da venda",
+        "valor": "cilindrada, CV, cilindros, válvulas, combustível, código do motor, chassi e peça antiga"
+      },
+      {
+        "campo": "Lado",
+        "valor": "NÃO SE APLICA"
+      }
+    ],
+    "relacionadas": [
+      "JUNTA",
+      "RETENTOR",
+      "CORREIA",
+      "TENSOR",
+      "SENSOR ROTAÇÃO",
+      "SENSOR TEMPERATURA"
+    ],
+    "observacoes": [
+      "Base master etapa 1. Dados usados para compatibilidade técnica; confirmar código do motor/chassi antes de finalizar a venda."
+    ],
+    "confiancaBase": 94,
+    "faseTecnica": "BASE MASTER MOTORES ETAPA 1"
+  },
+  {
+    "id": "master-cabe-ote-onix-prisma-2013-2019",
+    "pecas": [
+      "CABEÇOTE"
+    ],
+    "tipoPeca": "MECÂNICA MOTOR",
+    "marcas": [
+      "CHEVROLET",
+      "GM"
+    ],
+    "modelos": [
+      "ONIX",
+      "PRISMA"
+    ],
+    "anos": [
+      2013,
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2019
+    ],
+    "motores": [
+      "1.0 SPE/4 Flex 8V / 1.4 SPE/4 Flex 8V"
+    ],
+    "lados": [
+      "N/D"
+    ],
+    "posicoes": [
+      "MOTOR"
+    ],
+    "compatibilidadeRegra": "MOTOR_EXATO_POR_CILINDRADA_VALVULAS_CODIGO",
+    "dadosMotor": [
+      {
+        "anos": "2013-2019",
+        "motor": "1.0 SPE/4 Flex 8V",
+        "cilindrada": "999 cm³",
+        "cilindros": "4 cilindros",
+        "valvulas": "8V",
+        "cv": "78/80 cv",
+        "potencia": "78 cv gasolina / 80 cv etanol",
+        "combustivel": "Flex",
+        "codigoMotor": "SPE/4 Família I (confirmar etiqueta/código)",
+        "observacao": "Confirmar ano, código do motor e se é Onix/Prisma geração 1."
+      },
+      {
+        "anos": "2013-2019",
+        "motor": "1.4 SPE/4 Flex 8V",
+        "cilindrada": "1.389 cm³",
+        "cilindros": "4 cilindros",
+        "valvulas": "8V",
+        "cv": "98/106 cv",
+        "potencia": "98 cv gasolina / 106 cv etanol",
+        "combustivel": "Flex",
+        "codigoMotor": "SPE/4 Família I (confirmar etiqueta/código)",
+        "observacao": "Não confundir com motor 1.0. Conferir chassi e peça antiga."
+      }
+    ],
+    "compatibilidadeEssencial": [
+      {
+        "campo": "Peça",
+        "valor": "CABEÇOTE"
+      },
+      {
+        "campo": "Aplicação base",
+        "valor": "CHEVROLET / GM ONIX / PRISMA"
+      },
+      {
+        "campo": "Anos",
+        "valor": "2013-2019"
+      },
+      {
+        "campo": "Conferir antes da venda",
+        "valor": "cilindrada, CV, cilindros, válvulas, combustível, código do motor, chassi e peça antiga"
+      },
+      {
+        "campo": "Lado",
+        "valor": "NÃO SE APLICA"
+      }
+    ],
+    "relacionadas": [
+      "JUNTA",
+      "RETENTOR",
+      "CORREIA",
+      "TENSOR",
+      "SENSOR ROTAÇÃO",
+      "SENSOR TEMPERATURA"
+    ],
+    "observacoes": [
+      "Base master etapa 1. Dados usados para compatibilidade técnica; confirmar código do motor/chassi antes de finalizar a venda."
+    ],
+    "confiancaBase": 94,
+    "faseTecnica": "BASE MASTER MOTORES ETAPA 1"
+  },
+  {
+    "id": "master-tampa-de-v-lvulas-onix-prisma-2013-2019",
+    "pecas": [
+      "TAMPA DE VÁLVULAS"
+    ],
+    "tipoPeca": "MECÂNICA MOTOR",
+    "marcas": [
+      "CHEVROLET",
+      "GM"
+    ],
+    "modelos": [
+      "ONIX",
+      "PRISMA"
+    ],
+    "anos": [
+      2013,
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2019
+    ],
+    "motores": [
+      "1.0 SPE/4 Flex 8V / 1.4 SPE/4 Flex 8V"
+    ],
+    "lados": [
+      "N/D"
+    ],
+    "posicoes": [
+      "MOTOR"
+    ],
+    "compatibilidadeRegra": "MOTOR_EXATO_POR_CILINDRADA_VALVULAS_CODIGO",
+    "dadosMotor": [
+      {
+        "anos": "2013-2019",
+        "motor": "1.0 SPE/4 Flex 8V",
+        "cilindrada": "999 cm³",
+        "cilindros": "4 cilindros",
+        "valvulas": "8V",
+        "cv": "78/80 cv",
+        "potencia": "78 cv gasolina / 80 cv etanol",
+        "combustivel": "Flex",
+        "codigoMotor": "SPE/4 Família I (confirmar etiqueta/código)",
+        "observacao": "Confirmar ano, código do motor e se é Onix/Prisma geração 1."
+      },
+      {
+        "anos": "2013-2019",
+        "motor": "1.4 SPE/4 Flex 8V",
+        "cilindrada": "1.389 cm³",
+        "cilindros": "4 cilindros",
+        "valvulas": "8V",
+        "cv": "98/106 cv",
+        "potencia": "98 cv gasolina / 106 cv etanol",
+        "combustivel": "Flex",
+        "codigoMotor": "SPE/4 Família I (confirmar etiqueta/código)",
+        "observacao": "Não confundir com motor 1.0. Conferir chassi e peça antiga."
+      }
+    ],
+    "compatibilidadeEssencial": [
+      {
+        "campo": "Peça",
+        "valor": "TAMPA DE VÁLVULAS"
+      },
+      {
+        "campo": "Aplicação base",
+        "valor": "CHEVROLET / GM ONIX / PRISMA"
+      },
+      {
+        "campo": "Anos",
+        "valor": "2013-2019"
+      },
+      {
+        "campo": "Conferir antes da venda",
+        "valor": "cilindrada, CV, cilindros, válvulas, combustível, código do motor, chassi e peça antiga"
+      },
+      {
+        "campo": "Lado",
+        "valor": "NÃO SE APLICA"
+      }
+    ],
+    "relacionadas": [
+      "JUNTA",
+      "RETENTOR",
+      "CORREIA",
+      "TENSOR",
+      "SENSOR ROTAÇÃO",
+      "SENSOR TEMPERATURA"
+    ],
+    "observacoes": [
+      "Base master etapa 1. Dados usados para compatibilidade técnica; confirmar código do motor/chassi antes de finalizar a venda."
+    ],
+    "confiancaBase": 94,
+    "faseTecnica": "BASE MASTER MOTORES ETAPA 1"
+  },
+  {
+    "id": "master-c-rter-onix-prisma-2013-2019",
+    "pecas": [
+      "CÁRTER"
+    ],
+    "tipoPeca": "MECÂNICA MOTOR",
+    "marcas": [
+      "CHEVROLET",
+      "GM"
+    ],
+    "modelos": [
+      "ONIX",
+      "PRISMA"
+    ],
+    "anos": [
+      2013,
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2019
+    ],
+    "motores": [
+      "1.0 SPE/4 Flex 8V / 1.4 SPE/4 Flex 8V"
+    ],
+    "lados": [
+      "N/D"
+    ],
+    "posicoes": [
+      "MOTOR"
+    ],
+    "compatibilidadeRegra": "MOTOR_EXATO_POR_CILINDRADA_VALVULAS_CODIGO",
+    "dadosMotor": [
+      {
+        "anos": "2013-2019",
+        "motor": "1.0 SPE/4 Flex 8V",
+        "cilindrada": "999 cm³",
+        "cilindros": "4 cilindros",
+        "valvulas": "8V",
+        "cv": "78/80 cv",
+        "potencia": "78 cv gasolina / 80 cv etanol",
+        "combustivel": "Flex",
+        "codigoMotor": "SPE/4 Família I (confirmar etiqueta/código)",
+        "observacao": "Confirmar ano, código do motor e se é Onix/Prisma geração 1."
+      },
+      {
+        "anos": "2013-2019",
+        "motor": "1.4 SPE/4 Flex 8V",
+        "cilindrada": "1.389 cm³",
+        "cilindros": "4 cilindros",
+        "valvulas": "8V",
+        "cv": "98/106 cv",
+        "potencia": "98 cv gasolina / 106 cv etanol",
+        "combustivel": "Flex",
+        "codigoMotor": "SPE/4 Família I (confirmar etiqueta/código)",
+        "observacao": "Não confundir com motor 1.0. Conferir chassi e peça antiga."
+      }
+    ],
+    "compatibilidadeEssencial": [
+      {
+        "campo": "Peça",
+        "valor": "CÁRTER"
+      },
+      {
+        "campo": "Aplicação base",
+        "valor": "CHEVROLET / GM ONIX / PRISMA"
+      },
+      {
+        "campo": "Anos",
+        "valor": "2013-2019"
+      },
+      {
+        "campo": "Conferir antes da venda",
+        "valor": "cilindrada, CV, cilindros, válvulas, combustível, código do motor, chassi e peça antiga"
+      },
+      {
+        "campo": "Lado",
+        "valor": "NÃO SE APLICA"
+      }
+    ],
+    "relacionadas": [
+      "JUNTA",
+      "RETENTOR",
+      "CORREIA",
+      "TENSOR",
+      "SENSOR ROTAÇÃO",
+      "SENSOR TEMPERATURA"
+    ],
+    "observacoes": [
+      "Base master etapa 1. Dados usados para compatibilidade técnica; confirmar código do motor/chassi antes de finalizar a venda."
+    ],
+    "confiancaBase": 94,
+    "faseTecnica": "BASE MASTER MOTORES ETAPA 1"
+  },
+  {
+    "id": "master-bomba-de-leo-onix-prisma-2013-2019",
+    "pecas": [
+      "BOMBA DE ÓLEO"
+    ],
+    "tipoPeca": "MECÂNICA MOTOR",
+    "marcas": [
+      "CHEVROLET",
+      "GM"
+    ],
+    "modelos": [
+      "ONIX",
+      "PRISMA"
+    ],
+    "anos": [
+      2013,
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2019
+    ],
+    "motores": [
+      "1.0 SPE/4 Flex 8V / 1.4 SPE/4 Flex 8V"
+    ],
+    "lados": [
+      "N/D"
+    ],
+    "posicoes": [
+      "MOTOR"
+    ],
+    "compatibilidadeRegra": "MOTOR_EXATO_POR_CILINDRADA_VALVULAS_CODIGO",
+    "dadosMotor": [
+      {
+        "anos": "2013-2019",
+        "motor": "1.0 SPE/4 Flex 8V",
+        "cilindrada": "999 cm³",
+        "cilindros": "4 cilindros",
+        "valvulas": "8V",
+        "cv": "78/80 cv",
+        "potencia": "78 cv gasolina / 80 cv etanol",
+        "combustivel": "Flex",
+        "codigoMotor": "SPE/4 Família I (confirmar etiqueta/código)",
+        "observacao": "Confirmar ano, código do motor e se é Onix/Prisma geração 1."
+      },
+      {
+        "anos": "2013-2019",
+        "motor": "1.4 SPE/4 Flex 8V",
+        "cilindrada": "1.389 cm³",
+        "cilindros": "4 cilindros",
+        "valvulas": "8V",
+        "cv": "98/106 cv",
+        "potencia": "98 cv gasolina / 106 cv etanol",
+        "combustivel": "Flex",
+        "codigoMotor": "SPE/4 Família I (confirmar etiqueta/código)",
+        "observacao": "Não confundir com motor 1.0. Conferir chassi e peça antiga."
+      }
+    ],
+    "compatibilidadeEssencial": [
+      {
+        "campo": "Peça",
+        "valor": "BOMBA DE ÓLEO"
+      },
+      {
+        "campo": "Aplicação base",
+        "valor": "CHEVROLET / GM ONIX / PRISMA"
+      },
+      {
+        "campo": "Anos",
+        "valor": "2013-2019"
+      },
+      {
+        "campo": "Conferir antes da venda",
+        "valor": "cilindrada, CV, cilindros, válvulas, combustível, código do motor, chassi e peça antiga"
+      },
+      {
+        "campo": "Lado",
+        "valor": "NÃO SE APLICA"
+      }
+    ],
+    "relacionadas": [
+      "JUNTA",
+      "RETENTOR",
+      "CORREIA",
+      "TENSOR",
+      "SENSOR ROTAÇÃO",
+      "SENSOR TEMPERATURA"
+    ],
+    "observacoes": [
+      "Base master etapa 1. Dados usados para compatibilidade técnica; confirmar código do motor/chassi antes de finalizar a venda."
+    ],
+    "confiancaBase": 94,
+    "faseTecnica": "BASE MASTER MOTORES ETAPA 1"
+  },
+  {
+    "id": "master-coxim-do-motor-onix-prisma-2013-2019",
+    "pecas": [
+      "COXIM DO MOTOR"
+    ],
+    "tipoPeca": "MECÂNICA MOTOR",
+    "marcas": [
+      "CHEVROLET",
+      "GM"
+    ],
+    "modelos": [
+      "ONIX",
+      "PRISMA"
+    ],
+    "anos": [
+      2013,
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2019
+    ],
+    "motores": [
+      "1.0 SPE/4 Flex 8V / 1.4 SPE/4 Flex 8V"
+    ],
+    "lados": [
+      "N/D"
+    ],
+    "posicoes": [
+      "MOTOR"
+    ],
+    "compatibilidadeRegra": "MOTOR_EXATO_POR_CILINDRADA_VALVULAS_CODIGO",
+    "dadosMotor": [
+      {
+        "anos": "2013-2019",
+        "motor": "1.0 SPE/4 Flex 8V",
+        "cilindrada": "999 cm³",
+        "cilindros": "4 cilindros",
+        "valvulas": "8V",
+        "cv": "78/80 cv",
+        "potencia": "78 cv gasolina / 80 cv etanol",
+        "combustivel": "Flex",
+        "codigoMotor": "SPE/4 Família I (confirmar etiqueta/código)",
+        "observacao": "Confirmar ano, código do motor e se é Onix/Prisma geração 1."
+      },
+      {
+        "anos": "2013-2019",
+        "motor": "1.4 SPE/4 Flex 8V",
+        "cilindrada": "1.389 cm³",
+        "cilindros": "4 cilindros",
+        "valvulas": "8V",
+        "cv": "98/106 cv",
+        "potencia": "98 cv gasolina / 106 cv etanol",
+        "combustivel": "Flex",
+        "codigoMotor": "SPE/4 Família I (confirmar etiqueta/código)",
+        "observacao": "Não confundir com motor 1.0. Conferir chassi e peça antiga."
+      }
+    ],
+    "compatibilidadeEssencial": [
+      {
+        "campo": "Peça",
+        "valor": "COXIM DO MOTOR"
+      },
+      {
+        "campo": "Aplicação base",
+        "valor": "CHEVROLET / GM ONIX / PRISMA"
+      },
+      {
+        "campo": "Anos",
+        "valor": "2013-2019"
+      },
+      {
+        "campo": "Conferir antes da venda",
+        "valor": "cilindrada, CV, cilindros, válvulas, combustível, código do motor, chassi e peça antiga"
+      },
+      {
+        "campo": "Lado",
+        "valor": "NÃO SE APLICA"
+      }
+    ],
+    "relacionadas": [
+      "JUNTA",
+      "RETENTOR",
+      "CORREIA",
+      "TENSOR",
+      "SENSOR ROTAÇÃO",
+      "SENSOR TEMPERATURA"
+    ],
+    "observacoes": [
+      "Base master etapa 1. Dados usados para compatibilidade técnica; confirmar código do motor/chassi antes de finalizar a venda."
+    ],
+    "confiancaBase": 94,
+    "faseTecnica": "BASE MASTER MOTORES ETAPA 1"
+  },
+  {
+    "id": "master-coletor-admiss-o-onix-prisma-2013-2019",
+    "pecas": [
+      "COLETOR ADMISSÃO"
+    ],
+    "tipoPeca": "MECÂNICA MOTOR",
+    "marcas": [
+      "CHEVROLET",
+      "GM"
+    ],
+    "modelos": [
+      "ONIX",
+      "PRISMA"
+    ],
+    "anos": [
+      2013,
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2019
+    ],
+    "motores": [
+      "1.0 SPE/4 Flex 8V / 1.4 SPE/4 Flex 8V"
+    ],
+    "lados": [
+      "N/D"
+    ],
+    "posicoes": [
+      "MOTOR"
+    ],
+    "compatibilidadeRegra": "MOTOR_EXATO_POR_CILINDRADA_VALVULAS_CODIGO",
+    "dadosMotor": [
+      {
+        "anos": "2013-2019",
+        "motor": "1.0 SPE/4 Flex 8V",
+        "cilindrada": "999 cm³",
+        "cilindros": "4 cilindros",
+        "valvulas": "8V",
+        "cv": "78/80 cv",
+        "potencia": "78 cv gasolina / 80 cv etanol",
+        "combustivel": "Flex",
+        "codigoMotor": "SPE/4 Família I (confirmar etiqueta/código)",
+        "observacao": "Confirmar ano, código do motor e se é Onix/Prisma geração 1."
+      },
+      {
+        "anos": "2013-2019",
+        "motor": "1.4 SPE/4 Flex 8V",
+        "cilindrada": "1.389 cm³",
+        "cilindros": "4 cilindros",
+        "valvulas": "8V",
+        "cv": "98/106 cv",
+        "potencia": "98 cv gasolina / 106 cv etanol",
+        "combustivel": "Flex",
+        "codigoMotor": "SPE/4 Família I (confirmar etiqueta/código)",
+        "observacao": "Não confundir com motor 1.0. Conferir chassi e peça antiga."
+      }
+    ],
+    "compatibilidadeEssencial": [
+      {
+        "campo": "Peça",
+        "valor": "COLETOR ADMISSÃO"
+      },
+      {
+        "campo": "Aplicação base",
+        "valor": "CHEVROLET / GM ONIX / PRISMA"
+      },
+      {
+        "campo": "Anos",
+        "valor": "2013-2019"
+      },
+      {
+        "campo": "Conferir antes da venda",
+        "valor": "cilindrada, CV, cilindros, válvulas, combustível, código do motor, chassi e peça antiga"
+      },
+      {
+        "campo": "Lado",
+        "valor": "NÃO SE APLICA"
+      }
+    ],
+    "relacionadas": [
+      "JUNTA",
+      "RETENTOR",
+      "CORREIA",
+      "TENSOR",
+      "SENSOR ROTAÇÃO",
+      "SENSOR TEMPERATURA"
+    ],
+    "observacoes": [
+      "Base master etapa 1. Dados usados para compatibilidade técnica; confirmar código do motor/chassi antes de finalizar a venda."
+    ],
+    "confiancaBase": 94,
+    "faseTecnica": "BASE MASTER MOTORES ETAPA 1"
+  },
+  {
+    "id": "master-coletor-escape-onix-prisma-2013-2019",
+    "pecas": [
+      "COLETOR ESCAPE"
+    ],
+    "tipoPeca": "MECÂNICA MOTOR",
+    "marcas": [
+      "CHEVROLET",
+      "GM"
+    ],
+    "modelos": [
+      "ONIX",
+      "PRISMA"
+    ],
+    "anos": [
+      2013,
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2019
+    ],
+    "motores": [
+      "1.0 SPE/4 Flex 8V / 1.4 SPE/4 Flex 8V"
+    ],
+    "lados": [
+      "N/D"
+    ],
+    "posicoes": [
+      "MOTOR"
+    ],
+    "compatibilidadeRegra": "MOTOR_EXATO_POR_CILINDRADA_VALVULAS_CODIGO",
+    "dadosMotor": [
+      {
+        "anos": "2013-2019",
+        "motor": "1.0 SPE/4 Flex 8V",
+        "cilindrada": "999 cm³",
+        "cilindros": "4 cilindros",
+        "valvulas": "8V",
+        "cv": "78/80 cv",
+        "potencia": "78 cv gasolina / 80 cv etanol",
+        "combustivel": "Flex",
+        "codigoMotor": "SPE/4 Família I (confirmar etiqueta/código)",
+        "observacao": "Confirmar ano, código do motor e se é Onix/Prisma geração 1."
+      },
+      {
+        "anos": "2013-2019",
+        "motor": "1.4 SPE/4 Flex 8V",
+        "cilindrada": "1.389 cm³",
+        "cilindros": "4 cilindros",
+        "valvulas": "8V",
+        "cv": "98/106 cv",
+        "potencia": "98 cv gasolina / 106 cv etanol",
+        "combustivel": "Flex",
+        "codigoMotor": "SPE/4 Família I (confirmar etiqueta/código)",
+        "observacao": "Não confundir com motor 1.0. Conferir chassi e peça antiga."
+      }
+    ],
+    "compatibilidadeEssencial": [
+      {
+        "campo": "Peça",
+        "valor": "COLETOR ESCAPE"
+      },
+      {
+        "campo": "Aplicação base",
+        "valor": "CHEVROLET / GM ONIX / PRISMA"
+      },
+      {
+        "campo": "Anos",
+        "valor": "2013-2019"
+      },
+      {
+        "campo": "Conferir antes da venda",
+        "valor": "cilindrada, CV, cilindros, válvulas, combustível, código do motor, chassi e peça antiga"
+      },
+      {
+        "campo": "Lado",
+        "valor": "NÃO SE APLICA"
+      }
+    ],
+    "relacionadas": [
+      "JUNTA",
+      "RETENTOR",
+      "CORREIA",
+      "TENSOR",
+      "SENSOR ROTAÇÃO",
+      "SENSOR TEMPERATURA"
+    ],
+    "observacoes": [
+      "Base master etapa 1. Dados usados para compatibilidade técnica; confirmar código do motor/chassi antes de finalizar a venda."
+    ],
+    "confiancaBase": 94,
+    "faseTecnica": "BASE MASTER MOTORES ETAPA 1"
+  },
+  {
+    "id": "master-motor-completo-onix-onixplus-2020-2024",
+    "pecas": [
+      "MOTOR COMPLETO"
+    ],
+    "tipoPeca": "MECÂNICA MOTOR",
+    "marcas": [
+      "CHEVROLET",
+      "GM"
+    ],
+    "modelos": [
+      "ONIX",
+      "ONIX PLUS"
+    ],
+    "anos": [
+      2020,
+      2021,
+      2022,
+      2023,
+      2024
+    ],
+    "motores": [
+      "1.0 Flex aspirado 12V / 1.0 Turbo Flex 12V"
+    ],
+    "lados": [
+      "N/D"
+    ],
+    "posicoes": [
+      "MOTOR"
+    ],
+    "compatibilidadeRegra": "MOTOR_EXATO_POR_CILINDRADA_VALVULAS_CODIGO",
+    "dadosMotor": [
+      {
+        "anos": "2020-2024",
+        "motor": "1.0 Flex aspirado 12V",
+        "cilindrada": "999 cm³",
+        "cilindros": "3 cilindros",
+        "valvulas": "12V",
+        "cv": "78/82 cv",
+        "potencia": "78 cv gasolina / 82 cv etanol",
+        "combustivel": "Flex",
+        "codigoMotor": "CSS Prime 1.0 aspirado (confirmar chassi)",
+        "observacao": "Peças diferem do 1.0 turbo. Confirmar código do motor."
+      },
+      {
+        "anos": "2020-2024",
+        "motor": "1.0 Turbo Flex 12V",
+        "cilindrada": "999 cm³",
+        "cilindros": "3 cilindros",
+        "valvulas": "12V",
+        "cv": "116 cv",
+        "potencia": "116 cv gasolina / 116 cv etanol",
+        "combustivel": "Flex",
+        "codigoMotor": "CSS Prime 1.0 turbo (confirmar chassi)",
+        "observacao": "Não confundir aspirado com turbo. Conferir acessórios e chicote."
+      }
+    ],
+    "compatibilidadeEssencial": [
+      {
+        "campo": "Peça",
+        "valor": "MOTOR COMPLETO"
+      },
+      {
+        "campo": "Aplicação base",
+        "valor": "CHEVROLET / GM ONIX / ONIX PLUS"
+      },
+      {
+        "campo": "Anos",
+        "valor": "2020-2024"
+      },
+      {
+        "campo": "Conferir antes da venda",
+        "valor": "cilindrada, CV, cilindros, válvulas, combustível, código do motor, chassi e peça antiga"
+      },
+      {
+        "campo": "Lado",
+        "valor": "NÃO SE APLICA"
+      }
+    ],
+    "relacionadas": [
+      "JUNTA",
+      "RETENTOR",
+      "CORREIA",
+      "TENSOR",
+      "SENSOR ROTAÇÃO",
+      "SENSOR TEMPERATURA"
+    ],
+    "observacoes": [
+      "Base master etapa 1. Dados usados para compatibilidade técnica; confirmar código do motor/chassi antes de finalizar a venda."
+    ],
+    "confiancaBase": 94,
+    "faseTecnica": "BASE MASTER MOTORES ETAPA 1"
+  },
+  {
+    "id": "master-cabe-ote-onix-onixplus-2020-2024",
+    "pecas": [
+      "CABEÇOTE"
+    ],
+    "tipoPeca": "MECÂNICA MOTOR",
+    "marcas": [
+      "CHEVROLET",
+      "GM"
+    ],
+    "modelos": [
+      "ONIX",
+      "ONIX PLUS"
+    ],
+    "anos": [
+      2020,
+      2021,
+      2022,
+      2023,
+      2024
+    ],
+    "motores": [
+      "1.0 Flex aspirado 12V / 1.0 Turbo Flex 12V"
+    ],
+    "lados": [
+      "N/D"
+    ],
+    "posicoes": [
+      "MOTOR"
+    ],
+    "compatibilidadeRegra": "MOTOR_EXATO_POR_CILINDRADA_VALVULAS_CODIGO",
+    "dadosMotor": [
+      {
+        "anos": "2020-2024",
+        "motor": "1.0 Flex aspirado 12V",
+        "cilindrada": "999 cm³",
+        "cilindros": "3 cilindros",
+        "valvulas": "12V",
+        "cv": "78/82 cv",
+        "potencia": "78 cv gasolina / 82 cv etanol",
+        "combustivel": "Flex",
+        "codigoMotor": "CSS Prime 1.0 aspirado (confirmar chassi)",
+        "observacao": "Peças diferem do 1.0 turbo. Confirmar código do motor."
+      },
+      {
+        "anos": "2020-2024",
+        "motor": "1.0 Turbo Flex 12V",
+        "cilindrada": "999 cm³",
+        "cilindros": "3 cilindros",
+        "valvulas": "12V",
+        "cv": "116 cv",
+        "potencia": "116 cv gasolina / 116 cv etanol",
+        "combustivel": "Flex",
+        "codigoMotor": "CSS Prime 1.0 turbo (confirmar chassi)",
+        "observacao": "Não confundir aspirado com turbo. Conferir acessórios e chicote."
+      }
+    ],
+    "compatibilidadeEssencial": [
+      {
+        "campo": "Peça",
+        "valor": "CABEÇOTE"
+      },
+      {
+        "campo": "Aplicação base",
+        "valor": "CHEVROLET / GM ONIX / ONIX PLUS"
+      },
+      {
+        "campo": "Anos",
+        "valor": "2020-2024"
+      },
+      {
+        "campo": "Conferir antes da venda",
+        "valor": "cilindrada, CV, cilindros, válvulas, combustível, código do motor, chassi e peça antiga"
+      },
+      {
+        "campo": "Lado",
+        "valor": "NÃO SE APLICA"
+      }
+    ],
+    "relacionadas": [
+      "JUNTA",
+      "RETENTOR",
+      "CORREIA",
+      "TENSOR",
+      "SENSOR ROTAÇÃO",
+      "SENSOR TEMPERATURA"
+    ],
+    "observacoes": [
+      "Base master etapa 1. Dados usados para compatibilidade técnica; confirmar código do motor/chassi antes de finalizar a venda."
+    ],
+    "confiancaBase": 94,
+    "faseTecnica": "BASE MASTER MOTORES ETAPA 1"
+  },
+  {
+    "id": "master-tampa-de-v-lvulas-onix-onixplus-2020-2024",
+    "pecas": [
+      "TAMPA DE VÁLVULAS"
+    ],
+    "tipoPeca": "MECÂNICA MOTOR",
+    "marcas": [
+      "CHEVROLET",
+      "GM"
+    ],
+    "modelos": [
+      "ONIX",
+      "ONIX PLUS"
+    ],
+    "anos": [
+      2020,
+      2021,
+      2022,
+      2023,
+      2024
+    ],
+    "motores": [
+      "1.0 Flex aspirado 12V / 1.0 Turbo Flex 12V"
+    ],
+    "lados": [
+      "N/D"
+    ],
+    "posicoes": [
+      "MOTOR"
+    ],
+    "compatibilidadeRegra": "MOTOR_EXATO_POR_CILINDRADA_VALVULAS_CODIGO",
+    "dadosMotor": [
+      {
+        "anos": "2020-2024",
+        "motor": "1.0 Flex aspirado 12V",
+        "cilindrada": "999 cm³",
+        "cilindros": "3 cilindros",
+        "valvulas": "12V",
+        "cv": "78/82 cv",
+        "potencia": "78 cv gasolina / 82 cv etanol",
+        "combustivel": "Flex",
+        "codigoMotor": "CSS Prime 1.0 aspirado (confirmar chassi)",
+        "observacao": "Peças diferem do 1.0 turbo. Confirmar código do motor."
+      },
+      {
+        "anos": "2020-2024",
+        "motor": "1.0 Turbo Flex 12V",
+        "cilindrada": "999 cm³",
+        "cilindros": "3 cilindros",
+        "valvulas": "12V",
+        "cv": "116 cv",
+        "potencia": "116 cv gasolina / 116 cv etanol",
+        "combustivel": "Flex",
+        "codigoMotor": "CSS Prime 1.0 turbo (confirmar chassi)",
+        "observacao": "Não confundir aspirado com turbo. Conferir acessórios e chicote."
+      }
+    ],
+    "compatibilidadeEssencial": [
+      {
+        "campo": "Peça",
+        "valor": "TAMPA DE VÁLVULAS"
+      },
+      {
+        "campo": "Aplicação base",
+        "valor": "CHEVROLET / GM ONIX / ONIX PLUS"
+      },
+      {
+        "campo": "Anos",
+        "valor": "2020-2024"
+      },
+      {
+        "campo": "Conferir antes da venda",
+        "valor": "cilindrada, CV, cilindros, válvulas, combustível, código do motor, chassi e peça antiga"
+      },
+      {
+        "campo": "Lado",
+        "valor": "NÃO SE APLICA"
+      }
+    ],
+    "relacionadas": [
+      "JUNTA",
+      "RETENTOR",
+      "CORREIA",
+      "TENSOR",
+      "SENSOR ROTAÇÃO",
+      "SENSOR TEMPERATURA"
+    ],
+    "observacoes": [
+      "Base master etapa 1. Dados usados para compatibilidade técnica; confirmar código do motor/chassi antes de finalizar a venda."
+    ],
+    "confiancaBase": 94,
+    "faseTecnica": "BASE MASTER MOTORES ETAPA 1"
+  },
+  {
+    "id": "master-c-rter-onix-onixplus-2020-2024",
+    "pecas": [
+      "CÁRTER"
+    ],
+    "tipoPeca": "MECÂNICA MOTOR",
+    "marcas": [
+      "CHEVROLET",
+      "GM"
+    ],
+    "modelos": [
+      "ONIX",
+      "ONIX PLUS"
+    ],
+    "anos": [
+      2020,
+      2021,
+      2022,
+      2023,
+      2024
+    ],
+    "motores": [
+      "1.0 Flex aspirado 12V / 1.0 Turbo Flex 12V"
+    ],
+    "lados": [
+      "N/D"
+    ],
+    "posicoes": [
+      "MOTOR"
+    ],
+    "compatibilidadeRegra": "MOTOR_EXATO_POR_CILINDRADA_VALVULAS_CODIGO",
+    "dadosMotor": [
+      {
+        "anos": "2020-2024",
+        "motor": "1.0 Flex aspirado 12V",
+        "cilindrada": "999 cm³",
+        "cilindros": "3 cilindros",
+        "valvulas": "12V",
+        "cv": "78/82 cv",
+        "potencia": "78 cv gasolina / 82 cv etanol",
+        "combustivel": "Flex",
+        "codigoMotor": "CSS Prime 1.0 aspirado (confirmar chassi)",
+        "observacao": "Peças diferem do 1.0 turbo. Confirmar código do motor."
+      },
+      {
+        "anos": "2020-2024",
+        "motor": "1.0 Turbo Flex 12V",
+        "cilindrada": "999 cm³",
+        "cilindros": "3 cilindros",
+        "valvulas": "12V",
+        "cv": "116 cv",
+        "potencia": "116 cv gasolina / 116 cv etanol",
+        "combustivel": "Flex",
+        "codigoMotor": "CSS Prime 1.0 turbo (confirmar chassi)",
+        "observacao": "Não confundir aspirado com turbo. Conferir acessórios e chicote."
+      }
+    ],
+    "compatibilidadeEssencial": [
+      {
+        "campo": "Peça",
+        "valor": "CÁRTER"
+      },
+      {
+        "campo": "Aplicação base",
+        "valor": "CHEVROLET / GM ONIX / ONIX PLUS"
+      },
+      {
+        "campo": "Anos",
+        "valor": "2020-2024"
+      },
+      {
+        "campo": "Conferir antes da venda",
+        "valor": "cilindrada, CV, cilindros, válvulas, combustível, código do motor, chassi e peça antiga"
+      },
+      {
+        "campo": "Lado",
+        "valor": "NÃO SE APLICA"
+      }
+    ],
+    "relacionadas": [
+      "JUNTA",
+      "RETENTOR",
+      "CORREIA",
+      "TENSOR",
+      "SENSOR ROTAÇÃO",
+      "SENSOR TEMPERATURA"
+    ],
+    "observacoes": [
+      "Base master etapa 1. Dados usados para compatibilidade técnica; confirmar código do motor/chassi antes de finalizar a venda."
+    ],
+    "confiancaBase": 94,
+    "faseTecnica": "BASE MASTER MOTORES ETAPA 1"
+  },
+  {
+    "id": "master-bomba-de-leo-onix-onixplus-2020-2024",
+    "pecas": [
+      "BOMBA DE ÓLEO"
+    ],
+    "tipoPeca": "MECÂNICA MOTOR",
+    "marcas": [
+      "CHEVROLET",
+      "GM"
+    ],
+    "modelos": [
+      "ONIX",
+      "ONIX PLUS"
+    ],
+    "anos": [
+      2020,
+      2021,
+      2022,
+      2023,
+      2024
+    ],
+    "motores": [
+      "1.0 Flex aspirado 12V / 1.0 Turbo Flex 12V"
+    ],
+    "lados": [
+      "N/D"
+    ],
+    "posicoes": [
+      "MOTOR"
+    ],
+    "compatibilidadeRegra": "MOTOR_EXATO_POR_CILINDRADA_VALVULAS_CODIGO",
+    "dadosMotor": [
+      {
+        "anos": "2020-2024",
+        "motor": "1.0 Flex aspirado 12V",
+        "cilindrada": "999 cm³",
+        "cilindros": "3 cilindros",
+        "valvulas": "12V",
+        "cv": "78/82 cv",
+        "potencia": "78 cv gasolina / 82 cv etanol",
+        "combustivel": "Flex",
+        "codigoMotor": "CSS Prime 1.0 aspirado (confirmar chassi)",
+        "observacao": "Peças diferem do 1.0 turbo. Confirmar código do motor."
+      },
+      {
+        "anos": "2020-2024",
+        "motor": "1.0 Turbo Flex 12V",
+        "cilindrada": "999 cm³",
+        "cilindros": "3 cilindros",
+        "valvulas": "12V",
+        "cv": "116 cv",
+        "potencia": "116 cv gasolina / 116 cv etanol",
+        "combustivel": "Flex",
+        "codigoMotor": "CSS Prime 1.0 turbo (confirmar chassi)",
+        "observacao": "Não confundir aspirado com turbo. Conferir acessórios e chicote."
+      }
+    ],
+    "compatibilidadeEssencial": [
+      {
+        "campo": "Peça",
+        "valor": "BOMBA DE ÓLEO"
+      },
+      {
+        "campo": "Aplicação base",
+        "valor": "CHEVROLET / GM ONIX / ONIX PLUS"
+      },
+      {
+        "campo": "Anos",
+        "valor": "2020-2024"
+      },
+      {
+        "campo": "Conferir antes da venda",
+        "valor": "cilindrada, CV, cilindros, válvulas, combustível, código do motor, chassi e peça antiga"
+      },
+      {
+        "campo": "Lado",
+        "valor": "NÃO SE APLICA"
+      }
+    ],
+    "relacionadas": [
+      "JUNTA",
+      "RETENTOR",
+      "CORREIA",
+      "TENSOR",
+      "SENSOR ROTAÇÃO",
+      "SENSOR TEMPERATURA"
+    ],
+    "observacoes": [
+      "Base master etapa 1. Dados usados para compatibilidade técnica; confirmar código do motor/chassi antes de finalizar a venda."
+    ],
+    "confiancaBase": 94,
+    "faseTecnica": "BASE MASTER MOTORES ETAPA 1"
+  },
+  {
+    "id": "master-coxim-do-motor-onix-onixplus-2020-2024",
+    "pecas": [
+      "COXIM DO MOTOR"
+    ],
+    "tipoPeca": "MECÂNICA MOTOR",
+    "marcas": [
+      "CHEVROLET",
+      "GM"
+    ],
+    "modelos": [
+      "ONIX",
+      "ONIX PLUS"
+    ],
+    "anos": [
+      2020,
+      2021,
+      2022,
+      2023,
+      2024
+    ],
+    "motores": [
+      "1.0 Flex aspirado 12V / 1.0 Turbo Flex 12V"
+    ],
+    "lados": [
+      "N/D"
+    ],
+    "posicoes": [
+      "MOTOR"
+    ],
+    "compatibilidadeRegra": "MOTOR_EXATO_POR_CILINDRADA_VALVULAS_CODIGO",
+    "dadosMotor": [
+      {
+        "anos": "2020-2024",
+        "motor": "1.0 Flex aspirado 12V",
+        "cilindrada": "999 cm³",
+        "cilindros": "3 cilindros",
+        "valvulas": "12V",
+        "cv": "78/82 cv",
+        "potencia": "78 cv gasolina / 82 cv etanol",
+        "combustivel": "Flex",
+        "codigoMotor": "CSS Prime 1.0 aspirado (confirmar chassi)",
+        "observacao": "Peças diferem do 1.0 turbo. Confirmar código do motor."
+      },
+      {
+        "anos": "2020-2024",
+        "motor": "1.0 Turbo Flex 12V",
+        "cilindrada": "999 cm³",
+        "cilindros": "3 cilindros",
+        "valvulas": "12V",
+        "cv": "116 cv",
+        "potencia": "116 cv gasolina / 116 cv etanol",
+        "combustivel": "Flex",
+        "codigoMotor": "CSS Prime 1.0 turbo (confirmar chassi)",
+        "observacao": "Não confundir aspirado com turbo. Conferir acessórios e chicote."
+      }
+    ],
+    "compatibilidadeEssencial": [
+      {
+        "campo": "Peça",
+        "valor": "COXIM DO MOTOR"
+      },
+      {
+        "campo": "Aplicação base",
+        "valor": "CHEVROLET / GM ONIX / ONIX PLUS"
+      },
+      {
+        "campo": "Anos",
+        "valor": "2020-2024"
+      },
+      {
+        "campo": "Conferir antes da venda",
+        "valor": "cilindrada, CV, cilindros, válvulas, combustível, código do motor, chassi e peça antiga"
+      },
+      {
+        "campo": "Lado",
+        "valor": "NÃO SE APLICA"
+      }
+    ],
+    "relacionadas": [
+      "JUNTA",
+      "RETENTOR",
+      "CORREIA",
+      "TENSOR",
+      "SENSOR ROTAÇÃO",
+      "SENSOR TEMPERATURA"
+    ],
+    "observacoes": [
+      "Base master etapa 1. Dados usados para compatibilidade técnica; confirmar código do motor/chassi antes de finalizar a venda."
+    ],
+    "confiancaBase": 94,
+    "faseTecnica": "BASE MASTER MOTORES ETAPA 1"
+  },
+  {
+    "id": "master-coletor-admiss-o-onix-onixplus-2020-2024",
+    "pecas": [
+      "COLETOR ADMISSÃO"
+    ],
+    "tipoPeca": "MECÂNICA MOTOR",
+    "marcas": [
+      "CHEVROLET",
+      "GM"
+    ],
+    "modelos": [
+      "ONIX",
+      "ONIX PLUS"
+    ],
+    "anos": [
+      2020,
+      2021,
+      2022,
+      2023,
+      2024
+    ],
+    "motores": [
+      "1.0 Flex aspirado 12V / 1.0 Turbo Flex 12V"
+    ],
+    "lados": [
+      "N/D"
+    ],
+    "posicoes": [
+      "MOTOR"
+    ],
+    "compatibilidadeRegra": "MOTOR_EXATO_POR_CILINDRADA_VALVULAS_CODIGO",
+    "dadosMotor": [
+      {
+        "anos": "2020-2024",
+        "motor": "1.0 Flex aspirado 12V",
+        "cilindrada": "999 cm³",
+        "cilindros": "3 cilindros",
+        "valvulas": "12V",
+        "cv": "78/82 cv",
+        "potencia": "78 cv gasolina / 82 cv etanol",
+        "combustivel": "Flex",
+        "codigoMotor": "CSS Prime 1.0 aspirado (confirmar chassi)",
+        "observacao": "Peças diferem do 1.0 turbo. Confirmar código do motor."
+      },
+      {
+        "anos": "2020-2024",
+        "motor": "1.0 Turbo Flex 12V",
+        "cilindrada": "999 cm³",
+        "cilindros": "3 cilindros",
+        "valvulas": "12V",
+        "cv": "116 cv",
+        "potencia": "116 cv gasolina / 116 cv etanol",
+        "combustivel": "Flex",
+        "codigoMotor": "CSS Prime 1.0 turbo (confirmar chassi)",
+        "observacao": "Não confundir aspirado com turbo. Conferir acessórios e chicote."
+      }
+    ],
+    "compatibilidadeEssencial": [
+      {
+        "campo": "Peça",
+        "valor": "COLETOR ADMISSÃO"
+      },
+      {
+        "campo": "Aplicação base",
+        "valor": "CHEVROLET / GM ONIX / ONIX PLUS"
+      },
+      {
+        "campo": "Anos",
+        "valor": "2020-2024"
+      },
+      {
+        "campo": "Conferir antes da venda",
+        "valor": "cilindrada, CV, cilindros, válvulas, combustível, código do motor, chassi e peça antiga"
+      },
+      {
+        "campo": "Lado",
+        "valor": "NÃO SE APLICA"
+      }
+    ],
+    "relacionadas": [
+      "JUNTA",
+      "RETENTOR",
+      "CORREIA",
+      "TENSOR",
+      "SENSOR ROTAÇÃO",
+      "SENSOR TEMPERATURA"
+    ],
+    "observacoes": [
+      "Base master etapa 1. Dados usados para compatibilidade técnica; confirmar código do motor/chassi antes de finalizar a venda."
+    ],
+    "confiancaBase": 94,
+    "faseTecnica": "BASE MASTER MOTORES ETAPA 1"
+  },
+  {
+    "id": "master-coletor-escape-onix-onixplus-2020-2024",
+    "pecas": [
+      "COLETOR ESCAPE"
+    ],
+    "tipoPeca": "MECÂNICA MOTOR",
+    "marcas": [
+      "CHEVROLET",
+      "GM"
+    ],
+    "modelos": [
+      "ONIX",
+      "ONIX PLUS"
+    ],
+    "anos": [
+      2020,
+      2021,
+      2022,
+      2023,
+      2024
+    ],
+    "motores": [
+      "1.0 Flex aspirado 12V / 1.0 Turbo Flex 12V"
+    ],
+    "lados": [
+      "N/D"
+    ],
+    "posicoes": [
+      "MOTOR"
+    ],
+    "compatibilidadeRegra": "MOTOR_EXATO_POR_CILINDRADA_VALVULAS_CODIGO",
+    "dadosMotor": [
+      {
+        "anos": "2020-2024",
+        "motor": "1.0 Flex aspirado 12V",
+        "cilindrada": "999 cm³",
+        "cilindros": "3 cilindros",
+        "valvulas": "12V",
+        "cv": "78/82 cv",
+        "potencia": "78 cv gasolina / 82 cv etanol",
+        "combustivel": "Flex",
+        "codigoMotor": "CSS Prime 1.0 aspirado (confirmar chassi)",
+        "observacao": "Peças diferem do 1.0 turbo. Confirmar código do motor."
+      },
+      {
+        "anos": "2020-2024",
+        "motor": "1.0 Turbo Flex 12V",
+        "cilindrada": "999 cm³",
+        "cilindros": "3 cilindros",
+        "valvulas": "12V",
+        "cv": "116 cv",
+        "potencia": "116 cv gasolina / 116 cv etanol",
+        "combustivel": "Flex",
+        "codigoMotor": "CSS Prime 1.0 turbo (confirmar chassi)",
+        "observacao": "Não confundir aspirado com turbo. Conferir acessórios e chicote."
+      }
+    ],
+    "compatibilidadeEssencial": [
+      {
+        "campo": "Peça",
+        "valor": "COLETOR ESCAPE"
+      },
+      {
+        "campo": "Aplicação base",
+        "valor": "CHEVROLET / GM ONIX / ONIX PLUS"
+      },
+      {
+        "campo": "Anos",
+        "valor": "2020-2024"
+      },
+      {
+        "campo": "Conferir antes da venda",
+        "valor": "cilindrada, CV, cilindros, válvulas, combustível, código do motor, chassi e peça antiga"
+      },
+      {
+        "campo": "Lado",
+        "valor": "NÃO SE APLICA"
+      }
+    ],
+    "relacionadas": [
+      "JUNTA",
+      "RETENTOR",
+      "CORREIA",
+      "TENSOR",
+      "SENSOR ROTAÇÃO",
+      "SENSOR TEMPERATURA"
+    ],
+    "observacoes": [
+      "Base master etapa 1. Dados usados para compatibilidade técnica; confirmar código do motor/chassi antes de finalizar a venda."
+    ],
+    "confiancaBase": 94,
+    "faseTecnica": "BASE MASTER MOTORES ETAPA 1"
+  },
+  {
+    "id": "master-motor-completo-gol-voyage-saveiro-g5-g6-2009-2016",
+    "pecas": [
+      "MOTOR COMPLETO"
+    ],
+    "tipoPeca": "MECÂNICA MOTOR",
+    "marcas": [
+      "VOLKSWAGEN",
+      "VW"
+    ],
+    "modelos": [
+      "GOL",
+      "VOYAGE",
+      "SAVEIRO"
+    ],
+    "anos": [
+      2009,
+      2010,
+      2011,
+      2012,
+      2013,
+      2014,
+      2015,
+      2016
+    ],
+    "motores": [
+      "1.0 EA111 Total Flex 8V / 1.6 EA111 Total Flex 8V"
+    ],
+    "lados": [
+      "N/D"
+    ],
+    "posicoes": [
+      "MOTOR"
+    ],
+    "compatibilidadeRegra": "MOTOR_EXATO_POR_CILINDRADA_VALVULAS_CODIGO",
+    "dadosMotor": [
+      {
+        "anos": "2009-2016",
+        "motor": "1.0 EA111 Total Flex 8V",
+        "cilindrada": "999 cm³",
+        "cilindros": "4 cilindros",
+        "valvulas": "8V",
+        "cv": "72/76 cv",
+        "potencia": "72 cv gasolina / 76 cv etanol",
+        "combustivel": "Flex",
+        "codigoMotor": "EA111 1.0 (confirmar código gravado)",
+        "observacao": "Confirmar geração G5/G6 e código do motor."
+      },
+      {
+        "anos": "2009-2016",
+        "motor": "1.6 EA111 Total Flex 8V",
+        "cilindrada": "1.598 cm³",
+        "cilindros": "4 cilindros",
+        "valvulas": "8V",
+        "cv": "101/104 cv",
+        "potencia": "101 cv gasolina / 104 cv etanol",
+        "combustivel": "Flex",
+        "codigoMotor": "EA111 1.6 (confirmar código gravado)",
+        "observacao": "Confirmar se não é MSI em modelos mais novos."
+      }
+    ],
+    "compatibilidadeEssencial": [
+      {
+        "campo": "Peça",
+        "valor": "MOTOR COMPLETO"
+      },
+      {
+        "campo": "Aplicação base",
+        "valor": "VOLKSWAGEN / VW GOL / VOYAGE / SAVEIRO"
+      },
+      {
+        "campo": "Anos",
+        "valor": "2009-2016"
+      },
+      {
+        "campo": "Conferir antes da venda",
+        "valor": "cilindrada, CV, cilindros, válvulas, combustível, código do motor, chassi e peça antiga"
+      },
+      {
+        "campo": "Lado",
+        "valor": "NÃO SE APLICA"
+      }
+    ],
+    "relacionadas": [
+      "JUNTA",
+      "RETENTOR",
+      "CORREIA",
+      "TENSOR",
+      "SENSOR ROTAÇÃO",
+      "SENSOR TEMPERATURA"
+    ],
+    "observacoes": [
+      "Base master etapa 1. Dados usados para compatibilidade técnica; confirmar código do motor/chassi antes de finalizar a venda."
+    ],
+    "confiancaBase": 94,
+    "faseTecnica": "BASE MASTER MOTORES ETAPA 1"
+  },
+  {
+    "id": "master-cabe-ote-gol-voyage-saveiro-g5-g6-2009-2016",
+    "pecas": [
+      "CABEÇOTE"
+    ],
+    "tipoPeca": "MECÂNICA MOTOR",
+    "marcas": [
+      "VOLKSWAGEN",
+      "VW"
+    ],
+    "modelos": [
+      "GOL",
+      "VOYAGE",
+      "SAVEIRO"
+    ],
+    "anos": [
+      2009,
+      2010,
+      2011,
+      2012,
+      2013,
+      2014,
+      2015,
+      2016
+    ],
+    "motores": [
+      "1.0 EA111 Total Flex 8V / 1.6 EA111 Total Flex 8V"
+    ],
+    "lados": [
+      "N/D"
+    ],
+    "posicoes": [
+      "MOTOR"
+    ],
+    "compatibilidadeRegra": "MOTOR_EXATO_POR_CILINDRADA_VALVULAS_CODIGO",
+    "dadosMotor": [
+      {
+        "anos": "2009-2016",
+        "motor": "1.0 EA111 Total Flex 8V",
+        "cilindrada": "999 cm³",
+        "cilindros": "4 cilindros",
+        "valvulas": "8V",
+        "cv": "72/76 cv",
+        "potencia": "72 cv gasolina / 76 cv etanol",
+        "combustivel": "Flex",
+        "codigoMotor": "EA111 1.0 (confirmar código gravado)",
+        "observacao": "Confirmar geração G5/G6 e código do motor."
+      },
+      {
+        "anos": "2009-2016",
+        "motor": "1.6 EA111 Total Flex 8V",
+        "cilindrada": "1.598 cm³",
+        "cilindros": "4 cilindros",
+        "valvulas": "8V",
+        "cv": "101/104 cv",
+        "potencia": "101 cv gasolina / 104 cv etanol",
+        "combustivel": "Flex",
+        "codigoMotor": "EA111 1.6 (confirmar código gravado)",
+        "observacao": "Confirmar se não é MSI em modelos mais novos."
+      }
+    ],
+    "compatibilidadeEssencial": [
+      {
+        "campo": "Peça",
+        "valor": "CABEÇOTE"
+      },
+      {
+        "campo": "Aplicação base",
+        "valor": "VOLKSWAGEN / VW GOL / VOYAGE / SAVEIRO"
+      },
+      {
+        "campo": "Anos",
+        "valor": "2009-2016"
+      },
+      {
+        "campo": "Conferir antes da venda",
+        "valor": "cilindrada, CV, cilindros, válvulas, combustível, código do motor, chassi e peça antiga"
+      },
+      {
+        "campo": "Lado",
+        "valor": "NÃO SE APLICA"
+      }
+    ],
+    "relacionadas": [
+      "JUNTA",
+      "RETENTOR",
+      "CORREIA",
+      "TENSOR",
+      "SENSOR ROTAÇÃO",
+      "SENSOR TEMPERATURA"
+    ],
+    "observacoes": [
+      "Base master etapa 1. Dados usados para compatibilidade técnica; confirmar código do motor/chassi antes de finalizar a venda."
+    ],
+    "confiancaBase": 94,
+    "faseTecnica": "BASE MASTER MOTORES ETAPA 1"
+  },
+  {
+    "id": "master-tampa-de-v-lvulas-gol-voyage-saveiro-g5-g6-2009-2016",
+    "pecas": [
+      "TAMPA DE VÁLVULAS"
+    ],
+    "tipoPeca": "MECÂNICA MOTOR",
+    "marcas": [
+      "VOLKSWAGEN",
+      "VW"
+    ],
+    "modelos": [
+      "GOL",
+      "VOYAGE",
+      "SAVEIRO"
+    ],
+    "anos": [
+      2009,
+      2010,
+      2011,
+      2012,
+      2013,
+      2014,
+      2015,
+      2016
+    ],
+    "motores": [
+      "1.0 EA111 Total Flex 8V / 1.6 EA111 Total Flex 8V"
+    ],
+    "lados": [
+      "N/D"
+    ],
+    "posicoes": [
+      "MOTOR"
+    ],
+    "compatibilidadeRegra": "MOTOR_EXATO_POR_CILINDRADA_VALVULAS_CODIGO",
+    "dadosMotor": [
+      {
+        "anos": "2009-2016",
+        "motor": "1.0 EA111 Total Flex 8V",
+        "cilindrada": "999 cm³",
+        "cilindros": "4 cilindros",
+        "valvulas": "8V",
+        "cv": "72/76 cv",
+        "potencia": "72 cv gasolina / 76 cv etanol",
+        "combustivel": "Flex",
+        "codigoMotor": "EA111 1.0 (confirmar código gravado)",
+        "observacao": "Confirmar geração G5/G6 e código do motor."
+      },
+      {
+        "anos": "2009-2016",
+        "motor": "1.6 EA111 Total Flex 8V",
+        "cilindrada": "1.598 cm³",
+        "cilindros": "4 cilindros",
+        "valvulas": "8V",
+        "cv": "101/104 cv",
+        "potencia": "101 cv gasolina / 104 cv etanol",
+        "combustivel": "Flex",
+        "codigoMotor": "EA111 1.6 (confirmar código gravado)",
+        "observacao": "Confirmar se não é MSI em modelos mais novos."
+      }
+    ],
+    "compatibilidadeEssencial": [
+      {
+        "campo": "Peça",
+        "valor": "TAMPA DE VÁLVULAS"
+      },
+      {
+        "campo": "Aplicação base",
+        "valor": "VOLKSWAGEN / VW GOL / VOYAGE / SAVEIRO"
+      },
+      {
+        "campo": "Anos",
+        "valor": "2009-2016"
+      },
+      {
+        "campo": "Conferir antes da venda",
+        "valor": "cilindrada, CV, cilindros, válvulas, combustível, código do motor, chassi e peça antiga"
+      },
+      {
+        "campo": "Lado",
+        "valor": "NÃO SE APLICA"
+      }
+    ],
+    "relacionadas": [
+      "JUNTA",
+      "RETENTOR",
+      "CORREIA",
+      "TENSOR",
+      "SENSOR ROTAÇÃO",
+      "SENSOR TEMPERATURA"
+    ],
+    "observacoes": [
+      "Base master etapa 1. Dados usados para compatibilidade técnica; confirmar código do motor/chassi antes de finalizar a venda."
+    ],
+    "confiancaBase": 94,
+    "faseTecnica": "BASE MASTER MOTORES ETAPA 1"
+  },
+  {
+    "id": "master-c-rter-gol-voyage-saveiro-g5-g6-2009-2016",
+    "pecas": [
+      "CÁRTER"
+    ],
+    "tipoPeca": "MECÂNICA MOTOR",
+    "marcas": [
+      "VOLKSWAGEN",
+      "VW"
+    ],
+    "modelos": [
+      "GOL",
+      "VOYAGE",
+      "SAVEIRO"
+    ],
+    "anos": [
+      2009,
+      2010,
+      2011,
+      2012,
+      2013,
+      2014,
+      2015,
+      2016
+    ],
+    "motores": [
+      "1.0 EA111 Total Flex 8V / 1.6 EA111 Total Flex 8V"
+    ],
+    "lados": [
+      "N/D"
+    ],
+    "posicoes": [
+      "MOTOR"
+    ],
+    "compatibilidadeRegra": "MOTOR_EXATO_POR_CILINDRADA_VALVULAS_CODIGO",
+    "dadosMotor": [
+      {
+        "anos": "2009-2016",
+        "motor": "1.0 EA111 Total Flex 8V",
+        "cilindrada": "999 cm³",
+        "cilindros": "4 cilindros",
+        "valvulas": "8V",
+        "cv": "72/76 cv",
+        "potencia": "72 cv gasolina / 76 cv etanol",
+        "combustivel": "Flex",
+        "codigoMotor": "EA111 1.0 (confirmar código gravado)",
+        "observacao": "Confirmar geração G5/G6 e código do motor."
+      },
+      {
+        "anos": "2009-2016",
+        "motor": "1.6 EA111 Total Flex 8V",
+        "cilindrada": "1.598 cm³",
+        "cilindros": "4 cilindros",
+        "valvulas": "8V",
+        "cv": "101/104 cv",
+        "potencia": "101 cv gasolina / 104 cv etanol",
+        "combustivel": "Flex",
+        "codigoMotor": "EA111 1.6 (confirmar código gravado)",
+        "observacao": "Confirmar se não é MSI em modelos mais novos."
+      }
+    ],
+    "compatibilidadeEssencial": [
+      {
+        "campo": "Peça",
+        "valor": "CÁRTER"
+      },
+      {
+        "campo": "Aplicação base",
+        "valor": "VOLKSWAGEN / VW GOL / VOYAGE / SAVEIRO"
+      },
+      {
+        "campo": "Anos",
+        "valor": "2009-2016"
+      },
+      {
+        "campo": "Conferir antes da venda",
+        "valor": "cilindrada, CV, cilindros, válvulas, combustível, código do motor, chassi e peça antiga"
+      },
+      {
+        "campo": "Lado",
+        "valor": "NÃO SE APLICA"
+      }
+    ],
+    "relacionadas": [
+      "JUNTA",
+      "RETENTOR",
+      "CORREIA",
+      "TENSOR",
+      "SENSOR ROTAÇÃO",
+      "SENSOR TEMPERATURA"
+    ],
+    "observacoes": [
+      "Base master etapa 1. Dados usados para compatibilidade técnica; confirmar código do motor/chassi antes de finalizar a venda."
+    ],
+    "confiancaBase": 94,
+    "faseTecnica": "BASE MASTER MOTORES ETAPA 1"
+  },
+  {
+    "id": "master-bomba-de-leo-gol-voyage-saveiro-g5-g6-2009-2016",
+    "pecas": [
+      "BOMBA DE ÓLEO"
+    ],
+    "tipoPeca": "MECÂNICA MOTOR",
+    "marcas": [
+      "VOLKSWAGEN",
+      "VW"
+    ],
+    "modelos": [
+      "GOL",
+      "VOYAGE",
+      "SAVEIRO"
+    ],
+    "anos": [
+      2009,
+      2010,
+      2011,
+      2012,
+      2013,
+      2014,
+      2015,
+      2016
+    ],
+    "motores": [
+      "1.0 EA111 Total Flex 8V / 1.6 EA111 Total Flex 8V"
+    ],
+    "lados": [
+      "N/D"
+    ],
+    "posicoes": [
+      "MOTOR"
+    ],
+    "compatibilidadeRegra": "MOTOR_EXATO_POR_CILINDRADA_VALVULAS_CODIGO",
+    "dadosMotor": [
+      {
+        "anos": "2009-2016",
+        "motor": "1.0 EA111 Total Flex 8V",
+        "cilindrada": "999 cm³",
+        "cilindros": "4 cilindros",
+        "valvulas": "8V",
+        "cv": "72/76 cv",
+        "potencia": "72 cv gasolina / 76 cv etanol",
+        "combustivel": "Flex",
+        "codigoMotor": "EA111 1.0 (confirmar código gravado)",
+        "observacao": "Confirmar geração G5/G6 e código do motor."
+      },
+      {
+        "anos": "2009-2016",
+        "motor": "1.6 EA111 Total Flex 8V",
+        "cilindrada": "1.598 cm³",
+        "cilindros": "4 cilindros",
+        "valvulas": "8V",
+        "cv": "101/104 cv",
+        "potencia": "101 cv gasolina / 104 cv etanol",
+        "combustivel": "Flex",
+        "codigoMotor": "EA111 1.6 (confirmar código gravado)",
+        "observacao": "Confirmar se não é MSI em modelos mais novos."
+      }
+    ],
+    "compatibilidadeEssencial": [
+      {
+        "campo": "Peça",
+        "valor": "BOMBA DE ÓLEO"
+      },
+      {
+        "campo": "Aplicação base",
+        "valor": "VOLKSWAGEN / VW GOL / VOYAGE / SAVEIRO"
+      },
+      {
+        "campo": "Anos",
+        "valor": "2009-2016"
+      },
+      {
+        "campo": "Conferir antes da venda",
+        "valor": "cilindrada, CV, cilindros, válvulas, combustível, código do motor, chassi e peça antiga"
+      },
+      {
+        "campo": "Lado",
+        "valor": "NÃO SE APLICA"
+      }
+    ],
+    "relacionadas": [
+      "JUNTA",
+      "RETENTOR",
+      "CORREIA",
+      "TENSOR",
+      "SENSOR ROTAÇÃO",
+      "SENSOR TEMPERATURA"
+    ],
+    "observacoes": [
+      "Base master etapa 1. Dados usados para compatibilidade técnica; confirmar código do motor/chassi antes de finalizar a venda."
+    ],
+    "confiancaBase": 94,
+    "faseTecnica": "BASE MASTER MOTORES ETAPA 1"
+  },
+  {
+    "id": "master-coxim-do-motor-gol-voyage-saveiro-g5-g6-2009-2016",
+    "pecas": [
+      "COXIM DO MOTOR"
+    ],
+    "tipoPeca": "MECÂNICA MOTOR",
+    "marcas": [
+      "VOLKSWAGEN",
+      "VW"
+    ],
+    "modelos": [
+      "GOL",
+      "VOYAGE",
+      "SAVEIRO"
+    ],
+    "anos": [
+      2009,
+      2010,
+      2011,
+      2012,
+      2013,
+      2014,
+      2015,
+      2016
+    ],
+    "motores": [
+      "1.0 EA111 Total Flex 8V / 1.6 EA111 Total Flex 8V"
+    ],
+    "lados": [
+      "N/D"
+    ],
+    "posicoes": [
+      "MOTOR"
+    ],
+    "compatibilidadeRegra": "MOTOR_EXATO_POR_CILINDRADA_VALVULAS_CODIGO",
+    "dadosMotor": [
+      {
+        "anos": "2009-2016",
+        "motor": "1.0 EA111 Total Flex 8V",
+        "cilindrada": "999 cm³",
+        "cilindros": "4 cilindros",
+        "valvulas": "8V",
+        "cv": "72/76 cv",
+        "potencia": "72 cv gasolina / 76 cv etanol",
+        "combustivel": "Flex",
+        "codigoMotor": "EA111 1.0 (confirmar código gravado)",
+        "observacao": "Confirmar geração G5/G6 e código do motor."
+      },
+      {
+        "anos": "2009-2016",
+        "motor": "1.6 EA111 Total Flex 8V",
+        "cilindrada": "1.598 cm³",
+        "cilindros": "4 cilindros",
+        "valvulas": "8V",
+        "cv": "101/104 cv",
+        "potencia": "101 cv gasolina / 104 cv etanol",
+        "combustivel": "Flex",
+        "codigoMotor": "EA111 1.6 (confirmar código gravado)",
+        "observacao": "Confirmar se não é MSI em modelos mais novos."
+      }
+    ],
+    "compatibilidadeEssencial": [
+      {
+        "campo": "Peça",
+        "valor": "COXIM DO MOTOR"
+      },
+      {
+        "campo": "Aplicação base",
+        "valor": "VOLKSWAGEN / VW GOL / VOYAGE / SAVEIRO"
+      },
+      {
+        "campo": "Anos",
+        "valor": "2009-2016"
+      },
+      {
+        "campo": "Conferir antes da venda",
+        "valor": "cilindrada, CV, cilindros, válvulas, combustível, código do motor, chassi e peça antiga"
+      },
+      {
+        "campo": "Lado",
+        "valor": "NÃO SE APLICA"
+      }
+    ],
+    "relacionadas": [
+      "JUNTA",
+      "RETENTOR",
+      "CORREIA",
+      "TENSOR",
+      "SENSOR ROTAÇÃO",
+      "SENSOR TEMPERATURA"
+    ],
+    "observacoes": [
+      "Base master etapa 1. Dados usados para compatibilidade técnica; confirmar código do motor/chassi antes de finalizar a venda."
+    ],
+    "confiancaBase": 94,
+    "faseTecnica": "BASE MASTER MOTORES ETAPA 1"
+  },
+  {
+    "id": "master-coletor-admiss-o-gol-voyage-saveiro-g5-g6-2009-2016",
+    "pecas": [
+      "COLETOR ADMISSÃO"
+    ],
+    "tipoPeca": "MECÂNICA MOTOR",
+    "marcas": [
+      "VOLKSWAGEN",
+      "VW"
+    ],
+    "modelos": [
+      "GOL",
+      "VOYAGE",
+      "SAVEIRO"
+    ],
+    "anos": [
+      2009,
+      2010,
+      2011,
+      2012,
+      2013,
+      2014,
+      2015,
+      2016
+    ],
+    "motores": [
+      "1.0 EA111 Total Flex 8V / 1.6 EA111 Total Flex 8V"
+    ],
+    "lados": [
+      "N/D"
+    ],
+    "posicoes": [
+      "MOTOR"
+    ],
+    "compatibilidadeRegra": "MOTOR_EXATO_POR_CILINDRADA_VALVULAS_CODIGO",
+    "dadosMotor": [
+      {
+        "anos": "2009-2016",
+        "motor": "1.0 EA111 Total Flex 8V",
+        "cilindrada": "999 cm³",
+        "cilindros": "4 cilindros",
+        "valvulas": "8V",
+        "cv": "72/76 cv",
+        "potencia": "72 cv gasolina / 76 cv etanol",
+        "combustivel": "Flex",
+        "codigoMotor": "EA111 1.0 (confirmar código gravado)",
+        "observacao": "Confirmar geração G5/G6 e código do motor."
+      },
+      {
+        "anos": "2009-2016",
+        "motor": "1.6 EA111 Total Flex 8V",
+        "cilindrada": "1.598 cm³",
+        "cilindros": "4 cilindros",
+        "valvulas": "8V",
+        "cv": "101/104 cv",
+        "potencia": "101 cv gasolina / 104 cv etanol",
+        "combustivel": "Flex",
+        "codigoMotor": "EA111 1.6 (confirmar código gravado)",
+        "observacao": "Confirmar se não é MSI em modelos mais novos."
+      }
+    ],
+    "compatibilidadeEssencial": [
+      {
+        "campo": "Peça",
+        "valor": "COLETOR ADMISSÃO"
+      },
+      {
+        "campo": "Aplicação base",
+        "valor": "VOLKSWAGEN / VW GOL / VOYAGE / SAVEIRO"
+      },
+      {
+        "campo": "Anos",
+        "valor": "2009-2016"
+      },
+      {
+        "campo": "Conferir antes da venda",
+        "valor": "cilindrada, CV, cilindros, válvulas, combustível, código do motor, chassi e peça antiga"
+      },
+      {
+        "campo": "Lado",
+        "valor": "NÃO SE APLICA"
+      }
+    ],
+    "relacionadas": [
+      "JUNTA",
+      "RETENTOR",
+      "CORREIA",
+      "TENSOR",
+      "SENSOR ROTAÇÃO",
+      "SENSOR TEMPERATURA"
+    ],
+    "observacoes": [
+      "Base master etapa 1. Dados usados para compatibilidade técnica; confirmar código do motor/chassi antes de finalizar a venda."
+    ],
+    "confiancaBase": 94,
+    "faseTecnica": "BASE MASTER MOTORES ETAPA 1"
+  },
+  {
+    "id": "master-coletor-escape-gol-voyage-saveiro-g5-g6-2009-2016",
+    "pecas": [
+      "COLETOR ESCAPE"
+    ],
+    "tipoPeca": "MECÂNICA MOTOR",
+    "marcas": [
+      "VOLKSWAGEN",
+      "VW"
+    ],
+    "modelos": [
+      "GOL",
+      "VOYAGE",
+      "SAVEIRO"
+    ],
+    "anos": [
+      2009,
+      2010,
+      2011,
+      2012,
+      2013,
+      2014,
+      2015,
+      2016
+    ],
+    "motores": [
+      "1.0 EA111 Total Flex 8V / 1.6 EA111 Total Flex 8V"
+    ],
+    "lados": [
+      "N/D"
+    ],
+    "posicoes": [
+      "MOTOR"
+    ],
+    "compatibilidadeRegra": "MOTOR_EXATO_POR_CILINDRADA_VALVULAS_CODIGO",
+    "dadosMotor": [
+      {
+        "anos": "2009-2016",
+        "motor": "1.0 EA111 Total Flex 8V",
+        "cilindrada": "999 cm³",
+        "cilindros": "4 cilindros",
+        "valvulas": "8V",
+        "cv": "72/76 cv",
+        "potencia": "72 cv gasolina / 76 cv etanol",
+        "combustivel": "Flex",
+        "codigoMotor": "EA111 1.0 (confirmar código gravado)",
+        "observacao": "Confirmar geração G5/G6 e código do motor."
+      },
+      {
+        "anos": "2009-2016",
+        "motor": "1.6 EA111 Total Flex 8V",
+        "cilindrada": "1.598 cm³",
+        "cilindros": "4 cilindros",
+        "valvulas": "8V",
+        "cv": "101/104 cv",
+        "potencia": "101 cv gasolina / 104 cv etanol",
+        "combustivel": "Flex",
+        "codigoMotor": "EA111 1.6 (confirmar código gravado)",
+        "observacao": "Confirmar se não é MSI em modelos mais novos."
+      }
+    ],
+    "compatibilidadeEssencial": [
+      {
+        "campo": "Peça",
+        "valor": "COLETOR ESCAPE"
+      },
+      {
+        "campo": "Aplicação base",
+        "valor": "VOLKSWAGEN / VW GOL / VOYAGE / SAVEIRO"
+      },
+      {
+        "campo": "Anos",
+        "valor": "2009-2016"
+      },
+      {
+        "campo": "Conferir antes da venda",
+        "valor": "cilindrada, CV, cilindros, válvulas, combustível, código do motor, chassi e peça antiga"
+      },
+      {
+        "campo": "Lado",
+        "valor": "NÃO SE APLICA"
+      }
+    ],
+    "relacionadas": [
+      "JUNTA",
+      "RETENTOR",
+      "CORREIA",
+      "TENSOR",
+      "SENSOR ROTAÇÃO",
+      "SENSOR TEMPERATURA"
+    ],
+    "observacoes": [
+      "Base master etapa 1. Dados usados para compatibilidade técnica; confirmar código do motor/chassi antes de finalizar a venda."
+    ],
+    "confiancaBase": 94,
+    "faseTecnica": "BASE MASTER MOTORES ETAPA 1"
+  },
+  {
+    "id": "master-motor-completo-palio-siena-strada-uno-fire-2004-2016",
+    "pecas": [
+      "MOTOR COMPLETO"
+    ],
+    "tipoPeca": "MECÂNICA MOTOR",
+    "marcas": [
+      "FIAT"
+    ],
+    "modelos": [
+      "PALIO",
+      "SIENA",
+      "STRADA",
+      "UNO"
+    ],
+    "anos": [
+      2004,
+      2005,
+      2006,
+      2007,
+      2008,
+      2009,
+      2010,
+      2011,
+      2012,
+      2013,
+      2014,
+      2015,
+      2016
+    ],
+    "motores": [
+      "1.0 Fire Flex 8V / 1.4 Fire Flex 8V"
+    ],
+    "lados": [
+      "N/D"
+    ],
+    "posicoes": [
+      "MOTOR"
+    ],
+    "compatibilidadeRegra": "MOTOR_EXATO_POR_CILINDRADA_VALVULAS_CODIGO",
+    "dadosMotor": [
+      {
+        "anos": "2004-2016",
+        "motor": "1.0 Fire Flex 8V",
+        "cilindrada": "999 cm³",
+        "cilindros": "4 cilindros",
+        "valvulas": "8V",
+        "cv": "73/75 cv",
+        "potencia": "73 cv gasolina / 75 cv etanol",
+        "combustivel": "Flex",
+        "codigoMotor": "Fire 1.0 8V (confirmar etiqueta/código)",
+        "observacao": "Confirmar se é Fire antigo ou Evo conforme ano/modelo."
+      },
+      {
+        "anos": "2004-2016",
+        "motor": "1.4 Fire Flex 8V",
+        "cilindrada": "1.368 cm³",
+        "cilindros": "4 cilindros",
+        "valvulas": "8V",
+        "cv": "85/86 cv",
+        "potencia": "85 cv gasolina / 86 cv etanol",
+        "combustivel": "Flex",
+        "codigoMotor": "Fire 1.4 8V (confirmar etiqueta/código)",
+        "observacao": "Confirmar aplicação por ano e carroceria."
+      }
+    ],
+    "compatibilidadeEssencial": [
+      {
+        "campo": "Peça",
+        "valor": "MOTOR COMPLETO"
+      },
+      {
+        "campo": "Aplicação base",
+        "valor": "FIAT PALIO / SIENA / STRADA / UNO"
+      },
+      {
+        "campo": "Anos",
+        "valor": "2004-2016"
+      },
+      {
+        "campo": "Conferir antes da venda",
+        "valor": "cilindrada, CV, cilindros, válvulas, combustível, código do motor, chassi e peça antiga"
+      },
+      {
+        "campo": "Lado",
+        "valor": "NÃO SE APLICA"
+      }
+    ],
+    "relacionadas": [
+      "JUNTA",
+      "RETENTOR",
+      "CORREIA",
+      "TENSOR",
+      "SENSOR ROTAÇÃO",
+      "SENSOR TEMPERATURA"
+    ],
+    "observacoes": [
+      "Base master etapa 1. Dados usados para compatibilidade técnica; confirmar código do motor/chassi antes de finalizar a venda."
+    ],
+    "confiancaBase": 94,
+    "faseTecnica": "BASE MASTER MOTORES ETAPA 1"
+  },
+  {
+    "id": "master-cabe-ote-palio-siena-strada-uno-fire-2004-2016",
+    "pecas": [
+      "CABEÇOTE"
+    ],
+    "tipoPeca": "MECÂNICA MOTOR",
+    "marcas": [
+      "FIAT"
+    ],
+    "modelos": [
+      "PALIO",
+      "SIENA",
+      "STRADA",
+      "UNO"
+    ],
+    "anos": [
+      2004,
+      2005,
+      2006,
+      2007,
+      2008,
+      2009,
+      2010,
+      2011,
+      2012,
+      2013,
+      2014,
+      2015,
+      2016
+    ],
+    "motores": [
+      "1.0 Fire Flex 8V / 1.4 Fire Flex 8V"
+    ],
+    "lados": [
+      "N/D"
+    ],
+    "posicoes": [
+      "MOTOR"
+    ],
+    "compatibilidadeRegra": "MOTOR_EXATO_POR_CILINDRADA_VALVULAS_CODIGO",
+    "dadosMotor": [
+      {
+        "anos": "2004-2016",
+        "motor": "1.0 Fire Flex 8V",
+        "cilindrada": "999 cm³",
+        "cilindros": "4 cilindros",
+        "valvulas": "8V",
+        "cv": "73/75 cv",
+        "potencia": "73 cv gasolina / 75 cv etanol",
+        "combustivel": "Flex",
+        "codigoMotor": "Fire 1.0 8V (confirmar etiqueta/código)",
+        "observacao": "Confirmar se é Fire antigo ou Evo conforme ano/modelo."
+      },
+      {
+        "anos": "2004-2016",
+        "motor": "1.4 Fire Flex 8V",
+        "cilindrada": "1.368 cm³",
+        "cilindros": "4 cilindros",
+        "valvulas": "8V",
+        "cv": "85/86 cv",
+        "potencia": "85 cv gasolina / 86 cv etanol",
+        "combustivel": "Flex",
+        "codigoMotor": "Fire 1.4 8V (confirmar etiqueta/código)",
+        "observacao": "Confirmar aplicação por ano e carroceria."
+      }
+    ],
+    "compatibilidadeEssencial": [
+      {
+        "campo": "Peça",
+        "valor": "CABEÇOTE"
+      },
+      {
+        "campo": "Aplicação base",
+        "valor": "FIAT PALIO / SIENA / STRADA / UNO"
+      },
+      {
+        "campo": "Anos",
+        "valor": "2004-2016"
+      },
+      {
+        "campo": "Conferir antes da venda",
+        "valor": "cilindrada, CV, cilindros, válvulas, combustível, código do motor, chassi e peça antiga"
+      },
+      {
+        "campo": "Lado",
+        "valor": "NÃO SE APLICA"
+      }
+    ],
+    "relacionadas": [
+      "JUNTA",
+      "RETENTOR",
+      "CORREIA",
+      "TENSOR",
+      "SENSOR ROTAÇÃO",
+      "SENSOR TEMPERATURA"
+    ],
+    "observacoes": [
+      "Base master etapa 1. Dados usados para compatibilidade técnica; confirmar código do motor/chassi antes de finalizar a venda."
+    ],
+    "confiancaBase": 94,
+    "faseTecnica": "BASE MASTER MOTORES ETAPA 1"
+  },
+  {
+    "id": "master-tampa-de-v-lvulas-palio-siena-strada-uno-fire-2004-2016",
+    "pecas": [
+      "TAMPA DE VÁLVULAS"
+    ],
+    "tipoPeca": "MECÂNICA MOTOR",
+    "marcas": [
+      "FIAT"
+    ],
+    "modelos": [
+      "PALIO",
+      "SIENA",
+      "STRADA",
+      "UNO"
+    ],
+    "anos": [
+      2004,
+      2005,
+      2006,
+      2007,
+      2008,
+      2009,
+      2010,
+      2011,
+      2012,
+      2013,
+      2014,
+      2015,
+      2016
+    ],
+    "motores": [
+      "1.0 Fire Flex 8V / 1.4 Fire Flex 8V"
+    ],
+    "lados": [
+      "N/D"
+    ],
+    "posicoes": [
+      "MOTOR"
+    ],
+    "compatibilidadeRegra": "MOTOR_EXATO_POR_CILINDRADA_VALVULAS_CODIGO",
+    "dadosMotor": [
+      {
+        "anos": "2004-2016",
+        "motor": "1.0 Fire Flex 8V",
+        "cilindrada": "999 cm³",
+        "cilindros": "4 cilindros",
+        "valvulas": "8V",
+        "cv": "73/75 cv",
+        "potencia": "73 cv gasolina / 75 cv etanol",
+        "combustivel": "Flex",
+        "codigoMotor": "Fire 1.0 8V (confirmar etiqueta/código)",
+        "observacao": "Confirmar se é Fire antigo ou Evo conforme ano/modelo."
+      },
+      {
+        "anos": "2004-2016",
+        "motor": "1.4 Fire Flex 8V",
+        "cilindrada": "1.368 cm³",
+        "cilindros": "4 cilindros",
+        "valvulas": "8V",
+        "cv": "85/86 cv",
+        "potencia": "85 cv gasolina / 86 cv etanol",
+        "combustivel": "Flex",
+        "codigoMotor": "Fire 1.4 8V (confirmar etiqueta/código)",
+        "observacao": "Confirmar aplicação por ano e carroceria."
+      }
+    ],
+    "compatibilidadeEssencial": [
+      {
+        "campo": "Peça",
+        "valor": "TAMPA DE VÁLVULAS"
+      },
+      {
+        "campo": "Aplicação base",
+        "valor": "FIAT PALIO / SIENA / STRADA / UNO"
+      },
+      {
+        "campo": "Anos",
+        "valor": "2004-2016"
+      },
+      {
+        "campo": "Conferir antes da venda",
+        "valor": "cilindrada, CV, cilindros, válvulas, combustível, código do motor, chassi e peça antiga"
+      },
+      {
+        "campo": "Lado",
+        "valor": "NÃO SE APLICA"
+      }
+    ],
+    "relacionadas": [
+      "JUNTA",
+      "RETENTOR",
+      "CORREIA",
+      "TENSOR",
+      "SENSOR ROTAÇÃO",
+      "SENSOR TEMPERATURA"
+    ],
+    "observacoes": [
+      "Base master etapa 1. Dados usados para compatibilidade técnica; confirmar código do motor/chassi antes de finalizar a venda."
+    ],
+    "confiancaBase": 94,
+    "faseTecnica": "BASE MASTER MOTORES ETAPA 1"
+  },
+  {
+    "id": "master-c-rter-palio-siena-strada-uno-fire-2004-2016",
+    "pecas": [
+      "CÁRTER"
+    ],
+    "tipoPeca": "MECÂNICA MOTOR",
+    "marcas": [
+      "FIAT"
+    ],
+    "modelos": [
+      "PALIO",
+      "SIENA",
+      "STRADA",
+      "UNO"
+    ],
+    "anos": [
+      2004,
+      2005,
+      2006,
+      2007,
+      2008,
+      2009,
+      2010,
+      2011,
+      2012,
+      2013,
+      2014,
+      2015,
+      2016
+    ],
+    "motores": [
+      "1.0 Fire Flex 8V / 1.4 Fire Flex 8V"
+    ],
+    "lados": [
+      "N/D"
+    ],
+    "posicoes": [
+      "MOTOR"
+    ],
+    "compatibilidadeRegra": "MOTOR_EXATO_POR_CILINDRADA_VALVULAS_CODIGO",
+    "dadosMotor": [
+      {
+        "anos": "2004-2016",
+        "motor": "1.0 Fire Flex 8V",
+        "cilindrada": "999 cm³",
+        "cilindros": "4 cilindros",
+        "valvulas": "8V",
+        "cv": "73/75 cv",
+        "potencia": "73 cv gasolina / 75 cv etanol",
+        "combustivel": "Flex",
+        "codigoMotor": "Fire 1.0 8V (confirmar etiqueta/código)",
+        "observacao": "Confirmar se é Fire antigo ou Evo conforme ano/modelo."
+      },
+      {
+        "anos": "2004-2016",
+        "motor": "1.4 Fire Flex 8V",
+        "cilindrada": "1.368 cm³",
+        "cilindros": "4 cilindros",
+        "valvulas": "8V",
+        "cv": "85/86 cv",
+        "potencia": "85 cv gasolina / 86 cv etanol",
+        "combustivel": "Flex",
+        "codigoMotor": "Fire 1.4 8V (confirmar etiqueta/código)",
+        "observacao": "Confirmar aplicação por ano e carroceria."
+      }
+    ],
+    "compatibilidadeEssencial": [
+      {
+        "campo": "Peça",
+        "valor": "CÁRTER"
+      },
+      {
+        "campo": "Aplicação base",
+        "valor": "FIAT PALIO / SIENA / STRADA / UNO"
+      },
+      {
+        "campo": "Anos",
+        "valor": "2004-2016"
+      },
+      {
+        "campo": "Conferir antes da venda",
+        "valor": "cilindrada, CV, cilindros, válvulas, combustível, código do motor, chassi e peça antiga"
+      },
+      {
+        "campo": "Lado",
+        "valor": "NÃO SE APLICA"
+      }
+    ],
+    "relacionadas": [
+      "JUNTA",
+      "RETENTOR",
+      "CORREIA",
+      "TENSOR",
+      "SENSOR ROTAÇÃO",
+      "SENSOR TEMPERATURA"
+    ],
+    "observacoes": [
+      "Base master etapa 1. Dados usados para compatibilidade técnica; confirmar código do motor/chassi antes de finalizar a venda."
+    ],
+    "confiancaBase": 94,
+    "faseTecnica": "BASE MASTER MOTORES ETAPA 1"
+  },
+  {
+    "id": "master-bomba-de-leo-palio-siena-strada-uno-fire-2004-2016",
+    "pecas": [
+      "BOMBA DE ÓLEO"
+    ],
+    "tipoPeca": "MECÂNICA MOTOR",
+    "marcas": [
+      "FIAT"
+    ],
+    "modelos": [
+      "PALIO",
+      "SIENA",
+      "STRADA",
+      "UNO"
+    ],
+    "anos": [
+      2004,
+      2005,
+      2006,
+      2007,
+      2008,
+      2009,
+      2010,
+      2011,
+      2012,
+      2013,
+      2014,
+      2015,
+      2016
+    ],
+    "motores": [
+      "1.0 Fire Flex 8V / 1.4 Fire Flex 8V"
+    ],
+    "lados": [
+      "N/D"
+    ],
+    "posicoes": [
+      "MOTOR"
+    ],
+    "compatibilidadeRegra": "MOTOR_EXATO_POR_CILINDRADA_VALVULAS_CODIGO",
+    "dadosMotor": [
+      {
+        "anos": "2004-2016",
+        "motor": "1.0 Fire Flex 8V",
+        "cilindrada": "999 cm³",
+        "cilindros": "4 cilindros",
+        "valvulas": "8V",
+        "cv": "73/75 cv",
+        "potencia": "73 cv gasolina / 75 cv etanol",
+        "combustivel": "Flex",
+        "codigoMotor": "Fire 1.0 8V (confirmar etiqueta/código)",
+        "observacao": "Confirmar se é Fire antigo ou Evo conforme ano/modelo."
+      },
+      {
+        "anos": "2004-2016",
+        "motor": "1.4 Fire Flex 8V",
+        "cilindrada": "1.368 cm³",
+        "cilindros": "4 cilindros",
+        "valvulas": "8V",
+        "cv": "85/86 cv",
+        "potencia": "85 cv gasolina / 86 cv etanol",
+        "combustivel": "Flex",
+        "codigoMotor": "Fire 1.4 8V (confirmar etiqueta/código)",
+        "observacao": "Confirmar aplicação por ano e carroceria."
+      }
+    ],
+    "compatibilidadeEssencial": [
+      {
+        "campo": "Peça",
+        "valor": "BOMBA DE ÓLEO"
+      },
+      {
+        "campo": "Aplicação base",
+        "valor": "FIAT PALIO / SIENA / STRADA / UNO"
+      },
+      {
+        "campo": "Anos",
+        "valor": "2004-2016"
+      },
+      {
+        "campo": "Conferir antes da venda",
+        "valor": "cilindrada, CV, cilindros, válvulas, combustível, código do motor, chassi e peça antiga"
+      },
+      {
+        "campo": "Lado",
+        "valor": "NÃO SE APLICA"
+      }
+    ],
+    "relacionadas": [
+      "JUNTA",
+      "RETENTOR",
+      "CORREIA",
+      "TENSOR",
+      "SENSOR ROTAÇÃO",
+      "SENSOR TEMPERATURA"
+    ],
+    "observacoes": [
+      "Base master etapa 1. Dados usados para compatibilidade técnica; confirmar código do motor/chassi antes de finalizar a venda."
+    ],
+    "confiancaBase": 94,
+    "faseTecnica": "BASE MASTER MOTORES ETAPA 1"
+  },
+  {
+    "id": "master-coxim-do-motor-palio-siena-strada-uno-fire-2004-2016",
+    "pecas": [
+      "COXIM DO MOTOR"
+    ],
+    "tipoPeca": "MECÂNICA MOTOR",
+    "marcas": [
+      "FIAT"
+    ],
+    "modelos": [
+      "PALIO",
+      "SIENA",
+      "STRADA",
+      "UNO"
+    ],
+    "anos": [
+      2004,
+      2005,
+      2006,
+      2007,
+      2008,
+      2009,
+      2010,
+      2011,
+      2012,
+      2013,
+      2014,
+      2015,
+      2016
+    ],
+    "motores": [
+      "1.0 Fire Flex 8V / 1.4 Fire Flex 8V"
+    ],
+    "lados": [
+      "N/D"
+    ],
+    "posicoes": [
+      "MOTOR"
+    ],
+    "compatibilidadeRegra": "MOTOR_EXATO_POR_CILINDRADA_VALVULAS_CODIGO",
+    "dadosMotor": [
+      {
+        "anos": "2004-2016",
+        "motor": "1.0 Fire Flex 8V",
+        "cilindrada": "999 cm³",
+        "cilindros": "4 cilindros",
+        "valvulas": "8V",
+        "cv": "73/75 cv",
+        "potencia": "73 cv gasolina / 75 cv etanol",
+        "combustivel": "Flex",
+        "codigoMotor": "Fire 1.0 8V (confirmar etiqueta/código)",
+        "observacao": "Confirmar se é Fire antigo ou Evo conforme ano/modelo."
+      },
+      {
+        "anos": "2004-2016",
+        "motor": "1.4 Fire Flex 8V",
+        "cilindrada": "1.368 cm³",
+        "cilindros": "4 cilindros",
+        "valvulas": "8V",
+        "cv": "85/86 cv",
+        "potencia": "85 cv gasolina / 86 cv etanol",
+        "combustivel": "Flex",
+        "codigoMotor": "Fire 1.4 8V (confirmar etiqueta/código)",
+        "observacao": "Confirmar aplicação por ano e carroceria."
+      }
+    ],
+    "compatibilidadeEssencial": [
+      {
+        "campo": "Peça",
+        "valor": "COXIM DO MOTOR"
+      },
+      {
+        "campo": "Aplicação base",
+        "valor": "FIAT PALIO / SIENA / STRADA / UNO"
+      },
+      {
+        "campo": "Anos",
+        "valor": "2004-2016"
+      },
+      {
+        "campo": "Conferir antes da venda",
+        "valor": "cilindrada, CV, cilindros, válvulas, combustível, código do motor, chassi e peça antiga"
+      },
+      {
+        "campo": "Lado",
+        "valor": "NÃO SE APLICA"
+      }
+    ],
+    "relacionadas": [
+      "JUNTA",
+      "RETENTOR",
+      "CORREIA",
+      "TENSOR",
+      "SENSOR ROTAÇÃO",
+      "SENSOR TEMPERATURA"
+    ],
+    "observacoes": [
+      "Base master etapa 1. Dados usados para compatibilidade técnica; confirmar código do motor/chassi antes de finalizar a venda."
+    ],
+    "confiancaBase": 94,
+    "faseTecnica": "BASE MASTER MOTORES ETAPA 1"
+  },
+  {
+    "id": "master-coletor-admiss-o-palio-siena-strada-uno-fire-2004-2016",
+    "pecas": [
+      "COLETOR ADMISSÃO"
+    ],
+    "tipoPeca": "MECÂNICA MOTOR",
+    "marcas": [
+      "FIAT"
+    ],
+    "modelos": [
+      "PALIO",
+      "SIENA",
+      "STRADA",
+      "UNO"
+    ],
+    "anos": [
+      2004,
+      2005,
+      2006,
+      2007,
+      2008,
+      2009,
+      2010,
+      2011,
+      2012,
+      2013,
+      2014,
+      2015,
+      2016
+    ],
+    "motores": [
+      "1.0 Fire Flex 8V / 1.4 Fire Flex 8V"
+    ],
+    "lados": [
+      "N/D"
+    ],
+    "posicoes": [
+      "MOTOR"
+    ],
+    "compatibilidadeRegra": "MOTOR_EXATO_POR_CILINDRADA_VALVULAS_CODIGO",
+    "dadosMotor": [
+      {
+        "anos": "2004-2016",
+        "motor": "1.0 Fire Flex 8V",
+        "cilindrada": "999 cm³",
+        "cilindros": "4 cilindros",
+        "valvulas": "8V",
+        "cv": "73/75 cv",
+        "potencia": "73 cv gasolina / 75 cv etanol",
+        "combustivel": "Flex",
+        "codigoMotor": "Fire 1.0 8V (confirmar etiqueta/código)",
+        "observacao": "Confirmar se é Fire antigo ou Evo conforme ano/modelo."
+      },
+      {
+        "anos": "2004-2016",
+        "motor": "1.4 Fire Flex 8V",
+        "cilindrada": "1.368 cm³",
+        "cilindros": "4 cilindros",
+        "valvulas": "8V",
+        "cv": "85/86 cv",
+        "potencia": "85 cv gasolina / 86 cv etanol",
+        "combustivel": "Flex",
+        "codigoMotor": "Fire 1.4 8V (confirmar etiqueta/código)",
+        "observacao": "Confirmar aplicação por ano e carroceria."
+      }
+    ],
+    "compatibilidadeEssencial": [
+      {
+        "campo": "Peça",
+        "valor": "COLETOR ADMISSÃO"
+      },
+      {
+        "campo": "Aplicação base",
+        "valor": "FIAT PALIO / SIENA / STRADA / UNO"
+      },
+      {
+        "campo": "Anos",
+        "valor": "2004-2016"
+      },
+      {
+        "campo": "Conferir antes da venda",
+        "valor": "cilindrada, CV, cilindros, válvulas, combustível, código do motor, chassi e peça antiga"
+      },
+      {
+        "campo": "Lado",
+        "valor": "NÃO SE APLICA"
+      }
+    ],
+    "relacionadas": [
+      "JUNTA",
+      "RETENTOR",
+      "CORREIA",
+      "TENSOR",
+      "SENSOR ROTAÇÃO",
+      "SENSOR TEMPERATURA"
+    ],
+    "observacoes": [
+      "Base master etapa 1. Dados usados para compatibilidade técnica; confirmar código do motor/chassi antes de finalizar a venda."
+    ],
+    "confiancaBase": 94,
+    "faseTecnica": "BASE MASTER MOTORES ETAPA 1"
+  },
+  {
+    "id": "master-coletor-escape-palio-siena-strada-uno-fire-2004-2016",
+    "pecas": [
+      "COLETOR ESCAPE"
+    ],
+    "tipoPeca": "MECÂNICA MOTOR",
+    "marcas": [
+      "FIAT"
+    ],
+    "modelos": [
+      "PALIO",
+      "SIENA",
+      "STRADA",
+      "UNO"
+    ],
+    "anos": [
+      2004,
+      2005,
+      2006,
+      2007,
+      2008,
+      2009,
+      2010,
+      2011,
+      2012,
+      2013,
+      2014,
+      2015,
+      2016
+    ],
+    "motores": [
+      "1.0 Fire Flex 8V / 1.4 Fire Flex 8V"
+    ],
+    "lados": [
+      "N/D"
+    ],
+    "posicoes": [
+      "MOTOR"
+    ],
+    "compatibilidadeRegra": "MOTOR_EXATO_POR_CILINDRADA_VALVULAS_CODIGO",
+    "dadosMotor": [
+      {
+        "anos": "2004-2016",
+        "motor": "1.0 Fire Flex 8V",
+        "cilindrada": "999 cm³",
+        "cilindros": "4 cilindros",
+        "valvulas": "8V",
+        "cv": "73/75 cv",
+        "potencia": "73 cv gasolina / 75 cv etanol",
+        "combustivel": "Flex",
+        "codigoMotor": "Fire 1.0 8V (confirmar etiqueta/código)",
+        "observacao": "Confirmar se é Fire antigo ou Evo conforme ano/modelo."
+      },
+      {
+        "anos": "2004-2016",
+        "motor": "1.4 Fire Flex 8V",
+        "cilindrada": "1.368 cm³",
+        "cilindros": "4 cilindros",
+        "valvulas": "8V",
+        "cv": "85/86 cv",
+        "potencia": "85 cv gasolina / 86 cv etanol",
+        "combustivel": "Flex",
+        "codigoMotor": "Fire 1.4 8V (confirmar etiqueta/código)",
+        "observacao": "Confirmar aplicação por ano e carroceria."
+      }
+    ],
+    "compatibilidadeEssencial": [
+      {
+        "campo": "Peça",
+        "valor": "COLETOR ESCAPE"
+      },
+      {
+        "campo": "Aplicação base",
+        "valor": "FIAT PALIO / SIENA / STRADA / UNO"
+      },
+      {
+        "campo": "Anos",
+        "valor": "2004-2016"
+      },
+      {
+        "campo": "Conferir antes da venda",
+        "valor": "cilindrada, CV, cilindros, válvulas, combustível, código do motor, chassi e peça antiga"
+      },
+      {
+        "campo": "Lado",
+        "valor": "NÃO SE APLICA"
+      }
+    ],
+    "relacionadas": [
+      "JUNTA",
+      "RETENTOR",
+      "CORREIA",
+      "TENSOR",
+      "SENSOR ROTAÇÃO",
+      "SENSOR TEMPERATURA"
+    ],
+    "observacoes": [
+      "Base master etapa 1. Dados usados para compatibilidade técnica; confirmar código do motor/chassi antes de finalizar a venda."
+    ],
+    "confiancaBase": 94,
+    "faseTecnica": "BASE MASTER MOTORES ETAPA 1"
+  },
+  {
+    "id": "master-motor-completo-celta-classic-corsa-2006-2016",
+    "pecas": [
+      "MOTOR COMPLETO"
+    ],
+    "tipoPeca": "MECÂNICA MOTOR",
+    "marcas": [
+      "CHEVROLET",
+      "GM"
+    ],
+    "modelos": [
+      "CELTA",
+      "CLASSIC",
+      "CORSA"
+    ],
+    "anos": [
+      2006,
+      2007,
+      2008,
+      2009,
+      2010,
+      2011,
+      2012,
+      2013,
+      2014,
+      2015,
+      2016
+    ],
+    "motores": [
+      "1.0 VHC/VHCE Flex 8V / 1.4 Econo.Flex 8V"
+    ],
+    "lados": [
+      "N/D"
+    ],
+    "posicoes": [
+      "MOTOR"
+    ],
+    "compatibilidadeRegra": "MOTOR_EXATO_POR_CILINDRADA_VALVULAS_CODIGO",
+    "dadosMotor": [
+      {
+        "anos": "2006-2016",
+        "motor": "1.0 VHC/VHCE Flex 8V",
+        "cilindrada": "999 cm³",
+        "cilindros": "4 cilindros",
+        "valvulas": "8V",
+        "cv": "77/78 cv aprox.",
+        "potencia": "77 cv gasolina / 78 cv etanol aprox.",
+        "combustivel": "Flex",
+        "codigoMotor": "VHC/VHCE 1.0 (confirmar ano/código)",
+        "observacao": "Potência varia por versão/ano. Confirmar código do motor."
+      },
+      {
+        "anos": "2006-2016",
+        "motor": "1.4 Econo.Flex 8V",
+        "cilindrada": "1.389 cm³",
+        "cilindros": "4 cilindros",
+        "valvulas": "8V",
+        "cv": "97/102 cv aprox.",
+        "potencia": "97 cv gasolina / 102 cv etanol aprox.",
+        "combustivel": "Flex",
+        "codigoMotor": "Econo.Flex 1.4 (confirmar ano/código)",
+        "observacao": "Aplicação varia entre Corsa/Montana/Classic conforme ano."
+      }
+    ],
+    "compatibilidadeEssencial": [
+      {
+        "campo": "Peça",
+        "valor": "MOTOR COMPLETO"
+      },
+      {
+        "campo": "Aplicação base",
+        "valor": "CHEVROLET / GM CELTA / CLASSIC / CORSA"
+      },
+      {
+        "campo": "Anos",
+        "valor": "2006-2016"
+      },
+      {
+        "campo": "Conferir antes da venda",
+        "valor": "cilindrada, CV, cilindros, válvulas, combustível, código do motor, chassi e peça antiga"
+      },
+      {
+        "campo": "Lado",
+        "valor": "NÃO SE APLICA"
+      }
+    ],
+    "relacionadas": [
+      "JUNTA",
+      "RETENTOR",
+      "CORREIA",
+      "TENSOR",
+      "SENSOR ROTAÇÃO",
+      "SENSOR TEMPERATURA"
+    ],
+    "observacoes": [
+      "Base master etapa 1. Dados usados para compatibilidade técnica; confirmar código do motor/chassi antes de finalizar a venda."
+    ],
+    "confiancaBase": 94,
+    "faseTecnica": "BASE MASTER MOTORES ETAPA 1"
+  },
+  {
+    "id": "master-cabe-ote-celta-classic-corsa-2006-2016",
+    "pecas": [
+      "CABEÇOTE"
+    ],
+    "tipoPeca": "MECÂNICA MOTOR",
+    "marcas": [
+      "CHEVROLET",
+      "GM"
+    ],
+    "modelos": [
+      "CELTA",
+      "CLASSIC",
+      "CORSA"
+    ],
+    "anos": [
+      2006,
+      2007,
+      2008,
+      2009,
+      2010,
+      2011,
+      2012,
+      2013,
+      2014,
+      2015,
+      2016
+    ],
+    "motores": [
+      "1.0 VHC/VHCE Flex 8V / 1.4 Econo.Flex 8V"
+    ],
+    "lados": [
+      "N/D"
+    ],
+    "posicoes": [
+      "MOTOR"
+    ],
+    "compatibilidadeRegra": "MOTOR_EXATO_POR_CILINDRADA_VALVULAS_CODIGO",
+    "dadosMotor": [
+      {
+        "anos": "2006-2016",
+        "motor": "1.0 VHC/VHCE Flex 8V",
+        "cilindrada": "999 cm³",
+        "cilindros": "4 cilindros",
+        "valvulas": "8V",
+        "cv": "77/78 cv aprox.",
+        "potencia": "77 cv gasolina / 78 cv etanol aprox.",
+        "combustivel": "Flex",
+        "codigoMotor": "VHC/VHCE 1.0 (confirmar ano/código)",
+        "observacao": "Potência varia por versão/ano. Confirmar código do motor."
+      },
+      {
+        "anos": "2006-2016",
+        "motor": "1.4 Econo.Flex 8V",
+        "cilindrada": "1.389 cm³",
+        "cilindros": "4 cilindros",
+        "valvulas": "8V",
+        "cv": "97/102 cv aprox.",
+        "potencia": "97 cv gasolina / 102 cv etanol aprox.",
+        "combustivel": "Flex",
+        "codigoMotor": "Econo.Flex 1.4 (confirmar ano/código)",
+        "observacao": "Aplicação varia entre Corsa/Montana/Classic conforme ano."
+      }
+    ],
+    "compatibilidadeEssencial": [
+      {
+        "campo": "Peça",
+        "valor": "CABEÇOTE"
+      },
+      {
+        "campo": "Aplicação base",
+        "valor": "CHEVROLET / GM CELTA / CLASSIC / CORSA"
+      },
+      {
+        "campo": "Anos",
+        "valor": "2006-2016"
+      },
+      {
+        "campo": "Conferir antes da venda",
+        "valor": "cilindrada, CV, cilindros, válvulas, combustível, código do motor, chassi e peça antiga"
+      },
+      {
+        "campo": "Lado",
+        "valor": "NÃO SE APLICA"
+      }
+    ],
+    "relacionadas": [
+      "JUNTA",
+      "RETENTOR",
+      "CORREIA",
+      "TENSOR",
+      "SENSOR ROTAÇÃO",
+      "SENSOR TEMPERATURA"
+    ],
+    "observacoes": [
+      "Base master etapa 1. Dados usados para compatibilidade técnica; confirmar código do motor/chassi antes de finalizar a venda."
+    ],
+    "confiancaBase": 94,
+    "faseTecnica": "BASE MASTER MOTORES ETAPA 1"
+  },
+  {
+    "id": "master-tampa-de-v-lvulas-celta-classic-corsa-2006-2016",
+    "pecas": [
+      "TAMPA DE VÁLVULAS"
+    ],
+    "tipoPeca": "MECÂNICA MOTOR",
+    "marcas": [
+      "CHEVROLET",
+      "GM"
+    ],
+    "modelos": [
+      "CELTA",
+      "CLASSIC",
+      "CORSA"
+    ],
+    "anos": [
+      2006,
+      2007,
+      2008,
+      2009,
+      2010,
+      2011,
+      2012,
+      2013,
+      2014,
+      2015,
+      2016
+    ],
+    "motores": [
+      "1.0 VHC/VHCE Flex 8V / 1.4 Econo.Flex 8V"
+    ],
+    "lados": [
+      "N/D"
+    ],
+    "posicoes": [
+      "MOTOR"
+    ],
+    "compatibilidadeRegra": "MOTOR_EXATO_POR_CILINDRADA_VALVULAS_CODIGO",
+    "dadosMotor": [
+      {
+        "anos": "2006-2016",
+        "motor": "1.0 VHC/VHCE Flex 8V",
+        "cilindrada": "999 cm³",
+        "cilindros": "4 cilindros",
+        "valvulas": "8V",
+        "cv": "77/78 cv aprox.",
+        "potencia": "77 cv gasolina / 78 cv etanol aprox.",
+        "combustivel": "Flex",
+        "codigoMotor": "VHC/VHCE 1.0 (confirmar ano/código)",
+        "observacao": "Potência varia por versão/ano. Confirmar código do motor."
+      },
+      {
+        "anos": "2006-2016",
+        "motor": "1.4 Econo.Flex 8V",
+        "cilindrada": "1.389 cm³",
+        "cilindros": "4 cilindros",
+        "valvulas": "8V",
+        "cv": "97/102 cv aprox.",
+        "potencia": "97 cv gasolina / 102 cv etanol aprox.",
+        "combustivel": "Flex",
+        "codigoMotor": "Econo.Flex 1.4 (confirmar ano/código)",
+        "observacao": "Aplicação varia entre Corsa/Montana/Classic conforme ano."
+      }
+    ],
+    "compatibilidadeEssencial": [
+      {
+        "campo": "Peça",
+        "valor": "TAMPA DE VÁLVULAS"
+      },
+      {
+        "campo": "Aplicação base",
+        "valor": "CHEVROLET / GM CELTA / CLASSIC / CORSA"
+      },
+      {
+        "campo": "Anos",
+        "valor": "2006-2016"
+      },
+      {
+        "campo": "Conferir antes da venda",
+        "valor": "cilindrada, CV, cilindros, válvulas, combustível, código do motor, chassi e peça antiga"
+      },
+      {
+        "campo": "Lado",
+        "valor": "NÃO SE APLICA"
+      }
+    ],
+    "relacionadas": [
+      "JUNTA",
+      "RETENTOR",
+      "CORREIA",
+      "TENSOR",
+      "SENSOR ROTAÇÃO",
+      "SENSOR TEMPERATURA"
+    ],
+    "observacoes": [
+      "Base master etapa 1. Dados usados para compatibilidade técnica; confirmar código do motor/chassi antes de finalizar a venda."
+    ],
+    "confiancaBase": 94,
+    "faseTecnica": "BASE MASTER MOTORES ETAPA 1"
+  },
+  {
+    "id": "master-c-rter-celta-classic-corsa-2006-2016",
+    "pecas": [
+      "CÁRTER"
+    ],
+    "tipoPeca": "MECÂNICA MOTOR",
+    "marcas": [
+      "CHEVROLET",
+      "GM"
+    ],
+    "modelos": [
+      "CELTA",
+      "CLASSIC",
+      "CORSA"
+    ],
+    "anos": [
+      2006,
+      2007,
+      2008,
+      2009,
+      2010,
+      2011,
+      2012,
+      2013,
+      2014,
+      2015,
+      2016
+    ],
+    "motores": [
+      "1.0 VHC/VHCE Flex 8V / 1.4 Econo.Flex 8V"
+    ],
+    "lados": [
+      "N/D"
+    ],
+    "posicoes": [
+      "MOTOR"
+    ],
+    "compatibilidadeRegra": "MOTOR_EXATO_POR_CILINDRADA_VALVULAS_CODIGO",
+    "dadosMotor": [
+      {
+        "anos": "2006-2016",
+        "motor": "1.0 VHC/VHCE Flex 8V",
+        "cilindrada": "999 cm³",
+        "cilindros": "4 cilindros",
+        "valvulas": "8V",
+        "cv": "77/78 cv aprox.",
+        "potencia": "77 cv gasolina / 78 cv etanol aprox.",
+        "combustivel": "Flex",
+        "codigoMotor": "VHC/VHCE 1.0 (confirmar ano/código)",
+        "observacao": "Potência varia por versão/ano. Confirmar código do motor."
+      },
+      {
+        "anos": "2006-2016",
+        "motor": "1.4 Econo.Flex 8V",
+        "cilindrada": "1.389 cm³",
+        "cilindros": "4 cilindros",
+        "valvulas": "8V",
+        "cv": "97/102 cv aprox.",
+        "potencia": "97 cv gasolina / 102 cv etanol aprox.",
+        "combustivel": "Flex",
+        "codigoMotor": "Econo.Flex 1.4 (confirmar ano/código)",
+        "observacao": "Aplicação varia entre Corsa/Montana/Classic conforme ano."
+      }
+    ],
+    "compatibilidadeEssencial": [
+      {
+        "campo": "Peça",
+        "valor": "CÁRTER"
+      },
+      {
+        "campo": "Aplicação base",
+        "valor": "CHEVROLET / GM CELTA / CLASSIC / CORSA"
+      },
+      {
+        "campo": "Anos",
+        "valor": "2006-2016"
+      },
+      {
+        "campo": "Conferir antes da venda",
+        "valor": "cilindrada, CV, cilindros, válvulas, combustível, código do motor, chassi e peça antiga"
+      },
+      {
+        "campo": "Lado",
+        "valor": "NÃO SE APLICA"
+      }
+    ],
+    "relacionadas": [
+      "JUNTA",
+      "RETENTOR",
+      "CORREIA",
+      "TENSOR",
+      "SENSOR ROTAÇÃO",
+      "SENSOR TEMPERATURA"
+    ],
+    "observacoes": [
+      "Base master etapa 1. Dados usados para compatibilidade técnica; confirmar código do motor/chassi antes de finalizar a venda."
+    ],
+    "confiancaBase": 94,
+    "faseTecnica": "BASE MASTER MOTORES ETAPA 1"
+  },
+  {
+    "id": "master-bomba-de-leo-celta-classic-corsa-2006-2016",
+    "pecas": [
+      "BOMBA DE ÓLEO"
+    ],
+    "tipoPeca": "MECÂNICA MOTOR",
+    "marcas": [
+      "CHEVROLET",
+      "GM"
+    ],
+    "modelos": [
+      "CELTA",
+      "CLASSIC",
+      "CORSA"
+    ],
+    "anos": [
+      2006,
+      2007,
+      2008,
+      2009,
+      2010,
+      2011,
+      2012,
+      2013,
+      2014,
+      2015,
+      2016
+    ],
+    "motores": [
+      "1.0 VHC/VHCE Flex 8V / 1.4 Econo.Flex 8V"
+    ],
+    "lados": [
+      "N/D"
+    ],
+    "posicoes": [
+      "MOTOR"
+    ],
+    "compatibilidadeRegra": "MOTOR_EXATO_POR_CILINDRADA_VALVULAS_CODIGO",
+    "dadosMotor": [
+      {
+        "anos": "2006-2016",
+        "motor": "1.0 VHC/VHCE Flex 8V",
+        "cilindrada": "999 cm³",
+        "cilindros": "4 cilindros",
+        "valvulas": "8V",
+        "cv": "77/78 cv aprox.",
+        "potencia": "77 cv gasolina / 78 cv etanol aprox.",
+        "combustivel": "Flex",
+        "codigoMotor": "VHC/VHCE 1.0 (confirmar ano/código)",
+        "observacao": "Potência varia por versão/ano. Confirmar código do motor."
+      },
+      {
+        "anos": "2006-2016",
+        "motor": "1.4 Econo.Flex 8V",
+        "cilindrada": "1.389 cm³",
+        "cilindros": "4 cilindros",
+        "valvulas": "8V",
+        "cv": "97/102 cv aprox.",
+        "potencia": "97 cv gasolina / 102 cv etanol aprox.",
+        "combustivel": "Flex",
+        "codigoMotor": "Econo.Flex 1.4 (confirmar ano/código)",
+        "observacao": "Aplicação varia entre Corsa/Montana/Classic conforme ano."
+      }
+    ],
+    "compatibilidadeEssencial": [
+      {
+        "campo": "Peça",
+        "valor": "BOMBA DE ÓLEO"
+      },
+      {
+        "campo": "Aplicação base",
+        "valor": "CHEVROLET / GM CELTA / CLASSIC / CORSA"
+      },
+      {
+        "campo": "Anos",
+        "valor": "2006-2016"
+      },
+      {
+        "campo": "Conferir antes da venda",
+        "valor": "cilindrada, CV, cilindros, válvulas, combustível, código do motor, chassi e peça antiga"
+      },
+      {
+        "campo": "Lado",
+        "valor": "NÃO SE APLICA"
+      }
+    ],
+    "relacionadas": [
+      "JUNTA",
+      "RETENTOR",
+      "CORREIA",
+      "TENSOR",
+      "SENSOR ROTAÇÃO",
+      "SENSOR TEMPERATURA"
+    ],
+    "observacoes": [
+      "Base master etapa 1. Dados usados para compatibilidade técnica; confirmar código do motor/chassi antes de finalizar a venda."
+    ],
+    "confiancaBase": 94,
+    "faseTecnica": "BASE MASTER MOTORES ETAPA 1"
+  },
+  {
+    "id": "master-coxim-do-motor-celta-classic-corsa-2006-2016",
+    "pecas": [
+      "COXIM DO MOTOR"
+    ],
+    "tipoPeca": "MECÂNICA MOTOR",
+    "marcas": [
+      "CHEVROLET",
+      "GM"
+    ],
+    "modelos": [
+      "CELTA",
+      "CLASSIC",
+      "CORSA"
+    ],
+    "anos": [
+      2006,
+      2007,
+      2008,
+      2009,
+      2010,
+      2011,
+      2012,
+      2013,
+      2014,
+      2015,
+      2016
+    ],
+    "motores": [
+      "1.0 VHC/VHCE Flex 8V / 1.4 Econo.Flex 8V"
+    ],
+    "lados": [
+      "N/D"
+    ],
+    "posicoes": [
+      "MOTOR"
+    ],
+    "compatibilidadeRegra": "MOTOR_EXATO_POR_CILINDRADA_VALVULAS_CODIGO",
+    "dadosMotor": [
+      {
+        "anos": "2006-2016",
+        "motor": "1.0 VHC/VHCE Flex 8V",
+        "cilindrada": "999 cm³",
+        "cilindros": "4 cilindros",
+        "valvulas": "8V",
+        "cv": "77/78 cv aprox.",
+        "potencia": "77 cv gasolina / 78 cv etanol aprox.",
+        "combustivel": "Flex",
+        "codigoMotor": "VHC/VHCE 1.0 (confirmar ano/código)",
+        "observacao": "Potência varia por versão/ano. Confirmar código do motor."
+      },
+      {
+        "anos": "2006-2016",
+        "motor": "1.4 Econo.Flex 8V",
+        "cilindrada": "1.389 cm³",
+        "cilindros": "4 cilindros",
+        "valvulas": "8V",
+        "cv": "97/102 cv aprox.",
+        "potencia": "97 cv gasolina / 102 cv etanol aprox.",
+        "combustivel": "Flex",
+        "codigoMotor": "Econo.Flex 1.4 (confirmar ano/código)",
+        "observacao": "Aplicação varia entre Corsa/Montana/Classic conforme ano."
+      }
+    ],
+    "compatibilidadeEssencial": [
+      {
+        "campo": "Peça",
+        "valor": "COXIM DO MOTOR"
+      },
+      {
+        "campo": "Aplicação base",
+        "valor": "CHEVROLET / GM CELTA / CLASSIC / CORSA"
+      },
+      {
+        "campo": "Anos",
+        "valor": "2006-2016"
+      },
+      {
+        "campo": "Conferir antes da venda",
+        "valor": "cilindrada, CV, cilindros, válvulas, combustível, código do motor, chassi e peça antiga"
+      },
+      {
+        "campo": "Lado",
+        "valor": "NÃO SE APLICA"
+      }
+    ],
+    "relacionadas": [
+      "JUNTA",
+      "RETENTOR",
+      "CORREIA",
+      "TENSOR",
+      "SENSOR ROTAÇÃO",
+      "SENSOR TEMPERATURA"
+    ],
+    "observacoes": [
+      "Base master etapa 1. Dados usados para compatibilidade técnica; confirmar código do motor/chassi antes de finalizar a venda."
+    ],
+    "confiancaBase": 94,
+    "faseTecnica": "BASE MASTER MOTORES ETAPA 1"
+  },
+  {
+    "id": "master-coletor-admiss-o-celta-classic-corsa-2006-2016",
+    "pecas": [
+      "COLETOR ADMISSÃO"
+    ],
+    "tipoPeca": "MECÂNICA MOTOR",
+    "marcas": [
+      "CHEVROLET",
+      "GM"
+    ],
+    "modelos": [
+      "CELTA",
+      "CLASSIC",
+      "CORSA"
+    ],
+    "anos": [
+      2006,
+      2007,
+      2008,
+      2009,
+      2010,
+      2011,
+      2012,
+      2013,
+      2014,
+      2015,
+      2016
+    ],
+    "motores": [
+      "1.0 VHC/VHCE Flex 8V / 1.4 Econo.Flex 8V"
+    ],
+    "lados": [
+      "N/D"
+    ],
+    "posicoes": [
+      "MOTOR"
+    ],
+    "compatibilidadeRegra": "MOTOR_EXATO_POR_CILINDRADA_VALVULAS_CODIGO",
+    "dadosMotor": [
+      {
+        "anos": "2006-2016",
+        "motor": "1.0 VHC/VHCE Flex 8V",
+        "cilindrada": "999 cm³",
+        "cilindros": "4 cilindros",
+        "valvulas": "8V",
+        "cv": "77/78 cv aprox.",
+        "potencia": "77 cv gasolina / 78 cv etanol aprox.",
+        "combustivel": "Flex",
+        "codigoMotor": "VHC/VHCE 1.0 (confirmar ano/código)",
+        "observacao": "Potência varia por versão/ano. Confirmar código do motor."
+      },
+      {
+        "anos": "2006-2016",
+        "motor": "1.4 Econo.Flex 8V",
+        "cilindrada": "1.389 cm³",
+        "cilindros": "4 cilindros",
+        "valvulas": "8V",
+        "cv": "97/102 cv aprox.",
+        "potencia": "97 cv gasolina / 102 cv etanol aprox.",
+        "combustivel": "Flex",
+        "codigoMotor": "Econo.Flex 1.4 (confirmar ano/código)",
+        "observacao": "Aplicação varia entre Corsa/Montana/Classic conforme ano."
+      }
+    ],
+    "compatibilidadeEssencial": [
+      {
+        "campo": "Peça",
+        "valor": "COLETOR ADMISSÃO"
+      },
+      {
+        "campo": "Aplicação base",
+        "valor": "CHEVROLET / GM CELTA / CLASSIC / CORSA"
+      },
+      {
+        "campo": "Anos",
+        "valor": "2006-2016"
+      },
+      {
+        "campo": "Conferir antes da venda",
+        "valor": "cilindrada, CV, cilindros, válvulas, combustível, código do motor, chassi e peça antiga"
+      },
+      {
+        "campo": "Lado",
+        "valor": "NÃO SE APLICA"
+      }
+    ],
+    "relacionadas": [
+      "JUNTA",
+      "RETENTOR",
+      "CORREIA",
+      "TENSOR",
+      "SENSOR ROTAÇÃO",
+      "SENSOR TEMPERATURA"
+    ],
+    "observacoes": [
+      "Base master etapa 1. Dados usados para compatibilidade técnica; confirmar código do motor/chassi antes de finalizar a venda."
+    ],
+    "confiancaBase": 94,
+    "faseTecnica": "BASE MASTER MOTORES ETAPA 1"
+  },
+  {
+    "id": "master-coletor-escape-celta-classic-corsa-2006-2016",
+    "pecas": [
+      "COLETOR ESCAPE"
+    ],
+    "tipoPeca": "MECÂNICA MOTOR",
+    "marcas": [
+      "CHEVROLET",
+      "GM"
+    ],
+    "modelos": [
+      "CELTA",
+      "CLASSIC",
+      "CORSA"
+    ],
+    "anos": [
+      2006,
+      2007,
+      2008,
+      2009,
+      2010,
+      2011,
+      2012,
+      2013,
+      2014,
+      2015,
+      2016
+    ],
+    "motores": [
+      "1.0 VHC/VHCE Flex 8V / 1.4 Econo.Flex 8V"
+    ],
+    "lados": [
+      "N/D"
+    ],
+    "posicoes": [
+      "MOTOR"
+    ],
+    "compatibilidadeRegra": "MOTOR_EXATO_POR_CILINDRADA_VALVULAS_CODIGO",
+    "dadosMotor": [
+      {
+        "anos": "2006-2016",
+        "motor": "1.0 VHC/VHCE Flex 8V",
+        "cilindrada": "999 cm³",
+        "cilindros": "4 cilindros",
+        "valvulas": "8V",
+        "cv": "77/78 cv aprox.",
+        "potencia": "77 cv gasolina / 78 cv etanol aprox.",
+        "combustivel": "Flex",
+        "codigoMotor": "VHC/VHCE 1.0 (confirmar ano/código)",
+        "observacao": "Potência varia por versão/ano. Confirmar código do motor."
+      },
+      {
+        "anos": "2006-2016",
+        "motor": "1.4 Econo.Flex 8V",
+        "cilindrada": "1.389 cm³",
+        "cilindros": "4 cilindros",
+        "valvulas": "8V",
+        "cv": "97/102 cv aprox.",
+        "potencia": "97 cv gasolina / 102 cv etanol aprox.",
+        "combustivel": "Flex",
+        "codigoMotor": "Econo.Flex 1.4 (confirmar ano/código)",
+        "observacao": "Aplicação varia entre Corsa/Montana/Classic conforme ano."
+      }
+    ],
+    "compatibilidadeEssencial": [
+      {
+        "campo": "Peça",
+        "valor": "COLETOR ESCAPE"
+      },
+      {
+        "campo": "Aplicação base",
+        "valor": "CHEVROLET / GM CELTA / CLASSIC / CORSA"
+      },
+      {
+        "campo": "Anos",
+        "valor": "2006-2016"
+      },
+      {
+        "campo": "Conferir antes da venda",
+        "valor": "cilindrada, CV, cilindros, válvulas, combustível, código do motor, chassi e peça antiga"
+      },
+      {
+        "campo": "Lado",
+        "valor": "NÃO SE APLICA"
+      }
+    ],
+    "relacionadas": [
+      "JUNTA",
+      "RETENTOR",
+      "CORREIA",
+      "TENSOR",
+      "SENSOR ROTAÇÃO",
+      "SENSOR TEMPERATURA"
+    ],
+    "observacoes": [
+      "Base master etapa 1. Dados usados para compatibilidade técnica; confirmar código do motor/chassi antes de finalizar a venda."
+    ],
+    "confiancaBase": 94,
+    "faseTecnica": "BASE MASTER MOTORES ETAPA 1"
+  },
+  {
     "id": "farol-classic-2003-2010",
     "pecas": [
       "FAROL"
