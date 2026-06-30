@@ -36782,5 +36782,933 @@
         "valor": "hatch/sedan, capacidade e conjunto boia/bomba"
       }
     ]
+  },
+  {
+    "id": "master-motor-completo-fire-fiat-2001-2017",
+    "pecas": [
+      "MOTOR COMPLETO"
+    ],
+    "tipoPeca": "MECÂNICA MOTOR",
+    "marcas": [
+      "FIAT"
+    ],
+    "modelos": [
+      "UNO",
+      "PALIO",
+      "SIENA",
+      "STRADA",
+      "FIORINO",
+      "IDEA",
+      "PUNTO",
+      "DOBLO"
+    ],
+    "anos": [
+      2001,
+      2002,
+      2003,
+      2004,
+      2005,
+      2006,
+      2007,
+      2008,
+      2009,
+      2010,
+      2011,
+      2012,
+      2013,
+      2014,
+      2015,
+      2016,
+      2017
+    ],
+    "motores": [
+      "FIRE 1.0 8V",
+      "FIRE 1.4 8V"
+    ],
+    "lados": [
+      "NÃO SE APLICA"
+    ],
+    "posicoes": [
+      "MOTOR"
+    ],
+    "compatibilidadeRegra": "MOTOR_EXATO_POR_FAMILIA_CILINDRADA_VALVULAS_CODIGO",
+    "dadosMotor": [
+      {
+        "anos": "2001-2017",
+        "motor": "1.0 Fire Flex 8V",
+        "cilindrada": "999 cm³",
+        "cilindros": "4 cilindros",
+        "valvulas": "8V",
+        "cv": "65/66 cv até cerca de 75 cv conforme ano/versão",
+        "potencia": "varia por ano e aplicação; confirmar etiqueta/código do motor",
+        "combustivel": "Gasolina/Flex conforme ano",
+        "codigoMotor": "Família FIRE 1.0 8V (confirmar código gravado)",
+        "observacao": "Usado em aplicações Fiat de alto giro. Compatibilidade depende de código do motor, injeção, chicote, câmbio e ano."
+      },
+      {
+        "anos": "2003-2017",
+        "motor": "1.4 Fire Flex 8V",
+        "cilindrada": "1.368 cm³",
+        "cilindros": "4 cilindros",
+        "valvulas": "8V",
+        "cv": "80/81 cv a 85/86 cv conforme ano/versão",
+        "potencia": "varia por ano e aplicação; confirmar etiqueta/código do motor",
+        "combustivel": "Flex",
+        "codigoMotor": "Família FIRE 1.4 8V (confirmar código gravado)",
+        "observacao": "Não vender como compatível apenas por ser Fire. Conferir código, suporte, sensores, chicote e peça antiga."
+      }
+    ],
+    "compatibilidadeEssencial": [
+      {
+        "campo": "Peça",
+        "valor": "MOTOR COMPLETO"
+      },
+      {
+        "campo": "Família do motor",
+        "valor": "FIRE 1.0 8V / FIRE 1.4 8V"
+      },
+      {
+        "campo": "Aplicações base",
+        "valor": "UNO / PALIO / SIENA / STRADA / FIORINO / IDEA / PUNTO / DOBLO"
+      },
+      {
+        "campo": "Anos",
+        "valor": "2001-2017"
+      },
+      {
+        "campo": "Conferir antes da venda",
+        "valor": "cilindrada, CV, cilindros, válvulas, combustível, código do motor, chassi, chicote/injeção, câmbio e peça antiga"
+      },
+      {
+        "campo": "Lado",
+        "valor": "NÃO SE APLICA"
+      }
+    ],
+    "relacionadas": [
+      "CABEÇOTE",
+      "CÁRTER",
+      "TAMPA DE VÁLVULAS",
+      "COXIM DO MOTOR",
+      "BOMBA DE ÓLEO",
+      "ALTERNADOR",
+      "MOTOR DE PARTIDA"
+    ],
+    "observacoes": [
+      "Base master. Dados para apoio de compatibilidade; confirmar código do motor/chassi e peça antiga antes de finalizar a venda."
+    ],
+    "confiancaBase": 92,
+    "faseTecnica": "BASE MASTER MOTORES ETAPA 2 - FAMÍLIAS DE MOTOR"
+  },
+  {
+    "id": "master-cabecote-fire-fiat-2001-2017",
+    "pecas": [
+      "CABEÇOTE"
+    ],
+    "tipoPeca": "MECÂNICA MOTOR",
+    "marcas": [
+      "FIAT"
+    ],
+    "modelos": [
+      "UNO",
+      "PALIO",
+      "SIENA",
+      "STRADA",
+      "FIORINO",
+      "IDEA",
+      "PUNTO",
+      "DOBLO"
+    ],
+    "anos": [
+      2001,
+      2002,
+      2003,
+      2004,
+      2005,
+      2006,
+      2007,
+      2008,
+      2009,
+      2010,
+      2011,
+      2012,
+      2013,
+      2014,
+      2015,
+      2016,
+      2017
+    ],
+    "motores": [
+      "FIRE 1.0 8V",
+      "FIRE 1.4 8V"
+    ],
+    "lados": [
+      "NÃO SE APLICA"
+    ],
+    "posicoes": [
+      "MOTOR"
+    ],
+    "compatibilidadeRegra": "MOTOR_EXATO_POR_FAMILIA_CILINDRADA_VALVULAS_CODIGO",
+    "dadosMotor": [
+      {
+        "anos": "2001-2017",
+        "motor": "1.0 Fire Flex 8V",
+        "cilindrada": "999 cm³",
+        "cilindros": "4 cilindros",
+        "valvulas": "8V",
+        "cv": "65/66 cv até cerca de 75 cv conforme ano/versão",
+        "potencia": "varia por ano e aplicação; confirmar etiqueta/código do motor",
+        "combustivel": "Gasolina/Flex conforme ano",
+        "codigoMotor": "Família FIRE 1.0 8V (confirmar código gravado)",
+        "observacao": "Usado em aplicações Fiat de alto giro. Compatibilidade depende de código do motor, injeção, chicote, câmbio e ano."
+      },
+      {
+        "anos": "2003-2017",
+        "motor": "1.4 Fire Flex 8V",
+        "cilindrada": "1.368 cm³",
+        "cilindros": "4 cilindros",
+        "valvulas": "8V",
+        "cv": "80/81 cv a 85/86 cv conforme ano/versão",
+        "potencia": "varia por ano e aplicação; confirmar etiqueta/código do motor",
+        "combustivel": "Flex",
+        "codigoMotor": "Família FIRE 1.4 8V (confirmar código gravado)",
+        "observacao": "Não vender como compatível apenas por ser Fire. Conferir código, suporte, sensores, chicote e peça antiga."
+      }
+    ],
+    "compatibilidadeEssencial": [
+      {
+        "campo": "Peça",
+        "valor": "CABEÇOTE"
+      },
+      {
+        "campo": "Família do motor",
+        "valor": "FIRE 1.0 8V / FIRE 1.4 8V"
+      },
+      {
+        "campo": "Aplicações base",
+        "valor": "UNO / PALIO / SIENA / STRADA / FIORINO / IDEA / PUNTO / DOBLO"
+      },
+      {
+        "campo": "Anos",
+        "valor": "2001-2017"
+      },
+      {
+        "campo": "Conferir antes da venda",
+        "valor": "cilindrada, CV, cilindros, válvulas, combustível, código do motor, chassi, chicote/injeção, câmbio e peça antiga"
+      },
+      {
+        "campo": "Lado",
+        "valor": "NÃO SE APLICA"
+      }
+    ],
+    "relacionadas": [
+      "CABEÇOTE",
+      "CÁRTER",
+      "TAMPA DE VÁLVULAS",
+      "COXIM DO MOTOR",
+      "BOMBA DE ÓLEO",
+      "ALTERNADOR",
+      "MOTOR DE PARTIDA"
+    ],
+    "observacoes": [
+      "Base master. Dados para apoio de compatibilidade; confirmar código do motor/chassi e peça antiga antes de finalizar a venda."
+    ],
+    "confiancaBase": 92,
+    "faseTecnica": "BASE MASTER MOTORES ETAPA 2 - FAMÍLIAS DE MOTOR"
+  },
+  {
+    "id": "master-tampa-de-valvulas-fire-fiat-2001-2017",
+    "pecas": [
+      "TAMPA DE VÁLVULAS"
+    ],
+    "tipoPeca": "MECÂNICA MOTOR",
+    "marcas": [
+      "FIAT"
+    ],
+    "modelos": [
+      "UNO",
+      "PALIO",
+      "SIENA",
+      "STRADA",
+      "FIORINO",
+      "IDEA",
+      "PUNTO",
+      "DOBLO"
+    ],
+    "anos": [
+      2001,
+      2002,
+      2003,
+      2004,
+      2005,
+      2006,
+      2007,
+      2008,
+      2009,
+      2010,
+      2011,
+      2012,
+      2013,
+      2014,
+      2015,
+      2016,
+      2017
+    ],
+    "motores": [
+      "FIRE 1.0 8V",
+      "FIRE 1.4 8V"
+    ],
+    "lados": [
+      "NÃO SE APLICA"
+    ],
+    "posicoes": [
+      "MOTOR"
+    ],
+    "compatibilidadeRegra": "MOTOR_EXATO_POR_FAMILIA_CILINDRADA_VALVULAS_CODIGO",
+    "dadosMotor": [
+      {
+        "anos": "2001-2017",
+        "motor": "1.0 Fire Flex 8V",
+        "cilindrada": "999 cm³",
+        "cilindros": "4 cilindros",
+        "valvulas": "8V",
+        "cv": "65/66 cv até cerca de 75 cv conforme ano/versão",
+        "potencia": "varia por ano e aplicação; confirmar etiqueta/código do motor",
+        "combustivel": "Gasolina/Flex conforme ano",
+        "codigoMotor": "Família FIRE 1.0 8V (confirmar código gravado)",
+        "observacao": "Usado em aplicações Fiat de alto giro. Compatibilidade depende de código do motor, injeção, chicote, câmbio e ano."
+      },
+      {
+        "anos": "2003-2017",
+        "motor": "1.4 Fire Flex 8V",
+        "cilindrada": "1.368 cm³",
+        "cilindros": "4 cilindros",
+        "valvulas": "8V",
+        "cv": "80/81 cv a 85/86 cv conforme ano/versão",
+        "potencia": "varia por ano e aplicação; confirmar etiqueta/código do motor",
+        "combustivel": "Flex",
+        "codigoMotor": "Família FIRE 1.4 8V (confirmar código gravado)",
+        "observacao": "Não vender como compatível apenas por ser Fire. Conferir código, suporte, sensores, chicote e peça antiga."
+      }
+    ],
+    "compatibilidadeEssencial": [
+      {
+        "campo": "Peça",
+        "valor": "TAMPA DE VÁLVULAS"
+      },
+      {
+        "campo": "Família do motor",
+        "valor": "FIRE 1.0 8V / FIRE 1.4 8V"
+      },
+      {
+        "campo": "Aplicações base",
+        "valor": "UNO / PALIO / SIENA / STRADA / FIORINO / IDEA / PUNTO / DOBLO"
+      },
+      {
+        "campo": "Anos",
+        "valor": "2001-2017"
+      },
+      {
+        "campo": "Conferir antes da venda",
+        "valor": "cilindrada, CV, cilindros, válvulas, combustível, código do motor, chassi, chicote/injeção, câmbio e peça antiga"
+      },
+      {
+        "campo": "Lado",
+        "valor": "NÃO SE APLICA"
+      }
+    ],
+    "relacionadas": [
+      "CABEÇOTE",
+      "CÁRTER",
+      "TAMPA DE VÁLVULAS",
+      "COXIM DO MOTOR",
+      "BOMBA DE ÓLEO",
+      "ALTERNADOR",
+      "MOTOR DE PARTIDA"
+    ],
+    "observacoes": [
+      "Base master. Dados para apoio de compatibilidade; confirmar código do motor/chassi e peça antiga antes de finalizar a venda."
+    ],
+    "confiancaBase": 92,
+    "faseTecnica": "BASE MASTER MOTORES ETAPA 2 - FAMÍLIAS DE MOTOR"
+  },
+  {
+    "id": "master-carter-fire-fiat-2001-2017",
+    "pecas": [
+      "CÁRTER"
+    ],
+    "tipoPeca": "MECÂNICA MOTOR",
+    "marcas": [
+      "FIAT"
+    ],
+    "modelos": [
+      "UNO",
+      "PALIO",
+      "SIENA",
+      "STRADA",
+      "FIORINO",
+      "IDEA",
+      "PUNTO",
+      "DOBLO"
+    ],
+    "anos": [
+      2001,
+      2002,
+      2003,
+      2004,
+      2005,
+      2006,
+      2007,
+      2008,
+      2009,
+      2010,
+      2011,
+      2012,
+      2013,
+      2014,
+      2015,
+      2016,
+      2017
+    ],
+    "motores": [
+      "FIRE 1.0 8V",
+      "FIRE 1.4 8V"
+    ],
+    "lados": [
+      "NÃO SE APLICA"
+    ],
+    "posicoes": [
+      "MOTOR"
+    ],
+    "compatibilidadeRegra": "MOTOR_EXATO_POR_FAMILIA_CILINDRADA_VALVULAS_CODIGO",
+    "dadosMotor": [
+      {
+        "anos": "2001-2017",
+        "motor": "1.0 Fire Flex 8V",
+        "cilindrada": "999 cm³",
+        "cilindros": "4 cilindros",
+        "valvulas": "8V",
+        "cv": "65/66 cv até cerca de 75 cv conforme ano/versão",
+        "potencia": "varia por ano e aplicação; confirmar etiqueta/código do motor",
+        "combustivel": "Gasolina/Flex conforme ano",
+        "codigoMotor": "Família FIRE 1.0 8V (confirmar código gravado)",
+        "observacao": "Usado em aplicações Fiat de alto giro. Compatibilidade depende de código do motor, injeção, chicote, câmbio e ano."
+      },
+      {
+        "anos": "2003-2017",
+        "motor": "1.4 Fire Flex 8V",
+        "cilindrada": "1.368 cm³",
+        "cilindros": "4 cilindros",
+        "valvulas": "8V",
+        "cv": "80/81 cv a 85/86 cv conforme ano/versão",
+        "potencia": "varia por ano e aplicação; confirmar etiqueta/código do motor",
+        "combustivel": "Flex",
+        "codigoMotor": "Família FIRE 1.4 8V (confirmar código gravado)",
+        "observacao": "Não vender como compatível apenas por ser Fire. Conferir código, suporte, sensores, chicote e peça antiga."
+      }
+    ],
+    "compatibilidadeEssencial": [
+      {
+        "campo": "Peça",
+        "valor": "CÁRTER"
+      },
+      {
+        "campo": "Família do motor",
+        "valor": "FIRE 1.0 8V / FIRE 1.4 8V"
+      },
+      {
+        "campo": "Aplicações base",
+        "valor": "UNO / PALIO / SIENA / STRADA / FIORINO / IDEA / PUNTO / DOBLO"
+      },
+      {
+        "campo": "Anos",
+        "valor": "2001-2017"
+      },
+      {
+        "campo": "Conferir antes da venda",
+        "valor": "cilindrada, CV, cilindros, válvulas, combustível, código do motor, chassi, chicote/injeção, câmbio e peça antiga"
+      },
+      {
+        "campo": "Lado",
+        "valor": "NÃO SE APLICA"
+      }
+    ],
+    "relacionadas": [
+      "CABEÇOTE",
+      "CÁRTER",
+      "TAMPA DE VÁLVULAS",
+      "COXIM DO MOTOR",
+      "BOMBA DE ÓLEO",
+      "ALTERNADOR",
+      "MOTOR DE PARTIDA"
+    ],
+    "observacoes": [
+      "Base master. Dados para apoio de compatibilidade; confirmar código do motor/chassi e peça antiga antes de finalizar a venda."
+    ],
+    "confiancaBase": 92,
+    "faseTecnica": "BASE MASTER MOTORES ETAPA 2 - FAMÍLIAS DE MOTOR"
+  },
+  {
+    "id": "master-bomba-de-oleo-fire-fiat-2001-2017",
+    "pecas": [
+      "BOMBA DE ÓLEO"
+    ],
+    "tipoPeca": "MECÂNICA MOTOR",
+    "marcas": [
+      "FIAT"
+    ],
+    "modelos": [
+      "UNO",
+      "PALIO",
+      "SIENA",
+      "STRADA",
+      "FIORINO",
+      "IDEA",
+      "PUNTO",
+      "DOBLO"
+    ],
+    "anos": [
+      2001,
+      2002,
+      2003,
+      2004,
+      2005,
+      2006,
+      2007,
+      2008,
+      2009,
+      2010,
+      2011,
+      2012,
+      2013,
+      2014,
+      2015,
+      2016,
+      2017
+    ],
+    "motores": [
+      "FIRE 1.0 8V",
+      "FIRE 1.4 8V"
+    ],
+    "lados": [
+      "NÃO SE APLICA"
+    ],
+    "posicoes": [
+      "MOTOR"
+    ],
+    "compatibilidadeRegra": "MOTOR_EXATO_POR_FAMILIA_CILINDRADA_VALVULAS_CODIGO",
+    "dadosMotor": [
+      {
+        "anos": "2001-2017",
+        "motor": "1.0 Fire Flex 8V",
+        "cilindrada": "999 cm³",
+        "cilindros": "4 cilindros",
+        "valvulas": "8V",
+        "cv": "65/66 cv até cerca de 75 cv conforme ano/versão",
+        "potencia": "varia por ano e aplicação; confirmar etiqueta/código do motor",
+        "combustivel": "Gasolina/Flex conforme ano",
+        "codigoMotor": "Família FIRE 1.0 8V (confirmar código gravado)",
+        "observacao": "Usado em aplicações Fiat de alto giro. Compatibilidade depende de código do motor, injeção, chicote, câmbio e ano."
+      },
+      {
+        "anos": "2003-2017",
+        "motor": "1.4 Fire Flex 8V",
+        "cilindrada": "1.368 cm³",
+        "cilindros": "4 cilindros",
+        "valvulas": "8V",
+        "cv": "80/81 cv a 85/86 cv conforme ano/versão",
+        "potencia": "varia por ano e aplicação; confirmar etiqueta/código do motor",
+        "combustivel": "Flex",
+        "codigoMotor": "Família FIRE 1.4 8V (confirmar código gravado)",
+        "observacao": "Não vender como compatível apenas por ser Fire. Conferir código, suporte, sensores, chicote e peça antiga."
+      }
+    ],
+    "compatibilidadeEssencial": [
+      {
+        "campo": "Peça",
+        "valor": "BOMBA DE ÓLEO"
+      },
+      {
+        "campo": "Família do motor",
+        "valor": "FIRE 1.0 8V / FIRE 1.4 8V"
+      },
+      {
+        "campo": "Aplicações base",
+        "valor": "UNO / PALIO / SIENA / STRADA / FIORINO / IDEA / PUNTO / DOBLO"
+      },
+      {
+        "campo": "Anos",
+        "valor": "2001-2017"
+      },
+      {
+        "campo": "Conferir antes da venda",
+        "valor": "cilindrada, CV, cilindros, válvulas, combustível, código do motor, chassi, chicote/injeção, câmbio e peça antiga"
+      },
+      {
+        "campo": "Lado",
+        "valor": "NÃO SE APLICA"
+      }
+    ],
+    "relacionadas": [
+      "CABEÇOTE",
+      "CÁRTER",
+      "TAMPA DE VÁLVULAS",
+      "COXIM DO MOTOR",
+      "BOMBA DE ÓLEO",
+      "ALTERNADOR",
+      "MOTOR DE PARTIDA"
+    ],
+    "observacoes": [
+      "Base master. Dados para apoio de compatibilidade; confirmar código do motor/chassi e peça antiga antes de finalizar a venda."
+    ],
+    "confiancaBase": 92,
+    "faseTecnica": "BASE MASTER MOTORES ETAPA 2 - FAMÍLIAS DE MOTOR"
+  },
+  {
+    "id": "master-coxim-do-motor-fire-fiat-2001-2017",
+    "pecas": [
+      "COXIM DO MOTOR"
+    ],
+    "tipoPeca": "MECÂNICA MOTOR",
+    "marcas": [
+      "FIAT"
+    ],
+    "modelos": [
+      "UNO",
+      "PALIO",
+      "SIENA",
+      "STRADA",
+      "FIORINO",
+      "IDEA",
+      "PUNTO",
+      "DOBLO"
+    ],
+    "anos": [
+      2001,
+      2002,
+      2003,
+      2004,
+      2005,
+      2006,
+      2007,
+      2008,
+      2009,
+      2010,
+      2011,
+      2012,
+      2013,
+      2014,
+      2015,
+      2016,
+      2017
+    ],
+    "motores": [
+      "FIRE 1.0 8V",
+      "FIRE 1.4 8V"
+    ],
+    "lados": [
+      "NÃO SE APLICA"
+    ],
+    "posicoes": [
+      "MOTOR"
+    ],
+    "compatibilidadeRegra": "MOTOR_EXATO_POR_FAMILIA_CILINDRADA_VALVULAS_CODIGO",
+    "dadosMotor": [
+      {
+        "anos": "2001-2017",
+        "motor": "1.0 Fire Flex 8V",
+        "cilindrada": "999 cm³",
+        "cilindros": "4 cilindros",
+        "valvulas": "8V",
+        "cv": "65/66 cv até cerca de 75 cv conforme ano/versão",
+        "potencia": "varia por ano e aplicação; confirmar etiqueta/código do motor",
+        "combustivel": "Gasolina/Flex conforme ano",
+        "codigoMotor": "Família FIRE 1.0 8V (confirmar código gravado)",
+        "observacao": "Usado em aplicações Fiat de alto giro. Compatibilidade depende de código do motor, injeção, chicote, câmbio e ano."
+      },
+      {
+        "anos": "2003-2017",
+        "motor": "1.4 Fire Flex 8V",
+        "cilindrada": "1.368 cm³",
+        "cilindros": "4 cilindros",
+        "valvulas": "8V",
+        "cv": "80/81 cv a 85/86 cv conforme ano/versão",
+        "potencia": "varia por ano e aplicação; confirmar etiqueta/código do motor",
+        "combustivel": "Flex",
+        "codigoMotor": "Família FIRE 1.4 8V (confirmar código gravado)",
+        "observacao": "Não vender como compatível apenas por ser Fire. Conferir código, suporte, sensores, chicote e peça antiga."
+      }
+    ],
+    "compatibilidadeEssencial": [
+      {
+        "campo": "Peça",
+        "valor": "COXIM DO MOTOR"
+      },
+      {
+        "campo": "Família do motor",
+        "valor": "FIRE 1.0 8V / FIRE 1.4 8V"
+      },
+      {
+        "campo": "Aplicações base",
+        "valor": "UNO / PALIO / SIENA / STRADA / FIORINO / IDEA / PUNTO / DOBLO"
+      },
+      {
+        "campo": "Anos",
+        "valor": "2001-2017"
+      },
+      {
+        "campo": "Conferir antes da venda",
+        "valor": "cilindrada, CV, cilindros, válvulas, combustível, código do motor, chassi, chicote/injeção, câmbio e peça antiga"
+      },
+      {
+        "campo": "Lado",
+        "valor": "NÃO SE APLICA"
+      }
+    ],
+    "relacionadas": [
+      "CABEÇOTE",
+      "CÁRTER",
+      "TAMPA DE VÁLVULAS",
+      "COXIM DO MOTOR",
+      "BOMBA DE ÓLEO",
+      "ALTERNADOR",
+      "MOTOR DE PARTIDA"
+    ],
+    "observacoes": [
+      "Base master. Dados para apoio de compatibilidade; confirmar código do motor/chassi e peça antiga antes de finalizar a venda."
+    ],
+    "confiancaBase": 92,
+    "faseTecnica": "BASE MASTER MOTORES ETAPA 2 - FAMÍLIAS DE MOTOR"
+  },
+  {
+    "id": "master-coletor-admissao-fire-fiat-2001-2017",
+    "pecas": [
+      "COLETOR ADMISSÃO"
+    ],
+    "tipoPeca": "MECÂNICA MOTOR",
+    "marcas": [
+      "FIAT"
+    ],
+    "modelos": [
+      "UNO",
+      "PALIO",
+      "SIENA",
+      "STRADA",
+      "FIORINO",
+      "IDEA",
+      "PUNTO",
+      "DOBLO"
+    ],
+    "anos": [
+      2001,
+      2002,
+      2003,
+      2004,
+      2005,
+      2006,
+      2007,
+      2008,
+      2009,
+      2010,
+      2011,
+      2012,
+      2013,
+      2014,
+      2015,
+      2016,
+      2017
+    ],
+    "motores": [
+      "FIRE 1.0 8V",
+      "FIRE 1.4 8V"
+    ],
+    "lados": [
+      "NÃO SE APLICA"
+    ],
+    "posicoes": [
+      "MOTOR"
+    ],
+    "compatibilidadeRegra": "MOTOR_EXATO_POR_FAMILIA_CILINDRADA_VALVULAS_CODIGO",
+    "dadosMotor": [
+      {
+        "anos": "2001-2017",
+        "motor": "1.0 Fire Flex 8V",
+        "cilindrada": "999 cm³",
+        "cilindros": "4 cilindros",
+        "valvulas": "8V",
+        "cv": "65/66 cv até cerca de 75 cv conforme ano/versão",
+        "potencia": "varia por ano e aplicação; confirmar etiqueta/código do motor",
+        "combustivel": "Gasolina/Flex conforme ano",
+        "codigoMotor": "Família FIRE 1.0 8V (confirmar código gravado)",
+        "observacao": "Usado em aplicações Fiat de alto giro. Compatibilidade depende de código do motor, injeção, chicote, câmbio e ano."
+      },
+      {
+        "anos": "2003-2017",
+        "motor": "1.4 Fire Flex 8V",
+        "cilindrada": "1.368 cm³",
+        "cilindros": "4 cilindros",
+        "valvulas": "8V",
+        "cv": "80/81 cv a 85/86 cv conforme ano/versão",
+        "potencia": "varia por ano e aplicação; confirmar etiqueta/código do motor",
+        "combustivel": "Flex",
+        "codigoMotor": "Família FIRE 1.4 8V (confirmar código gravado)",
+        "observacao": "Não vender como compatível apenas por ser Fire. Conferir código, suporte, sensores, chicote e peça antiga."
+      }
+    ],
+    "compatibilidadeEssencial": [
+      {
+        "campo": "Peça",
+        "valor": "COLETOR ADMISSÃO"
+      },
+      {
+        "campo": "Família do motor",
+        "valor": "FIRE 1.0 8V / FIRE 1.4 8V"
+      },
+      {
+        "campo": "Aplicações base",
+        "valor": "UNO / PALIO / SIENA / STRADA / FIORINO / IDEA / PUNTO / DOBLO"
+      },
+      {
+        "campo": "Anos",
+        "valor": "2001-2017"
+      },
+      {
+        "campo": "Conferir antes da venda",
+        "valor": "cilindrada, CV, cilindros, válvulas, combustível, código do motor, chassi, chicote/injeção, câmbio e peça antiga"
+      },
+      {
+        "campo": "Lado",
+        "valor": "NÃO SE APLICA"
+      }
+    ],
+    "relacionadas": [
+      "CABEÇOTE",
+      "CÁRTER",
+      "TAMPA DE VÁLVULAS",
+      "COXIM DO MOTOR",
+      "BOMBA DE ÓLEO",
+      "ALTERNADOR",
+      "MOTOR DE PARTIDA"
+    ],
+    "observacoes": [
+      "Base master. Dados para apoio de compatibilidade; confirmar código do motor/chassi e peça antiga antes de finalizar a venda."
+    ],
+    "confiancaBase": 92,
+    "faseTecnica": "BASE MASTER MOTORES ETAPA 2 - FAMÍLIAS DE MOTOR"
+  },
+  {
+    "id": "master-coletor-escape-fire-fiat-2001-2017",
+    "pecas": [
+      "COLETOR ESCAPE"
+    ],
+    "tipoPeca": "MECÂNICA MOTOR",
+    "marcas": [
+      "FIAT"
+    ],
+    "modelos": [
+      "UNO",
+      "PALIO",
+      "SIENA",
+      "STRADA",
+      "FIORINO",
+      "IDEA",
+      "PUNTO",
+      "DOBLO"
+    ],
+    "anos": [
+      2001,
+      2002,
+      2003,
+      2004,
+      2005,
+      2006,
+      2007,
+      2008,
+      2009,
+      2010,
+      2011,
+      2012,
+      2013,
+      2014,
+      2015,
+      2016,
+      2017
+    ],
+    "motores": [
+      "FIRE 1.0 8V",
+      "FIRE 1.4 8V"
+    ],
+    "lados": [
+      "NÃO SE APLICA"
+    ],
+    "posicoes": [
+      "MOTOR"
+    ],
+    "compatibilidadeRegra": "MOTOR_EXATO_POR_FAMILIA_CILINDRADA_VALVULAS_CODIGO",
+    "dadosMotor": [
+      {
+        "anos": "2001-2017",
+        "motor": "1.0 Fire Flex 8V",
+        "cilindrada": "999 cm³",
+        "cilindros": "4 cilindros",
+        "valvulas": "8V",
+        "cv": "65/66 cv até cerca de 75 cv conforme ano/versão",
+        "potencia": "varia por ano e aplicação; confirmar etiqueta/código do motor",
+        "combustivel": "Gasolina/Flex conforme ano",
+        "codigoMotor": "Família FIRE 1.0 8V (confirmar código gravado)",
+        "observacao": "Usado em aplicações Fiat de alto giro. Compatibilidade depende de código do motor, injeção, chicote, câmbio e ano."
+      },
+      {
+        "anos": "2003-2017",
+        "motor": "1.4 Fire Flex 8V",
+        "cilindrada": "1.368 cm³",
+        "cilindros": "4 cilindros",
+        "valvulas": "8V",
+        "cv": "80/81 cv a 85/86 cv conforme ano/versão",
+        "potencia": "varia por ano e aplicação; confirmar etiqueta/código do motor",
+        "combustivel": "Flex",
+        "codigoMotor": "Família FIRE 1.4 8V (confirmar código gravado)",
+        "observacao": "Não vender como compatível apenas por ser Fire. Conferir código, suporte, sensores, chicote e peça antiga."
+      }
+    ],
+    "compatibilidadeEssencial": [
+      {
+        "campo": "Peça",
+        "valor": "COLETOR ESCAPE"
+      },
+      {
+        "campo": "Família do motor",
+        "valor": "FIRE 1.0 8V / FIRE 1.4 8V"
+      },
+      {
+        "campo": "Aplicações base",
+        "valor": "UNO / PALIO / SIENA / STRADA / FIORINO / IDEA / PUNTO / DOBLO"
+      },
+      {
+        "campo": "Anos",
+        "valor": "2001-2017"
+      },
+      {
+        "campo": "Conferir antes da venda",
+        "valor": "cilindrada, CV, cilindros, válvulas, combustível, código do motor, chassi, chicote/injeção, câmbio e peça antiga"
+      },
+      {
+        "campo": "Lado",
+        "valor": "NÃO SE APLICA"
+      }
+    ],
+    "relacionadas": [
+      "CABEÇOTE",
+      "CÁRTER",
+      "TAMPA DE VÁLVULAS",
+      "COXIM DO MOTOR",
+      "BOMBA DE ÓLEO",
+      "ALTERNADOR",
+      "MOTOR DE PARTIDA"
+    ],
+    "observacoes": [
+      "Base master. Dados para apoio de compatibilidade; confirmar código do motor/chassi e peça antiga antes de finalizar a venda."
+    ],
+    "confiancaBase": 92,
+    "faseTecnica": "BASE MASTER MOTORES ETAPA 2 - FAMÍLIAS DE MOTOR"
   }
 ]
